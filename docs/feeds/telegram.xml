@@ -1,0 +1,709 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Telegram News</title>
+    <link>https://dvberegovoy.github.io/telegram-rss/feeds/telegram.xml</link>
+    <description>RSS-лента канала @telegram, собранная из публичного веб-превью Telegram.</description>
+    <atom:link href="https://dvberegovoy.github.io/telegram-rss/feeds/telegram.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>telegram_rss.py</generator>
+    <language>ru</language>
+    <lastBuildDate>Fri, 26 Jun 2026 15:05:18 +0000</lastBuildDate>
+    <item>
+      <title>For all the features from this update, like</title>
+      <link>https://t.me/telegram/449</link>
+      <description>For all the features from this update, like 
+links in poll options
+, support for 
+.md files
+ and new 
+browser settings
+ – check out the full blog:
+
+https://telegram.org/blog/watch-apps-and-more
+
+June Features
+
+1
+ • 
+2
+ • 
+3
+ • 
+More</description>
+      <content:encoded><![CDATA[For all the features from this update, like <b>links in poll options</b>, support for <b>.md files</b> and new <b>browser settings</b> – check out the full blog:<br/><a href="https://telegram.org/blog/watch-apps-and-more" rel="noopener" target="_blank">https://telegram.org/blog/watch-apps-and-more</a><br/><br/>June Features<br/><a href="https://t.me/telegram/446" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">1</a> • <a href="https://t.me/telegram/447" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">2</a> • <a href="https://t.me/telegram/448" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">3</a> • <b>More</b>]]></content:encoded>
+      <guid isPermaLink="true">https://t.me/telegram/449</guid>
+      <pubDate>Thu, 18 Jun 2026 14:36:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Admins for Groups.</title>
+      <link>https://t.me/telegram/448</link>
+      <description>AI Admins for Groups.
+ Groups can now add AI bots as admins to 
+process join requests 
+with unique features like 
+captcha support
+.
+
+June Features
+
+1
+ • 
+2
+ • 
+3
+ • 
+More</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn1.telesco.pe/file/qD_HYLsyALcwmNMZ91tp_SuBjKe8AgoxwPE7BeyZiQ4uaku_TiF-f82IvXgAf6VMT_BzE3Oygw1osDU8n8LsALcMjWy32FVDm1dr7NXRp4umb3QC9NyeF284KmDWYaZfU2xE8ga2fXT9O8--cik9yWNDdqKAx-UXU5wQf5f5ANyP6FSJIPYXVIJmI_JtihalY0fB2XI6wJNHIVf1QXdaFYrO1Uooy1EsOojrhfX0bwEDgIKFTMASv2eMaC6_RFOl2ai0xW-1g13eeA_3Rx90ZoAw30y9gePTXRloOEiLfA-F-wXPy5v3y9zeqUS7JJq32uxc_Kcy2XGRMqv812i5sQ" /></p>
+<b>AI Admins for Groups.</b> Groups can now add AI bots as admins to <b>process join requests </b>with unique features like <b>captcha support</b>.<br/><br/>June Features<br/><a href="https://t.me/telegram/446" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">1</a> • <a href="https://t.me/telegram/447" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">2</a> • <b>3</b> • <a href="https://t.me/telegram/449" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">More</a>]]></content:encoded>
+      <guid isPermaLink="true">https://t.me/telegram/448</guid>
+      <pubDate>Thu, 18 Jun 2026 14:35:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rich Text Formatting for Bots.</title>
+      <link>https://t.me/telegram/447</link>
+      <description>Rich Text Formatting for Bots.
+ Telegram bots and AI agents now have access to 
+nearly 100 text formats
+ – like headers, tables, math or code formatting and more.
+
+June Features
+
+1
+ • 
+2
+ • 
+3
+ • 
+More</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn1.telesco.pe/file/rbvqtc7RLDZWcJDh3qKX9JN-kZOTseL4YW1C5u5nM-qOhDWl6TV6JUWCMsK2hjcyoFTKBFkwA6II456UIbxDBk8lS_q5qmeLE1Rs_YQxckegG7UNJHEzm4B70fOuKlozwb0kx8Ri5nUJfyZulGUKmQts6Rk8q_mTDawlCnqZDvN3-apSqwYAcJqrHZP1XDTGdjWmra7RpDlGDC9y34XB4sK8lVimn5YXMCaNvTUv2H6-epSrVtibdO-hyId0GtDUPmXYNVtd2MrI57gQOsWl6EujP7ADTQjdgjCzqJq-w46lD2bXXprOvOqt-Z8f1jhLLcrLdbpAdA2caVglFSj7rQ" /></p>
+<b>Rich Text Formatting for Bots.</b> Telegram bots and AI agents now have access to <b>nearly 100 text formats</b> – like headers, tables, math or code formatting and more.<br/><br/>June Features<br/><a href="https://t.me/telegram/446" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">1</a> • <b>2</b> • <a href="https://t.me/telegram/448" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">3</a> • <a href="https://t.me/telegram/449" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">More</a>]]></content:encoded>
+      <guid isPermaLink="true">https://t.me/telegram/447</guid>
+      <pubDate>Thu, 18 Jun 2026 14:35:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Watch Apps.</title>
+      <link>https://t.me/telegram/446</link>
+      <description>Watch Apps.
+ Telegram is now available on 
+Apple and Android smartwatches
+.
+
+Send messages, manage your chats and more 
+without your phone nearby
+.
+
+June Features
+
+1
+ • 
+2
+ • 
+3
+ • 
+More</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn1.telesco.pe/file/bS0ZlXW5lvew2pwUz-QhMK5dggP2OWNIS9l4zEq0cgLfKhrvlKS8_l5XWdWmKmpLYSpJMj1ysg_RHiyJCNW89vgl9ziloya4Jk3C1p7XqnRuaisZt42mqm_DEtSEqjw8eDpXKEFDhGtz20WAI9L2Ggw9KMa95JUUrcfm2PPLzTEpm3M_xBLlKBovrXbWXPVEYhtSxfIX_yV0qZviKRqGKmLEk4qR7RuxmJmtdyeV-W-UfR5_AVzBF7ey-583izQ6XAPazc8hCbVKRIRzIR_S3e21M8MFiU2QH7n_2P7zc_v4v1HpYQ5WLWQUtBTpxBbuDM-sdVPl5QV__CwOFYqgoQ" /></p>
+<b>Watch Apps.</b> Telegram is now available on <b>Apple and Android smartwatches</b>.<br/><br/>Send messages, manage your chats and more <b>without your phone nearby</b>.<br/><br/>June Features<br/><b>1</b> • <a href="https://t.me/telegram/447" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">2</a> • <a href="https://t.me/telegram/448" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">3</a> • <a href="https://t.me/telegram/449" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">More</a>]]></content:encoded>
+      <guid isPermaLink="true">https://t.me/telegram/446</guid>
+      <pubDate>Thu, 18 Jun 2026 14:34:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>For all the features from this update, like</title>
+      <link>https://t.me/telegram/445</link>
+      <description>For all the features from this update, like 
+statistics
+ and 
+custom limits
+ for polls, 
+streaming text
+ for bots, 
+silent scheduled messages
+ and more – check out the full blog:
+
+https://telegram.org/blog/ai-bot-revolution-11-new-features
+
+May Features
+
+1
+ • 
+2
+ • 
+3
+ • 
+4
+ • 
+5
+ • 
+More</description>
+      <content:encoded><![CDATA[For all the features from this update, like <b>statistics</b> and <b>custom limits</b> for polls, <b>streaming text</b> for bots, <b>silent scheduled messages</b> and more – check out the full blog:<br/><a href="https://telegram.org/blog/ai-bot-revolution-11-new-features" rel="noopener" target="_blank">https://telegram.org/blog/ai-bot-revolution-11-new-features</a><br/><br/>May Features<br/><a href="https://t.me/telegram/440" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">1</a> • <a href="https://t.me/telegram/441" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">2</a> • <a href="https://t.me/telegram/442" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">3</a> • <a href="https://t.me/telegram/443" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">4</a> • <a href="https://t.me/telegram/444" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">5</a> • <b>More</b>]]></content:encoded>
+      <guid isPermaLink="true">https://t.me/telegram/445</guid>
+      <pubDate>Thu, 14 May 2026 16:09:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Expanded Emoji and Sticker Search.</title>
+      <link>https://t.me/telegram/444</link>
+      <description>Expanded Emoji and Sticker Search.
+ Over 
+100 million
+ emoji and stickers can now be found via the 
+search function
+ in the sticker panel.
+
+May Features
+
+1
+ • 
+2
+ • 
+3
+ • 
+4
+ • 
+5
+ • 
+More</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn1.telesco.pe/file/SYpJINVPCsDiA9c2x0LpM23kvXDH5TG2YR5St9FPczdxJbyy5NdSya4YBIcVszPpg0rfv_eFePLzvXN1JZjSM0IKr0j6GtICKETmSBwlP8MOyj0UbfdG0LzYuzYB9rYax6AZf69TSppWk3hPJ2YvvurOXUJM1gwWnPtI_k4uJIOBIsNFiN746nhpohhXF4JzDTFUoZUe2zRKIEII8DLpnY7zCSUSGCKGEMOsLOExbWU_atLEE_esEQYO59D-wQjocgBWuB5QxIZvmqBIL-5U2ICJ6VzaPYLNAal_ZbmlmUwlUNoXHlWu3PrSh8KXoTd1JF57yz-Ia38dykrwcme2RQ" /></p>
+<b>Expanded Emoji and Sticker Search.</b> Over <b>100 million</b> emoji and stickers can now be found via the <b>search function</b> in the sticker panel.<br/><br/>May Features<br/><a href="https://t.me/telegram/440" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">1</a> • <a href="https://t.me/telegram/441" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">2</a> • <a href="https://t.me/telegram/442" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">3</a> • <a href="https://t.me/telegram/443" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">4</a> • <b>5</b> • <a href="https://t.me/telegram/445" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">More</a>]]></content:encoded>
+      <guid isPermaLink="true">https://t.me/telegram/444</guid>
+      <pubDate>Thu, 14 May 2026 16:09:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Custom AI Styles.</title>
+      <link>https://t.me/telegram/443</link>
+      <description>Custom AI Styles.
+ The 
+text editor
+ allows anyone to use 
+their own prompts
+ to build 
+unique styles
+.
+
+Each custom style has a 
+shareable link
+ so others users can add it to their editor.
+
+May Features
+
+1
+ • 
+2
+ • 
+3
+ • 
+4
+ • 
+5
+ • 
+More</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn1.telesco.pe/file/cSvztQNU9VJdLRz2G5_LZJwIVqAcAhWDnHhXO8swSCCGr-xkgCMpeXBq5W2DZIC3AAmauB4pai8SSc4MHoU3Tv43aIgtKqqaOD6uU--LmxpA5IjK_UYHqfTGPxcK0nwN98C-ewLQ7Kb3SNlJLKQGBt8PmrtyR5Nr8cbmrnrhkcDaXsQqkoAHVixmy8mHznjXlSq12098wfOfR_XPhx0DyMYki8sQ86uHVN5FHJtR0DXnzy2wIkFY_tfbh2KahoRYjeJBCQDagqCEWD-WSPoRNTLEnAmNfSQ6E8yrWjgmxpFJaLlsIka5jsS3RnqDfOpBNqafGmI0pq1wwx4IFp7nuA" /></p>
+<b>Custom AI Styles.</b> The <a href="https://t.me/telegram/435" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">text editor</a> allows anyone to use <b>their own prompts</b> to build <b>unique styles</b>.<br/><br/>Each custom style has a <b>shareable link</b> so others users can add it to their editor.<br/><br/>May Features<br/><a href="https://t.me/telegram/440" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">1</a> • <a href="https://t.me/telegram/441" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">2</a> • <a href="https://t.me/telegram/442" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">3</a> • <b>4</b> • <a href="https://t.me/telegram/444" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">5</a> • <a href="https://t.me/telegram/445" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">More</a>]]></content:encoded>
+      <guid isPermaLink="true">https://t.me/telegram/443</guid>
+      <pubDate>Thu, 14 May 2026 16:09:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chat Automation in Profiles.</title>
+      <link>https://t.me/telegram/442</link>
+      <description>Chat Automation in Profiles.
+ Every Telegram user can now 
+connect a bot 
+to their profile – and let it 
+respond to messages
+ on their behalf.
+
+May Features
+
+1
+ • 
+2
+ • 
+3
+ • 
+4
+ • 
+5
+ • 
+More</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn1.telesco.pe/file/FP4BfwfVInE6ZyHjHODAEV7uuqqkKFKM6Cdf9EtxBGHb7B9p-343vJ-6DuZrBnC7SQOpkHGUzYSCoyhS8ajNhrTr0MLbAYKvHopw3z972xVBm0-agr1rbAa9JbXVRGN0c143TDoWKtLU8Q6otYL9cHA4Yn-ahIRzp4miaXcdVYgTfOO0TkYKbjFrtTw9PdWA8rJQjipum2nFHt7yf8gUxZVI3eedm33yNcl1-i4AEmsVA_mc8nZO8uFM03nA37f6-yvHxR46MB-lW5ubraAyx5Xuv5oHWfc-RuKF3gAU15HQRnCkNWmjshPJlz90yAys2ZulCR_g7zU9oEauYg6yIA" /></p>
+<b>Chat Automation in Profiles.</b> Every Telegram user can now <b>connect a bot </b>to their profile – and let it <b>respond to messages</b> on their behalf.<br/><br/>May Features<br/><a href="https://t.me/telegram/440" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">1</a> • <a href="https://t.me/telegram/441" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">2</a> • <b>3</b> • <a href="https://t.me/telegram/443" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">4</a> • <a href="https://t.me/telegram/444" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">5</a> • <a href="https://t.me/telegram/445" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">More</a>]]></content:encoded>
+      <guid isPermaLink="true">https://t.me/telegram/442</guid>
+      <pubDate>Thu, 14 May 2026 16:08:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bot-to-Bot Communication.</title>
+      <link>https://t.me/telegram/441</link>
+      <description>Bot-to-Bot Communication.
+ Bots are now able to respond to 
+other bots
+, not just users.
+
+AI enthusiasts can utilize this to create 
+custom workflows
+ with 
+autonomous agents
+.
+
+May Features
+
+1
+ • 
+2
+ • 
+3
+ • 
+4
+ • 
+5
+ • 
+More</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn1.telesco.pe/file/XRkewjuTPaCTdU_rxShL-XWmS02rDAinfIeu1oEen4BF8JaU8P-dnUQKgG_AqzkLmldAxNKgVXH1hm4E_487vDrbuYvK2Ej8t7AoQuMyYucyzAi-J027QW3SbTKdtP87VwEP4KfXuk2NSzJDIWtMbqNGadWN3FooA6eBXXZE05T_DeWjQgcw7CZzIYddbIx416CCgJyB9K0PkpBom8nNgS3nfYCo9U-2s18uV_DN7qnPQjlUPZAHH_uMFmIo-DfIN8BDxxBw4rvsymjgws85SiM9FAOnZefrIbq9nKH5IGsB-WXks4KEDQhXbL2G0hwxm6TUPsBRa1o_rny4O82Ecg" /></p>
+<b>Bot-to-Bot Communication.</b> Bots are now able to respond to <b>other bots</b>, not just users.<br/><br/>AI enthusiasts can utilize this to create <b>custom workflows</b> with <b>autonomous agents</b>.<br/><br/>May Features<br/><a href="https://t.me/telegram/440" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">1</a> • <b>2</b> • <a href="https://t.me/telegram/442" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">3</a> • <a href="https://t.me/telegram/443" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">4</a> • <a href="https://t.me/telegram/444" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">5</a> • <a href="https://t.me/telegram/445" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">More</a>]]></content:encoded>
+      <guid isPermaLink="true">https://t.me/telegram/441</guid>
+      <pubDate>Thu, 14 May 2026 16:08:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Guest Bots.</title>
+      <link>https://t.me/telegram/440</link>
+      <description>Guest Bots.
+ Telegram bots can now be accessed directly in 
+groups and 1-on-1 chats
+ to answer questions and 
+perform tasks
+.
+
+May Features
+
+1
+ • 
+2
+ • 
+3
+ • 
+4
+ • 
+5
+ • 
+More</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn1.telesco.pe/file/ZepZ2phWtRU-GJT40kxNtF94F25Ch4T2dBrRH5ZJFi7yDerp87QW1nZ2S8kQagUvERYgsUTnHndB31khsmysPCJQMT9L1cSjChB4Nh-4ojY2G8Owl6x9RzQeJcCnlUgNvJ9KecQb5lJJRaNtpKkGKjcHSolKzPQU4grKcgDGfuZjdWnMl__ErH0OAuCtW_eUoPBcQpX3jawOHKp3fwCrkJd2UCFkTrsJZo9ZX4L7bgId7KlVCGrHnr2Cr7b6GQ_watVc2R5Fb1w_iDrssk5ur47aVLq6b-pkq6oFaLas9X5RhC-6OAR-Aa7zU9oZ8grcfISxDd_K18JIQLJeNHiYIw" /></p>
+<b>Guest Bots.</b> Telegram bots can now be accessed directly in <b>groups and 1-on-1 chats</b> to answer questions and <b>perform tasks</b>.<br/><br/>May Features<br/><b>1</b> • <a href="https://t.me/telegram/441" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">2</a> • <a href="https://t.me/telegram/442" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">3</a> • <a href="https://t.me/telegram/443" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">4</a> • <a href="https://t.me/telegram/444" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">5</a> • <a href="https://t.me/telegram/445" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">More</a>]]></content:encoded>
+      <guid isPermaLink="true">https://t.me/telegram/440</guid>
+      <pubDate>Thu, 14 May 2026 16:08:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>For all the features from this update, like</title>
+      <link>https://t.me/telegram/439</link>
+      <description>For all the features from this update, like 
+scanning documents
+ on iOS, extra 
+security alerts
+ to protect user privacy, and even more options for polls – check out our blog:
+
+https://telegram.org/blog/ai-editor-mighty-polls-and-more
+
+March Features
+
+1
+ • 
+2
+ • 
+3
+ • 
+4
+ • 
+5
+ • 
+6
+ • 
+7
+ • 
+8
+ • 
+9
+ • 
+More</description>
+      <content:encoded><![CDATA[For all the features from this update, like <b>scanning documents</b> on iOS, extra <b>security alerts</b> to protect user privacy, and even more options for polls – check out our blog:<br/><a href="https://telegram.org/blog/ai-editor-mighty-polls-and-more" rel="noopener" target="_blank">https://telegram.org/blog/ai-editor-mighty-polls-and-more</a><br/><br/>March Features<br/><a href="https://t.me/telegram/429" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">1</a> • <a href="https://t.me/telegram/430" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">2</a> • <a href="https://t.me/telegram/431" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">3</a> • <a href="https://t.me/telegram/432" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">4</a> • <a href="https://t.me/telegram/433" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">5</a> • <a href="https://t.me/telegram/434" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">6</a> • <a href="https://t.me/telegram/435" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">7</a> • <a href="https://t.me/telegram/436" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">8</a> • <a href="https://t.me/telegram/437" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">9</a> • <b>More</b>]]></content:encoded>
+      <guid isPermaLink="true">https://t.me/telegram/439</guid>
+      <pubDate>Thu, 09 Apr 2026 07:02:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Managed Bots.</title>
+      <link>https://t.me/telegram/438</link>
+      <description>Managed Bots.
+ Anyone can now 
+utilize AI bots
+ to easily develop, launch and 
+manage their own bot
+ – with no coding required.
+
+More information for developers is 
+available here
+.
+
+March Features
+
+1
+ • 
+2
+ • 
+3
+ • 
+4
+ • 
+5
+ • 
+6
+ • 
+7
+ • 
+8
+ • 
+9
+ • 
+More</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn1.telesco.pe/file/l_9XRZpFnj_MBulWJ_B-0faTtKe79uWWbe0ij91PWEHFwtd1h3wde43G-LsSVueSTVsj0qu62Jn1OOBnMukAwyWsSB44Ghs_sr6-OuntkU7mARvoOORP_UMyj7CLp5zjokbQwZfKkLM45eN8tdvcBCrrsUCHlGSI6oEPz1J540oKac1QXW2Rjjx9de7igQ_ePj-Xd4B-uNHssTF3UM4nkkUO2lrz-0igF9ORXNUD5NMOJUWaiL1KiTdQcT6bm8u3mUzZoiBOd37QH8pz6qiX4Zm8biWzq6H-I5eWN3S1PdnCam0qnyau2FSGgiBut5Qu8lDOrnmJUeG9VwKH2U9_IA" /></p>
+<b>Managed Bots.</b> Anyone can now <b>utilize AI bots</b> to easily develop, launch and <b>manage their own bot</b> – with no coding required.<br/><br/>More information for developers is <a href="https://core.telegram.org/bots/features#managed-bots" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">available here</a>.<br/><br/>March Features<br/><a href="https://t.me/telegram/429" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">1</a> • <a href="https://t.me/telegram/430" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">2</a> • <a href="https://t.me/telegram/431" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">3</a> • <a href="https://t.me/telegram/432" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">4</a> • <a href="https://t.me/telegram/433" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">5</a> • <a href="https://t.me/telegram/434" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">6</a> • <a href="https://t.me/telegram/435" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">7</a> • <a href="https://t.me/telegram/436" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">8</a> • <b>9</b> • <a href="https://t.me/telegram/438" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">More</a>]]></content:encoded>
+      <guid isPermaLink="true">https://t.me/telegram/438</guid>
+      <pubDate>Thu, 09 Apr 2026 07:02:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Live and Motion Photos.</title>
+      <link>https://t.me/telegram/437</link>
+      <description>Live and Motion Photos.
+ Telegram now 
+natively supports
+ Live and Motion Photos.
+
+Android and iOS users can send 
+animated images
+ right from their camera – which are viewable in 
+any app
+.
+
+March Features
+
+1
+ • 
+2
+ • 
+3
+ • 
+4
+ • 
+5
+ • 
+6
+ • 
+7
+ • 
+8
+ • 
+9
+ • 
+More</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn1.telesco.pe/file/hC-td_B4Xn53uyUkcH8F5qgS77tyEYanHQI4PfXLA_asj5GjfXGXbDUOdH0Xbb2K26ac24_HdA14sV3g9Rq_aud5hMg6UUhrMlm5HM503lnvQyh1odyEBr5ZqnD4NmODcwz6kTIqNt1UyJekw6ZK3iFjrsLQKIPvxzNPLTkKGslVAx4kb7R_yeIO2vMDdOYarc2qACxV2a6JeWgMIhDiTAkE6XN08w4PuSNjwna3wwBWp8i8YiU70oi_vlLKtkGpt4YwcKAxAaIAKCyL7fJI6bkUIYmMcM6Ux6b6NaD9aRGBEQZ3UEeKYjHyI2e25a18Hxw8rZwv4CE0Q4_fJ7doOA" /></p>
+<b>Live and Motion Photos.</b> Telegram now <b>natively supports</b> Live and Motion Photos.<br/><br/>Android and iOS users can send <b>animated images</b> right from their camera – which are viewable in <b>any app</b>.<br/><br/>March Features<br/><a href="https://t.me/telegram/429" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">1</a> • <a href="https://t.me/telegram/430" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">2</a> • <a href="https://t.me/telegram/431" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">3</a> • <a href="https://t.me/telegram/432" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">4</a> • <a href="https://t.me/telegram/433" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">5</a> • <a href="https://t.me/telegram/434" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">6</a> • <a href="https://t.me/telegram/435" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">7</a> • <b>8</b> • <a href="https://t.me/telegram/437" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">9</a> • <a href="https://t.me/telegram/438" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">More</a>]]></content:encoded>
+      <guid isPermaLink="true">https://t.me/telegram/437</guid>
+      <pubDate>Thu, 09 Apr 2026 07:02:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>10+ Features for Polls.</title>
+      <link>https://t.me/telegram/436</link>
+      <description>10+ Features for Polls.
+ You can now 
+attach media
+ in polls, set a 
+specific duration
+ for the poll, let users 
+suggest new options
+ – 
+and more
+.
+
+March Features
+
+1
+ • 
+2
+ • 
+3
+ • 
+4
+ • 
+5
+ • 
+6
+ • 
+7
+ • 
+8
+ • 
+9
+ • 
+More</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn1.telesco.pe/file/CmyLDIJyb7HNbR2SrgXzc2xGmPhzjj62VGSVYtrpIvMrjm_EMmxRdcYZ9KZ4Edzp-1ZX-xjBTArczLJzxJpJUCttUEFhOx4nUvcD9tSXCcrH0nqJJV5_5UstnCWlWJblJlaZeoLrNHy5mVBprL9qgjGfHhEwgGm104rMk_B9m4WSkqDfc28JRa5tmpTBKOUZwuNiPaWCMOWxfVZqFzFdC_CohtM1ktFLNDff0awK7zcDFCcQnCztGwbNBG3tidnWcPfXYzK3e7K3y4vxVEz1tkwSBhwfGiAI-tJb8GGG-K-axLysyvfS4beeAvyeLvZfLjy3w1cGcdZ_1Ndf4FNcZQ" /></p>
+<b>10+ Features for Polls.</b> You can now <b>attach media</b> in polls, set a <b>specific duration</b> for the poll, let users <b>suggest new options</b> – <a href="https://telegram.org/blog/ai-editor-mighty-polls-and-more#10-new-features-for-polls" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">and more</a>.<br/><br/>March Features<br/><a href="https://t.me/telegram/429" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">1</a> • <a href="https://t.me/telegram/430" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">2</a> • <a href="https://t.me/telegram/431" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">3</a> • <a href="https://t.me/telegram/432" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">4</a> • <a href="https://t.me/telegram/433" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">5</a> • <a href="https://t.me/telegram/434" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">6</a> • <b>7</b> • <a href="https://t.me/telegram/436" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">8</a> • <a href="https://t.me/telegram/437" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">9</a> • <a href="https://t.me/telegram/438" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">More</a>]]></content:encoded>
+      <guid isPermaLink="true">https://t.me/telegram/436</guid>
+      <pubDate>Thu, 09 Apr 2026 07:02:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Text Editor.</title>
+      <link>https://t.me/telegram/435</link>
+      <description>AI Text Editor.
+ The message bar now has a built-in editor that can instantly 
+fix grammar
+, translate your text or rewrite it in 
+several styles
+:
+
+🤝
+ Formal
+
+🎯
+ Short
+
+🍖
+ Tribal
+
+🗿
+ Zen
+
+🕯
+ Biblical
+
+💼
+ Corp
+
+Telegram AI features are 
+100% private
+ and optional – powered by the 
+Cocoon AI Network
+.
+
+March Features
+
+1
+ • 
+2
+ • 
+3
+ • 
+4
+ • 
+5
+ • 
+6
+ • 
+7
+ • 
+8
+ • 
+9
+ • 
+More</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn1.telesco.pe/file/LtkPZyH34t_r42Li7hQ-yjY9uMLoJC5s1R_O9YHI44TJN51vx8gcDYmPcD-6XM2qFCKeKReuVQvYbybl7SWPuJFN0wXciljwoIACWuVAAwKGUNC5fgItiUcOptLuW1eU4zxomyYV7Rc33AttYTdMe5Ujwrdnx4ipfx9yNaJlQ5ypSAiXfpVz43UzBnh4YkX7vST-RGNEETbTZny0Qq_B25HRnvazK724zru3qSn0Fiq-CTS-AY9UBTTo_coJuPX9TfzdNlcdNJkYH9c2tShYKtAsg0257KlWeRLpJS30OS9mIyUzIj-ef_8RdqeY1QlFdzUQF3TSybiSoStYVRqpVQ" /></p>
+<b>AI Text Editor.</b> The message bar now has a built-in editor that can instantly <b>fix grammar</b>, translate your text or rewrite it in <b>several styles</b>:<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA49D.png')"><b>🤝</b></i> Formal<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8EAF.png')"><b>🎯</b></i> Short<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8D96.png')"><b>🍖</b></i> Tribal<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F97BF.png')"><b>🗿</b></i> Zen<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F95AF.png')"><b>🕯</b></i> Biblical<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92BC.png')"><b>💼</b></i> Corp<br/><br/>Telegram AI features are <b>100% private</b> and optional – powered by the <a href="https://cocoon.org/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Cocoon AI Network</a>.<br/><br/>March Features<br/><a href="https://t.me/telegram/429" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">1</a> • <a href="https://t.me/telegram/430" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">2</a> • <a href="https://t.me/telegram/431" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">3</a> • <a href="https://t.me/telegram/432" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">4</a> • <a href="https://t.me/telegram/433" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">5</a> • <b>6</b> • <a href="https://t.me/telegram/435" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">7</a> • <a href="https://t.me/telegram/436" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">8</a> • <a href="https://t.me/telegram/437" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">9</a> • <a href="https://t.me/telegram/438" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">More</a>]]></content:encoded>
+      <guid isPermaLink="true">https://t.me/telegram/435</guid>
+      <pubDate>Thu, 09 Apr 2026 07:01:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>For all the features from this update, like</title>
+      <link>https://t.me/telegram/433</link>
+      <description>For all the features from this update, like 
+instant stickers
+ from photos, 
+editing stickers and GIFs
+, a new platform to 
+log in to apps
+ with Telegram and more – check out the full blog:
+
+https://telegram.org/blog/member-tags-disable-sharing-and-more
+
+March Features
+
+1
+ • 
+2
+ • 
+3
+ • 
+4
+ • 
+5
+ • 
+6
+ • 
+7
+ • 
+8
+ • 
+9
+ • 
+More</description>
+      <content:encoded><![CDATA[For all the features from this update, like <b>instant stickers</b> from photos, <b>editing stickers and GIFs</b>, a new platform to <b>log in to apps</b> with Telegram and more – check out the full blog:<br/><br/><a href="https://telegram.org/blog/member-tags-disable-sharing-and-more" rel="noopener" target="_blank">https://telegram.org/blog/member-tags-disable-sharing-and-more</a><br/><br/>March Features<br/><a href="https://t.me/telegram/429" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">1</a> • <a href="https://t.me/telegram/430" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">2</a> • <a href="https://t.me/telegram/431" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">3</a> • <a href="https://t.me/telegram/432" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">4</a> • <b>5</b> • <a href="https://t.me/telegram/434" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">6</a> • <a href="https://t.me/telegram/435" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">7</a> • <a href="https://t.me/telegram/436" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">8</a> • <a href="https://t.me/telegram/437" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">9</a> • <a href="https://t.me/telegram/438" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">More</a>]]></content:encoded>
+      <guid isPermaLink="true">https://t.me/telegram/433</guid>
+      <pubDate>Mon, 02 Mar 2026 17:34:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Date Formatting.</title>
+      <link>https://t.me/telegram/432</link>
+      <description>Date Formatting. 
+The 
+'Date'
+ formatting option lets you set a 
+specific date and time
+ to add events to a calendar or 
+set a reminder
+.
+
+Date formatting 
+automatically adapts
+ to each recipient's 
+local date and time
+.
+
+March Features
+
+1
+ • 
+2
+ • 
+3
+ • 
+4
+ • 
+5
+ • 
+6
+ • 
+7
+ • 
+8
+ • 
+9
+ • 
+More</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn1.telesco.pe/file/KEaLaBp7rL-50ZmrwxEQuty-TlH7vPeBbxwgupWFMuW8ejdsS1f-RIR3an3B_w5PunbFtriivASAsSVivM3-SLm1sjaj936Ca28IgIDeg-Xz2WaKCLmHYCbbIKpDS6Lw4XwLMzZKo5EtSjkXHkeFuh6KqEXeG_z9dUH1ubW2rPLHXnY1E-lIvRYUFcsF-fGtTnYJlR-h9L8c7s_Pc8ArzXEWbYPEVKCBkG78p3I3CAfeEZDi7q8JPmXgBrRof2ocK9a_QMSm9zGrGP38DI05BQpuvt9VV1B7-q9L35OKsLRILtqrr3LCmecZnQ-F-L-knoRd8IobTBA01OsVLegJDg" /></p>
+<b>Date Formatting. </b>The <i>'Date'</i> formatting option lets you set a <b>specific date and time</b> to add events to a calendar or <b>set a reminder</b>.<br/><br/>Date formatting <b>automatically adapts</b> to each recipient's <b>local date and time</b>.<br/><br/>March Features<br/><a href="https://t.me/telegram/429" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">1</a> • <a href="https://t.me/telegram/430" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">2</a> • <a href="https://t.me/telegram/431" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">3</a> • <b>4</b> • <a href="https://t.me/telegram/433" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">5</a> • <a href="https://t.me/telegram/434" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">6</a> • <a href="https://t.me/telegram/435" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">7</a> • <a href="https://t.me/telegram/436" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">8</a> • <a href="https://t.me/telegram/437" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">9</a> • <a href="https://t.me/telegram/438" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">More</a>]]></content:encoded>
+      <guid isPermaLink="true">https://t.me/telegram/432</guid>
+      <pubDate>Mon, 02 Mar 2026 17:34:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Captions for GIFs.</title>
+      <link>https://t.me/telegram/431</link>
+      <description>Captions for GIFs.
+ When selecting a GIF in the GIF panel, you can now 
+add a caption
+ directly to it – and send it all as 
+one message
+.
+
+March Features
+
+1
+ • 
+2
+ • 
+3
+ • 
+4
+ • 
+5
+ • 
+6
+ • 
+7
+ • 
+8
+ • 
+9
+ • 
+More</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn1.telesco.pe/file/F7AvyAVbkqpEsUWL009F89Q3Ry7P9AK3G-duKYArTP4YYNryZ2TM6ytRdZ2k0zMI6vHhEsa_lbr0eSfgciNEpHmigjuixt40fJ6guCjhwoHUXcbvzYsSU1A-rnylUaryuA9eNxHTjC5jfl4ymkZhs445G4wwYsjDWZezf0ZpCKioBmTgkGgQUPOp2EY-t6uSm13UyG7od_VC2nMGfZYaMa4dw0gxoN7aNI_4cJMTeVmNTyTLWsLCY_Sc72VgkpcX_YCMq7blecObyOnVYmHKRBzl4lpMuWaFi4yz5HguP0PASguQAAXq01uM1-WzDjLPbTMpwWcFfyUI6eEuktEnfA" /></p>
+<b>Captions for GIFs.</b> When selecting a GIF in the GIF panel, you can now <b>add a caption</b> directly to it – and send it all as <b>one message</b>.<br/><br/>March Features<br/><a href="https://t.me/telegram/429" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">1</a> • <a href="https://t.me/telegram/430" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">2</a> • <b>3</b> • <a href="https://t.me/telegram/432" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">4</a> • <a href="https://t.me/telegram/433" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">5</a> • <a href="https://t.me/telegram/434" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">6</a> • <a href="https://t.me/telegram/435" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">7</a> • <a href="https://t.me/telegram/436" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">8</a> • <a href="https://t.me/telegram/437" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">9</a> • <a href="https://t.me/telegram/438" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">More</a>]]></content:encoded>
+      <guid isPermaLink="true">https://t.me/telegram/431</guid>
+      <pubDate>Mon, 02 Mar 2026 17:34:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>⭐️</title>
+      <link>https://t.me/telegram/430</link>
+      <description>⭐️
+ 
+Disable Sharing in Private Chats.
+ Subscribers of 
+Telegram Premium
+ can now 
+disable sharing
+ in any 1-on-1 chat.
+
+This 
+restricts forwarding
+ or copying messages and 
+prevents screenshots
+ or saving media from the chat.
+
+March Features
+
+1
+ • 
+2
+ • 
+3
+ • 
+4
+ • 
+5
+ • 
+6
+ • 
+7
+ • 
+8
+ • 
+9
+ • 
+More</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn1.telesco.pe/file/haJfIt17074QHjMOYeJjqCLsT2gNS5ezCe9OmLrK1cQp1oepkG0qYub-IVJCMekW3Dr1lnR9sHxRl14Qfla89l-94U0GuktzvHG3AtCujPeQOy51R_8cwLzYnTA8N5Hg8HY9tsaAbl-7rOexBXv1yAalCvzfB7ZCljlucv5Ld3T1jtXWpdbarfNXYrN2GaP6CHwPDDAomvK07ICXrV0xwTi7DlXwIJlARAqXEZR6k3FX1ksui-B2Ab8GrZ_BlJw60Zmg-q0iiyF-nq4tGAd4ckssKvkolsMEULvZqHVNuo18Pj9c3cdBNsCZ6UjnNXcoy_oRscIBHJPJ6P10r-yEVg" /></p>
+<tg-emoji emoji-id="6028338546736107668"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E2AD90.png')"><b>⭐️</b></i></tg-emoji> <b>Disable Sharing in Private Chats.</b> Subscribers of <a href="tg://settings/premium" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Telegram Premium</a> can now <b>disable sharing</b> in any 1-on-1 chat.<br/><br/>This <b>restricts forwarding</b> or copying messages and <b>prevents screenshots</b> or saving media from the chat.<br/><br/>March Features<br/><a href="https://t.me/telegram/429" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">1</a> • <b>2</b> • <a href="https://t.me/telegram/431" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">3</a> • <a href="https://t.me/telegram/432" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">4</a> • <a href="https://t.me/telegram/433" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">5</a> • <a href="https://t.me/telegram/434" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">6</a> • <a href="https://t.me/telegram/435" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">7</a> • <a href="https://t.me/telegram/436" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">8</a> • <a href="https://t.me/telegram/437" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">9</a> • <a href="https://t.me/telegram/438" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">More</a>]]></content:encoded>
+      <guid isPermaLink="true">https://t.me/telegram/430</guid>
+      <pubDate>Mon, 02 Mar 2026 17:33:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Member Tags.</title>
+      <link>https://t.me/telegram/429</link>
+      <description>Member Tags.
+ Members in group chats can now 
+add a tag
+ next to their name – to 
+highlight roles
+ and 
+show their interests
+.
+
+March Features
+
+1
+ • 
+2
+ • 
+3
+ • 
+4
+ • 
+5
+ • 
+6
+ • 
+7
+ • 
+8
+ • 
+9
+ • 
+More</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn1.telesco.pe/file/fwERI-2CBRj8Sgq6mByzTfXpd-eb9qz-S8sutGGw15dfT4hmDqgmbqDaBnxC6JZhAno9yrcbn30TPyECn9zBtt4O4xKdgx44cUW1T6mceydCCWE67TTye0hpnmWz8Dzn4kWqQNpUYo_3EK2Fl4m6bCECvJMKjodqP-iJi0MhlwiHWi1TL75_1OwLSSN6PUiEud2VhDXkIWNo2IHM2Pdc-NdkqPyUfdkfsKz_EugYsOFFUaE4yOj6n4fsmAA_pjzSjBbYmTlllIx95OUGbeWZUpmEgctSW46fHAoNa35K0QHYs37TvvUq7KBCTMo3afGYjV4CWSONSaTllD-I7VG5yA" /></p>
+<b>Member Tags.</b> Members in group chats can now <b>add a tag</b> next to their name – to <b>highlight roles</b> and <b>show their interests</b>.<br/><br/>March Features<br/><b>1</b> • <a href="https://t.me/telegram/430" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">2</a> • <a href="https://t.me/telegram/431" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">3</a> • <a href="https://t.me/telegram/432" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">4</a> • <a href="https://t.me/telegram/433" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">5</a> • <a href="https://t.me/telegram/434" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">6</a> • <a href="https://t.me/telegram/435" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">7</a> • <a href="https://t.me/telegram/436" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">8</a> • <a href="https://t.me/telegram/437" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">9</a> • <a href="https://t.me/telegram/438" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">More</a>]]></content:encoded>
+      <guid isPermaLink="true">https://t.me/telegram/429</guid>
+      <pubDate>Mon, 02 Mar 2026 17:33:34 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
