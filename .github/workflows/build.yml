@@ -1,0 +1,51 @@
+name: Build Telegram RSS
+
+on:
+  schedule:
+    # 05:30 UTC = 08:30 МСК (UTC+3, без перехода на летнее время), Пн–Пт.
+    # Чтобы запускать на час раньше (08:00 МСК), замени на: '0 5 * * 1-5'
+    - cron: '30 5 * * 1-5'
+  workflow_dispatch:        # ручной запуск кнопкой «Run workflow»
+
+permissions:
+  contents: write           # нужно, чтобы коммитить обновлённые ленты
+
+concurrency:
+  group: build-rss
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Compute Pages URL
+        run: |
+          OWNER="${GITHUB_REPOSITORY%%/*}"
+          REPO="${GITHUB_REPOSITORY##*/}"
+          echo "PAGES_BASE_URL=https://${OWNER,,}.github.io/${REPO}" >> "$GITHUB_ENV"
+
+      - name: Build feeds
+        run: python telegram_rss.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update RSS feeds ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+            git push
+          fi
