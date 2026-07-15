@@ -46,7 +46,7 @@ Cron в `.github/workflows/build.yml` стоит на `30 5 * * 1-5` — 05:30 U
 В начале `telegram_rss.py`:
 
 - `MAX_POSTS` — сколько постов держать в ленте канала (по умолчанию 20).
-- `COMBINED_LIMIT` — размер сводной ленты (по умолчанию 100).
+- `COMBINED_LIMIT` — размер сводной ленты (по умолчанию 500).
 - `RETRIES`, `RETRY_DELAY`, `REQUEST_TIMEOUT` — поведение при сетевых ошибках.
 
 ## Ограничения
