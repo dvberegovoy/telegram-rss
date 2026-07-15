@@ -3,7 +3,7 @@
 telegram_rss.py — Build RSS feeds from public Telegram channels.
 
 Reads channel usernames from channels.txt, fetches each channel's public
-web preview (https://t.me/s/<channel>), parses recent posts, and writes
+web preview (https://telegram.me/s/<channel>), parses recent posts, and writes
 one RSS file per channel plus a combined feed into docs/feeds/.
 """
 
@@ -22,6 +22,11 @@ from bs4 import BeautifulSoup
 from feedgen.feed import FeedGenerator
 
 # ---- Configuration ---------------------------------------------------------
+
+# Domain for fetching previews and for every link written into the feeds.
+# t.me is blocked for our readers; telegram.me is an official alias that
+# serves the same pages directly (no redirect back to t.me).
+TELEGRAM_BASE = "https://telegram.me"
 
 CHANNELS_FILE = Path("channels.txt")
 OUTPUT_DIR = Path("docs/feeds")
@@ -49,7 +54,7 @@ def normalize_channel(raw: str) -> str | None:
     if not s or s.startswith("#"):
         return None
     s = s.split("#", 1)[0].strip()           # allow inline comments
-    s = re.sub(r"^https?://t\.me/", "", s)    # strip URL prefix
+    s = re.sub(r"^https?://(?:t|telegram)\.me/", "", s)  # strip URL prefix
     s = re.sub(r"^s/", "", s)                 # strip /s/
     s = s.lstrip("@").strip("/")
     s = s.split("/")[0]                        # drop any /123 post id
@@ -69,10 +74,15 @@ def read_channels(path: Path) -> list[str]:
             channels.append(name)
     return channels
 
+
+def mirror_link(url: str) -> str:
+    """Rewrite a t.me URL onto TELEGRAM_BASE."""
+    return re.sub(r"^https?://t\.me/", f"{TELEGRAM_BASE}/", url)
+
 # ---- Fetching --------------------------------------------------------------
 
 def fetch_channel_html(channel: str) -> str | None:
-    url = f"https://t.me/s/{channel}"
+    url = f"{TELEGRAM_BASE}/s/{channel}"
     headers = {"User-Agent": USER_AGENT, "Accept-Language": "ru,en;q=0.8"}
     for attempt in range(1, RETRIES + 1):
         try:
@@ -111,9 +121,9 @@ def parse_posts(channel: str, page_html: str) -> tuple[str, list[dict]]:
 
         # Permalink
         if data_post:
-            link = f"https://t.me/{data_post}"
+            link = f"{TELEGRAM_BASE}/{data_post}"
         elif date_anchor and date_anchor.get("href"):
-            link = date_anchor["href"]
+            link = mirror_link(date_anchor["href"])
         else:
             continue  # cannot identify the post
 
@@ -188,14 +198,17 @@ def render_content(post: dict) -> str:
     for u in post["media"]:
         parts.append(f'<p><img src="{html.escape(u)}" /></p>')
     if post["text_html"]:
-        parts.append(post["text_html"])
+        # t.me links inside post bodies would be dead for readers too
+        parts.append(
+            post["text_html"].replace('href="https://t.me/', f'href="{TELEGRAM_BASE}/')
+        )
     return "\n".join(parts) or post["text_plain"] or "(нет текста)"
 
 
 def build_feed(channel: str, channel_title: str, posts: list[dict]) -> FeedGenerator:
     fg = FeedGenerator()
     fg.title(channel_title)
-    fg.link(href=f"https://t.me/{channel}", rel="alternate")
+    fg.link(href=f"{TELEGRAM_BASE}/{channel}", rel="alternate")
     if PAGES_BASE_URL:
         fg.link(href=f"{PAGES_BASE_URL}/feeds/{channel}.xml", rel="self")
     fg.description(
@@ -220,7 +233,7 @@ def build_feed(channel: str, channel_title: str, posts: list[dict]) -> FeedGener
 def build_combined_feed(all_entries: list[tuple]) -> None:
     fg = FeedGenerator()
     fg.title(f"{SITE_TITLE} — все каналы")
-    fg.link(href="https://t.me", rel="alternate")
+    fg.link(href=TELEGRAM_BASE, rel="alternate")
     if PAGES_BASE_URL:
         fg.link(href=f"{PAGES_BASE_URL}/feeds/all.xml", rel="self")
     fg.description("Объединённая лента всех отслеживаемых Telegram-каналов.")
@@ -249,7 +262,7 @@ def write_index(summary: list[tuple]) -> None:
     for channel, channel_title, status in summary:
         title = channel_title or f"@{channel}"
         rows.append(
-            f'<tr><td><a href="https://t.me/{channel}">{html.escape(title)}</a></td>'
+            f'<tr><td><a href="{TELEGRAM_BASE}/{channel}">{html.escape(title)}</a></td>'
             f'<td><a href="feeds/{channel}.xml">{channel}.xml</a></td>'
             f'<td>{html.escape(status)}</td></tr>'
         )
