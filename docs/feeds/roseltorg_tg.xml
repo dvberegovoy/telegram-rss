@@ -1,0 +1,384 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>РОСЭЛТОРГ</title>
+    <link>https://dvberegovoy.github.io/telegram-rss/feeds/roseltorg_tg.xml</link>
+    <description>RSS-лента канала @roseltorg_tg, собранная из публичного веб-превью Telegram.</description>
+    <atom:link href="https://dvberegovoy.github.io/telegram-rss/feeds/roseltorg_tg.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>telegram_rss.py</generator>
+    <language>ru</language>
+    <lastBuildDate>Wed, 15 Jul 2026 10:26:50 +0000</lastBuildDate>
+    <item>
+      <title>Как использовать ИИ без лишних рисков?</title>
+      <link>https://telegram.me/roseltorg_tg/2472</link>
+      <description>Как использовать ИИ без лишних рисков?
+
+Найти подходящую закупку, быстро разобрать документацию, подготовить заявку, проверить риски, собрать жалобу — часть этих задач уже можно ускорить с помощью искусственного интеллекта.
+
+Однако для его успешного внедрения важно понимать как возможности инструмента, так и потенциальные риски. 
+
+🎬
+ Уже завтра, 
+15 июля в 10:00 (мск)
+, ведущий эксперт по государственным и корпоративным закупкам Кирилл Кузнецов проведёт вебинар об особенностях применения ИИ в работе заказчика и поставщика и расскажет, какие задачи можно оптимизировать.
+
+В программе:
+
+🔹
+ Анатомия ИИ для закупщика: токены, векторы, паттерны, промпты;
+
+🔹
+ ИИ для поставщика: от поиска закупки до подготовки жалобы;
+
+🔹
+ Риски, ограничения и ошибки ИИ: от галлюцинаций до переобучения;
+
+🔹
+ Роботизация закупок: тенденции развития и успешные практики.
+
+🔜
+ Регистрация на мероприятие доступна по 
+ссылке.</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/NrImS5aWT8i8a_SlA899OSjmYB8iuDa_8-BfCoS_Ahiew6nIGpMHLnfGpHRJ_7HJ72PRJPLcO2om1r-16Cay_3dgels9gkvnXHIDAVN10PJfP4yovkqoZAJDFQqg_ZKPiT4H_GXXIq8cm9T8LF-Ci2k84W9M5yudf6WRoBFbi49S2OLN8SweTEe6DmoMhamp7S7UrDIc42cEd5Qd4xOGJwXbk9LQHoLsIBBXDaTQakqAObxkXq_735pn7OdBOIKZPkBQ227QxUpTG2xRKAuQS_TzaqPi2CLZThSxD_R5gwRKy4joK2bzCiFmorDmRhQ7GmSmeSCduvGzMklyQMeBtA.jpg" /></p>
+<b>Как использовать ИИ без лишних рисков?</b><br/><br/>Найти подходящую закупку, быстро разобрать документацию, подготовить заявку, проверить риски, собрать жалобу — часть этих задач уже можно ускорить с помощью искусственного интеллекта.<br/><br/>Однако для его успешного внедрения важно понимать как возможности инструмента, так и потенциальные риски. <br/><br/><tg-emoji emoji-id="5433758530001724474"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8EAC.png')"><b>🎬</b></i></tg-emoji> Уже завтра, <b>15 июля в 10:00 (мск)</b>, ведущий эксперт по государственным и корпоративным закупкам Кирилл Кузнецов проведёт вебинар об особенностях применения ИИ в работе заказчика и поставщика и расскажет, какие задачи можно оптимизировать.<br/><br/><b>В программе:</b><br/><blockquote><tg-emoji emoji-id="5431677644116616601"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji> Анатомия ИИ для закупщика: токены, векторы, паттерны, промпты;<br/><tg-emoji emoji-id="5431677644116616601"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji> ИИ для поставщика: от поиска закупки до подготовки жалобы;<br/><tg-emoji emoji-id="5431677644116616601"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji> Риски, ограничения и ошибки ИИ: от галлюцинаций до переобучения;<br/><tg-emoji emoji-id="5431677644116616601"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji> Роботизация закупок: тенденции развития и успешные практики.</blockquote><br/><br/><tg-emoji emoji-id="5431812720838076103"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F949C.png')"><b>🔜</b></i></tg-emoji> Регистрация на мероприятие доступна по <a href="https://www.roseltorg.ru/education/den-zakazchika-iskusstvennyy-intellekt-i-robotizaciya-zakupok-vozmozhnosti-i-riski" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">ссылке.</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/roseltorg_tg/2472</guid>
+      <pubDate>Tue, 14 Jul 2026 12:01:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Оценить добросовестность поставщика стало проще</title>
+      <link>https://telegram.me/roseltorg_tg/2468</link>
+      <description>Оценить добросовестность поставщика стало проще
+ 
+🔍
+
+На Росэлторг в секции «Государственные закупки» появились новые инструменты, которые позволяют заказчикам автоматизировать проверку заявок поставщиков методом экспресс-оценки.
+
+При подготовке итогового протокола заказчику становится доступна кнопка 
+«Расширенная проверка» 
+— содержание исходного отчёта заказчик формирует сам, выбирая необходимые ему параметры.
+
+ 
+
+По итогам проверки формируется чек-лист, который содержит цветовую индикацию результатов проверок и ссылки на реестры.
+
+ 
+
+Этот метод ускоряет проверку заявок: вместо того чтобы вручную искать информацию по разным источникам в короткие сроки, отведённые на рассмотрение заявок, заказчик получает 
+готовый результат, который система собирает и анализирует сама
+.
+
+🔜
+ На карточках подробнее рассказали, 
+какие сведения могут войти в расширенный отчёт.</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/U5iJDHFfsA2l_-LHp2o4yLcYt36LPjFiZqwzwkVCdoKcC-Uck4KI92qf4k47Ad0njyokkz4j4XfvGAA-J-vnCNId-FH6zyTRUCraO4E95r0DLH9grhyGGTTKhVky5nWhmzTHQ1qSBiXgK4SSWo2X2hj0sJLmZUCwBu28pIpzAjmMD42MWX_TyhZjJEiblyp-WAA2kg08xc2N2PibVKqMrLjs31b_iAOf5a3Tzen6WxMuwXEVGk4k9HwdPIHulsXbIWaxqxdtpEVn4IAk0m01JO10taJdjE_RPtdVvhmICWjXj7SC3eD_3TGTEgDG25yWB9bj0usM8O0fzDl0rTb78g.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/cYeGrybrhMo96Y5q_hFQo4fHVzSgZ1S0sOR4OG7pwijoiFT8aKo9Bi4P7f5bheM7ra7Schb4EIYfuvLpJrTtFblxxof4HzqAInzSKzG-E2xR98L_pZzDoTHvdYBJiltzwK9-iDqKJVXWK34LDr9XJGXejq3SNRFrhyvBk627yul2v7s0-ZQie-60ys_sT_ZeKKxYocbafsc6QgcRTiAa0GXzU95wb4JrkGXseU7QT-htNA4LK2PugIuOMz78o9299YcH2TD9UGhtykTKR9-dKJEwXEQCtpmW5t-qhEPldzyhEtHRpDbPh4Wo9tnYrFQJuGqaSA5OemSB_6BHHlyyxw.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/Rw_Kd1KqOtRl77ubqHJ8vNrk9hcW8D262NyO9nmQruklOPyft5H4VQI1tSWTuPyM3JTXy-6gDZBlD7jpvPTiRGE74Txch4qdsHrj-xsHRqgbCLKY_ZQGrtrZewq2WUjY-RvOEj5TbzezMuW0wB9--VZNZEptzezt9FtQNVav8Ge-QO5mb3mQs5ECvVzv_9kDENlwgS84vhN3ANYNlqR6NbocDaX58sngJriZSaefckC5_mv33ojttf7sW5vu4IJezkDazz8_xhjLqbQS79gztAkmB3qiLI4gDbDTnMQpxAVdIIubMxnAoQRrtdwHAunBCcRn-kkyH2G6FwAjPgW3hw.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/EolckpYOuMItcYr-xW7eu22T1zItD9NkSD2iiCv9KXUlF-PaDgOZi-I2702t70Jk0XYmvs6GlwEPo2dRHUBjyUo7CP9xZeBd7cDjq2WJzV_3uOhk3G96YG5HttjnD46ik-07Qmi5ugEbftMYkK0LrsjPrqEBTWC__z9Yf907h7yYbp2SpJdi8f_G61vuokltVFCnJw_yrtEzMGUeVnccaCIkKvdjPi-DAfFNOyLkazg1jaFxrtSv0nNaUG5zCerlh9cNSHArnidr4-pK8mS5TW8NWTBQHwBuZd6DdIWF0_Y-AFtGq1srucnCvrtAa49NM_iwUzLKDxni9IU1a_CDWA.jpg" /></p>
+<b>Оценить добросовестность поставщика стало проще</b> <tg-emoji emoji-id="5431681191759603853"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F948D.png')"><b>🔍</b></i></tg-emoji><br/><br/>На Росэлторг в секции «Государственные закупки» появились новые инструменты, которые позволяют заказчикам автоматизировать проверку заявок поставщиков методом экспресс-оценки.<br/><br/>При подготовке итогового протокола заказчику становится доступна кнопка <i>«Расширенная проверка» </i>— содержание исходного отчёта заказчик формирует сам, выбирая необходимые ему параметры.<br/> <br/>По итогам проверки формируется чек-лист, который содержит цветовую индикацию результатов проверок и ссылки на реестры.<br/> <br/>Этот метод ускоряет проверку заявок: вместо того чтобы вручную искать информацию по разным источникам в короткие сроки, отведённые на рассмотрение заявок, заказчик получает <u>готовый результат, который система собирает и анализирует сама</u>.<br/><br/><tg-emoji emoji-id="5431812720838076103"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F949C.png')"><b>🔜</b></i></tg-emoji> На карточках подробнее рассказали, <b>какие сведения могут войти в расширенный отчёт.</b>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/roseltorg_tg/2468</guid>
+      <pubDate>Mon, 13 Jul 2026 09:33:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Имущественные торги по новым правилам</title>
+      <link>https://telegram.me/roseltorg_tg/2467</link>
+      <description>Имущественные торги по новым правилам
+ 
+⚡️
+
+С 1 июля 2026 года в России вступила в силу масштабная реформа законодательства об имущественных торгах. Теперь вместо множества разрозненных отраслевых процедур вводится единый порядок проведения торгов государственным и муниципальным имуществом.
+
+Что меняется:
+
+🔹
+ торги переходят в электронный формат;
+
+🔹
+участие становится бесплатным для участников;
+
+🔹
+процедуры будут проходить на утверждённых электронных площадках;
+
+🔹
+ устанавливаются единые сроки размещения извещений и заключения договоров;
+
+🔹
+ официальной площадкой для публикации информации остаётся ГИС «Торги»;
+
+🔹
+ отдельные правила уже утверждены для торгов на установку рекламных конструкций.
+
+Реформа затрагивает широкий круг направлений: землю, леса, недра, рекламу, приватизацию и другие виды имущественных торгов.
+
+В новом 
+материале
+ эксперт Джамиля Созаева разбирает уже действующие изменения, принятые нормативные акты и планы по дальнейшему развитию реформы.
+
+🔜
+Читайте подробный разбор
+ по ссылке.</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/opR-ReILYWRqPbvaU4gXHQCbsqY_Gj_tREzD_z9KtSJrLUZ8YlYuJ0g2dOly7OKG_dCFNhHLyFK3PVoJtVZ2gVGv0cx7yz4x96w7POSqmsAiQZvDhlMSd1f86pNY9_5dtVh-r9K4if31RzF4DGWNb83WwFwJfKx7pQDfaXgS9G3QWokQ_VQv5HDAhiP2TrlgbWVc9doxYkWUg6GiylESsPahteuqOiyp1VOPfOBuER49d2V77VwCN8K-DOJgBQhYbLoH3P8cGTWWUcGMSymrogigC0xmolkjd6ZWeuY0kUwjB4E80JWendpKVaEeL8wqjbTEP-DIqcxHh7oEQ1suCg.jpg" /></p>
+<b>Имущественные торги по новым правилам</b> <tg-emoji emoji-id="5431743241152130566"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29AA1.png')"><b>⚡️</b></i></tg-emoji><br/><br/>С 1 июля 2026 года в России вступила в силу масштабная реформа законодательства об имущественных торгах. Теперь вместо множества разрозненных отраслевых процедур вводится единый порядок проведения торгов государственным и муниципальным имуществом.<br/><br/><b>Что меняется:</b><br/><blockquote expandable=""><tg-emoji emoji-id="5431677644116616601"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji> торги переходят в электронный формат;<br/><tg-emoji emoji-id="5431677644116616601"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji>участие становится бесплатным для участников;<br/><tg-emoji emoji-id="5431677644116616601"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji>процедуры будут проходить на утверждённых электронных площадках;<br/><tg-emoji emoji-id="5431677644116616601"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji> устанавливаются единые сроки размещения извещений и заключения договоров;<br/><tg-emoji emoji-id="5431677644116616601"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji> официальной площадкой для публикации информации остаётся ГИС «Торги»;<br/><tg-emoji emoji-id="5431677644116616601"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji> отдельные правила уже утверждены для торгов на установку рекламных конструкций.</blockquote><br/><br/>Реформа затрагивает широкий круг направлений: землю, леса, недра, рекламу, приватизацию и другие виды имущественных торгов.<br/><br/>В новом <a href="https://dzen.ru/a/akTo9cR5nTuAlGeA" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">материале</a> эксперт Джамиля Созаева разбирает уже действующие изменения, принятые нормативные акты и планы по дальнейшему развитию реформы.<br/><br/><tg-emoji emoji-id="5431812720838076103"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F949C.png')"><b>🔜</b></i></tg-emoji><b>Читайте подробный разбор</b><a href="https://dzen.ru/a/akTo9cR5nTuAlGeA" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b> по ссылке.</b></a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/roseltorg_tg/2467</guid>
+      <pubDate>Fri, 10 Jul 2026 10:40:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Москве прошла экспертная сессия «Как попасть в алгоритмы ИИ»</title>
+      <link>https://telegram.me/roseltorg_tg/2466</link>
+      <description>В Москве прошла экспертная сессия «Как попасть в алгоритмы ИИ»
+ 
+📢
+
+Сегодня в офисе Росэлторг эксперты обсудили одну из ключевых тем для бизнеса и коммуникаций: как искусственный интеллект меняет правила видимости брендов. 
+
+Участники разобрали, как ИИ-ассистенты ищут и отбирают информацию, чем такие ответы отличаются от классической поисковой выдачи и почему 
+бизнесу важно адаптировать контент под новые сценарии взаимодействия с аудиторией
+.
+
+Спикерами на мероприятии выступили:
+
+🔹
+ 
+Игорь Кензин
+, главный инженер по разработке дивизиона «Платформы ГенИИ»; 
+
+🔹
+Евгений Цапников
+, исполнительный директор по аналитике дивизиона ИИ-помощника Сбера; 
+
+🔹
+Юлия Рубцова
+, руководитель по стратегическому маркетингу Школы Управления СКОЛКОВО;
+
+🔹
+Алексей Парфун
+, российский предприниматель и медиаменеджер.
+
+Также отдельное внимание уделили практическим кейсам крупных компаний: как бизнес перестраивает маркетинговые и коммуникационные процессы, работает с репутационными сигналами и управляет тем, как бренды представлены в новой информационной среде.
+
+Экспертная сессия была организована Росэлторг.Университетом, Ассоциацией менеджеров и GigaChat.</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/awt6aA-4DKkO8kd17IaOB3IJlcXQJ7P892RltG9dxYx7xwWtUEYLSwgAFEN_emqIiiWyObwbkej6_pUvrRmLlwZ7Gu2dthU_-a3tYBNFUU40U2ah40iEBfiFNaAtc4wGRcwZQDhkzE6a39ceZp67Itazq6aTt8LTgsw-rGBTI2lvqpC3j85TIxTYA69YCzP1syxeZtJLiLvtlhaBUn44rDa4Xhi5MWWD3lq0ZXxR4r93d8D333Bsi-IjK_b_zXhu8DAfYuxnAPlXTwomdi3ezDIpuXujob52FDMrkOIleMAT8oBMnY89bbxAXySySDVEXrHYg37fn2lnJ4cT5RVFKQ.jpg" /></p>
+<b>В Москве прошла экспертная сессия «Как попасть в алгоритмы ИИ»</b> <tg-emoji emoji-id="5431554494519338918"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93A2.png')"><b>📢</b></i></tg-emoji><br/><br/>Сегодня в офисе Росэлторг эксперты обсудили одну из ключевых тем для бизнеса и коммуникаций: как искусственный интеллект меняет правила видимости брендов. <br/><br/>Участники разобрали, как ИИ-ассистенты ищут и отбирают информацию, чем такие ответы отличаются от классической поисковой выдачи и почему <b>бизнесу важно адаптировать контент под новые сценарии взаимодействия с аудиторией</b>.<br/><br/>Спикерами на мероприятии выступили:<br/><blockquote><tg-emoji emoji-id="5431677644116616601"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji> <b>Игорь Кензин</b>, главный инженер по разработке дивизиона «Платформы ГенИИ»; <br/><tg-emoji emoji-id="5431677644116616601"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji><b>Евгений Цапников</b>, исполнительный директор по аналитике дивизиона ИИ-помощника Сбера; <br/><tg-emoji emoji-id="5431677644116616601"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji><b>Юлия Рубцова</b>, руководитель по стратегическому маркетингу Школы Управления СКОЛКОВО;<br/><tg-emoji emoji-id="5431677644116616601"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji><b>Алексей Парфун</b>, российский предприниматель и медиаменеджер.<br/></blockquote><br/><br/>Также отдельное внимание уделили практическим кейсам крупных компаний: как бизнес перестраивает маркетинговые и коммуникационные процессы, работает с репутационными сигналами и управляет тем, как бренды представлены в новой информационной среде.<br/><br/>Экспертная сессия была организована Росэлторг.Университетом, Ассоциацией менеджеров и GigaChat.]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/roseltorg_tg/2466</guid>
+      <pubDate>Thu, 09 Jul 2026 13:34:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Что изменится в проведении закупок у единственного поставщика?</title>
+      <link>https://telegram.me/roseltorg_tg/2465</link>
+      <description>Что изменится в проведении закупок у единственного поставщика?
+
+ 
+
+Об этом рассказал Анатолий Амбросов на вебинаре в рамках Дня заказчика Росэлторг. Эксперт в сфере закупок разобрал нюансы цифровизации закупок у единственного поставщика, связанные с вступившими в силу с 1 июля поправками к 44-ФЗ. В ходе встречи обсудили:
+
+ 
+
+▪️
+ Цифровизацию закупок малого объёма: основные положения и нормативное регулирование;
+
+▪️
+ Заключение, исполнение и расторжение электронного контракта по закупке малого объёма;
+
+▪️
+ Электронную приёмку в ЕИС для закупок малого объёма и регистрацию поставщиков (подрядчиков, исполнителей) в ЕРУЗ;
+
+▪️
+ Особенности гибридного подхода и преимущества полного ЭДО посредством ЕИС;
+
+▪️
+ Пост-отчёт для включения сведений в РК о закупках малого объёма.
+
+ 
+
+🔜
+ 
+Презентация
+ 
+и ответы на вопросы заказчиков
+ по итогам встречи доступна в 
+журнале Росэлторг.Кандидаты.
+
+Смотрите запись вебинара
+ на 
+📺
+ 
+платформе VK Видео
+, 
+📺
+ 
+Rutube
+ и 
+📝
+ 
+Дзене</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/DraTrdgjMVESeG_DDoUlJFKZMLXNMqx1J9J0Jhce1LTmTk9f1YQ40cRqWyG4U3HfvQZ3qNS5oawF6Wgwx1-vXLrRT7MDcBmYkBR0TXycN-ccqu4Wwx-kBXmklL2H6evPOxodno-ivSjsKr2P9pzWDKi1WajlRDrifb3a7IunpIiZI6KatjFsXtKE_0SQToOCn7pzRP3RUmTbXYdi1gnrGtIK7c7VpUQdJpQMZ3A8Jkv1EEEbA094zirfZw_AOyHqlaaRkfHRio96SBCncFHuzHnmu4ZDu1yiy2a4ytvO9tuYDEKZ2lSiBwU5d93Vs5q8uleDTTMZSZKbj2RqUFHMzA.jpg" /></p>
+<b>Что изменится в проведении закупок у единственного поставщика?</b><br/> <br/>Об этом рассказал Анатолий Амбросов на вебинаре в рамках Дня заказчика Росэлторг. Эксперт в сфере закупок разобрал нюансы цифровизации закупок у единственного поставщика, связанные с вступившими в силу с 1 июля поправками к 44-ФЗ. В ходе встречи обсудили:<br/> <br/><tg-emoji emoji-id="5431674671999246069"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E296AA.png')"><b>▪️</b></i></tg-emoji> Цифровизацию закупок малого объёма: основные положения и нормативное регулирование;<br/><tg-emoji emoji-id="5431674671999246069"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E296AA.png')"><b>▪️</b></i></tg-emoji> Заключение, исполнение и расторжение электронного контракта по закупке малого объёма;<br/><tg-emoji emoji-id="5431674671999246069"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E296AA.png')"><b>▪️</b></i></tg-emoji> Электронную приёмку в ЕИС для закупок малого объёма и регистрацию поставщиков (подрядчиков, исполнителей) в ЕРУЗ;<br/><tg-emoji emoji-id="5431674671999246069"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E296AA.png')"><b>▪️</b></i></tg-emoji> Особенности гибридного подхода и преимущества полного ЭДО посредством ЕИС;<br/><tg-emoji emoji-id="5431674671999246069"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E296AA.png')"><b>▪️</b></i></tg-emoji> Пост-отчёт для включения сведений в РК о закупках малого объёма.<br/> <br/><tg-emoji emoji-id="5431812720838076103"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F949C.png')"><b>🔜</b></i></tg-emoji> <b>Презентация</b> <b>и ответы на вопросы заказчиков</b> по итогам встречи доступна в <a href="https://cv.roseltorg.ru/journal/article/osobennosti-tsifrovizatsii-zakupok-u-edinstvennogo-postavschika-po-44-fz#" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">журнале Росэлторг.Кандидаты.</a><br/><br/><b>Смотрите запись вебинара</b> на <tg-emoji emoji-id="5422413713191744617"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93BA.png')"><b>📺</b></i></tg-emoji> <a href="https://vkvideo.ru/video-175203258_456239749" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">платформе VK Видео</a>, <tg-emoji emoji-id="5298747646096187189"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93BA.png')"><b>📺</b></i></tg-emoji> <a href="https://rutube.ru/video/091c9828716fa18a9aa8124109eb0a18/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Rutube</a> и <tg-emoji emoji-id="5305260190906471236"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F939D.png')"><b>📝</b></i></tg-emoji> <a href="https://dzen.ru/video/watch/6a4e1b1396516e5c61db222b" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Дзене</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/roseltorg_tg/2465</guid>
+      <pubDate>Wed, 08 Jul 2026 12:32:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Как проверить наличие задолженности на Росэлторг?</title>
+      <link>https://telegram.me/roseltorg_tg/2463</link>
+      <description>Как проверить наличие задолженности на Росэлторг?
+
+Задолженность за участие в электронных процедурах может возникнуть, если клиент не оплатил услуги оператора в соответствии с требованиями регламентов торговых секций.
+
+1️⃣
+ Зайти в личный кабинет 
+Росэлторг.ID
+ и посмотреть в верхнюю часть экрана. 
+
+2️⃣
+ Если задолженность имеется, пользователь может перейти в раздел «Финансы» и заказать отчёт с детальной информацией: по каким операциям она сформировалась и в каком размере. Когда отчёт будет готов, можно будет скачать файл.
+
+3️⃣
+ Оплачивайте своевременно любым удобным способом.
+
+О том, как зарегистрироваться в 
+Росэлторг.ID
+, рассказывали в этом 
+посте
+.</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/AhnYgtBk-Hg-0ASkmYb_21jexTTJxJAWio2imCbtvwdt138gRnUl5LlZu0lXDgoyRZISoWKqeAofYDNtgTNaabgtVvvClk_RPC0ibsDAnHv4MqWfKod9_GEK_o-DM4VuHAzT01aRZfINEurdB7vOes4ZCy9fasiL6wWcoxRQ5QrGNoXbdOBwgeAYOutkWoJMZtyjXCUdNbsNZLk7j0RkDFhQAok-clsJHONViIwY9s8-Rq9PaeNBiAhldaeNVgp9hs49MElVsEg_MVAaHOZAlQl0sH1viz9tiHBoAKVOaP2vApRyVvBnHj3pkExHKEROb0Tzt02dtjDI6y7ITRdr4w.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/lUa7PJcZdhco0yJ0ijM4TqkOGP5Psp3GMuYGKJQthS_2uMIjwaKPL98kKpIxZAeVlSKJwSSlHxRod8waUkbXn8h-Qf-c80AnPBHqjL0LnBE0SlGJx0qrIM3BJRrIKIWbiSqMqtGqagRYTUJwtjdJO8DH5PmUwNTulTIN8T584EWvjwD0ZHJFzstsAP1ZTlI5pJZjXFw6EJN3W-6KCtt1tdYFM9efqBZNKJNjxdhHmzqSa5NlP7TlqqYkRY5cugXq0zv6V73rblSyxKdrC_eJcMsKh2_f-BWRcqgrwEJ0UuVQNEHq2mVPz3ZV4ZCouYSQI-10XNzI6KVWZBHrgD0BRA.jpg" /></p>
+<b>Как проверить наличие задолженности на Росэлторг?</b><br/><br/>Задолженность за участие в электронных процедурах может возникнуть, если клиент не оплатил услуги оператора в соответствии с требованиями регламентов торговых секций.<br/><br/><tg-emoji emoji-id="5431576261413593703"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/31E283A3.png')"><b>1️⃣</b></i></tg-emoji> Зайти в личный кабинет <a href="https://lk.roseltorg.ru/oauth?utm_source=tg&amp;amp;utm_medium=post" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Росэлторг.ID</a> и посмотреть в верхнюю часть экрана. <br/><br/><tg-emoji emoji-id="5431576231348822894"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/32E283A3.png')"><b>2️⃣</b></i></tg-emoji> Если задолженность имеется, пользователь может перейти в раздел «Финансы» и заказать отчёт с детальной информацией: по каким операциям она сформировалась и в каком размере. Когда отчёт будет готов, можно будет скачать файл.<br/><br/><tg-emoji emoji-id="5431477159338205255"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/33E283A3.png')"><b>3️⃣</b></i></tg-emoji> Оплачивайте своевременно любым удобным способом.<br/><br/>О том, как зарегистрироваться в <a href="https://lk.roseltorg.ru/oauth?utm_source=tg&amp;amp;utm_medium=post" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Росэлторг.ID</a>, рассказывали в этом <a href="https://telegram.me/roseltorg_tg/2429" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">посте</a>.]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/roseltorg_tg/2463</guid>
+      <pubDate>Tue, 07 Jul 2026 11:33:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Какие навыки сегодня определяют сильного закупщика?</title>
+      <link>https://telegram.me/roseltorg_tg/2462</link>
+      <description>Какие навыки сегодня определяют сильного закупщика?
+
+Сейчас специалист по закупкам управляет сложными проектами, объединяет интересы бизнеса и разных подразделений компании, а главное — постоянно учится, ведь рынок меняется быстрее любых регламентов.
+
+Анна Ермакова
+, 
+директор по закупкам ПАО «Московская биржа»
+, в интервью журналу Росэлторг.Кандидаты рассказала о своей карьере и поделилась:
+
+🔹
+ Почему знание рынка важнее знания процедур?
+
+🔹
+ Какие специалисты действительно востребованы работодателями?
+
+🔹
+ Какие качества отличают сильного закупщика?
+
+🔹
+ Почему ИИ лишь «джун» в закупках?
+
+➡️
+ 
+Подробнее читайте в новом
+ интервью журнала Росэлторг.Кандидаты.
+ В конце — совет для тех, кто только начинает карьеру в профессии.</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/oFTWknfPkXpL6o6vguy4YGlwF_Nict8ZyKUPwJw-J2jFNzgHBcaGQpbssHvN_RhnzaSV9CNzKgWfP9191TwFBJsu2VAuGJyC6tKzU6DoLdSwa2tX_V1koD0tE4l2W_1-ZqPHXaLZEzTfS24Mef7NsEiZb7uoheHDS34Dwx89RrUyKEeDsFeoupJY5UOixlBuxRjhys_MJFpuCvr8lDrdJPq5-vcHyEA_4olDizwo4OVZXGWa10V1EJHCyd70DzLQ_B6IOTu47gvrK4YJlhRA2SuJT5citzCPdiRb52YOLcQ3M1vhVAWtRpQU9ssFSnjZmbgozqAgJm0zTuPvahBirQ.jpg" /></p>
+<b>Какие навыки сегодня определяют сильного закупщика?<br/></b><br/>Сейчас специалист по закупкам управляет сложными проектами, объединяет интересы бизнеса и разных подразделений компании, а главное — постоянно учится, ведь рынок меняется быстрее любых регламентов.<br/><br/><b>Анна Ермакова</b>, <i>директор по закупкам ПАО «Московская биржа»</i>, в интервью журналу Росэлторг.Кандидаты рассказала о своей карьере и поделилась:<br/><br/><tg-emoji emoji-id="5431677644116616601"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji> Почему знание рынка важнее знания процедур?<br/><tg-emoji emoji-id="5431677644116616601"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji> Какие специалисты действительно востребованы работодателями?<br/><tg-emoji emoji-id="5431677644116616601"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji> Какие качества отличают сильного закупщика?<br/><tg-emoji emoji-id="5431677644116616601"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji> Почему ИИ лишь «джун» в закупках?<br/><br/><tg-emoji emoji-id="5431487651943308807"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29EA1.png')"><b>➡️</b></i></tg-emoji> <b>Подробнее читайте в новом</b><a href="https://cv.roseltorg.ru/journal/article/rynok-vsegda-znaet-bolshe-chem-ty-anna-ermakova-o-transformatsii-professii-zakupschika?utm_source=tg&amp;amp;utm_medium=post" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b> интервью журнала Росэлторг.Кандидаты.</b></a> В конце — совет для тех, кто только начинает карьеру в профессии.]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/roseltorg_tg/2462</guid>
+      <pubDate>Mon, 06 Jul 2026 14:02:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️</title>
+      <link>https://telegram.me/roseltorg_tg/2461</link>
+      <description>⚡️
+ С 18 по 22 августа в Республике Алтай пройдёт всероссийский форум «О госзакупках по-русски», генеральным партнёром которого выступит Росэлторг. 
+
+Форум объединит представителей органов власти, юристов и экспертов в сфере закупок для обсуждения актуальной правоприменительной практики по 44-ФЗ и 223-ФЗ.
+
+В рамках деловой программы выступит Джамиля Созаева, доктор экономических наук и руководитель образовательных программ Росэлторг. Эксперт расскажет о практике закупок в двух значимых направлениях:
+
+🔹
+ ремонт и содержание автомобильных дорог: как «обойти ямы и канавы» в процессе закупок;
+
+🔹
+ благоустройство зон отдыха и национальных парков: лучшие практики проведения закупок.
+
+🔜
+ Подать заявку и ознакомиться с полной программой мероприятия можно на 
+сайте
+.</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/EsJhBks9oDznD4X5VhwmjtZF_sQrpKfOzjhpfdu14Jozc2HMrq7sksKwgYILI4TvBFbMQqp0zv3wGp8nbKZlL3YBj0KjRRkKDl6yrpxUzjMOeTwvyX2yiovYjJ7JFbMyKRfTV27jNGjQn-lsI-bjDxfdg_bI5u_PTGvzifxZWVGV6Uu4WHWQlqtfmWQiiTVXX9Xl-gtyjPi9Gy6lXISN8nkp1hJe50qK2TzMMb5p67ORHaB49-QSKOFRWGQ6BCIJwVPjAlZ2YxaGtRkrfT1YpURwcCy03y4sg_SlcfcS4rXWeEbW0sWqPkAhjv_uRClDdfutw60iTdX2Agz7J-jLtQ.jpg" /></p>
+<tg-emoji emoji-id="5431743241152130566"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29AA1.png')"><b>⚡️</b></i></tg-emoji> С 18 по 22 августа в Республике Алтай пройдёт всероссийский форум «О госзакупках по-русски», генеральным партнёром которого выступит Росэлторг. <br/><br/>Форум объединит представителей органов власти, юристов и экспертов в сфере закупок для обсуждения актуальной правоприменительной практики по 44-ФЗ и 223-ФЗ.<br/><br/>В рамках деловой программы выступит Джамиля Созаева, доктор экономических наук и руководитель образовательных программ Росэлторг. Эксперт расскажет о практике закупок в двух значимых направлениях:<br/><blockquote><tg-emoji emoji-id="5431677644116616601"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji> ремонт и содержание автомобильных дорог: как «обойти ямы и канавы» в процессе закупок;<br/><tg-emoji emoji-id="5431677644116616601"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji> благоустройство зон отдыха и национальных парков: лучшие практики проведения закупок.</blockquote><br/><br/><tg-emoji emoji-id="5431812720838076103"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F949C.png')"><b>🔜</b></i></tg-emoji> Подать заявку и ознакомиться с полной программой мероприятия можно на <a href="https://forum-goszakupki.ru/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">сайте</a>.]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/roseltorg_tg/2461</guid>
+      <pubDate>Mon, 06 Jul 2026 10:06:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>⭐️</title>
+      <link>https://telegram.me/roseltorg_tg/2460</link>
+      <description>⭐️
+RLT.Conf признана лучшей в номинации «Системный вклад»
+
+Сегодня состоялась торжественная церемония вручения национальной премии «Хакатоны России» в области организации и проведения хакатонов и ИТ-соревнований.
+
+В номинации «Системный вклад» победил проект 
+RLT.Conf «В ИТ с головой: кросс-функциональные взаимодействия»
+ от Росэлторг.Университета.
+
+RLT.Conf стала ключевым событием экосистемы Росэлторг.Университета, которая объединяет хакатоны, интенсивы, конференции и профессиональное ИТ-сообщество. В октябре 2025 года конференция собрала представителей ИТ, бизнеса, HR, маркетинга и дизайна, показав, что сильные технологические проекты рождаются на стыке компетенций и эффективной коммуникации.
+
+Победа RLT.Conf — это признание системной работы Росэлторг.Университета по развитию профессионального ИТ-сообщества. Наша цель — и дальше создавать уникальную среду, где просвещение становится отправной точкой для реальных изменений. И, конечно, продолжим развивать отрасль,
+ — отметила Виктория Яшина, заместитель генерального директора по организационному развитию Росэлторг.
+
+Проект стал не отдельным мероприятием, а частью непрерывной траектории развития участников: от хакатонов и интенсивов до экспертных встреч, профессионального общения и дальнейшего взаимодействия внутри сообщества.</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/jlYmXssZ1LSRzzUGmFhX5HokRldmq3vdhmJPDOm4U-pgPEWNuGNknSg-trSmevFWGbShLe7MMHyN4EOZiUlKtOgR1qx5_j2FHYIw2_nVi53HPKvr42wqVX1VuWd6xcrhpsut3ziUjvQa02hriwQJMDPwxM81gbt4eNzzpCnRQsB8RZbGUpfwZTFgdSrFSVMXezhnJ_0w-x5WH_sAolZB7NDWhkQAJdFzIiMJnsolIP6nT7M_fHKrLGLHvxKOxZ5hdcrF1Cs3Ku--DrqmukFB3CUK-HVKvL4K6JPqFkmD45EKPMmpCHDMuGHBhLyecF_qk79d3MnKeLHkrgdWiyoIdA.jpg" /></p>
+<tg-emoji emoji-id="5438496463044752972"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E2AD90.png')"><b>⭐️</b></i></tg-emoji><b>RLT.Conf признана лучшей в номинации «Системный вклад»</b><br/><br/>Сегодня состоялась торжественная церемония вручения национальной премии «Хакатоны России» в области организации и проведения хакатонов и ИТ-соревнований.<br/><br/>В номинации «Системный вклад» победил проект <b>RLT.Conf «В ИТ с головой: кросс-функциональные взаимодействия»</b> от Росэлторг.Университета.<br/><br/>RLT.Conf стала ключевым событием экосистемы Росэлторг.Университета, которая объединяет хакатоны, интенсивы, конференции и профессиональное ИТ-сообщество. В октябре 2025 года конференция собрала представителей ИТ, бизнеса, HR, маркетинга и дизайна, показав, что сильные технологические проекты рождаются на стыке компетенций и эффективной коммуникации.<br/><br/><blockquote><i>Победа RLT.Conf — это признание системной работы Росэлторг.Университета по развитию профессионального ИТ-сообщества. Наша цель — и дальше создавать уникальную среду, где просвещение становится отправной точкой для реальных изменений. И, конечно, продолжим развивать отрасль,</i> — отметила Виктория Яшина, заместитель генерального директора по организационному развитию Росэлторг.</blockquote><br/><br/>Проект стал не отдельным мероприятием, а частью непрерывной траектории развития участников: от хакатонов и интенсивов до экспертных встреч, профессионального общения и дальнейшего взаимодействия внутри сообщества.]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/roseltorg_tg/2460</guid>
+      <pubDate>Fri, 03 Jul 2026 17:24:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡️</title>
+      <link>https://telegram.me/roseltorg_tg/2454</link>
+      <description>⚡️
+ 
+Что изменилось в закупках за июнь? 
+
+Предлагаем внимательно изучить 
+обзор
+ принятых нормативно-правовых актов и проектов федеральных органов власти за июнь 2026 года. В карточках разобрали опубликованные НПА в области Законов № 44-ФЗ и № 223-ФЗ, промышленной политики, МСП и связи, которые уже вступили в силу или вступят в следующем году.
+
+🔜
+ Полный обзор читайте в
+ статье журнала Росэлторг.Кандидаты
+ и оставайтесь в курсе последних событий!</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/AqJVZB9TqICFxfzEgxAMjmNB3QuAS0KjUjx_0gbzv3QESopOl1vSegTmITVVru-H0FfKb_MziZmsQRtoQrsYn-RzC3LAprw_xhVzbNwEMiOQol94zaCwLWNNlCCdwk83zlSg0p7jOMsbaYhJxdvydorvdTw3jTXZjOjwYUnSAfVpk9r1fhzP8pC5jh34pAkpHKfbjLsCunAnFF-0LNhYtWSU1yuoxmW9w56tLvYB3owN3CN2NecQYapWNMAnd-ZFYp1y-vdUZU_6B9h-SRVbr5_p2j0062akQgE2RPk20f0RAI2mg7Dsk1PmL_bg8nM-8H4rV9WqCOD5km4KTxk-JA.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/bR9kJtsWYSryHrD6lfNBr6Q9vqiWntFIRerUOr3o2T602HF130qz-i-JdY2Qi3RFAQAI27u6W_66tfy-oZYu_KYP-rw5J-sjxB548tp68qnjwEfJpchDNu0iDQ-ZY03qFczGyuE-BRdcTb6C3R9_ceVkZrzxkWtjXElyC8Xkq1Pc6p8wG_NUDVeSBWwhB_TuNelM5_LQ36w970H7_Chnz0Tfzo-3CTuUCtIPsRGMruxC5sDhWEw40Tf00WOxG2Y2UiMu-WkGuqWhNyNtUnYClECJ7ZBoqjE_wxFfoFu8G7pMq7hsTtWji0PVUHxniE9WZ2UU-RMp4yE9_wQ3hxGVcA.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/HUUJvAYNTvQN6jFvI2Iz_C7I69iBmpMbVT6dgL4C736Tuz4fbyhv38f6WRQSxSydysvKP5geEto-yZY1Gewgl0BpiCeBNaP4AioY39mhoD_rMAwC-LqJLZx1MJyTJgB4_rNg_AL2d4NbVrH2H0Mw_5PtG5obTRw9Rn0izHy9UfNFLZ3eBYZeo7y8FOP7xm1X4JcqL6-NwMfKofA4HJLMuNBqW9Ip8ruYh_t_KGyV3BCTSEiDGPnUuqZViHhGhaPM4vMYuoKb_Tra003gAk9t_ZQupS9GuXLrKQUIf0g9KUyzRRWb0W6ACpLxtHjSBZVA9qEbDZBctRYBH1csQXtbOw.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/EvvHamZKdlpX6zjNKnYtEodfqRwHQdcqyvuwXAlvDtlCMX8gAO2S0OXeNzx5AYYOPEc5CkbBQVYiVxsO-3H6s4NYzgegqqhYSnBKgaQCMhVHLK6KoO256M2hel1z0MOzErJ43PLpPdcqF-lCLBx1Z36P4vjX-X-5k_gdPg7U6oXkP1cecuduvgnYvbzETY6wM1ZwdsD86AjHqMJ5EaIP92j8diIbogb7Pfo-gY719BE1rydhmn8WdWKMDnJ0Xjkb1MUTA9a5Mu1uI2wXR5soHJ2-BP0tpMrVFHra4Kp1RTFuNMiD-ynuAWuKA76tbYW1zYW3bDmrGhEtCCcN3q_THw.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/Z0bFqJGTQ8JjPDTijAHe5vGf_yq-hQ422y4eJSKtJEdhpGXO4D4k2bF64KT0EmNRSgsmHZ6gmAPiPn9f_v0eJPLsOWdIJG_yZ7MeJRyX4XnYnlqGKdrPlR-tLPatuYAMu0O1U7AKcJvbnOnZ9n1X61iA1CgC2tcq7AW8SnggAr_JYForlMD3IqwKxHpmmuhxWt-afaZONMPSdApI2kbhwighqCz8fsFjH_7R6gGHrfLz0euNrzAuc_81Wf0AAc2Peovg_lCHCE9NuuESZjLeqt0YlP4bHEJ-GadtFd_ZrWt1JF73_D4gwuwBx9flc8c0eGd0hIthgpKPXmcqwn3hHA.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/N7swyUpfYw-cP12IFam-fh8oO9bogP1JrJlWWOBss3dtQqkoQDcD_i3SZNPJdsZ8exXs6AXuAY5BAbHsQhm53wEGyd8F0AcOcj79LvNrkuHKE9dqRREtLkMhBq_q53FLItfKZ6xEUr3fPhVeTNlUxQXq9Trt_Y-LRlsBq4IPuKHSf8eVi0FqDzQMWs-ar2f0b0xJpZmX2Ea4X3Jfg_3VMbUQali3bnWqQ-XQUDUdWl5MO3Ga74f0FbXVGrc2eZjiuHTqNkrMIGmXcL8Ig9hNVtzfqbJ8c4wdU5Cv-K0pgi4yKcZkVgDVPeXsI08XavjvPr-ChXLRWWWFieIVZFbo8g.jpg" /></p>
+<tg-emoji emoji-id="5431449001532594346"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29AA1.png')"><b>⚡️</b></i></tg-emoji> <b>Что изменилось в закупках за июнь? </b><br/><br/>Предлагаем внимательно изучить <a href="https://cv.roseltorg.ru/journal/article/chto-izmenilos-v-zakupkakh-za-iyun-2026-goda?utm_source=tg&amp;amp;utm_medium=post&amp;amp;utm_campaign=obzor" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">обзор</a> принятых нормативно-правовых актов и проектов федеральных органов власти за июнь 2026 года. В карточках разобрали опубликованные НПА в области Законов № 44-ФЗ и № 223-ФЗ, промышленной политики, МСП и связи, которые уже вступили в силу или вступят в следующем году.<br/><br/><tg-emoji emoji-id="5431812720838076103"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F949C.png')"><b>🔜</b></i></tg-emoji> Полный обзор читайте в<a href="https://cv.roseltorg.ru/journal/article/chto-izmenilos-v-zakupkakh-za-iyun-2026-goda?utm_source=tg&amp;amp;utm_medium=post&amp;amp;utm_campaign=obzor" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"> статье журнала Росэлторг.Кандидаты</a> и оставайтесь в курсе последних событий!]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/roseltorg_tg/2454</guid>
+      <pubDate>Fri, 03 Jul 2026 12:04:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Росэлторг стал лидером сразу в трёх номинациях исследования</title>
+      <link>https://telegram.me/roseltorg_tg/2453</link>
+      <description>Росэлторг стал лидером сразу в трёх номинациях исследования
+ «Эксперт РА» и «Эксперт Бизнес-Решения»
+:
+
+ 
+
+🏅
+«Общая оценка качества услуг и результатов закупок»;
+
+🏅
+«Разнообразие торговых секций»; 
+
+🏅
+«Способность площадки способствовать импортозамещению».
+
+В опросе принимали участие компании, чей объём закупок по итогам 2025 года составил не менее 500 млн рублей. Площадки оценивались на основе реального опыта работы с ними в процессе закупок. 
+
+Участники анализировали взаимодействие с площадкой по нескольким направлениям: удобство интерфейсов и общая функциональность платформ, качество клиентского обслуживания, наличие и востребованность дополнительных цифровых сервисов, доступность аналитических инструментов.
+
+Для Росэлторг это важная оценка со стороны профессионального рынка и дополнительный ориентир для дальнейшего развития сервисов площадки.</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/bo5D0XJfTHWAbeuWKDPW9q0h6TIXNVLDO6vFctqMsSdwX3S62dxZTNpCQihdh0r59XPG-OoyhlBeZnJM2RCEgooNpZrbXgGbKSS-XUhLtaBSBW0fHUEst_hjxCPJ2vVfwo1tqa3APgTGGLRLaGYAra6cPtTaBQUr7NlhVJ78QJ-T3oLz6SouTYRUQbzqVx6MNxu30nvlwSdo3pfWo3KWk2K1FCRyCNt9YRxH7yXrZaj5CXN9vib1n9Fa1_SnvLvioZw1bTbVxNPgDbVO8hleQU6p4N9ZCK4SUzpu3Yr25TbxFL8eSSvobE25wEQfop0_rDOg4UMF5ZtRcxHcwSXXVQ.jpg" /></p>
+Росэлторг стал лидером сразу в трёх номинациях исследования<a href="https://www.raexpert.ru/releases/2026/jul01h" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"> «Эксперт РА» и «Эксперт Бизнес-Решения»</a>:<a href="https://www.raexpert.ru/releases/2026/jul01h" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><br/></a> <br/><tg-emoji emoji-id="5433895779976634698"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8F85.png')"><b>🏅</b></i></tg-emoji><i>«Общая оценка качества услуг и результатов закупок»;<br/></i><i><tg-emoji emoji-id="5433895779976634698"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8F85.png')"><b>🏅</b></i></tg-emoji></i><i>«Разнообразие торговых секций»; <br/></i><i><tg-emoji emoji-id="5433895779976634698"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8F85.png')"><b>🏅</b></i></tg-emoji></i><i>«Способность площадки способствовать импортозамещению».<br/><br/></i>В опросе принимали участие компании, чей объём закупок по итогам 2025 года составил не менее 500 млн рублей. Площадки оценивались на основе реального опыта работы с ними в процессе закупок. <br/><br/>Участники анализировали взаимодействие с площадкой по нескольким направлениям: удобство интерфейсов и общая функциональность платформ, качество клиентского обслуживания, наличие и востребованность дополнительных цифровых сервисов, доступность аналитических инструментов.<br/><br/>Для Росэлторг это важная оценка со стороны профессионального рынка и дополнительный ориентир для дальнейшего развития сервисов площадки.]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/roseltorg_tg/2453</guid>
+      <pubDate>Thu, 02 Jul 2026 15:00:04 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

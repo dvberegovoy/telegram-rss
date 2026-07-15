@@ -1,0 +1,328 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>УЦ ФК</title>
+    <link>https://dvberegovoy.github.io/telegram-rss/feeds/uc_fk.xml</link>
+    <description>RSS-лента канала @uc_fk, собранная из публичного веб-превью Telegram.</description>
+    <atom:link href="https://dvberegovoy.github.io/telegram-rss/feeds/uc_fk.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>telegram_rss.py</generator>
+    <language>ru</language>
+    <lastBuildDate>Wed, 15 Jul 2026 10:26:30 +0000</lastBuildDate>
+    <item>
+      <title>🔐</title>
+      <link>https://telegram.me/uc_fk/688</link>
+      <description>🔐
+ 
+Экспертный совет по вопросам внедрения и использования электронной подписи и сертификатов безопасности
+
+В разделе 
+Координационно-совещательные органы официального сайта Минцифры
+ России создана 
+страница Экспертного совета по вопросам внедрения и использования электронной подписи и сертификатов безопасности.
+ 
+
+Совет 
+воссоздан
+ приказом Минцифры от 09.12.2025 № 1157 и призван стать ключевой площадкой для диалога между регуляторами, бизнесом и экспертами сферы. Основная цель - совершенствование госполитики и нормативного регулирования в сфере ЭП. 
+
+В фокусе внимания:
+
+🔹
+развитие инфраструктуры электронного доверия и работы аккредитованных удостоверяющих центров.
+
+🔹
+формирование единой научно-технической политики для средств ЭП, УЦ и российской криптографии.
+
+🔹
+решение практических проблем, с которыми сталкиваются бизнес и пользователи при использовании ЭП.
+
+Первое заседание обновленного совета состоялось в февраля, в нем приняли участие более 40 чел. Участники подняли ряд ключевых вопросов:
+
+🔹
+импортозамещение: внедрение сертификатов подписи кода с криптографией ГОСТ на базе российских ОС (Linux) и Android.
+
+🔹
+практические коллизии: проблема аннулирования квалифицированных сертификатов, правила применения простой, неквалифицированной и квалифицированной ЭП в сценариях B2B, B2C и C2C.
+
+🔹
+долгосрочное хранение: необходимость легализации сервисов штампов времени (OCSP, TSP) и нормативного регулирования хранения документов с ЭП.
+
+🔹
+инфраструктура PKI: формализация требований к сертификатам и аудиту удостоверяющих центров.
+
+На странице размещен 
+План работы на 2026 год
+, 
+протокол I заседания
+ и 
+заочного голосования.
+
+Телеграм-канал "Об ЭП и УЦ" приветствует создание страницы Совета как шаг к открытости деятельности регулятора. Хочется надеяться, чтобы площадка стала рабочим мостом между законом и реальностью. Ключевой фактор эффективности - это не состав, а регулярность диалога, 
+исправление многочисленных ошибок
+ и глубокая проработка прикладных кейсов, с которыми ежедневно сталкивается наше общество.
+
+✍️
+"Об ЭП и УЦ"</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/Ga2dJjKvevU3BtdR_-nhe1LBX1rPCwMHpZTX65YDZkiA8bqnj69wvjl2Ey6ytzA3Wfz7BaED-g3v3h8oXbATKXvDN41POKp16qlGxaUSeHEIGWg2pqZrvaouGDqqJEGM9dfV75noK1lgrkA_QbYGhQKYENXJG499kaY6UBq6ddAgTCoR1z-ctLfP7oH74zPTbYcMYs_NebAw9er44nj6n3z23X1B6aN5ub6FJO2gvtxWs57zCNNU2HJ77feeQjiNzxfabQAhrlZwVvmp0-_E9zQAuCbC3198DgOfpQIbP6hVlsXzBCUriAyPB6B_kTImEEvQH3COrh-tfZu6vPejjg.jpg" /></p>
+<tg-emoji emoji-id="5327952221118164589"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9490.png')"><b>🔐</b></i></tg-emoji> <b>Экспертный совет по вопросам внедрения и использования электронной подписи и сертификатов безопасности</b><br/><br/>В разделе <a href="https://digital.gov.ru/ministry/structure#navQuickSection4" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Координационно-совещательные органы официального сайта Минцифры</a> России создана <a href="https://digital.gov.ru/advisory/ekspertnyj-sovet-po-voprosam-vnedreniya-i-ispolzovaniya-elektronnoj-podpisi-i-sertifikatov-bezopasnosti" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">страница Экспертного совета по вопросам внедрения и использования электронной подписи и сертификатов безопасности.</a> <br/><br/>Совет <a href="https://telegram.me/ep_uc/4371" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">воссоздан</a> приказом Минцифры от 09.12.2025 № 1157 и призван стать ключевой площадкой для диалога между регуляторами, бизнесом и экспертами сферы. Основная цель - совершенствование госполитики и нормативного регулирования в сфере ЭП. <br/><br/>В фокусе внимания:<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>развитие инфраструктуры электронного доверия и работы аккредитованных удостоверяющих центров.<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>формирование единой научно-технической политики для средств ЭП, УЦ и российской криптографии.<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>решение практических проблем, с которыми сталкиваются бизнес и пользователи при использовании ЭП.<br/><br/>Первое заседание обновленного совета состоялось в февраля, в нем приняли участие более 40 чел. Участники подняли ряд ключевых вопросов:<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>импортозамещение: внедрение сертификатов подписи кода с криптографией ГОСТ на базе российских ОС (Linux) и Android.<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>практические коллизии: проблема аннулирования квалифицированных сертификатов, правила применения простой, неквалифицированной и квалифицированной ЭП в сценариях B2B, B2C и C2C.<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>долгосрочное хранение: необходимость легализации сервисов штампов времени (OCSP, TSP) и нормативного регулирования хранения документов с ЭП.<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>инфраструктура PKI: формализация требований к сертификатам и аудиту удостоверяющих центров.<br/><br/>На странице размещен <a href="https://adm.digital.gov.ru/app/uploads/2026/05/9e8c2c_plan_raboty_ekspertnogo-soveta-na-2026-g.-pechatnaya-forma.pdf" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">План работы на 2026 год</a>, <a href="https://adm.digital.gov.ru/app/uploads/2026/06/ac46d8_27.02.2026_405pr_protokol_i_zasedaniya_ekspertnogo-soveta-pechatnaya-forma.pdf" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">протокол I заседания</a> и <a href="https://adm.digital.gov.ru/app/uploads/2026/06/0ccc4c_25.05.2026_390pr_protokol_zaochnogo_golosovaniya-pechatnaya-forma.pdf" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">заочного голосования.</a><br/><br/><b>Телеграм-канал "Об ЭП и УЦ" приветствует создание страницы Совета как шаг к открытости деятельности регулятора. Хочется надеяться, чтобы площадка стала рабочим мостом между законом и реальностью. Ключевой фактор эффективности - это не состав, а регулярность диалога, </b><a href="https://telegram.me/ep_uc/4371" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b>исправление многочисленных ошибок</b></a><b> и глубокая проработка прикладных кейсов, с которыми ежедневно сталкивается наше общество.</b><br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/uc_fk/688</guid>
+      <pubDate>Fri, 19 Jun 2026 17:35:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>📊</title>
+      <link>https://telegram.me/uc_fk/687</link>
+      <description>📊
+ 
+Топ-10 аккредитованных удостоверяющих центров: Госключ рвётся к лидерству
+
+За 5 месяцев 2026 года выдано 8,18 млн. сертификатов - на 20% больше, чем год назад. Топ-10 АУЦ стабильно контролируют &gt;91% всей выдачи сертификатов в стране (статистика за аналогичный период прошлого года 
+по ссылке
+).
+
+🚀
+ ИнфоТеКС ИТ взлетел со 886 тыс. до 1,83 млн. - рост квалифицированных сертификатов Госключа более чем вдвое. Отрыв от лидера топа - УЦ ФНС России сократился до 386 тыс.
+
+🔹
+УЦ ФНС России с 2,22 млн. - стабильный лидер, показывающий плановые показатели для рынка ЮЛ/ИП.
+
+🔹
+ИИТ - 1,83 млн., стремительно догоняет за счёт квалов для физлиц.
+
+🔹
+УЦ ФК
+ - 1,14 млн. и крепкая 3-я позиция.
+
+📈
+ Если ИИТ сохранит темп, то в 2027 году произойдет смена лидера.
+
+Ещё больше новостей о сфере электронной подписи - 
+@ep_uc
+
+✍️
+"Об ЭП и УЦ"</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/OdfL3GHKTtb44rkZeBqbcDfWyDGY-lUonWmiJ8Gs4Ptaal5dbRlyD48VYbomHp78qsMvUuBpIt3tckIC8kZI5XRzlTpwWfhvQjNkdbE6lB6ihFNNJK61PH7JcjhUa-DujpRuT-S0IPRX6kKusCvkLT7ez_rAeybPLskQVmYoxgICmrw3rqvHnEcUQJAnEuXKbQLS63Ycq2vCn3QaEkM5X7oT9EHtaLMBL1q6QvQJxMQrkPoYFKRFKFXohxGsBceSj7n8VbL0CrbdAZ5s9QW8Z9eSdA2q8qxPjRVuRhqEOPyImRp0UspGjl9j7VsIVsCsrjiotsfJgG71kDIZjzUAWg.jpg" /></p>
+<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938A.png')"><b>📊</b></i> <b>Топ-10 аккредитованных удостоверяющих центров: Госключ рвётся к лидерству<br/></b><br/>За 5 месяцев 2026 года выдано 8,18 млн. сертификатов - на 20% больше, чем год назад. Топ-10 АУЦ стабильно контролируют &gt;91% всей выдачи сертификатов в стране (статистика за аналогичный период прошлого года <a href="https://telegram.me/ep_uc/3529" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">по ссылке</a>).<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9A80.png')"><b>🚀</b></i> ИнфоТеКС ИТ взлетел со 886 тыс. до 1,83 млн. - рост квалифицированных сертификатов Госключа более чем вдвое. Отрыв от лидера топа - УЦ ФНС России сократился до 386 тыс.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>УЦ ФНС России с 2,22 млн. - стабильный лидер, показывающий плановые показатели для рынка ЮЛ/ИП.<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>ИИТ - 1,83 млн., стремительно догоняет за счёт квалов для физлиц.<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i><a href="https://telegram.me/uc_fk" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">УЦ ФК</a> - 1,14 млн. и крепкая 3-я позиция.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9388.png')"><b>📈</b></i> Если ИИТ сохранит темп, то в 2027 году произойдет смена лидера.<br/><br/>Ещё больше новостей о сфере электронной подписи - <a href="https://telegram.me/ep_uc" target="_blank">@ep_uc</a><br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/uc_fk/687</guid>
+      <pubDate>Thu, 04 Jun 2026 05:45:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Про токены и аппаратную поддержку новых ГОСТ шифрования</title>
+      <link>https://telegram.me/uc_fk/686</link>
+      <description>Про токены и аппаратную поддержку новых ГОСТ шифрования 
+
+Данная информация должна озвучиваться на проходящих конференциях и транслироваться дальше в широкие массы, но чего нет, того нет, поэтому спасибо 
+вендорам
+ и 
+подписчикам
+, которые делятся информацией.
+
+Если с 
+Рутокен ЭЦП 2.0
+ давно было понятно, поддержки нового ГОСТ там нет и вместо 2.0 рекомендован 3.0, то по JaCarta-2 ГОСТ информация появилась недавно:
+
+JaCarta-2 ГОСТ c F27 в номере модели не поддерживает алгоритмы шифрования ГОСТ 2018. Такие алгоритмы поддерживает JaCarta-2 ГОСТ c F47 или F57 в номере модели.
+
+На ESMART Token ГОСТ сертификат соответствия ФСБ России и 
+вовсе истёк
+, нового в 
+перечне
+ сертифицированных СКЗИ нет.</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/RcsZrUE1MQEN3BezleXSrHRQTgYuCA2erzEf16IXPz42OLIk-fauRhH1UIaTyBlMdquXJ-1Vty1wbraBqz21TnIBVtOZ7rNzOdgN07quh_9eI0DEPWJNJtwo35mV0a9VBSvmTTV4eTvuFnbkrRmBGKum0UGw_eYGq004B0Kb6_7OuFPlc-07INtt-q58Y-RzUPjEOi8005APDldiOC7eD52Ji1xVAiLBKdRPbMxxk0TNMnj3ioImlrl-7gwNCAp0oQwWtNGUUV6hDvr3LPqu8BMy2sTp5mfAR0bwYriKCm_86kMbmxxUFfxVGaveTPc8s9u5Dv79DNZ2JySCXIFkeQ.jpg" /></p>
+<b>Про токены и аппаратную поддержку новых ГОСТ шифрования </b><br/><br/>Данная информация должна озвучиваться на проходящих конференциях и транслироваться дальше в широкие массы, но чего нет, того нет, поэтому спасибо <a href="https://telegram.me/c/1691316533/207026" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">вендорам</a> и <a href="https://telegram.me/c/1691316533/205682" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">подписчикам</a>, которые делятся информацией.<br/><br/>Если с <a href="https://telegram.me/ep_uc/2516" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Рутокен ЭЦП 2.0</a> давно было понятно, поддержки нового ГОСТ там нет и вместо 2.0 рекомендован 3.0, то по JaCarta-2 ГОСТ информация появилась недавно:<br/><blockquote>JaCarta-2 ГОСТ c F27 в номере модели не поддерживает алгоритмы шифрования ГОСТ 2018. Такие алгоритмы поддерживает JaCarta-2 ГОСТ c F47 или F57 в номере модели.<br/><br/></blockquote>На ESMART Token ГОСТ сертификат соответствия ФСБ России и <a href="https://telegram.me/c/1691316533/207560" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">вовсе истёк</a>, нового в <a href="http://clsz.fsb.ru/files/download/svedeniya_po_sertifikatam_120326.doc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">перечне</a> сертифицированных СКЗИ нет.]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/uc_fk/686</guid>
+      <pubDate>Thu, 16 Apr 2026 05:35:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>📣</title>
+      <link>https://telegram.me/uc_fk/685</link>
+      <description>📣
+ 
+Юбилей Федеральному закону 63-ФЗ "Об электронной подписи" - 15 лет!
+
+Закон был 
+подписан 6 апреля 2011 года
+ и вступил в силу 8 апреля, заменил утративший силу ФЗ-1 от 10.01.2002 "Об электронной цифровой подписи", но не сразу. 
+
+В изначальной редакции с целью обеспечения технических условий реализации требований 
+63-ФЗ
+ действие 1-ФЗ подлежало прекращению с 1 июля 2012 г., но 
+Федеральный закон от 10 июля 2012 г. № 108-ФЗ
+ внес корректировки и 1 июля 2012 г. было изменено на 1 июля 2013 г. Предусматривалось, что электронный документ, подписанный ЭЦП, признается электронным документом, подписанным квалифицированной электронной подписью в соответствии с 63-ФЗ, до даты признания утратившим силу 1-ФЗ. 
+Федеральный закон от 2 июля 2013 г. № 171-ФЗ
+ продлил срока действия подписи старого образца - ЭЦП, до 31 декабря 2013 г. 
+
+Также было закреплено, что если федеральными законами и иными НПА, вступившими в силу до 1 июля 2013 г., предусмотрено использование ЭЦП, то используется квалифицированная электронная подпись в соответствии с 63-ФЗ. Также 6 апреля 2011 года был подписан 
+65-ФЗ
+, внесший изменения в ряд ФЗ в связи с принятием 63-ФЗ в части изменение терминологии - с ЭЦП на ЭП. 
+Распоряжением Правительства от 12 июля 2011 г. №1214-р
+ утвержден 
+План подготовки
+ правовых актов в целях реализации федеральных законов 63-ФЗ и 65-ФЗ.
+
+За прошедший год изменения вносились два раза:
+
+🔹
+94-ФЗ
+ - выдача сертификатов УЦ ФК организациям вне ЕГРЮЛ, 
+устранение ошибки 5-летней давности
+ в части ознакомления с информацией о сертификате!
+
+🔹
+304-ФЗ
+ - использование Портала Госуслуг для подачи документов на аккредитацию УЦ, а также сокращения сроков рассмотрения документов и направления решений Правкомиссии.
+
+На очереди два законопроекта и новые изменения - 
+второй антифрод-пакет внесёт норму о НУЦ
+, а ещё один законопроект регламентирует 
+выдачу
+ квалифицированных сертификатов и оформления МЧД международным и межправительственным организациям.
+
+Поздравляю пользователей технологии электронной подписи, работников удостоверяющих центров и всех причастных к развитию сферы электронной подписи в стране с юбилеем 63-ФЗ!
+
+Впереди у нас ещё один серьезный юбилей - четверть века 152-ФАПСИ!
+
+📱
+ 
+Об ЭП и УЦ</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/N9r1foeKZ6OdJ8chLYX6RfS3lCJcwiNkeb2y4ZI7wTBqm14oUSlBdVGx_Vm7Vwh4baoyqclNmmrUA6oyLwlAUWZzadluTBDiUohj5JKopHbx6LWemmbUhh-VqiEb7i0nBYbYN31l63-_9LhnRarB4gM0bwfntGQLa7xEPYRFh-ee9mX4maRqAR43rRh1gusK-5O5tYtxSZ2eSJVpOQraHIj0YvfiQvLXuS-mb9znElgh3rPwkrxhfpnhZg8LkAb0ERmTc_y0pFmpMJHUNdC-GKiFq-0w0J1hfJw49E96Qsyen_hTjiVHBkxGpQRTvRbx6S9Wnbg0BPUgT6OaPjHb9Q.jpg" /></p>
+<tg-emoji emoji-id="5470094069289984325"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93A3.png')"><b>📣</b></i></tg-emoji> <b>Юбилей Федеральному закону 63-ФЗ "Об электронной подписи" - 15 лет!<br/></b><br/>Закон был <a href="https://rg.ru/documents/2011/04/08/podpis-dok.html" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">подписан 6 апреля 2011 года</a> и вступил в силу 8 апреля, заменил утративший силу ФЗ-1 от 10.01.2002 "Об электронной цифровой подписи", но не сразу. <br/><br/>В изначальной редакции с целью обеспечения технических условий реализации требований <a href="https://duma.consultant.ru/documents/1551927" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">63-ФЗ</a> действие 1-ФЗ подлежало прекращению с 1 июля 2012 г., но <a href="http://publication.pravo.gov.ru/document/0001201207120012?index=8" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Федеральный закон от 10 июля 2012 г. № 108-ФЗ</a> внес корректировки и 1 июля 2012 г. было изменено на 1 июля 2013 г. Предусматривалось, что электронный документ, подписанный ЭЦП, признается электронным документом, подписанным квалифицированной электронной подписью в соответствии с 63-ФЗ, до даты признания утратившим силу 1-ФЗ. <a href="http://publication.pravo.gov.ru/document/0001201307030046?index=9" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Федеральный закон от 2 июля 2013 г. № 171-ФЗ</a> продлил срока действия подписи старого образца - ЭЦП, до 31 декабря 2013 г. <br/><br/>Также было закреплено, что если федеральными законами и иными НПА, вступившими в силу до 1 июля 2013 г., предусмотрено использование ЭЦП, то используется квалифицированная электронная подпись в соответствии с 63-ФЗ. Также 6 апреля 2011 года был подписан <a href="https://duma.consultant.ru/documents/1551999" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">65-ФЗ</a>, внесший изменения в ряд ФЗ в связи с принятием 63-ФЗ в части изменение терминологии - с ЭЦП на ЭП. <a href="https://digital.gov.ru/documents/ob-utverzhdenii-prilagaemogo-plana-podgotovki-pravovyh-aktov-v-czelyah-realizaczii-federalnyh-zakonov-ob-elektronnoj-podpisi-i-o-vnesenii-izmenenij-v-otdelnye-zakonodatelnye-akty-ros" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Распоряжением Правительства от 12 июля 2011 г. №1214-р</a> утвержден <a href="https://adm.digital.gov.ru/app/uploads/files/Plan_1.pdf" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">План подготовки</a> правовых актов в целях реализации федеральных законов 63-ФЗ и 65-ФЗ.<br/><br/>За прошедший год изменения вносились два раза:<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i><a href="https://telegram.me/ep_uc/3377" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">94-ФЗ</a> - выдача сертификатов УЦ ФК организациям вне ЕГРЮЛ, <a href="https://telegram.me/ep_uc/3324" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">устранение ошибки 5-летней давности</a><a href="https://telegram.me/ep_uc/3326" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"> в части ознакомления с информацией о сертификате!</a><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i><a href="https://telegram.me/ep_uc/3816" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">304-ФЗ</a> - использование Портала Госуслуг для подачи документов на аккредитацию УЦ, а также сокращения сроков рассмотрения документов и направления решений Правкомиссии.<br/><br/>На очереди два законопроекта и новые изменения - <a href="https://telegram.me/ep_uc/4542" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">второй антифрод-пакет внесёт норму о НУЦ</a>, а ещё один законопроект регламентирует <a href="https://telegram.me/ep_uc/4756" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">выдачу</a> квалифицированных сертификатов и оформления МЧД международным и межправительственным организациям.<br/><br/><b>Поздравляю пользователей технологии электронной подписи, работников удостоверяющих центров и всех причастных к развитию сферы электронной подписи в стране с юбилеем 63-ФЗ!</b><br/><br/>Впереди у нас ещё один серьезный юбилей - четверть века 152-ФАПСИ!<br/><br/><tg-emoji emoji-id="5330237710655306682"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93B1.png')"><b>📱</b></i></tg-emoji> <a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Об ЭП и УЦ</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/uc_fk/685</guid>
+      <pubDate>Mon, 06 Apr 2026 05:06:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Начальник Управления режима секретности и безопасности информации Федерального казначейства Бражк…</title>
+      <link>https://telegram.me/uc_fk/678</link>
+      <description>Начальник Управления режима секретности и безопасности информации Федерального казначейства Бражко В.С. 25.03.2026 принял участие в работе тематической секции
+
+"Информационные системы государства, кибербезопасность и криптография" XXVIII научно-практической конференции РусКрипто и выступил с докладом "Обеспечение информационной безопасности в Федеральном казначействе", в ходе которого рассказал о перспективных направлениях развития УЦ ФК, а также совершенствовании существующих механизмов аутентификации в ГИС Федерального казначейства</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/j5bgUsBwc_WjAjjfF3yK89soMUxbkhsfHiD4K4M87sZQFNZig5vcBQaMTYzfth2r3Xi6cD9xzwwbPghmOHbI8mBI9hu7TWrJEOOz6aD3GH9UvnzO4nYszSuuEVwhkbFgqqHx-wK3QLKpRw9f0sB2cNQbGlGG7dvUagPWZfwLFgM-YrwKUgR21C_QOBF9QEAwtp7xd1udCnGLUp3YCRHE0qUh_OKntjdj20o8WCqjaEfpHYUCtKcJvjSv93jlT0vBzR7AhOLImVF_vS9mWlQkKR3S5n8RGH8I8B_PI_gKvNV_GAFXKltk07uENQEEoJ0PUXZrxNOQhaMhY24WHgF0eQ.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/NY19nGcfVJCXmJ5sOzCYcJX8ZXBfj6hAKpvkwLgTvLjv_rHVR4O2JeyGZDkz1fDrLeMR3gb3cu3bcgA6H6WubSuBYh1rNeKUifJx3Sutu1IEpoV77DQY_l9iYvrLEsdLwmQ5fmFk92H7rr5unHp8wFH1Yj6mRoqmeFyBb6zXw1G3f4Rf8bTsovm67TVpkLUML2doJYvF0pGSW82w_vj2dhyi6oqZyRJmwz-s9zmkYwbE0g6eoU-kmtriUv-FtNAtvenRhxsoBVVWHsyWQbzfj1bvmhzOoEFPqEjfBMCXK94AGMYKgLEKEQBDEfhqONu6qPrG751i0RSEItjLxOtp9Q.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/dlR1MfB8HoamAuENhybBNnsCjFzxss9yvOUGZgFFe8qj91E4tC8ng3P_BpcbiPw-bfqALZ7WKynVpabSZCyrJMJMXozrWiAsvNm-uZ0-SGaNq9HXs001fpTOBGwOiyn9HLqTZPw01yjK3qWJ5j0y8VN4hs91q5_Oh5fCfCOLww1MNb3qLEIgYNuooyqE2WH-EgwJi7DNrl0BYitA6-BJzQ9ZhnVB9aAVowtuKwqsxWaYlmB3XSd9N1OTnsvHCzFyx5N2P8RbsveZih-ob3C_6XfNrdWkoRe8ARZfagolM3hnfFhgtpAagGq7h3YydmXfpa8wzuCN7Batk1O6ygxRkQ.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/ROwbPQkAnUR6Zn315PBl_4Ni3zACUg2_s7QNve9jz-Nd8gpr8EJpv0jDTKhhAikDH7gnUdIC9WRT-nr0H-sqni_71BBowVy20lR8wr2c05CueLgEcyBIJhPUgbYw5b4uMePYfBfN9y6XJITeTt9_pXWPTYzY9s_8xP-faliJEnYYgFpo7xJDOg9MsbRmL5THA166qZdaQ3WFtCx20DJJF-ms7AjH3_P2unqQcttKKg8rhZ9tWcL8eAZt9yovu3BamfEBO9cbXhkPg0jpQ91vlh0M3tuH8P94vM0LhnnIj9vt6pnJ19CCvLrbSo7oP7aACsMaI639LHqgV1Htp1Hk2A.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/Agxv46Bp6jM8dWSPmxF_RtHPgMHzGUNVVgZphcxYsuUJcWMOY21ZmF8tk4gobbbZGUjqpKevxbMD1t6KR2lkBMhZb0mQ4sI22kD15vIk1RxUBwGrruW0-ldjgWFW60u-2zfyWzxPPBfn_hxleZsaOICaA0X0yPRYO0GLcBVwqGGFBKY8Mn02szdt9ZcjJB1FVpX24sjjAY5R-gDjJ1Sjsee_kKgBOsFaxbGX6plVXHkbqS2Xf4KD9oJ6KJeNt4e6gUulNIqujfW2l8SXoxIcA2_5Yej5jQsqZWRKb8UutNTKAcWuUyBEqDzNNkmw_cPyMKbCrDPMEQI8zDnBv6IAOA.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/GC87Fy8yocBGR0faIjMDd_Iza26FxmUSD-nOxv_bLFB7bHLRnGGE1HuW2AF1rX6L6sTj51IvqWttDFBek5uc_3b2lpAEXVVo8guB1Fvpeh3DjVM0my_eyYYdoMNCCHShTyGtwEB6u3FIbeMnJGP8_JanLMSwI6JfqXuIA8oDtagFYm2RKs0VySQL6RTMx_1HySb1m8HvQn_jPqfSIk05i-WU3YGL8xsoKNrhoFUwXNeBQtLS-mX7nV9uQ329NlSxiMmdsz-cOTZq7kNXFXEs7WGYVq2Auk6TjV6WeOjDWmV5tUW-WLySy1OoUNxuDi5DeWtZ84LGC9DvxRVFuLWMqw.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/EnWzgqHJc1LJhNI8Bxl-8rTEZXGpGcZsJpnQsWLI4hr67rvoVEKEYC7YleUy391A7s_kIN52T3liHtCKVZyp84qiDxfrCRfLXSfTsf8HF6fHDY5cnNE5ebBpeJwjKHgxe23SnyvKyM_wp4EU7Sw-FZOv8ihnWja49SG_Htf2xBRGSewrRK4QveKTuWEdp7agDBlfv0utbIlaAk7Q-aQYOm-wnHGZg9d-Dk98d_neLb5pVBSZnUjEmFJPInOZIx8bikXoW5eM5k8l9yEdPqQfdauN8XFAR4-j4AZh6d0Zv-qU3OAgYIFV1n1mnLGVb3iE50oTcbG2FShTUTMf6lkqGA.jpg" /></p>
+<div class="tgme_widget_message_text js-message_text" dir="auto">Начальник Управления режима секретности и безопасности информации Федерального казначейства Бражко В.С. 25.03.2026 принял участие в работе тематической секции<br/>"Информационные системы государства, кибербезопасность и криптография" XXVIII научно-практической конференции РусКрипто и выступил с докладом "Обеспечение информационной безопасности в Федеральном казначействе", в ходе которого рассказал о перспективных направлениях развития УЦ ФК, а также совершенствовании существующих механизмов аутентификации в ГИС Федерального казначейства</div>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/uc_fk/678</guid>
+      <pubDate>Sun, 29 Mar 2026 14:44:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>🚀</title>
+      <link>https://telegram.me/uc_fk/677</link>
+      <description>🚀
+В Госдуму внесён 
+законопроект № 1182063-8
+ "О внесении изменений в Федеральный закон "Об электронной подписи":
+
+🔹
+22 страницы изменений 
+
+🔹
+6 приказов к изменению (3 Минцифры, по одному у ФСБ, Минфина и ФНС)
+
+🔹
+0 руб. бюджетных расходов 
+
+✍️
+"Об ЭП и УЦ"</description>
+      <content:encoded><![CDATA[<tg-emoji emoji-id="5445284980978621387"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9A80.png')"><b>🚀</b></i></tg-emoji><b>В Госдуму внесён </b><a href="https://sozd.duma.gov.ru/bill/1182063-8" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b>законопроект № 1182063-8</b></a><b> "О внесении изменений в Федеральный закон "Об электронной подписи":</b><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>22 страницы изменений <br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>6 приказов к изменению (3 Минцифры, по одному у ФСБ, Минфина и ФНС)<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>0 руб. бюджетных расходов <br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/uc_fk/677</guid>
+      <pubDate>Fri, 20 Mar 2026 16:40:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Обновление</title>
+      <link>https://telegram.me/uc_fk/676</link>
+      <description>Обновление
+ Портала заявителя
+ Удостоверяющего центра Федерального казначейства</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/iw6HXpGhRmstaf5Zg-uHYmNXRFJhak66qkQcuzlrkrJEB0OomzJHcQP9i0GEGxhTqvcUrG5reVV_Bmzx1FxXW_BCK7fRYYBWJQFe5lrodhFxXAhc9OYkVeJkcHo2NK8CnwfhZLxH2kcf7Nsz9LPA0trz_2VrqzGv-qQGBtM4b56dsL-CyYpelqK1jIkcrqPdprkHglAEx1vT0HR1GWFjRTc35wQ1zXQEZKrszr-3B9l0evm7fJeCGLXk0dmMqWnJYLL2xgInizIhqboyzadDnia002XeRWGpdgiAx5v3l1QazxCodJgaYsi24dwDIE3xC-2UUZDEuWFUQcVNUHtVqg.jpg" /></p>
+Обновление<a href="https://fzs.roskazna.ru/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"> Портала заявителя</a> Удостоверяющего центра Федерального казначейства]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/uc_fk/676</guid>
+      <pubDate>Tue, 03 Mar 2026 03:50:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>📣</title>
+      <link>https://telegram.me/uc_fk/675</link>
+      <description>📣
+2 марта в 19:00 по МСК будет осуществляться обновление версии 
+Портала заявителя. 
+
+В рамках обновления будет осуществлен переход на новый дизайн Портала заявителя и обновлен процесс подачи запроса на сертификат (изменены шаги подачи запроса).
+
+Для уменьшения возможных ошибок рекомендуем завершить подачу всех ранее созданных запросов на получение сертификата до обновления версии системы.
+
+В новой версии портала будет доступна возможность создания копии, просмотра причин отказа, а также подтверждение структуры сертификата для запросов, созданных до обновления дизайна.</description>
+      <content:encoded><![CDATA[<tg-emoji emoji-id="5470094069289984325"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93A3.png')"><b>📣</b></i></tg-emoji>2 марта в 19:00 по МСК будет осуществляться обновление версии <a href="https://fzs.roskazna.ru/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Портала заявителя. </a><br/><br/>В рамках обновления будет осуществлен переход на новый дизайн Портала заявителя и обновлен процесс подачи запроса на сертификат (изменены шаги подачи запроса).<br/><br/>Для уменьшения возможных ошибок рекомендуем завершить подачу всех ранее созданных запросов на получение сертификата до обновления версии системы.<br/><br/>В новой версии портала будет доступна возможность создания копии, просмотра причин отказа, а также подтверждение структуры сертификата для запросов, созданных до обновления дизайна.]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/uc_fk/675</guid>
+      <pubDate>Fri, 27 Feb 2026 10:01:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚠️</title>
+      <link>https://telegram.me/uc_fk/674</link>
+      <description>⚠️
+ 
+КриптоПро CSP 4.0: УЦ Федерального казначейства отклоняет запросы на сертификаты
+
+С 2 февраля 2026 года все запросы на получение сертификатов, сгенерированные с использованием КриптоПро CSP версии 4.0, УЦ ФК отклоняются.
+
+🔸
+ КриптоПро CSP версии 4.0 не имеет действующего сертификата соответствия (
+истек 15.01.2026
+).
+
+🔸
+ Для работы с КЭП обязательны 
+сертифицированные сборки версии 5.0
+:
+
+✅
+ КриптоПро CSP 5.0.11455
+
+✅
+ КриптоПро CSP 5.0.12000 (R2)
+
+✅
+ КриптоПро CSP 5.0.13000 (R3)
+
+С 
+15.10.2025
+ лицензия на право использования СКЗИ "КриптоПро CSP" включается в состав квалифицированных сертификатов на период их действия. 
+
+Смену сертификатов, полученных по запросам, созданным до 15.10.2025, необходимо произвести в течение 90 календарных дней с момента установки 
+СКЗИ «КриптоПро CSP» версии 5.0 R3
+ с использованием Портала заявителя ИС УЦ 
+https://fzs.roskazna.ru/
+
+Дистрибутив можно получить через систему АОКЗ. Подробности и 
+инструкции
+ — в разделе «ГИС / Удостоверяющий центр» на сайте вашего регионального УФК.
+
+✍️
+Об ЭП и УЦ</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/v-kEaz9wWk1xy7_nM_e7D4v428QXk0Q0r697cVtGVAkQYA81Drru7E96zIaLlr-gybWFLLi0Uh4yH_udkZREHvAvlDLUE-kmiPRzNaE00JF9jAUU3_PtAFoHQu2BlWzV9mkoryKTUKGugYosqrESzO9VIDeDbOLihoMl1vDsIYAI93rrXBL32ZYOdkp2LxJaN9HDzoZEovlgXD81GZL2I8dHFht22brACewSs3ZOUSwu3JPQ5IQJqKLh_9ZdJsQmHDZPgirzX7A1AbAZTRaSNCvxm3kWwUyB888ZIclPuLB3A78G2zAc0ne3x8aVuLzTvJ986HlJSzDPtpTmRUrVhA.jpg" /></p>
+<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29AA0.png')"><b>⚠️</b></i> <b>КриптоПро CSP 4.0: УЦ Федерального казначейства отклоняет запросы на сертификаты</b><br/><br/>С 2 февраля 2026 года все запросы на получение сертификатов, сгенерированные с использованием КриптоПро CSP версии 4.0, УЦ ФК отклоняются.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')"><b>🔸</b></i> КриптоПро CSP версии 4.0 не имеет действующего сертификата соответствия (<a href="https://telegram.me/ep_uc/4489" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">истек 15.01.2026</a>).<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')"><b>🔸</b></i> Для работы с КЭП обязательны <a href="https://telegram.me/ep_uc/2514" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">сертифицированные сборки версии 5.0</a>:<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C85.png')"><b>✅</b></i> КриптоПро CSP 5.0.11455<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C85.png')"><b>✅</b></i> КриптоПро CSP 5.0.12000 (R2)<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C85.png')"><b>✅</b></i> КриптоПро CSP 5.0.13000 (R3)<br/><br/>С <a href="https://telegram.me/ep_uc/4154" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">15.10.2025</a> лицензия на право использования СКЗИ "КриптоПро CSP" включается в состав квалифицированных сертификатов на период их действия. <br/><br/>Смену сертификатов, полученных по запросам, созданным до 15.10.2025, необходимо произвести в течение 90 календарных дней с момента установки <a href="https://telegram.me/ep_uc/4510" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">СКЗИ «КриптоПро CSP» версии 5.0 R3</a> с использованием Портала заявителя ИС УЦ <a href="https://fzs.roskazna.ru/" rel="noopener" target="_blank">https://fzs.roskazna.ru/</a><br/><br/>Дистрибутив можно получить через систему АОКЗ. Подробности и <a href="https://mariy-el.roskazna.gov.ru/storage/page-files/44018/20251121_134939606.pdf" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">инструкции</a> — в разделе «ГИС / Удостоверяющий центр» на сайте вашего регионального УФК.<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Об ЭП и УЦ</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/uc_fk/674</guid>
+      <pubDate>Tue, 03 Feb 2026 05:25:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>📣</title>
+      <link>https://telegram.me/uc_fk/672</link>
+      <description>📣
+О тиражировании СКЗИ КриптоПро CSP 5.0 R3</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/ePG-eW8YftmcQGihfnZCdf8VU70YYCW1Rz7TvL8EZKtEKccZMHcB4VbLxNmPjuePMH47xODmEe8g-dGP9Jjnrj8q_d9oLcVcQlq9rDJJ613O_Hpkp9EWl1XdeZsQiDexawjYUK5PHce-s6YRZawua0PSthc8Vu3Yiwo7_fC53c5rtQ013diGHZlI2xBCZaWpHXTfZDKJ-Ownhf_zOmd-xbq3hXYvP9YZHL4gfdp3rWy7plfMuFNHxodB-aqw31KZaL4V2hH6k2Dy7Onzrblm-NMTIv85v95JDmcx2YyjR9WV3IL1jerxr2HRjs7-ArPzkMCVmZeq5KLQxsW2xt0chw.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/M_h6vbsTbT7Bl_C_F001WqQhKESo1tis0GWeprqupUOcEtOB2wKrGJVHadtPPETsZOJo0062R6e6n9VibpvdGRwxvCbMSW5ZThmO8DKUN5Tki3uSwabvLeFPOUPShnQBpuohXp3S2KFtx4qWsfYUa4KSkiNJyd6IV6dQ0E-oavdG621KPNXBa7c1KaRdxrzPWdrkzWLjXu_B0Ha9oPemF_vPgY0WF-9cGOnW1gMJh1gWoOzdRWCpCytHyyh4hw8mP3WrbWlFhXwGVPSGlSQt6Gy-OPz4v9ChzB3yO-89V9RhQrKIQRMQAM3lC1uXm9HGSMnGzNt_jky3209fOIs16Q.jpg" /></p>
+<b><tg-emoji emoji-id="5470094069289984325"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93A3.png')"><b>📣</b></i></tg-emoji></b><b>О тиражировании СКЗИ КриптоПро CSP 5.0 R3</b>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/uc_fk/672</guid>
+      <pubDate>Tue, 20 Jan 2026 15:45:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Списки отозванных сертификатов УЦ ФК</title>
+      <link>https://telegram.me/uc_fk/668</link>
+      <description>Списки отозванных сертификатов УЦ ФК</description>
+      <content:encoded><![CDATA[Списки отозванных сертификатов УЦ ФК]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/uc_fk/668</guid>
+      <pubDate>Mon, 12 Jan 2026 10:10:03 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
