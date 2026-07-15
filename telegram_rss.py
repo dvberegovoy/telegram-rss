@@ -337,6 +337,14 @@ def main() -> int:
         for post in posts:
             all_entries.append((post["published"], channel_title, channel, post))
 
+    # Remove feeds of channels no longer in channels.txt, so GitHub Pages
+    # doesn't keep serving stale XML forever.
+    keep = {f"{c}.xml" for c in channels} | {"all.xml"}
+    for stale in OUTPUT_DIR.glob("*.xml"):
+        if stale.name not in keep:
+            stale.unlink()
+            print(f"  removed stale {stale}")
+
     build_combined_feed(all_entries)
     write_index(summary)
 
