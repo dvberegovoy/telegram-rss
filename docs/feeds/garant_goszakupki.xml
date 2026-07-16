@@ -8,7 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 15 Jul 2026 10:33:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 07:35:53 +0000</lastBuildDate>
+    <item>
+      <title>Как проверить уровни ответственности членов СРО при заключении стройконтрактов</title>
+      <link>https://telegram.me/garant_goszakupki/1011</link>
+      <description>Как проверить уровни ответственности членов СРО при заключении стройконтрактов
+
+https://www.garant.ru/news/2165530/
+
+Минстрой России разъяснил важные нюансы.</description>
+      <content:encoded><![CDATA[Как проверить уровни ответственности членов СРО при заключении стройконтрактов<br/><a href="https://www.garant.ru/news/2165530/" rel="noopener" target="_blank">https://www.garant.ru/news/2165530/</a><br/><br/>Минстрой России разъяснил важные нюансы.]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/garant_goszakupki/1011</guid>
+      <pubDate>Wed, 15 Jul 2026 14:38:52 +0000</pubDate>
+    </item>
     <item>
       <title>Минфин России предлагают наделить правом официально разъяснять нормы о закупках</title>
       <link>https://telegram.me/garant_goszakupki/1010</link>
@@ -236,18 +248,6 @@ https://www.garant.ru/news/2132522/
       <content:encoded><![CDATA[Минстрой России разъяснил требования к закупкам работ по инженерным изысканиям<br/><a href="https://www.garant.ru/news/2132522/" rel="noopener" target="_blank">https://www.garant.ru/news/2132522/</a><br/><br/>Заказчиков предупредили о риске непредусмотренных выплат из бюджета при причинении вреда вследствие недостатков такой деятельности.]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/garant_goszakupki/992</guid>
       <pubDate>Thu, 18 Jun 2026 13:19:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Заказчик должен соблюдать принципы обеспечения конкуренции при гособоронзаказе</title>
-      <link>https://telegram.me/garant_goszakupki/991</link>
-      <description>Заказчик должен соблюдать принципы обеспечения конкуренции при гособоронзаказе
-
-https://www.garant.ru/news/2128220/
-
-Даже если закупка производится по техническим условиям.</description>
-      <content:encoded><![CDATA[Заказчик должен соблюдать принципы обеспечения конкуренции при гособоронзаказе<br/><a href="https://www.garant.ru/news/2128220/" rel="noopener" target="_blank">https://www.garant.ru/news/2128220/</a><br/><br/>Даже если закупка производится по техническим условиям.]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/garant_goszakupki/991</guid>
-      <pubDate>Tue, 16 Jun 2026 07:19:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
