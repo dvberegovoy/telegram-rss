@@ -8,7 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 17 Jul 2026 07:32:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 08:22:38 +0000</lastBuildDate>
+    <item>
+      <title>Правила предоставления национального режима при осуществлении закупок уточнили</title>
+      <link>https://telegram.me/garant_goszakupki/1013</link>
+      <description>Правила предоставления национального режима при осуществлении закупок уточнили
+
+https://www.garant.ru/news/2169507/
+
+Приложения к постановлению № 1875 дополнены новыми позициями.</description>
+      <content:encoded><![CDATA[Правила предоставления национального режима при осуществлении закупок уточнили<br/><a href="https://www.garant.ru/news/2169507/" rel="noopener" target="_blank">https://www.garant.ru/news/2169507/</a><br/><br/>Приложения к постановлению № 1875 дополнены новыми позициями.]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/garant_goszakupki/1013</guid>
+      <pubDate>Fri, 17 Jul 2026 13:50:40 +0000</pubDate>
+    </item>
     <item>
       <title>Какие договоры подтверждают наличие у участника закупки необходимого опыта</title>
       <link>https://telegram.me/garant_goszakupki/1012</link>
@@ -236,18 +248,6 @@ https://www.garant.ru/news/2138324/
       <content:encoded><![CDATA[Кабмин сократил перечень уполномоченных на ведение спецсчетов банков<br/><a href="https://www.garant.ru/news/2138324/" rel="noopener" target="_blank">https://www.garant.ru/news/2138324/</a><br/><br/>Из списка исключено Акционерное общество "Экспобанк".]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/garant_goszakupki/994</guid>
       <pubDate>Tue, 23 Jun 2026 16:56:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Закупки приобретаемых в рамках нацпроектов лекарств решено централизовать</title>
-      <link>https://telegram.me/garant_goszakupki/993</link>
-      <description>Закупки приобретаемых в рамках нацпроектов лекарств решено централизовать
-
-https://www.garant.ru/news/2133897/
-
-Уже проводится работа по определению контрагентов для федеральных и региональных заказчиков.</description>
-      <content:encoded><![CDATA[Закупки приобретаемых в рамках нацпроектов лекарств решено централизовать<br/><a href="https://www.garant.ru/news/2133897/" rel="noopener" target="_blank">https://www.garant.ru/news/2133897/</a><br/><br/>Уже проводится работа по определению контрагентов для федеральных и региональных заказчиков.]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/garant_goszakupki/993</guid>
-      <pubDate>Fri, 19 Jun 2026 14:32:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
