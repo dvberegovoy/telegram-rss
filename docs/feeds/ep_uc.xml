@@ -8,7 +8,122 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 21 Jul 2026 07:52:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 07:53:07 +0000</lastBuildDate>
+    <item>
+      <title>✍️</title>
+      <link>https://telegram.me/ep_uc/5274</link>
+      <description>✍️
+Жизненный цикл сертификатов и технология распределенных реестров («Хронограф»)
+
+В 
+паспорте
+ ведомственной программы цифровой трансформации Минцифры России на 2026 и плановый период 2027-2028 гг., в разделе 4.7 ИС ГУЦ есть пункт: 
+
+Созданы реестры сертификатов ключей проверки электронной подписи и учета информации о событиях жизненного цикла сертификатов ключей проверки электронной подписи на базе технологии распределенного реестра, реализованной в ГУЦ
+.
+
+Дата получения результата - 30.11.2026, объем финансирования - 101,55 млн. руб., охват - 49 организаций (аккредитованные УЦ с запасом, а кто же ещё?).
+
+Распределенные реестры, блокчейн и ГУЦ, что-то новенькое. Реально работающая на рынке технология блокчейн, применительно к нашей сфере - ЦПРР ФНС, с 
+5 млн.
+ зарегистрированных МЧД (поздравление коллегам из ФНС
+👍
+), а здесь ГУЦ, что же это может быть? 
+
+С большой долей вероятности можно сказать, что это Хронограф, который 
+упоминался
+ в прошлом году, когда говорили про длительное хранение документов. 
+
+В текущем году 
+Хронограф фигурирует
+ в протоколах 
+Экспертного совета
+, как Эксперимент по созданию и апробации инфраструктуры на базе технологии распределенных реестров («Хронограф»):
+
+проработку проблемных вопросов аннулирования квалифицированного сертификата ключа проверки электронной подписи следует осуществлять в том числе в рамках эксперимента по созданию и апробации  инфраструктуры на базе технологии распределенных реестров («Хронограф»).
+
+✍️
+Об ЭП и УЦ</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/c4fm394gGcQ7cUJXc-5kaFMP_ZD9podnUGWHGdfnEf2Lf9HTVwfGxwnsZD4BBijZCap9teLxckMt0wZLW8bsBECcDKBi2Rxt42p2y5NoOvaq7bo-jhOXRnB8rgzwIeYrREMm0n2wlcYN9HaNMR4P4zO2GCBq3KBu0nHlRPft0fu8AI41TxL4r1kBbv9jBncSmPXNGJeMC-FjrNW0-kcyWGMUmkuIJ-Vt4Fl-at8DvJ3u0uHTBUddMkoZIa3iVdOfs5fKeV1cCc3IJD-shPSBmIoHIgc18jUvXo6r407pQkT6dwByM95Nxxpekw0YJgBFsVJU2siNJ6icpKCvDaEpjw.jpg" /></p>
+<tg-emoji emoji-id="5470060791883374114"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><b>Жизненный цикл сертификатов и технология распределенных реестров («Хронограф»)</b><br/><br/>В <a href="https://gis.gov.ru/documents" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">паспорте</a> ведомственной программы цифровой трансформации Минцифры России на 2026 и плановый период 2027-2028 гг., в разделе 4.7 ИС ГУЦ есть пункт: <br/><b>Созданы реестры сертификатов ключей проверки электронной подписи и учета информации о событиях жизненного цикла сертификатов ключей проверки электронной подписи на базе технологии распределенного реестра, реализованной в ГУЦ</b>.<br/><br/>Дата получения результата - 30.11.2026, объем финансирования - 101,55 млн. руб., охват - 49 организаций (аккредитованные УЦ с запасом, а кто же ещё?).<br/><br/>Распределенные реестры, блокчейн и ГУЦ, что-то новенькое. Реально работающая на рынке технология блокчейн, применительно к нашей сфере - ЦПРР ФНС, с <a href="https://telegram.me/ep_uc/5272" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">5 млн.</a> зарегистрированных МЧД (поздравление коллегам из ФНС<tg-emoji emoji-id="5469770542288478598"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F918D.png')"><b>👍</b></i></tg-emoji>), а здесь ГУЦ, что же это может быть? <br/><br/>С большой долей вероятности можно сказать, что это Хронограф, который <a href="https://telegram.me/ep_uc/4002" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">упоминался</a> в прошлом году, когда говорили про длительное хранение документов. <br/><br/>В текущем году <a href="https://adm.digital.gov.ru/app/uploads/2026/06/ac46d8_27.02.2026_405pr_protokol_i_zasedaniya_ekspertnogo-soveta-pechatnaya-forma.pdf" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Хронограф фигурирует</a> в протоколах <a href="https://adm.digital.gov.ru/app/uploads/2026/06/0ccc4c_25.05.2026_390pr_protokol_zaochnogo_golosovaniya-pechatnaya-forma.pdf" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Экспертного совета</a>, как Эксперимент по созданию и апробации инфраструктуры на базе технологии распределенных реестров («Хронограф»):<br/><blockquote>проработку проблемных вопросов аннулирования квалифицированного сертификата ключа проверки электронной подписи следует осуществлять в том числе в рамках эксперимента по созданию и апробации  инфраструктуры на базе технологии распределенных реестров («Хронограф»).</blockquote><br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Об ЭП и УЦ</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5274</guid>
+      <pubDate>Wed, 22 Jul 2026 05:45:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>В Беларуси с 20 июля заработал онлайн-сервис для проверки ЭЦП (да, ЭЦП - это Беларусь).</title>
+      <link>https://telegram.me/ep_uc/5273</link>
+      <description>В Беларуси с 20 июля заработал онлайн-сервис для проверки ЭЦП (да, ЭЦП - это Беларусь).
+
+Сервис реализован Национальным центром электронных услуг и доступен на сайте 
+trust.e-pasluga.by
+, является аналогом 
+нашего сервиса
+ на портале УФО.
+
+Сервис проверяет:
+
+🔹
+ целостность документа: не был ли файл изменен после подписания.
+
+🔹
+ статус сертификата: действовал ли он на момент подписания и не был ли отозван.
+
+🔹
+ цепочку доверия - что сертификат выдан аккредитованным удостоверяющим центром.
+
+📣
+ сервис носит информационный характер, сформированные pdf-отчёты не могут использоваться в качестве официальных доказательств.
+
+✍️
+Об ЭП и УЦ</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/nS0i1ozcH-dDGqVq1lxTUU6LhGtwGuu9EAqR0Wvf2-XNRJQ8x29KmtnYe4UR6iiI-Yj7Umc_PZ11yHrxfmIyC3HXm6DNBqWIDvILxYY0QesGiwYbLN-WJFVcr4ntj6mM6pPdZeyTqZjqKoAIt5kOaxBkrnlby6WRq9EK9Ny56MjiCBocw3Uzw47xZbQyBFqFM6ZSkUS7lRvKCy_iwzP-Bm3KbxeCptPLt9qQtFpYT-OBGumhb_nDF2PqB5_Xkg7fFoVVn7LmuIASaxMDvHLpcRXJhsQYtj1amGLno34PxKq_K-URhlRKGpOLA-E7EPlMMtP4SovYnhIN-4SvHMqJuQ.jpg" /></p>
+В Беларуси с 20 июля заработал онлайн-сервис для проверки ЭЦП (да, ЭЦП - это Беларусь).<br/><br/>Сервис реализован Национальным центром электронных услуг и доступен на сайте <a href="http://trust.e-pasluga.by/" rel="noopener" target="_blank">trust.e-pasluga.by</a>, является аналогом <a href="https://e-trust.gosuslugi.ru/check/sign" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">нашего сервиса</a> на портале УФО.<br/><br/>Сервис проверяет:<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> целостность документа: не был ли файл изменен после подписания.<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> статус сертификата: действовал ли он на момент подписания и не был ли отозван.<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> цепочку доверия - что сертификат выдан аккредитованным удостоверяющим центром.<br/><br/><tg-emoji emoji-id="5470094069289984325"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93A3.png')"><b>📣</b></i></tg-emoji> сервис носит информационный характер, сформированные pdf-отчёты не могут использоваться в качестве официальных доказательств.<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Об ЭП и УЦ</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5273</guid>
+      <pubDate>Wed, 22 Jul 2026 05:10:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>На прошлой неделе количество МЧД, зарегистрированных в распределенном реестре ФНС России, превыси…</title>
+      <link>https://telegram.me/ep_uc/5272</link>
+      <description>На прошлой неделе количество МЧД, зарегистрированных в распределенном реестре ФНС России, превысило 5 млн. Такое количество МЧД размещено 1, 16 млн доверителей. 
+
+По этому поводу решили обновить статистику узлов распределённого реестра. 
+
+ФНС и Минцифры ведут работы по интеграции единого блокчейн реестра МЧД и платформы полномочий портала «Госуслуги». Такая интеграция позволит компаниям и индивидуальным предпринимателям, получающим государственные и муниципальные услуги через своих представителей по доверенности, использовать единую форму доверенности, в том числе и удостоверенную нотариусом. 
+
+Интересно будет посмотреть, какова будет его активность нового узла?
+
+P.S. Законопроектом №
+1182063-8
+, принятом в третьем чтении, предусмотрена обязанность для всех государственных информационных систем принимать единую МЧД с 1-ого сентября 2027 года.
+
+🚀
+ 
+ЭДО для бизнеса
+
+#фнс
+ 
+#мчд
+ 
+#статистика</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/rNvxFsTPod8vpi1uf46wuNhRa0oE-1BAYOUiVAfJ8yKu5hk8seObBVAvs9n7DLgAci1pwuy_BBW7Lbjzh9QzY8Abmh_v2T9XoZV27_WRh24gp4mFrk4tfSRQ_CakhdUaz3QU1hC2-v4lo5nzkZ_hWFONcLRoIGQmBCWmVNWjjeEiWc7js2_mhVe87809CkthI10mWp99THJJu4LDC_vle4epfPQWK6BtbOp8jVhv1zuiO__cAyqMHfO1Uyh8JHyM_Ul95iRJdbrmOc3j5CHOP2wHFrrbym5cy0WjPN7yzV5_7AzZpjSfT0GTs1gO4xOfSi4ocSHX2n-4n4ASrR98aw.jpg" /></p>
+На прошлой неделе количество МЧД, зарегистрированных в распределенном реестре ФНС России, превысило 5 млн. Такое количество МЧД размещено 1, 16 млн доверителей. <br/><br/>По этому поводу решили обновить статистику узлов распределённого реестра. <br/><br/>ФНС и Минцифры ведут работы по интеграции единого блокчейн реестра МЧД и платформы полномочий портала «Госуслуги». Такая интеграция позволит компаниям и индивидуальным предпринимателям, получающим государственные и муниципальные услуги через своих представителей по доверенности, использовать единую форму доверенности, в том числе и удостоверенную нотариусом. <br/><br/>Интересно будет посмотреть, какова будет его активность нового узла?<br/><br/>P.S. Законопроектом №<a href="https://sozd.duma.gov.ru/bill/1182063-8?ysclid=mrvkcig8w484166682" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">1182063-8</a>, принятом в третьем чтении, предусмотрена обязанность для всех государственных информационных систем принимать единую МЧД с 1-ого сентября 2027 года.<br/><br/><tg-emoji emoji-id="5866355487255039002"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9A80.png')"><b>🚀</b></i></tg-emoji> <a href="https://telegram.me/EDOB2B" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">ЭДО для бизнеса</a><br/><br/><a href="?q=%23%D1%84%D0%BD%D1%81">#фнс</a> <a href="?q=%23%D0%BC%D1%87%D0%B4">#мчд</a> <a href="?q=%23%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0">#статистика</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5272</guid>
+      <pubDate>Wed, 22 Jul 2026 04:54:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>❌</title>
+      <link>https://telegram.me/ep_uc/5265</link>
+      <description>❌
+ УЦ HARICA отозван сертификат безопасности сайта Минцифры. Сертификат был получен 
+только 17 июля 
+после отзыва предыдущего сертификата УЦ GlobalSign.
+
+P.S. Теперь точно НУЦ.</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/i_wbgj1QkszH289tb5V4A80F98NCyNzedUTcuhaxRyMlphnYvPvZ-NlIjh7dYenaSt-_un-0bJGW8WuG5gtC2p_HgCbkCUGLgK-EPCipgQSYYUKc8aU9Pl69uw4dVdNuTua1_wStibeaZiBHEdGYUvfU28xkK9bQ0UcqjR6lKXSLnILFdHihb9kJ0LkYGVXxh1DN95Qa0YaJhrsRBmJFgZp7GTdktmaRuZUOwhiO-LRjTXN-AaaLG6LIDOnSXfsIa5dZOZmmUOVbSGl4P9Qu1ba9WHzeJGXTnDcEDqaViZfn9KsPwMAHl4TgW2_yn7MK7oOt53dKBwhPwJX6WXKdMA.jpg" /></p>
+<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29D8C.png')"><b>❌</b></i> УЦ HARICA отозван сертификат безопасности сайта Минцифры. Сертификат был получен <a href="https://telegram.me/ep_uc/5258" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">только 17 июля </a>после отзыва предыдущего сертификата УЦ GlobalSign.<br/><br/>P.S. Теперь точно НУЦ.]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5265</guid>
+      <pubDate>Tue, 21 Jul 2026 11:21:34 +0000</pubDate>
+    </item>
     <item>
       <title>Сегодня Госдума сразу в двух чтениях рассмотрит и примет</title>
       <link>https://telegram.me/ep_uc/5264</link>
@@ -45,7 +160,7 @@
 
 ✍️
 Об ЭП и УЦ</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/pqctFqTyiDmDWXwPIgfn_cJ-XuDJwIU6gZ1RFs3VKUYbTZ5rpcpeFQYl-KpD76wYIcuEkkPsZIRahVXo_4iml0TSVWyhdw_Sq2FPUWYsNGIJRryBd44DmBNxBJDOJ3-aulL9dIprLoqsoAzJEWjNPMHUCl6AWafCvr8DG1EprLZPhfw_6xH7CbHffmjl0pyLE97VfoasTzR8HSvkgbURPeOzQFVnrILKDhCwlwFYB4NlMUlIqNkZ4S-9kfb9GSrOpo2Fh993yYcxi8w10LWfkRhySZb1V4uBq5_4dY_MMkztf4OeGp-hjNS-SBTo7QdvAT6-UDtn8csbdmWiC2xL7A.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/ri0onmrUI2Fe4quGnMxvU1ctIlPXUsEEfFz9xlc1gBNdDd-_BaTONPezYxBGq2OvdyHGpO3Vhu-RNZRm39jvcWjhceDc1e6cLWfVKXGKr_xJ4jmgLasV5lw3q8FUcNjrZ6wLoB9r6_ht1a9TtI90OCMYnq_AkwklYCm6jupI-c4TPzsP8YYWP1Yz7lywLnCTmsEDt11qTlYwYQae7crUEwcOGyh6woCnXUVgsZcrB4Wx5rfDBAhEZw6Bb8qRzR70u_c6p7NP-u8ChMrvYQAc1-fzCz9X4mQQZVG9rAEfiCwefCTIbKOSe070vpxIZL0I4QYkQuZ-SmVSnvuGw2UVfw.jpg" /></p>
 Сегодня Госдума сразу в двух чтениях рассмотрит и примет <a href="https://telegram.me/ep_uc/5263" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">закон о внесении</a> изменений в 63-ФЗ "Об электронной подписи".<br/><br/>А уже завтра будет принят новый <a href="https://sozd.duma.gov.ru/bill/1095029-8" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">закон</a> "О временных ограничительных мерах в отношении лиц, находящихся за пределами Российской Федерации и уклоняющихся от исполнения наказания", в котором есть <a href="https://telegram.me/ep_uc/4369" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">следующая норма</a>:<br/><blockquote>Статья 2<br/>1. К лицам,  находящимся  за  пределами  Российской Федерации и уклоняющимся от исполнения наказания, применяются следующие временные ограничительные меры:<br/>1<b>4) запрет на использование  электронной  подписи  для подписания электронных документов физическим лицом, запрет на выдачу физическому лицу квалифицированного сертификата ключа проверки электронной подписи, а также признание недействительным ранее выданного физическому лицу квалифицированного сертификата ключа проверки электронной подписи.</b></blockquote><br/><br/>Три основных момента:<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>запрет использования ЭП - любого вида, операторы ИС и ЭДО должны заблокировать возможность использования электронной подписи для таких лиц (реестр будет вести Минюст).<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>запрет на выдачу квал.сертификатов физлицам - на госУЦ не распространяется, распространяется только на АУЦ, выдающие сертификаты физ.лиц.<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>автоматическое прекращение действия (не аннулирование!) квал.сертификатов ФЛ - выдавать нельзя, а отозвать обязаны.<br/><br/>Заключительное заседание Совета Федерации весенней сессии 2026 года <a href="http://council.gov.ru/activity/meetings/schedule/87371/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">пройдет 24 июля.</a><br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Об ЭП и УЦ</a>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5264</guid>
       <pubDate>Tue, 21 Jul 2026 05:15:06 +0000</pubDate>
@@ -99,7 +214,7 @@ Chromium-Gost 150.0.7871.128.</description>
 , 
 ранее использовался
  сертификат УЦ GlobalSign.</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/A1xR6lsfQ0STy1_h4thqClMvrKfb3BDcYdLPuny-RClTqYrzW03hheFCts8FV18LYitRCqFVJ-uLXpURYi5s9A-162dk3jxOCzPGGgwgOaNCKon2wi30uTdl_WwvCOcVapVvWzSVeItsn3bU9jY91uqBcdnS6OZ-xEFvXdQ4Td_WIMyyYDo0S7K3FeleNM9UJZg152Af9fsGlRyTfuduSSI9YfvkQV39mcGhYhWO79QXRKAL97G8xrRGUQ7YtAroRDubZBjJetGdgi_j3zCFyBawoGZW1LN-oWwebG-a4vdIqpDLQ2lnzpqAQKNRs_2zco7QZx7_5yuvRjPAsvVa_A.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/ouvxSxjA1MSVrid4jgYmjGSRcM5dMfSjXwd57J-68bEFrfUrPRom5PPiuzuBQid26KxUozPsHWlxYBKwbsslpMDZadRrWYYv1x9F53sb9LxsZosss7wp6RyJMOsIN9d_3rOGQrwFACDKq_enRGjdABC2FMiWkaClY3523zBaZypOI5MoUTj1owqse3qWajydE0emJSAmPOIJE59a73jRTPpV2I51ldMNGRmmUT0TnvEFGwi7TLu4S6aakEqME-CcneFyG8Knsm7Kwj4jSHBmVZSkdZ-3Ya4d-VT1yqjLv0hDsKkvdWBs57FjRm6YhREL51FJjomE0094_BbvlBt0lw.jpg" /></p>
 <tg-emoji emoji-id="5327952221118164589"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9490.png')"><b>🔐</b></i></tg-emoji> Сайт Минцифры перешёл на TLS-сертификат от <s>национального удостоверяющего центра</s> греческого <a href="https://telegram.me/ep_uc/5168" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">УЦ HARICA</a>, <a href="https://telegram.me/c/1691316533/221249" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">ранее использовался</a> сертификат УЦ GlobalSign.]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5258</guid>
       <pubDate>Sat, 18 Jul 2026 04:56:29 +0000</pubDate>
@@ -109,7 +224,7 @@ Chromium-Gost 150.0.7871.128.</description>
       <link>https://telegram.me/ep_uc/5257</link>
       <description>🔐
  PKI-Форум 2026: регистрация началась   15-17 сентября 2026 года в Санкт-Петербурге состоится PKI-Форум Россия 2026, обновлен дизайн сайта и уже началась регистрация.  Программа ещё формируется, какие по вашему мнению вопросы по проблематике инфраструктуры…</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/qj2lQBtnBLybH6L5uf2UV9Y8fUHvRWGAGHmzgnKz9TL84qdjMEDrhOy_nX6YifUNd7iMh_esMmTIQN3q2iaGezfms8ebetkqvu17esLM8wMRlmT0EpkV6OBeLUWnL3Ma1q6ufBeFKklf4Z5kHhZLeXWBDYl0hWJTEos-mKEknrS8I_tcZmfV8vJa0xiH6En1lCmPUil6Td8JTbntT-HmV9DBlokeRylPeOUXTSHp1bxe0cqsDA_rc7tDqdeuONaFd_heOgO6Mvk8gr-yrvWfAPtL8Ou5xCWN-5M_upxGd9wNt3lLj1eoQJzDsujwQCyEaghBIAOTE-WeXvIz88wzFQ.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/WUT_ZK9NB4OXS2Eez8SfgJ5E6eQI4JR7frlaIrZjHLvmQEvMEJE2ZlhPhpytAokruYcef2el2pZL2U4V7CRGbWvYblr-gaoAXXzfBhSTw9bhBRbzrk0Rpl12UFQhjVPqMnaYADfI8jSAJLBktLUj033sEpfilQrwnJ1fOtIA4lle2zx8JZLemsrDS_QxS456nEgKrQvVMFmnZpeIYJdISHP-6JfyRC7PK3-9mTaBp5togawnFNVsI9QYjveUydFoAoNy1decM74US--Dgqq9e1CH5uHmtBNPu5rMWrEkdTmkhvZ4wH7MiZjg0XfdwR18JkeTm5cQodpPuvnEtA7awA.jpg" /></p>
 <tg-emoji emoji-id="5327952221118164589"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9490.png')"><b>🔐</b></i></tg-emoji> PKI-Форум 2026: регистрация началась   15-17 сентября 2026 года в Санкт-Петербурге состоится PKI-Форум Россия 2026, обновлен дизайн сайта и уже началась регистрация.  Программа ещё формируется, какие по вашему мнению вопросы по проблематике инфраструктуры…]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5257</guid>
       <pubDate>Fri, 17 Jul 2026 20:27:49 +0000</pubDate>
@@ -126,7 +241,7 @@ Chromium-Gost 150.0.7871.128.</description>
  произошел сбой при авторизации из-за проблем с сервисами Национального удостоверяющего центра. Сроки подписания договоров, которые истекали 17 июля, перенесены на 20 июля.
 
 Вот что бывает, когда в стране один удостоверяющий центр.</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/BPypYRazSbdTwWZvWBb19IDgaSnyfGKEU1pTjymdd-W4NLr7lQa_wjLhZVD-zraEq9jgDOWpHkk01Z8lBAYrWrfr8yjXQ_3iM1-wEew_c8Qw4tv7zzKLX5e7tM8Wo1Ro0EXN8PojM9DaKUaqkhL8EP_5r79-bvD8_QwG-KTwvZHqkjjxQu_OkwlkDc7jkIlOUVSXdK_xtgMLHlfO0FecMob2XkomHEDwpZshsCMbv7zEZFuFhSGXvXOkNvVDoz2aTUZpTrRBMEQw_48AXD0-3oOsJuNaAEsdkd6x8xzRjxZL573t5dusNsEdq_muFdcyJc40cr5uw0SaDGdb3WfZsQ.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/Ef-m9FEhjZVRL0zFgpB2nt-CrNJYHhTrVetqPocyopIuhq9CuyFmc4klAUc19t4lVDHKSG-olQDFcG-2G1pXmbrIVQaPgs59ypNrQrSUjysSmKxYIhsdNc14DZjibpCXg_d1SbfPCIIIAiqrFE9hqpsxBglTj3ZSLBETFdVZ3qxbaTFYyLqmWwV_CznPZiHUEdnKcmSnxXtOmx6M-XgcWfl-8w-UD2l8dLo7X0EMba0t27ZagU29LV3QwmOpnhB7NzMnC4-FpHg81DCF6lQyXkX2whwaLvsp4WxN0Xu5iOQsR1JATJBLZNDc9SRYekKnOO1dsyi_Gj0oq_Kkw7vwGQ.jpg" /></p>
 <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F87B0F09F87BF.png')"><b>🇰🇿</b></i> <b>Казахстан и технический сбой с подписями</b><br/><br/>На портале <a href="https://goszakup.gov.kz/ru/news/view/1645" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">госзакупок Казахстана</a> произошел сбой при авторизации из-за проблем с сервисами Национального удостоверяющего центра. Сроки подписания договоров, которые истекали 17 июля, перенесены на 20 июля.<br/><br/>Вот что бывает, когда в стране один удостоверяющий центр.]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5256</guid>
       <pubDate>Fri, 17 Jul 2026 20:03:29 +0000</pubDate>
@@ -180,7 +295,7 @@ TLS Baseline Requirements
 
 ✍️
 Об ЭП и УЦ</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/MTwIUwQ8d559AfCUImGmJr2KtaV1tqFvfpRgktu8UK0EjKhQ7k2gf6_knIVDYKykYlfnGHbP4CJPZd2XblkdfxvA_ntp0nVUUlnUsmHI-kw2eqaOD1VbMtjRIOMRNLh9_nDfZaatC6pFy17cfeNTkoPH1mW7MKZE3iC82Cly42eTK1SGuyEOtdGPZbXjA7H6vcMfKs8pga1O3y2A2c3eFqxAFQ7PLT4xTWva-nv4VH7PweLGTZUztacRnhzlOC1SwsD2eFE0E-dfpYRCdyrh9MymbKGsynaOHTLbYEsABf6mswN_0k_HRPk3zN-YXc1r1C146_Juvaiz70V9lMppdQ.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/JUs_0P0Zs-hRIUbGo8zERJdzzmq9JZnkhNAGy-iALD_Um-ziE49PDeBD-AKxCXgLX7YeZN2x5AflYBBNeGw_O-QziUBLCwmRyAraSlXEoSg93eG6r7YDOAscmx2v7l0tPRZOUO0qibwhoX1866--dlyDj3fjtIjuAmwZbn1kM51ZRDh-P2t4Zra-0LvuKifuW_pv014dN7BJW0eO87NrCLFZoosEN0tCTxdeLpdrxNLdw5H7_Zrz1oCNMrHxlbczPx0x7ggEDh9Xg4hLQy6VBdQQBS-GfW5yakIzJgDk9HEI0J_J5sBWohpSzd4FIhl4Ep5wr3z5HNypO9OED8G6hg.jpg" /></p>
 <tg-emoji emoji-id="5470094069289984325"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93A3.png')"><b>📣</b></i></tg-emoji><b>Изменение для TLS-сертификатов - окончание эпохи Dual-EKU</b><br/><br/>В апреле 2025 года CA/Browser Forum принял <a href="https://cabforum.org/2025/04/11/ballot-sc081v3-introduce-schedule-of-reducing-validity-and-data-reuse-periods/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">бюллетень SC-081v3</a>, он в первую очередь известен нам <a href="https://telegram.me/ep_uc/4767?single" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">поэтапным сокращение</a>м сроков действия TLS-сертификатов. Кроме того, бюллетень <a href="https://cabforum.org/working-groups/server/baseline-requirements/documents/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">вносит изменения</a> в Базовые требования для TLS (<a href="https://cabforum.org/working-groups/server/baseline-requirements/requirements/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">TLS Baseline Requirements</a>) - основной документ, регламентирующий выдачу TLS-сертификатов: это требование обновляет профиль сертификата для сервера, согласно которому такие сертификаты не должны содержать EKU id-kp-clientAuth.<br/><br/>В TLS Server Certificate Profile (раздел <a href="http://7.1.2.7/" rel="noopener" target="_blank">7.1.2.7</a>) поле Extended Key Usage (EKU) должно содержать строго определенный набор значений:<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> долден быть указан id-kp-serverAuth (OID: 1.3.6.1.5.5.7.3.1).<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>НЕ должен быть указан id-kp-clientAuth (OID: 1.3.6.1.5.5.7.3.2).<br/><br/>Что интересно, сами по себе TLS Baseline Requirements <a href="https://cabforum.org/working-groups/server/baseline-requirements/requirements/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">(v 2.2.8)</a> все еще допускают clientAuth как опцию (MAY), но это значение перекрывается более жестким требованием Chrome. <br/><br/><a href="https://googlechrome.github.io/chromerootprogram/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Политика Google Chrome Root Program (v 1.8)</a> (обновлена 5 февраля 2026 года) - именно она послужила основанием для всех международных УЦ, желающих оставаться в доверенном хранилище Chrome, исключить использование clientAuth в TLS-сертификатах.<br/><br/>Есть два срока для поэтапного внедрения:<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>15 июня 2026 года: все новые промежуточные CA-сертификаты, добавляемые в базу CCADB, должны содержать только EKU serverAuth.<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>15 марта 2027 года: все выдаваемые TLS-сертификаты должны содержать только EKU serverAuth. Наличие clientAuth в таких сертификатах, выпущенных после этой даты, приведет к тому, что Chrome перестанет им доверять.<br/><br/>Что <a href="https://news.harica.gr/article/tls-client-authenticaion/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">решили УЦ</a>? Правильно, <a href="https://www.godaddy.com/zh-sg/help/why-is-godaddy-removing-clientauth-eku-and-transitioning-to-the-r1-root-hierarchy-for-dv-tls-issuance-42783?lc=en-US" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">они решили отозвать TLS-сертификаты</a>, выданные после 15 июня 2026, если они включают clientAuth.<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Об ЭП и УЦ</a>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5254</guid>
       <pubDate>Fri, 17 Jul 2026 05:48:13 +0000</pubDate>
@@ -225,8 +340,8 @@ TLS Baseline Requirements
 
 ✍️
 Об ЭП и УЦ</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/eCk-6PR_l727a_7yTIXaqs1YiGwxO7P_AmDG44Pi8mHTJnnlGRO7C-c0PZFswVstd7pGzsmR8KimNN0yIORdDqU4tk-eIQnytxw4md8AWZSDqn440z46bqgJl3zWYXCgVV_AX7Qv-HJMUXyV9iM-khlAK1dnBY_AOvRy1s_PUeqNnaKe4C068VH9iFI_mK04G6vf26huomCaCcyJ6OGcggQXMVqKFdKgUSms9JrqAPpYhGeK3eweIvoL6HyBSYdNbAAzaI-9f9MzBVjMfg6eyO9PREzon9rglPRtGHsPijTyBsaFBfDi0gZ-X1qiwwZkiS8YvL99FLsxHaThVz2X_A.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/TlbWj1l7cW-uC5v6x76zoKFVWl4krATeegXAwLDrItqJmihsTl_Eh3ZrF51ldXOJcO0RafgSDE5sTaS8gHkzN4QrX_TlrgON2UT6I-KJWLsev3P723J-nyxkHAlhuohCuM0cm6uSMX6KfaV1W-7cIT3KOCD26LrwyFgAt_cQGzRJFghc3JXbAwXSlhvq9Q6CBWDS8etfC_PilTYPmue2C0irvR3pC6VT8lqi_Fqa768RXsEYZHTX8GJV1rs_SwT7GTW2XLpUM4kK8dbyYQVLHKV6JFieg5_Q-J9BSjD5TysyGLsCy5_MQNn5f_xcPavEgzmAnSTs3Y4PTwipH-pEZQ.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/V3qtJzpaY8HL5Bm1RdHswy9P3Hvs2A2yUdTfStS-7mlHDQyoMW3los5fo5-18J0hsRLhf0lxyWm-z1nIXweutMSgv1xEuAmtokhMqr7uLmTModDPWLG4WZCYlPipUIi1t-E2ra9cHrHy7j6UqrblPvvz8cvKh3hzNZaTN_oqeKaoMmu_G9dIXz5P1hX1QKBE-r4hc4gng1VsDXeGXqYbORNIogZytHej9-AzLxaUPeZ57hqxiNXYEe9o8zh-p19pe2IoociXeqlISJgzzL8r3s5T4yMj38FfXa5t5y3KoU3EVUEJZeHCBj0o7rNw0uhNjHYQNoZajJlzYl12Xj9xUg.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/e57zfaBpbCAUpO8d8WnUPclp029ewFJQ9mmqLkMFk8Xj37iC-YR5RPHmer8UQ3_lW9Ox3ig8Al6vuRW1oJ_VoruYllUsM7j-l5t8OA9QJyQyb0Bu5EKfCFvJuRGpB0EtXf3wsgIXKwOjKc2MbxdS4M9TJV6zcd-pMmNWfHDevfp82KsrJ8SVitwSvkPI-8KvdzLsaKElATi1HTvk2bKuI1iqEf6uYGey_IpM3Tn5wd6W4MJI96e2b7UWZejzCQkrzM6vw3ht9Ff_Y-iBQTN0yn7SGe98dgXVG9pX9MEY3-pK2ACajXzk5fkVicMrvibCn6OrzuXBN60j3g3oxwpjBg.jpg" /></p>
 <b>Беларусь внедряет "облачную" электронную подпись </b><br/><br/>Появление облачной электронной цифровой подписи (<a href="https://belta.by/society/view/kogda-v-belarusi-pojavitsja-oblachnaja-elektronnaja-tsifrovaja-podpis-rasskazali-v-ntseu-773300-2026/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">да, в Беларуси ЭЦП</a>) ожидается до <a href="https://telegram.me/ep_uc/4341" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">конца 2026 года</a>, ранее внедрение <a href="https://telegram.me/ep_uc/2434" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">планировалось</a> в 2025 году.<br/><br/>Сейчас технология облачной ЭЦП проходит этап тестирования, в будущем позволит не носить с собой ID-карту, физический ключ, а только с помощью смартфона с установленным приложением управлять своим личным ключом с сертификатом ЭЦП, расположенными на серверах республиканского удостоверяющего центра.<br/><br/><blockquote>Данная технология соответствует всем требованиям безопасности, учитывая, что в процессе задействуются персональные данные граждан. Сейчас у нас проходит тестирование программных продуктов. Для этого у нас месяц назад запущен пилотный проект. В нем участвуют банки, EDI-провайдеры, представители госорганов, чтобы проверить удобство использования данной технологии, внести необходимые коррективы, доработки. Поскольку требуется обеспечить безопасность, параллельно эти программные продукты сертифицируются, мы ожидаем, что до конца года у нас появится облачная ЭЦП<br/>- заместитель начальника республиканского УЦ «Национальный центр электронных услуг» Дмитрий Москалев</blockquote><br/><br/>Граждане, которые сейчас уже используют ЭЦП, смогут получить дополнительную услугу облачного ЭЦП дистанционно через личный кабинет.<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Об ЭП и УЦ</a>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5249</guid>
       <pubDate>Thu, 16 Jul 2026 05:00:03 +0000</pubDate>
@@ -257,7 +372,7 @@ TLS Baseline Requirements
 
 ✍️
 Об ЭП и УЦ</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/h6tKYrxbABIGdk9p_a2Fuvo1vCg6YDbKf-3FUkDHvzKS2cxUxoPll-fswq2tO-7NJcI5HlGNgKMREbIsc9EEsFXkXBEAqgDryVnuctHJdRibGu1IjelgZoUQ0EdOU7LZggclLO_cJ06SFaIlbZuKHKggEaAGsb7byFIlcOMQDk4tZMs3jzzK_TEDJTJjjA68stMo30xloEYwivihPnDWDw8zhL7vH19YjsRL2EvflO6ISxKWI89oguIOiM-2OOaVvjMo52a_r4jMI0sUIFGpxnc1avRBZ8isnfyMZ191wqhfHPJct5DeXEQ9zHNJhrouoAd98h8shZagZeiDO992vQ.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/rZik9T5q-38_4G7vvnFMvxswqALWFvaXIytnXMzgDf_dQcPiaARC___s5GETaRwv21fQKpEMdjIzrBsOjQeBvdjUvwt5bGPksnnDpBzU6km5ZM4HLxRBtT3WcpYoRttxCn2pSv3rx_jBuKN9FgOzD_b07PrhDbAhg3FvdW0djbYuFWmCpLTKqWASnTEEmnC5yXU_zw8ebDYontagBfi95bCtFDYqbpVMcv0O1NKfNalG1C7ZxLiV8zZuXunlQI4i8V_3lxCjTIK1aQhZd1DMLrnmFHqg0r5SJnfW9LSAKU18D46ssoUUc_65rW3e1vxd3P5Gc7P3gHKSNs8nvNDWnw.jpg" /></p>
 <tg-emoji emoji-id="5470060791883374114"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><b>НУЦ - 10 тыс. действующих сертификатов <br/><br/></b>Ещё вчера количество действующих сертификатов <a href="https://telegram.me/ep_uc/5215?comment=221181" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">приближалось</a> к 10 тыс, а уже сегодня значительно превысило - <a href="https://precert.ru/stat/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">10404 на данный момент</a>, 27395 всего выдано. <br/><br/>Около 500 сертификатов за последние сутки. Причина взрывного роста не повышение качества сервиса получения сертификатов и даже не подписание <a href="https://telegram.me/ep_uc/5197" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">210-ФЗ</a>, а <a href="https://telegram.me/ep_uc/5240" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">одиннадцатая волна</a> массового отзыва сертификатов международными удостоверяющими центрами.<br/><br/>Доля сертификатов НУЦ, реально используемых в проме меньше одного процента от количества действующих.<br/><br/>6 июля вступила в силу <a href="https://telegram.me/ep_uc/5215" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"санкционная" поправка</a> бюллетеня SC087 CA/B Forum, но сам отзыв сертификата - это тоже взаимодействие с подсанкционной стороной. После вступления в силу бюллетене - такое взаимодействие должно быть запрещено, но УЦ по своему трактуют данный пункт, GlobalSign, например, отзывал и до и после 6 июля.<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Об ЭП и УЦ</a>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5248</guid>
       <pubDate>Wed, 15 Jul 2026 17:25:44 +0000</pubDate>
@@ -270,7 +385,7 @@ TLS Baseline Requirements
  по организации защищенного доступа граждан к государственным электронным сервисам по протоколу ГОСТ TLS.
 
 Одним из рекомендованных способов безопасного подключения к госсервисам является доступ с применением решений КриптоПро. Для этого пользователю достаточно скачать с ЕПГУ инсталлятор, позволяющий установить единым пакетом криптопровайдер КриптоПро CSP 5.0, КриптоПро ЭЦП Browser plug-in и один из браузеров: Яндекс Браузер или Chromium-Gost. Данное решение предоставляет также возможность создания, проверки электронной подписи и авторизации с использованием сертификата.</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/LJVZMe21Sj0g6t7uyHqM_AglB6daZD_k1-st0SKdL9hgmVn-gwj2vIs21ecVzbN3YWpbukZ5ZpnHQgV3s-7BHgWwZBStRHPYOEOZOiSq8TQKtvSLOTp0u9RToW_6YtpFvZtFnLIj7BcMfCsqg_k1HYtXVABC2WyPzo25rDgO-_gc9H0QkW63m07qFn0zcYPWba5kw943PxMNzi_9xD23d6ClsJ3h2dwEMTNOlK2L6nzY_fvyNBaDetWooi1AXE4K8eezi0O1jx0HYOrWjS-yPacvbLdp0sovqmBRtOdrW5NS40Yzy6ewViWrOJACHTHV45wuC9-BtxHw73tFMxS1mA.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/TTzKsyhJzDtPzYHEoyZQBbWa4MXQWlxGO-v_xTg4wIJ6Wh_Ux0_DTe9I8xA1ccvQosfZftEDHxGDt79pEb4NVgzP64EE7pOVZZKWEI4SdBvYQpPgz6aKrEtTg8lOpYB0lGGcj0LEs9IBGpQuJ8sNQgmMu12EuC_0I4j-MGhGnURkl0Ik2khlCCTCFxL0VNmPIlcevLd_EAmZ861_RXcYxq3yAgHFDjrqR1EmQ7_hkLTJ-P9TubijEip7q-j8hh2TDYdWsVy5_ZYJMDYk9g18QbvUBVFCuzHC01SZHtDwmMX0nmY-52jjbB5fv7ogHPzmyJj1ZaduFjF38ARc5CTd8A.jpg" /></p>
 На Едином портале государственных услуг (ЕПГУ) <a href="https://www.gosuslugi.ru/landing/security_gosservices" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">опубликованы рекомендации</a> по организации защищенного доступа граждан к государственным электронным сервисам по протоколу ГОСТ TLS.<br/><br/>Одним из рекомендованных способов безопасного подключения к госсервисам является доступ с применением решений КриптоПро. Для этого пользователю достаточно скачать с ЕПГУ инсталлятор, позволяющий установить единым пакетом криптопровайдер КриптоПро CSP 5.0, КриптоПро ЭЦП Browser plug-in и один из браузеров: Яндекс Браузер или Chromium-Gost. Данное решение предоставляет также возможность создания, проверки электронной подписи и авторизации с использованием сертификата.]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5246</guid>
       <pubDate>Wed, 15 Jul 2026 12:05:42 +0000</pubDate>
@@ -306,8 +421,8 @@ TLS Baseline Requirements
 
 ✍️
 Об ЭП и УЦ</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/ZAwbOutkwqAQc8dPmYfbHGPmBUhlQQ76NDayDxUje2FRP8u_cOERlKhCtGve0igGRv35UJvzwmGTygnv1UO__FRswZpIQUSqwn6lOwVft2M2snNi1nzz8GPiJ-Y4NJwc28HndWM2P1jxzhGk9IW0UdwwFA4m-dn9raQGXEu8Pgaf1cCoISVi2hsverdXE8RC5453haVvY-cGKUAgnBJGtnbo8A-ECmLA61wyP5V8vJywFMRlXnFwVeJhLWuUJL6kEkSutGsAbwOoVotSiUAH58kdZlPEHTErywPsWZiD4qO4vnkZB1ljIRxGObz9OVmZrozqtae04wKu8tqG6xfu7Q.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/j9Nss-N00EPAt3MBTUKTPti7getP6yvGkxZBtPbiay_2t6OrkmKMjOjQofm0Jcan3J1VM5VfiQwHPkQlZg_fSrsNdSehZXFS__b3lm33JgalQUluGTpC4ltVluTGdTyMIKrD73j3h0btMME3c8hxNOAokqKjX99hCxvZsSL2fG2OHoG5SztottdXvBbhDLq35HoM9nrPiUDjTdwQ4P3pAVZld9htpmEZSRx4lmepuZFTNjCw2EI-M-s0-sA97zauxoepsfOpv0rnlckptk_TbZIjA4jh0nLB6LHveiWXUEFXPhZG0DZv-obxw9bGTW04EQKm6p_ujj0byXNf_u-seA" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/jZ0hvKiEFX6wpAf0MyCJcrg6cEFe9oUSau1CwK7bYL5XjctguuQJrSAtbdKL_QenoxZSGYzXIeTB9UPlZhoQHWTJmScuYlrrtCgWa2QZbQI5wkKfUq1jVSQUBeFmAESlUSSmKCvi8mKgaRdGrrviWI_kLJA98rRlThhaa-7TR_ntT1BTABsCiy1--w04SPwh_EtdDqz0CDt0uDUYxeDHKJoIKUJiTTmMI9Vzfj7MeHLUIPaKLlnaS4LLNpb-CGDZ3HqcEXQpo4XMz6aOSnjHVBEB64vdRWxDeZ2SF7VnIVJoyh35x-CxdepQ8-cJfZ9WARg1nKYa7ngiDy33JFireA.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/XlVV6GQGEGUNGZth0rqyRDVXBbJz6IvSXPYnQBYO9Bca9mmj0pGLeFyxmZb2qUvoyyO1_QkoxMWiLFY-mghz_7zBtLfihlTiTv6eEATPgWP-kEjCG5kxyZwtpXdD6Y2lS5CxGJnf1BH6rFVZ9nwwnHv0XLPwuuINywfv83oYwMQ2-K0JW0PwJR7DTHu7YudU4NJbAp91PNlhmKv2XwpixpJmX-8m_yX-KnuKViBpjRLYSLKIAyVDAX8P-VmVbwTnLZKsmgX3G1I1gy1FgE32EKyXJNyst2dnzkbsq8AnZT7DAbZTFCs_BWrggwHhPbXXdz5QMompicNc6Dyva-CWbg" /></p>
 <tg-emoji emoji-id="5440746682310469677"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9882.png')"><b>😂</b></i></tg-emoji> <b>Госуслуги и Госключ заставили пользователя пройти все круги цифрового ада</b> - <a href="https://syasnews.ru/vsyakoe/gosuslugi-i-gosklyuch-zastavili-polzovatelya-projti-vse-krugi-cifrovogo-ada" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">статья регионального издания</a><br/><br/>Данная статья не про три получения квалифицированного сертификата и невозможность подписания. Статья про проблемы массовой криптографии, которая остаётся сложной и непонятной рядовому пользователю. Отсутствие оперативной, технической поддержки, низкая квалифиция МФЦ добавляют новые проблемы. Для чего переустанавливать рабочее приложение и по три раза получать сертификат, не разобравшись с причиной невозможности подписания? Сам клиентский путь <a href="https://www.gosuslugi.ru/600373/1/form" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">подписания через самостоятельное направление</a> себе документов мог быть проще, сейчас там масса бесполезных вопросов.<br/><br/><tg-emoji emoji-id="5438199818243548127"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F918D.png')"><b>👍</b></i></tg-emoji> <b>Проблемы, о которых не расскажут в МФЦ:</b><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> пятый год не выполнен <a href="http://publication.pravo.gov.ru/Document/View/0001202112070018?index=8" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">пункт 28</a> постановления Правительства Российской Федерации <a href="https://telegram.me/ep_uc/264" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">от 1 декабря 2021 г. № 2152</a>, т.к. Минцифры не размещены на своем сайте сведения о формате сертификата ключа  проверки усиленной неквалифицированной электронной подписи в  инфраструктуре, обеспечивающей информационно-технологическое  взаимодействие информационных систем, используемых для  предоставления государственных и муниципальных услуг в электронной  форме.<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>не соблюдается <a href="https://telegram.me/ep_uc/4775?single" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">период плановой смены (6 месяцев)</a> ключа электронной подписи службы меток доверенного времени, используемой в технологии квалифицированной электронной подписи Госключа.<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Об ЭП и УЦ</a>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5243</guid>
       <pubDate>Wed, 15 Jul 2026 05:30:32 +0000</pubDate>
@@ -341,150 +456,6 @@ TLS Baseline Requirements
       <content:encoded><![CDATA[<b>Купить нельзя продать: казахстанцам предлагают 25 тысяч тенге за ЭЦП</b><br/><br/>В социальных сетях появились объявления, в которых казахстанцам предлагают 25 тысяч тенге за предоставление электронной цифровой подписи (ЭЦП).<br/><br/>Авторы объявлений ищут людей, которые выезжали за границу после сентября 2025 года (за исключением ряда стран), утверждая, что подпись нужна для верификации мобильного телефона.<br/><br/>Если вспомнить, с марта 2025 года в Казахстане действуют новые правила регистрации мобильных устройств, ввезенных из-за границы. <br/><br/>Для некоторых способов ввоза необходимо подтвердить законность происхождения смартфона и пройти процедуру верификации. Вероятно, именно этим и пытаются воспользоваться злоумышленники, предлагая использовать чужую ЭЦП для оформления устройств.<br/><br/>Передавать или продавать свою электронную цифровую подпись категорически нельзя. Более того, за передачу ЭЦП и использование чужой подписи законодательством предусмотрена ответственность. Незнание закона не освобождает от нее.<br/><br/>ЭЦП имеет такую же юридическую силу, как собственноручная подпись. Получив доступ к вашей электронной подписи, злоумышленники могут подписывать документы от вашего имени, оформлять кредиты, проводить сделки с имуществом и совершать другие юридически значимые действия. Доказывать, что эти действия совершали не вы, впоследствии может быть крайне сложно.<br/><br/>Никакие 25 тысяч тенге не стоят подобных рисков. Цена такого решения может оказаться во много раз выше, как в финансовом, так и в юридическом плане.]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5241</guid>
       <pubDate>Wed, 15 Jul 2026 05:03:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥</title>
-      <link>https://telegram.me/ep_uc/5240</link>
-      <description>🔥
- 
-Массовый отзыв сертификатов 14 июля
-
-Зафиксирована новая волна отзывов сертификатов, выданных удостоверяющими центрами Actalis (Италия), GlobalSign (Япония-Бельгия). Все аннулированы по причине Privilege Withdrawn (отзыв привилегий).
-
-Actalis отозваны сертификаты у доменов Альфа-Банка, АльфаСтрахования, НПФ Сбербанка, ВБРР, Роснефть, Транскредитбанк и др.:
-
-• 
-gazprompay.ru
-
-• 
-oauth-pl.alfabank.ru
-
-• 
-cfo-front.alfabank.ru
-
-• 
-www.pga.gazprombank.ru
-
-• 
-78-107-238-224.static.corbina.ru
-
-• 
-alfastrah.ru
-
-• 
-npfsberbanka.ru
-
-• 
-acs.vbrr.ru
-
-• 
-prelive.alfabank.ru
-
-• *.
-rosneft.ru
-
-GlobalSign - отзывал у доменов Роспотребнадзора, территориальных органов Роспотребнадзора, Социального фонда, Верховного Суда, Конституционного Суда, Росавтодора, концерна Калашников, ГАС "Правосудие", Судебного департамента, Совета судей, Высшей квалификационной коллегии судей и др.:
-
-• *.
-rospotrebnadzor.ru
-
-• 
-32.rospotrebnadzor.ru
-
-• 
-12.rospotrebnadzor.ru
-
-• *.
-pfrf.ru
-
-• 
-sfr.gov.ru
-
-• *.
-vsrf.ru
-
-• *.
-rosavtodor.gov.ru
-
-• 
-b2b.kalashnikovgroup.ru
-
-• *.
-ksrf.ru
-
-• *.
-cdep.ru
-
-• 
-courtcase.msk.arbitr.ru
-
-• *.
-sudrf.ru
-
-• *.
-ssrf.ru
-
-• *.
-vkks.ru
-
-Отзывы продолжаются.
-
-🚀
-Об ЭП и УЦ</description>
-      <content:encoded><![CDATA[<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')"><b>🔥</b></i> <b>Массовый отзыв сертификатов 14 июля</b><br/><br/>Зафиксирована новая волна отзывов сертификатов, выданных удостоверяющими центрами Actalis (Италия), GlobalSign (Япония-Бельгия). Все аннулированы по причине Privilege Withdrawn (отзыв привилегий).<br/><br/>Actalis отозваны сертификаты у доменов Альфа-Банка, АльфаСтрахования, НПФ Сбербанка, ВБРР, Роснефть, Транскредитбанк и др.:<br/>• <a href="http://gazprompay.ru/" rel="noopener" target="_blank">gazprompay.ru</a><br/>• <a href="http://oauth-pl.alfabank.ru/" rel="noopener" target="_blank">oauth-pl.alfabank.ru</a><br/>• <a href="http://cfo-front.alfabank.ru/" rel="noopener" target="_blank">cfo-front.alfabank.ru</a><br/>• <a href="http://www.pga.gazprombank.ru/" rel="noopener" target="_blank">www.pga.gazprombank.ru</a><br/>• <a href="http://78-107-238-224.static.corbina.ru/" rel="noopener" target="_blank">78-107-238-224.static.corbina.ru</a><br/>• <a href="http://alfastrah.ru/" rel="noopener" target="_blank">alfastrah.ru</a><br/>• <a href="http://npfsberbanka.ru/" rel="noopener" target="_blank">npfsberbanka.ru</a><br/>• <a href="http://acs.vbrr.ru/" rel="noopener" target="_blank">acs.vbrr.ru</a><br/>• <a href="http://prelive.alfabank.ru/" rel="noopener" target="_blank">prelive.alfabank.ru</a><br/>• *.<a href="http://rosneft.ru/" rel="noopener" target="_blank">rosneft.ru</a><br/><br/>GlobalSign - отзывал у доменов Роспотребнадзора, территориальных органов Роспотребнадзора, Социального фонда, Верховного Суда, Конституционного Суда, Росавтодора, концерна Калашников, ГАС "Правосудие", Судебного департамента, Совета судей, Высшей квалификационной коллегии судей и др.:<br/>• *.<a href="http://rospotrebnadzor.ru/" rel="noopener" target="_blank">rospotrebnadzor.ru</a><br/>• <a href="http://32.rospotrebnadzor.ru/" rel="noopener" target="_blank">32.rospotrebnadzor.ru</a><br/>• <a href="http://12.rospotrebnadzor.ru/" rel="noopener" target="_blank">12.rospotrebnadzor.ru</a><br/>• *.<a href="http://pfrf.ru/" rel="noopener" target="_blank">pfrf.ru</a><br/>• <a href="http://sfr.gov.ru/" rel="noopener" target="_blank">sfr.gov.ru</a><br/>• *.<a href="http://vsrf.ru/" rel="noopener" target="_blank">vsrf.ru</a><br/>• *.<a href="http://rosavtodor.gov.ru/" rel="noopener" target="_blank">rosavtodor.gov.ru</a><br/>• <a href="http://b2b.kalashnikovgroup.ru/" rel="noopener" target="_blank">b2b.kalashnikovgroup.ru</a><br/>• *.<a href="http://ksrf.ru/" rel="noopener" target="_blank">ksrf.ru</a><br/>• *.<a href="http://cdep.ru/" rel="noopener" target="_blank">cdep.ru</a><br/>• <a href="http://courtcase.msk.arbitr.ru/" rel="noopener" target="_blank">courtcase.msk.arbitr.ru</a><br/>• *.<a href="http://sudrf.ru/" rel="noopener" target="_blank">sudrf.ru</a><br/>• *.<a href="http://ssrf.ru/" rel="noopener" target="_blank">ssrf.ru</a><br/>• *.<a href="http://vkks.ru/" rel="noopener" target="_blank">vkks.ru</a><br/><br/>Отзывы продолжаются.<br/><br/><tg-emoji emoji-id="5866355487255039002"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9A80.png')"><b>🚀</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Об ЭП и УЦ</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5240</guid>
-      <pubDate>Tue, 14 Jul 2026 17:46:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>✍️</title>
-      <link>https://telegram.me/ep_uc/5237</link>
-      <description>✍️
-Срок вступления в силу изменений в 63-ФЗ будет перенесён на год
-
-Комитет Госдумы по финансовому рынку доработал ко второму чтению 
-законопроект
- о выдаче международным организациям квалифицированных сертификатов, перенеся срок его вступления с 1 сентября 2026 года на 1 сентября 2027-го, также уточнены нормы об идентификации иностранных граждан при получении сертификата.
-
-Поправки подготовлены ко второму чтению 
-законопроекта № 1182063-8
-, разработанного 
-Правительством
- и внесённого в марте в Госдуму.
-
-Сейчас 63-ФЗ регулирует выдачу квалифицированных сертификатов юридическим лицам, ИП, госорганам и госслужащим, физлицам, филиалам иностранных организаций, финансовому сектору, но международные организации в этом перечне нет. Законопроект добавляет их, выдачу сертификатов международным организациям будет осуществлять УЦ ФНС России. Также законопроект 
-меняет текущий порядок
- указания фамилии, имени и отчества в сертификате, позволяя получать сертификаты иностранным гражданам, у которых нет не только отчества, но и имени или фамилии (но что-то одно должно быть).
-
-В рамках 
-первого чтения
- законопроект вводил норму о том, что иностранный гражданин, обратившийся в удостоверяющий центр ФНС за сертификатом от имени юридического лица, его филиала, представительства или как индивидуальный предприниматель, может пройти идентификацию без личного присутствия через ЕСИА и ЕБС. 
-
-Ко второму чтению, 
-как сообщает Интерфакс
-, в законопроекте уточняется, что удаленная идентификация возможна, если сведения поступили в ЕБС из государственной системы миграционного и регистрационного учета. Исключение сделано для иностранных граждан, законно проживающих в РФ не менее пяти лет на дату обращения за сертификатом: они будут идентифицироваться независимо от источника поступления биометрии в ЕБС.
-
-Заключение Правового управления
- Госдумы ко второму чтению уже подготовлено, сама дата рассмотрения ещё не определена.
-
-🚀
-Об ЭП и УЦ</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/Kte3cIHmfAcfRNPZ8v5hkBDjkIupYNXel4T2zL1LpCKU_f6F1U-yq3ncKwX5AYkAgOy4W_dvRUANg7hbJwyjP7AZic5_EHVFeyYFY-3f788tLPqSewJCSN454u5nGnQ_HrvynKN3R-Arvx0kFyu462Xywd-TtC1hrVKFL2Q70wlWj_kEHn54nIPj0qLGnO8Z7TglxzO-wIatL5E-9ZMP9Z6_mnXFdZqsQMHLJI4x423aiKZOmvPYtMhELQDXwx79g3h5tCuryUG-l-R3woxZ9JPwc_TQCep4TiUAb6zg0YNMs_SjLRv5JFkvgVgewKXExBm80updf0xjxXnP_g71fg.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/oTOpc5x3mfITb043pEwX71BfS1qxgOtd7cdEhFY8pSOXKcuIYrtyvwpnX0okSb8OXiQyZqyFPQGH1O83h7VZruIbgbz2PJ1QSjlxKFheYJkOPwadtL5-I6qlHVh504yzW_lJqg4B9asBK0GdxaNhit14vl1XdQrKBvg3MF4yQj4s2r9J3Jc6v-AGuJgO9Ucn3WGnYxMgRJFirLajgGjqr7S16rvVWTBOw2Nq2HZKhkhN8yTkUHwdrPBdyW5hOsBdLQRvO7TPct_s46JIaQJuB-7zLDBKc0iJ8B05qX5zBfT5VHcgsOQyNY5ClM4QcK-VVramyZDkbxhrhI1Mcmg-nA.jpg" /></p>
-<tg-emoji emoji-id="5470060791883374114"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><b>Срок вступления в силу изменений в 63-ФЗ будет перенесён на год</b><br/><br/>Комитет Госдумы по финансовому рынку доработал ко второму чтению <a href="https://sozd.duma.gov.ru/bill/1182063-8" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">законопроект</a> о выдаче международным организациям квалифицированных сертификатов, перенеся срок его вступления с 1 сентября 2026 года на 1 сентября 2027-го, также уточнены нормы об идентификации иностранных граждан при получении сертификата.<br/><br/>Поправки подготовлены ко второму чтению <a href="https://telegram.me/ep_uc/4902" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">законопроекта № 1182063-8</a>, разработанного <a href="https://telegram.me/ep_uc/4754" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Правительством</a> и внесённого в марте в Госдуму.<br/><br/>Сейчас 63-ФЗ регулирует выдачу квалифицированных сертификатов юридическим лицам, ИП, госорганам и госслужащим, физлицам, филиалам иностранных организаций, финансовому сектору, но международные организации в этом перечне нет. Законопроект добавляет их, выдачу сертификатов международным организациям будет осуществлять УЦ ФНС России. Также законопроект <a href="https://telegram.me/ep_uc/3170" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">меняет текущий порядок</a> указания фамилии, имени и отчества в сертификате, позволяя получать сертификаты иностранным гражданам, у которых нет не только отчества, но и имени или фамилии (но что-то одно должно быть).<br/><br/>В рамках <a href="https://telegram.me/ep_uc/4911" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">первого чтения</a> законопроект вводил норму о том, что иностранный гражданин, обратившийся в удостоверяющий центр ФНС за сертификатом от имени юридического лица, его филиала, представительства или как индивидуальный предприниматель, может пройти идентификацию без личного присутствия через ЕСИА и ЕБС. <br/>Ко второму чтению, <a href="https://x-compliance.ru/publications/podft/gosduma-perenesla-na-god-vstuplenie-v-silu-zakona-ob-udalennoy-identifikatsii-inostrantsev" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">как сообщает Интерфакс</a>, в законопроекте уточняется, что удаленная идентификация возможна, если сведения поступили в ЕБС из государственной системы миграционного и регистрационного учета. Исключение сделано для иностранных граждан, законно проживающих в РФ не менее пяти лет на дату обращения за сертификатом: они будут идентифицироваться независимо от источника поступления биометрии в ЕБС.<br/><br/><a href="https://sozd.duma.gov.ru/download/1f17c602-fc66-6610-bea5-139d9ac52f00" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Заключение Правового управления</a> Госдумы ко второму чтению уже подготовлено, сама дата рассмотрения ещё не определена.<br/><br/><tg-emoji emoji-id="5866355487255039002"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9A80.png')"><b>🚀</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Об ЭП и УЦ</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5237</guid>
-      <pubDate>Tue, 14 Jul 2026 05:30:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>❌</title>
-      <link>https://telegram.me/ep_uc/5234</link>
-      <description>❌
-GlobalSign отозван сертификат НСПК от домена 
-pay.mironline.ru</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/GA3mP0FaeV2nXqBO-0fvQuh7xxR-c22PA6eKLdSFiwByHYSTnhdLCu6EaNUKbW-Lghr78KRvixsSIEj3EWnpZQ_A9PLaWw1mY7rwdLpC5cUVAKN5OZLd-mrnddNIlqeHC1cyDrI620YcGLsNizQkqC3jkvJtQtPrqEHH4X9TG0Wst-y4vI_kNrgFwVliajVWdUzbYiidMkVwRIc2dm9h6VnnMwZU2-i9yEI1087BF9Bp5eOv_Am7X4SWgOAWicw--EhWxG0xx8h0MjyAHjC1ywAs2NPAxEd2-HHEwtVe2BqCR0PqUoV8TujOTOLER8Sxwlmqy1T3p-OwVHz_i_oDSA.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/UVgmGRC7lsswWtaJiMk5-drlboTJqVsDtDmq26UznL3xkhs__svSwUU2mLIeYnpX-0klu_4ubMFRwMbauMK6DXyS8um5lT4yR90ecTtN5IInIB9O_krPIFcWOLZ0hI_iVZf1eeLOHSWDoG5J4FRF_eN3WfY0QAjItSjbJTC2uDgVonrwQ-4aG2hKsOHBmnuszmCdVL04ECKCDJgPuOZIYQvysl-8etmqxbMBC4PF8AgFy5lUBfGiYjinVUO4TEQ3m-Q3IomUdtTe-9V9sNrdt9CmsmI7pvIQ5JF1yqvAmeATsZ-9Q-arEc3jfobSeqiaY1RsJknYKcDBVVoBrPigPA.jpg" /></p>
-<div class="tgme_widget_message_text js-message_text" dir="auto"><b><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29D8C.png')"><b>❌</b></i>GlobalSign отозван сертификат НСПК от домена </b><a href="http://pay.mironline.ru/" rel="noopener" target="_blank"><b>pay.mironline.ru</b></a></div>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5234</guid>
-      <pubDate>Tue, 14 Jul 2026 05:07:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
