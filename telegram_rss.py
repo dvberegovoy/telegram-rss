@@ -3,8 +3,9 @@
 telegram_rss.py — Build RSS feeds from public Telegram channels.
 
 Reads channel usernames from channels.txt, fetches each channel's public
-web preview (https://telegram.me/s/<channel>), parses recent posts, and writes
-one RSS file per channel plus a combined feed into docs/feeds/.
+web preview (https://telegram.me/s/<channel>), parses the posts published in
+the last MAX_AGE_DAYS days, and writes one RSS file per channel plus a
+combined feed into docs/feeds/.
 """
 
 from __future__ import annotations
@@ -14,7 +15,7 @@ import os
 import re
 import sys
 import time
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 import requests
@@ -31,7 +32,9 @@ TELEGRAM_BASE = "https://telegram.me"
 CHANNELS_FILE = Path("channels.txt")
 OUTPUT_DIR = Path("docs/feeds")
 SITE_TITLE = "Telegram → RSS"
-MAX_POSTS = 20          # posts kept per channel feed
+MAX_AGE_DAYS = 3        # parsing depth: posts older than this are dropped
+MAX_POSTS = 200         # safety cap on posts per channel feed
+MAX_PAGES = 15          # safety cap on preview pages walked back per channel
 COMBINED_LIMIT = 500    # posts kept in the combined feed
 REQUEST_TIMEOUT = 30    # seconds
 RETRIES = 3
@@ -81,8 +84,11 @@ def mirror_link(url: str) -> str:
 
 # ---- Fetching --------------------------------------------------------------
 
-def fetch_channel_html(channel: str) -> str | None:
+def fetch_channel_html(channel: str, before: int | None = None) -> str | None:
+    """Fetch one preview page; `before` asks for the 20 posts older than that id."""
     url = f"{TELEGRAM_BASE}/s/{channel}"
+    if before is not None:
+        url += f"?before={before}"
     headers = {"User-Agent": USER_AGENT, "Accept-Language": "ru,en;q=0.8"}
     for attempt in range(1, RETRIES + 1):
         try:
@@ -108,6 +114,7 @@ def extract_bg_url(style: str | None) -> str | None:
 
 
 def parse_posts(channel: str, page_html: str) -> tuple[str, list[dict]]:
+    """Parse one preview page into (channel title, posts newest-first)."""
     soup = BeautifulSoup(page_html, "lxml")
 
     title_tag = soup.select_one(".tgme_channel_info_header_title")
@@ -126,6 +133,12 @@ def parse_posts(channel: str, page_html: str) -> tuple[str, list[dict]]:
             link = mirror_link(date_anchor["href"])
         else:
             continue  # cannot identify the post
+
+        # Message id — needed to page further back via ?before=<id>
+        msg_id = None
+        m = re.search(r"/(\d+)$", data_post or link)
+        if m:
+            msg_id = int(m.group(1))
 
         # Publication date
         published = None
@@ -167,6 +180,7 @@ def parse_posts(channel: str, page_html: str) -> tuple[str, list[dict]]:
 
         posts.append({
             "link": link,
+            "msg_id": msg_id,
             "published": published,
             "text_plain": text_plain,
             "text_html": text_html,
@@ -175,7 +189,57 @@ def parse_posts(channel: str, page_html: str) -> tuple[str, list[dict]]:
         })
 
     posts.sort(key=lambda p: p["published"], reverse=True)
-    return channel_title, posts[:MAX_POSTS]
+    return channel_title, posts
+
+
+def collect_posts(channel: str,
+                  cutoff: datetime) -> tuple[str | None, list[dict], int]:
+    """Walk the preview back page by page until posts get older than `cutoff`.
+
+    One page holds ~20 posts, so slow channels are done after a single request;
+    only busy ones (20+ posts within the window) need ?before= pagination.
+    Returns (channel title, posts published at or after `cutoff` newest-first,
+    number of posts seen regardless of age). The title is None when even the
+    first page could not be fetched; a zero count means the channel showed no
+    posts at all (private, empty, or the preview markup changed).
+    """
+    channel_title: str | None = None
+    posts: list[dict] = []
+    seen: set[str] = set()
+    before: int | None = None
+
+    for page_no in range(1, MAX_PAGES + 1):
+        page = fetch_channel_html(channel, before)
+        if page is None:
+            break
+
+        title, page_posts = parse_posts(channel, page)
+        if channel_title is None:
+            channel_title = title
+        if not page_posts:
+            break  # end of the channel, or preview markup changed
+
+        for post in page_posts:
+            if post["link"] not in seen:
+                seen.add(post["link"])
+                posts.append(post)
+
+        if min(p["published"] for p in page_posts) < cutoff:
+            break  # window fully covered
+
+        ids = [p["msg_id"] for p in page_posts if p["msg_id"] is not None]
+        if not ids or min(ids) <= 1:
+            break  # reached the first post, or no ids to page with
+        if before is not None and min(ids) >= before:
+            break  # page did not move back — stop instead of looping forever
+        before = min(ids)
+        if page_no == MAX_PAGES:
+            print(f"  {channel}: hit the {MAX_PAGES}-page limit, window may be "
+                  f"truncated", file=sys.stderr)
+
+    recent = [p for p in posts if p["published"] >= cutoff]
+    recent.sort(key=lambda p: p["published"], reverse=True)
+    return channel_title, recent[:MAX_POSTS], len(posts)
 
 # ---- Feed building ---------------------------------------------------------
 
@@ -212,7 +276,8 @@ def build_feed(channel: str, channel_title: str, posts: list[dict]) -> FeedGener
     if PAGES_BASE_URL:
         fg.link(href=f"{PAGES_BASE_URL}/feeds/{channel}.xml", rel="self")
     fg.description(
-        f"RSS-лента канала @{channel}, собранная из публичного веб-превью Telegram."
+        f"RSS-лента канала @{channel} за последние {MAX_AGE_DAYS} дн., "
+        f"собранная из публичного веб-превью Telegram."
     )
     fg.language("ru")
     fg.generator("telegram_rss.py")
@@ -236,7 +301,10 @@ def build_combined_feed(all_entries: list[tuple]) -> None:
     fg.link(href=TELEGRAM_BASE, rel="alternate")
     if PAGES_BASE_URL:
         fg.link(href=f"{PAGES_BASE_URL}/feeds/all.xml", rel="self")
-    fg.description("Объединённая лента всех отслеживаемых Telegram-каналов.")
+    fg.description(
+        f"Объединённая лента всех отслеживаемых Telegram-каналов "
+        f"за последние {MAX_AGE_DAYS} дн."
+    )
     fg.language("ru")
     fg.generator("telegram_rss.py")
 
@@ -254,6 +322,11 @@ def build_combined_feed(all_entries: list[tuple]) -> None:
     out_path = OUTPUT_DIR / "all.xml"
     fg.rss_file(str(out_path), pretty=True)
     print(f"  wrote {out_path} ({min(len(all_entries), COMBINED_LIMIT)} posts)")
+    if len(all_entries) > COMBINED_LIMIT:
+        print(f"  WARNING: {len(all_entries)} posts in the last {MAX_AGE_DAYS} "
+              f"day(s) exceed COMBINED_LIMIT={COMBINED_LIMIT}; the oldest "
+              f"{len(all_entries) - COMBINED_LIMIT} are not in all.xml",
+              file=sys.stderr)
 
 # ---- Landing page ----------------------------------------------------------
 
@@ -284,7 +357,8 @@ def write_index(summary: list[tuple]) -> None:
 </head>
 <body>
 <h1>{html.escape(SITE_TITLE)}</h1>
-<p class="muted">Обновлено: {updated}. Сводная лента: <a href="feeds/all.xml">all.xml</a></p>
+<p class="muted">Обновлено: {updated}. Глубина: последние {MAX_AGE_DAYS} дн.
+Сводная лента: <a href="feeds/all.xml">all.xml</a></p>
 <table>
 <thead><tr><th>Канал</th><th>RSS</th><th>Статус</th></tr></thead>
 <tbody>
@@ -307,7 +381,9 @@ def main() -> int:
 
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     Path("docs/.nojekyll").touch()  # let Pages serve files as-is
-    print(f"Processing {len(channels)} channel(s)...")
+    cutoff = datetime.now(timezone.utc) - timedelta(days=MAX_AGE_DAYS)
+    print(f"Processing {len(channels)} channel(s), "
+          f"posts since {cutoff:%Y-%m-%d %H:%M UTC}...")
 
     all_entries: list[tuple] = []
     summary: list[tuple] = []
@@ -315,16 +391,27 @@ def main() -> int:
 
     for channel in channels:
         print(f"- {channel}")
-        page = fetch_channel_html(channel)
-        if page is None:
+        channel_title, posts, seen = collect_posts(channel, cutoff)
+        if channel_title is None:
             print("  skipped (could not fetch).", file=sys.stderr)
             summary.append((channel, None, "ошибка загрузки"))
             continue
 
-        channel_title, posts = parse_posts(channel, page)
-        if not posts:
+        if seen == 0:
             print("  no posts found (private/empty/renamed?).", file=sys.stderr)
             summary.append((channel, channel_title, "нет постов"))
+            continue
+
+        # Nothing recent enough is a normal state for a slow channel: publish an
+        # empty feed so the file matches the declared window instead of keeping
+        # posts that have already aged out.
+        if not posts:
+            print(f"  no posts in the last {MAX_AGE_DAYS} day(s).")
+            summary.append((channel, channel_title,
+                            f"нет постов за {MAX_AGE_DAYS} дн."))
+            build_feed(channel, channel_title, posts).rss_file(
+                str(OUTPUT_DIR / f"{channel}.xml"), pretty=True)
+            ok += 1
             continue
 
         fg = build_feed(channel, channel_title, posts)
