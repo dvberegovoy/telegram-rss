@@ -3,271 +3,37 @@
   <channel>
     <title>ППТ — закупки по 44-ФЗ и 223-ФЗ</title>
     <link>https://dvberegovoy.github.io/telegram-rss/feeds/goscontract.xml</link>
-    <description>RSS-лента канала @goscontract, собранная из публичного веб-превью Telegram.</description>
+    <description>RSS-лента канала @goscontract за последние 3 дн., собранная из публичного веб-превью Telegram.</description>
     <atom:link href="https://dvberegovoy.github.io/telegram-rss/feeds/goscontract.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 24 Jul 2026 07:45:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 08:53:48 +0000</lastBuildDate>
     <item>
-      <title>В мире госзакупок конкуренция - правило, а закупка у единственного поставщика - исключение. Разбе…</title>
-      <link>https://telegram.me/goscontract/3102</link>
-      <description>В мире госзакупок конкуренция - правило, а закупка у единственного поставщика - исключение. Разберём, когда закон разрешает обойтись без тендера, какие выгоды и риски это несёт, а также пошагово пройдём по процедуре с учётом последних изменений.
+      <title>Поправки в 44-ФЗ повышают порог закупок у малого бизнеса до 30 000 000 рублей, а лимит электронно…</title>
+      <link>https://telegram.me/goscontract/3104</link>
+      <description>Поправки в 44-ФЗ повышают порог закупок у малого бизнеса до 30 000 000 рублей, а лимит электронного запроса котировок - до 20 000 000 рублей.
 
 #поставщику
 
-https://ppt.ru/go/gf3LZ8</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/IAsT59_ezVsAvMCUyrrtCfEQIMqYIfEbLxbrBDwEkS3KDy4hnho8f8q5Wj74h8l_ABPDCEJ5JQEUbuKBY58YcLy4zLtuXv6re0yQENLKwfmJpYwKyVnhPHfaFbt5HgkHnzc75O6xHcTx5IiC_wjx84epCsbXXKXQRpkBwxni_psoY1vdX5ukPu0fhoa5K-237K3pQTyA5fTrxzqBT-u_sqehx6QJgxmwJ_U5HIEAEPOM1kXeiHkArwe0Qwi9z7_eZms_4Y_N7GbyFncSjEAz9NnvZpsWe0J_7xAUA5sG_KGoXueie2VGM_Q49J1aX-XiJOnH5aGsY--mrCCsNRCQXA.jpg" /></p>
-В мире госзакупок конкуренция - правило, а закупка у единственного поставщика - исключение. Разберём, когда закон разрешает обойтись без тендера, какие выгоды и риски это несёт, а также пошагово пройдём по процедуре с учётом последних изменений.<br/><br/><a href="?q=%23%D0%BF%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA%D1%83">#поставщику</a><br/><br/><a href="https://ppt.ru/go/gf3LZ8" rel="noopener" target="_blank">https://ppt.ru/go/gf3LZ8</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/goscontract/3102</guid>
-      <pubDate>Thu, 23 Jul 2026 14:31:03 +0000</pubDate>
+https://ppt.ru/go/Af2VcR</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/Cq3cbeAahFSyjASPw2o0lSVxNVpYriFiH89fdnW9SICY2oghlm2QCNJXab-OQCNL5TOumSVmMCdXVHcwplELOo4VsgmP1coOIjulhTpih-1FoELXG9KT9E9iQtvjEfsGUMb6Cttg70xD053kCNRfzNsLy5U5kaoLkzOs2y23qTjIkgmknySokGx-HNuYLgnsPCSE0rhvFEt7pex9vF3k5mQwmZf6peXS3eUOmYYXIW8N228Z515Rt3HrOQ2OhB1OBkRucuekfS-t_Qvnt31DZj3b5YLZA6gPrbSCc3kR0TDJVnh8l8f-YyPfoUru1NOSLJ_th_KHJYXQB7HfLIT8ag.jpg" /></p>
+Поправки в 44-ФЗ повышают порог закупок у малого бизнеса до 30 000 000 рублей, а лимит электронного запроса котировок - до 20 000 000 рублей.<br/><br/><a href="?q=%23%D0%BF%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA%D1%83">#поставщику</a><br/><br/><a href="https://ppt.ru/go/Af2VcR" rel="noopener" target="_blank">https://ppt.ru/go/Af2VcR</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/goscontract/3104</guid>
+      <pubDate>Fri, 24 Jul 2026 14:31:04 +0000</pubDate>
     </item>
     <item>
-      <title>Электронные магазины всё чаще становятся рабочим инструментом заказчиков по 223‑ФЗ, к ним активно…</title>
-      <link>https://telegram.me/goscontract/3101</link>
-      <description>Электронные магазины всё чаще становятся рабочим инструментом заказчиков по 223‑ФЗ, к ним активно прибегают не только крупные корпорации и госучреждения, но и другие организации, которым нужно оперативно закрыть небольшие потребности. Для компаний, которые только осваивают рынок закупок по 223‑ФЗ, это удобная точка входа: порог участия здесь ниже, а механика - проще, чем в полноценных конкурентных процедурах. Успешно закрыв пару небольших закупок, поставщик может наработать репутацию и со временем выйти на статус постоянного партнёра крупных госкомпаний.
+      <title>Норма будет действовать с 1 октября 2026 по 30 сентября 2028 года.</title>
+      <link>https://telegram.me/goscontract/3103</link>
+      <description>Норма будет действовать с 1 октября 2026 по 30 сентября 2028 года.
 
 #поставщику
 
-https://ppt.ru/go/1M2Q0s</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/d2uYgMFFxWKtvGTuE-Wl0uSv_aim1Zk8mVQGu91VMtXuIsCV1FVnAtmcIITn2pWb91AD9EK_KDUeruHDOwpsHCqWvPFYII_hNoVW-r0CCthv_elYeLrO-1p-0Nl4ayZbDSnIL6BZUYb-M8O4m_gbLFROS5rg7yIYRjiHKNCE0994dQDf5KCfXl8NQsmTFYTGezcMbsuje5RgVQNJ0AdspNlyo_ZpnXKWsU0WGqkMoR_3AArmFoQvPhZ3dW540uKlO9_XSJO-NLK1M2-d8HV_HfP2zsy3qRQFVidPpSvn7ba2YNq4Hc7N58v52tOV21pg50DnDml2OxSkDbbW9OobOA.jpg" /></p>
-Электронные магазины всё чаще становятся рабочим инструментом заказчиков по 223‑ФЗ, к ним активно прибегают не только крупные корпорации и госучреждения, но и другие организации, которым нужно оперативно закрыть небольшие потребности. Для компаний, которые только осваивают рынок закупок по 223‑ФЗ, это удобная точка входа: порог участия здесь ниже, а механика - проще, чем в полноценных конкурентных процедурах. Успешно закрыв пару небольших закупок, поставщик может наработать репутацию и со временем выйти на статус постоянного партнёра крупных госкомпаний.<br/><br/><a href="?q=%23%D0%BF%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA%D1%83">#поставщику</a><br/><br/><a href="https://ppt.ru/go/1M2Q0s" rel="noopener" target="_blank">https://ppt.ru/go/1M2Q0s</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/goscontract/3101</guid>
-      <pubDate>Wed, 22 Jul 2026 14:31:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Очевидно, что в экстренной ситуации первоочередная задача - обезопасить себя и близких, поэтому в…</title>
-      <link>https://telegram.me/goscontract/3100</link>
-      <description>Очевидно, что в экстренной ситуации первоочередная задача - обезопасить себя и близких, поэтому важно соблюдать официальные предписания МЧС и не пытаться нейтрализовать дрон консервной банкой. А что делать с госконтрактами? Рассказываем в статье.
-
-#поставщику
-
-https://ppt.ru/go/fb4MXz</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/Nv52qtSormjAcl8Ov9mHKyqll2tCye4Ys1zuBctmomaA3UHwyyA7pPLQxGk1LPAhdVj6v5pk_Bn0wUimXxSOMZTn-zQXuzw-OEp3kKZf3aALYd1fuiF6FOtZQt6mYw7x7LWYpGHYWE0aI0klDIdvECLmEnQhDdzJqOs3oF62l_pVrcmP8ACXk_OODw6q5iU2XoPSTRV1gzgZ9rVri8QfVJOeimPr4W0o3QgpkoqRh5620WGU_XXXtTspbJZLlP_Jrzc9zEfEdym_6Y96dnHHBRPebiiz5We1rv-lU8QV_MEDQbx8F--oOQqT5U2XbPXGZbKSUBy3PS-Fg-HS6NoQwg.jpg" /></p>
-Очевидно, что в экстренной ситуации первоочередная задача - обезопасить себя и близких, поэтому важно соблюдать официальные предписания МЧС и не пытаться нейтрализовать дрон консервной банкой. А что делать с госконтрактами? Рассказываем в статье.<br/><br/><a href="?q=%23%D0%BF%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA%D1%83">#поставщику</a><br/><br/><a href="https://ppt.ru/go/fb4MXz" rel="noopener" target="_blank">https://ppt.ru/go/fb4MXz</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/goscontract/3100</guid>
-      <pubDate>Wed, 22 Jul 2026 11:26:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Лимит цены контракта для электронного запроса котировок и контрактов с МСП собираются повысить.</title>
-      <link>https://telegram.me/goscontract/3099</link>
-      <description>Лимит цены контракта для электронного запроса котировок и контрактов с МСП собираются повысить.
-
-#поставщику
-
-https://ppt.ru/go/Py8WCQ</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/a6u38_fcLwq8_LeDvShsoal8YgxnlzHUdQHX41OuzpcaMN7ea8E2xw0BtSVoYg8V5_3_kdU63yXD5jizJayDQuWk5aqcQji6hrN1S2YskO9iy5fr5jDAS1k7K8s50k3mVsVtdS2F14uPYly2W0T1WrKr4nD62cUozpXd__xS2bKySwJGIePaorQzcUlYy7mKp3Lz_bS9LohZSUjmFrmhWkeFioMqCl8mUuLjaJblW24m2u-1RzYou48fqj3_URBFL8SADdOxhj3OL2rmtzaMYLTusDiiV7CLbir1e7KdAB0ytTSsACe9s7C4FveZKM0_xdKjkNlc2lXTNkKk1coclA.jpg" /></p>
-Лимит цены контракта для электронного запроса котировок и контрактов с МСП собираются повысить.<br/><br/><a href="?q=%23%D0%BF%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA%D1%83">#поставщику</a><br/><br/><a href="https://ppt.ru/go/Py8WCQ" rel="noopener" target="_blank">https://ppt.ru/go/Py8WCQ</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/goscontract/3099</guid>
-      <pubDate>Tue, 21 Jul 2026 15:45:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>За нарушения при работе по 223-ФЗ предусмотрены разные виды ответственности - от административной…</title>
-      <link>https://telegram.me/goscontract/3098</link>
-      <description>За нарушения при работе по 223-ФЗ предусмотрены разные виды ответственности - от административной до уголовной. Разберем, какие бывают нарушения, какие санкции за них грозят, как определяется размер штрафа и как минимизировать риски претензий со стороны контролирующих органов с учетом последних изменений.
-
-#поставщику
-
-https://ppt.ru/go/3QfQDn</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/M35rSkSIvbZE2JpOqnh-pVMpXXlVhKNJ6eMgz8zCZbJ9x_iVuVGaIlDF1UfOAs9fZaNqGBu5ia7smHj672i25282SlgqzAx147HQQ5F_7YJpK7wXMpDolIUVEYjKeEUGgRlsMnP6pJoUB2MGRYJhRZVskSPzfpLvKCYD-UVSb4Vv9WFJ_pvkonJSXSR2yRAnhhwd2KulMbHjr44E4_IKKy3fQ0rORfBuQ_Ev0rAWowS2Ps6sL6GqEmyNJH9WexDS6E0H5KVotJGVR6PrAHDM4gD1nBcn9cGwZIXt5Pt3_6hmY22uwSHf_RoaoamL6ufDK1IMVq8K1FcT98i6W-dNTQ.jpg" /></p>
-За нарушения при работе по 223-ФЗ предусмотрены разные виды ответственности - от административной до уголовной. Разберем, какие бывают нарушения, какие санкции за них грозят, как определяется размер штрафа и как минимизировать риски претензий со стороны контролирующих органов с учетом последних изменений.<br/><br/><a href="?q=%23%D0%BF%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA%D1%83">#поставщику</a><br/><br/><a href="https://ppt.ru/go/3QfQDn" rel="noopener" target="_blank">https://ppt.ru/go/3QfQDn</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/goscontract/3098</guid>
-      <pubDate>Tue, 21 Jul 2026 14:31:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Удивительно как мало говорят про возмещение убытков заказчиком на юридические услуги при признани…</title>
-      <link>https://telegram.me/goscontract/3097</link>
-      <description>Удивительно как мало говорят про возмещение убытков заказчиком на юридические услуги при признании жалобы обоснованной.
-
-#поставщику
-
-https://ppt.ru/go/C2DtY0</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/n4ZC8dfpj1ncVnqj_L-paTzCfzt3XzxK3-Pam6rePQPhs5KZXAfL-7m89SPGf2mD97PWApYhjjMMgOaUedcbZnEh88_n1J7KyIBBs9vU4XmV6JhMdAlgRHCc2nUVsCfcv55SjpxRSdL6kgcvpG0UttZ4S4eVjHiG8dOV8FpSe3-7IWpurwvCC7lvivHiu_xU5h3yUvuArf4ZaDtrog4d4cyLYHIywSnlBWIwlltngoDgUpmrACXvTwjAH_OyjcKXZE-M77VuVTXgI0VXcrQN0ZD9VqipPCM1Dlqr5TyzYjV2OZ-op2JoSsnNyasxTkvSZv5fh41XKXUEc91_TQd_fA.jpg" /></p>
-Удивительно как мало говорят про возмещение убытков заказчиком на юридические услуги при признании жалобы обоснованной.<br/><br/><a href="?q=%23%D0%BF%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA%D1%83">#поставщику</a><br/><br/><a href="https://ppt.ru/go/C2DtY0" rel="noopener" target="_blank">https://ppt.ru/go/C2DtY0</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/goscontract/3097</guid>
-      <pubDate>Tue, 21 Jul 2026 11:26:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Коммерческие предложения, направленные заказчику для расчета НМЦК, могут получить самостоятельное…</title>
-      <link>https://telegram.me/goscontract/3096</link>
-      <description>Коммерческие предложения, направленные заказчику для расчета НМЦК, могут получить самостоятельное доказательственное значение при рассмотрении дела о картеле.
-
-#поставщику
-
-https://ppt.ru/go/pY8YyC</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/PDcY2x0WzJnafFkkKSjl-aYTju-cv0IWTSPSshVGVvmw84fo-XszkLfzgOCHxSUBIa9s9r-VX0hJ2e6u876Tn5gW0NFP7jfmI_3ryijr0DtinXNL55YC3G1L0HzUf5xFcMBEcR99zOq4bMpsXaiu8VGUf4vY7uU1aJVpdN0sdfUjqr2GY8S33gQb9MmtvhP81YoDptiOOY8ABuErzP5Q6OwW6v13J3a53NiuZaNFW7g8XFRrNmoZ_5-YG1yntMoI9x-qDw_tX8r82PQXqvguBud1vJO_50SPAULn46Ej9VYOnejV2chnStYKXo3ndYoSe6PUU2MwEeJp_x-xlZwJNg.jpg" /></p>
-Коммерческие предложения, направленные заказчику для расчета НМЦК, могут получить самостоятельное доказательственное значение при рассмотрении дела о картеле.<br/><br/><a href="?q=%23%D0%BF%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA%D1%83">#поставщику</a><br/><br/><a href="https://ppt.ru/go/pY8YyC" rel="noopener" target="_blank">https://ppt.ru/go/pY8YyC</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/goscontract/3096</guid>
-      <pubDate>Sat, 18 Jul 2026 10:01:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Сейчас годовой запрет на повторное вступление в СРО распространяется только на добровольный выход…</title>
-      <link>https://telegram.me/goscontract/3095</link>
-      <description>Сейчас годовой запрет на повторное вступление в СРО распространяется только на добровольный выход, а исключённые за нарушения могли сразу перейти в другую организацию. В этом углядели несправедливость.
-
-#поставщику
-
-https://ppt.ru/go/Tayf5s</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/IoA2Na4SIa-uM2eG0rUQ-zT79w_SQQJ33yYtH47pYE18u_3U6C3gBrfYrb5rBnSpjGa2GpMxKvuAC0ZW1oWuElgDfqL4jvPqfccg47dQXtJb3QU7YuFQaM5D0F9pez2-gSInQhB1ARWkhqlMcrpBhveIJCIl3SZpv8_3FUNL46DH3j-2UrJ_5S8_zJz2CyAaz30Gh7Q90JgpZySH-ot9VGNfEV8A1SUwSbekLFMsm5hosPULYnsQz4sOFB3Abye7-ZRfrw7qx_FOPXbdKyDSz3l9za-lPadoaXgvJBcKP7CNM6gy_ihKZIlbkayhBLJyp0fdiak2PZnI-ShYNKSC3w.jpg" /></p>
-Сейчас годовой запрет на повторное вступление в СРО распространяется только на добровольный выход, а исключённые за нарушения могли сразу перейти в другую организацию. В этом углядели несправедливость.<br/><br/><a href="?q=%23%D0%BF%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA%D1%83">#поставщику</a><br/><br/><a href="https://ppt.ru/go/Tayf5s" rel="noopener" target="_blank">https://ppt.ru/go/Tayf5s</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/goscontract/3095</guid>
-      <pubDate>Fri, 17 Jul 2026 14:31:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Правила касаются заказчиков и поставщиков как по 44-ФЗ, так и по 223-ФЗ.</title>
-      <link>https://telegram.me/goscontract/3094</link>
-      <description>Правила касаются заказчиков и поставщиков как по 44-ФЗ, так и по 223-ФЗ.
-
-#поставщику
-
-https://ppt.ru/go/2rfY0Z</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/EsNSf_utsgzlHibyxcH0TLuV801CokVAP1tRfwsdGp-1ABt51H6hg91XqaaxIaMBeOi-9Y-j5SIs936YSWPq1-HzOo5lkKFvcIBCMYzgnxwMvXayylDlha8viYpCwqPKo9l37gLBMJ74ttgQE0AeUC_xvPOS2xHeUKColm5jbQBdYf-K83dpgX0doxgCtArVRKGNFkV1ScocO9ACxyjgvF82Bj5O0FL6I-hq-AYx-y1KZaUxIGyDLITjX7aMcg8z_Css8tcYtpus0zRchwCIgrF9r2x2XbNKD-oOy6Jz4S0b_GGwTkoET_4BvCIIANf4GsqZHMZdpOcNrDyiRz8pVQ.jpg" /></p>
-Правила касаются заказчиков и поставщиков как по 44-ФЗ, так и по 223-ФЗ.<br/><br/><a href="?q=%23%D0%BF%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA%D1%83">#поставщику</a><br/><br/><a href="https://ppt.ru/go/2rfY0Z" rel="noopener" target="_blank">https://ppt.ru/go/2rfY0Z</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/goscontract/3094</guid>
-      <pubDate>Fri, 17 Jul 2026 07:18:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Рассказываем, какие изменения по регистрации малых закупок придумал Минфин и при чём здесь нацрежим.</title>
-      <link>https://telegram.me/goscontract/3093</link>
-      <description>Рассказываем, какие изменения по регистрации малых закупок придумал Минфин и при чём здесь нацрежим.
-
-#поставщику
-
-https://ppt.ru/go/wa4Dtj</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/JvnUFG_cdeL34tHaPT8BFbihf1bnDsEWwzrGi8zp_KFaFuqc0mr306GX-q49tahciTOKscH1UrKhaZs32lXmHqLPOXzxS_7unqr4LwzXlDcPiLC8IAJNwf1bZwQ9xoP2XLZISIEHM_YZQJdlmfNCxTLZJjdCpiv9SzbZ3TYlI13pfKPeQ5doWOPS0ZPecaUGjC3KaCcfuj6aJPApDvmG6FxAWWmpVeQu6uIEWTMkQfedO-TqBnsG2MFf0ThSUVUeWdCMC8_2Owvl843gcpLlMFaoRzsBVXeYyZTMz0EegFmJAOSjEDUrwlEkDbgcRzB9O-PR41KMVjzvxUk-Vy46Lg.jpg" /></p>
-Рассказываем, какие изменения по регистрации малых закупок придумал Минфин и при чём здесь нацрежим.<br/><br/><a href="?q=%23%D0%BF%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA%D1%83">#поставщику</a><br/><br/><a href="https://ppt.ru/go/wa4Dtj" rel="noopener" target="_blank">https://ppt.ru/go/wa4Dtj</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/goscontract/3093</guid>
-      <pubDate>Thu, 16 Jul 2026 15:45:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Если контракт признают недействительным по вине заказчика, тот будет возмещать поставщику ущерб.…</title>
-      <link>https://telegram.me/goscontract/3092</link>
-      <description>Если контракт признают недействительным по вине заказчика, тот будет возмещать поставщику ущерб. Но будут исключения.
-
-#поставщику
-
-https://ppt.ru/go/Mzd071</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/rZNdZ0buTz3j10rhj0M4P1-QMYy3TcW2AWQ9CtVNI3xNF0RggKIsMTNmgrDuE6HhLBxzOhDp4gBoxepn3jmfFm2uTq1w-Dn3wSfwtLkioA9C5n1Lh7RZh_lA6l4VMdL0RmbWjSsq4ESSLHTE0whl045aj5Li__0zFNP5viuTXdqlE36KGhw10O3txq5CbcSoGOpSCk9H4YgEjgtykLCwcbX9FPEGSUdeOr_c0avCYiIyjaN2n6Cwav-DJeiTfjCNojPSYrs0VhXLtrMkZYF-AD6MkF_Bq_zF7xBoQUG3UxTU0kyLYqsMnsVP91jUYLi9JmqNxZZ-UQLH9xx-Ydo8rQ.jpg" /></p>
-Если контракт признают недействительным по вине заказчика, тот будет возмещать поставщику ущерб. Но будут исключения.<br/><br/><a href="?q=%23%D0%BF%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA%D1%83">#поставщику</a><br/><br/><a href="https://ppt.ru/go/Mzd071" rel="noopener" target="_blank">https://ppt.ru/go/Mzd071</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/goscontract/3092</guid>
-      <pubDate>Thu, 16 Jul 2026 14:31:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Всё чаще сделки признают ничтожными - и не только в обороте недвижимости, но и в закупках. При эт…</title>
-      <link>https://telegram.me/goscontract/3091</link>
-      <description>Всё чаще сделки признают ничтожными - и не только в обороте недвижимости, но и в закупках. При этом прокуратура нередко настаивает на односторонней реституции: контракт аннулируют, поставщик обязан вернуть деньги, а заказчик оставляет у себя товар либо результат работ. Разберём, как суды применяют реституцию и на что опираться, чтобы не оказаться в проигрышной позиции.
-
-#поставщику
-
-https://ppt.ru/go/5Y0SYm</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/OILyzjEvj_B-BSGZCIgg6_WFpMyVxhNbtt-p9RQmGEmmZRDgtiL6Z4mABFhgy0XsMAk7JTQQG-7St_CaFFXZea8xgtckVT-1nmpNx10olMZ6KkNPmnnvxfSD6ZUBtqALuWPQv7AjiPs5LJ0aanlShXxpv_iITHO1Zc0wxS5jKhZaVo8Py2bidkUoI7gUNzl2U1E8RxpMkA9sLacgBO360L-RhdLnLV1h48CAI_5IbYVC1Crc70AL_IwQaxhJhXsjmL5NUAT3UhNn9pgMV_R9jDddrAq3WkYGtk6fJ3LMb2hgrvyACVokX-DFReREP5xg_HY4tmqI9jR_uStYR_5GuQ.jpg" /></p>
-Всё чаще сделки признают ничтожными - и не только в обороте недвижимости, но и в закупках. При этом прокуратура нередко настаивает на односторонней реституции: контракт аннулируют, поставщик обязан вернуть деньги, а заказчик оставляет у себя товар либо результат работ. Разберём, как суды применяют реституцию и на что опираться, чтобы не оказаться в проигрышной позиции.<br/><br/><a href="?q=%23%D0%BF%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA%D1%83">#поставщику</a><br/><br/><a href="https://ppt.ru/go/5Y0SYm" rel="noopener" target="_blank">https://ppt.ru/go/5Y0SYm</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/goscontract/3091</guid>
-      <pubDate>Thu, 16 Jul 2026 11:26:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>По 223-ФЗ наказывают и организацию, и конкретных людей. Штрафы существенные: от 5000 до 500 000 р…</title>
-      <link>https://telegram.me/goscontract/3090</link>
-      <description>По 223-ФЗ наказывают и организацию, и конкретных людей. Штрафы существенные: от 5000 до 500 000 рублей. Собрали для вас все в таблицу и подготовили гайд по нарушениям в закупках по 223-ФЗ.
-
-#поставщику
-
-https://ppt.ru/go/r41SMF</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/NIdBpMsRftdaOHtnIwK5MnZ8mKXuGkWwC2btzElEwu5Fh9hHgIR6B1iUlUx6lNxQ_EUDYgWeb3zfIwnqJDtkrL3F1GLwJOIDt7_rHKVa8ilHaHPDsP7-bmD4rfVujnPV-34nijmnKjAC8KfsDdJBMoGmy7FWCxNIt2mdOqvropEBZwLYYISTz5Q84abWLd6BPf9Z3dXDmlkVYuk5EKrwnDzGK-4R0bvQObbcXuCRkf_tZ_s-0MD6C22LXGwocyMMDpfHN6zO4zXpKWw_UaT5dBhwSbtV0eWbs87GBtLmq9LiAUnmdwIrvvA6WhjHbHtIMrceGGGx8268xBjfmZFhdg.jpg" /></p>
-По 223-ФЗ наказывают и организацию, и конкретных людей. Штрафы существенные: от 5000 до 500 000 рублей. Собрали для вас все в таблицу и подготовили гайд по нарушениям в закупках по 223-ФЗ.<br/><br/><a href="?q=%23%D0%BF%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA%D1%83">#поставщику</a><br/><br/><a href="https://ppt.ru/go/r41SMF" rel="noopener" target="_blank">https://ppt.ru/go/r41SMF</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/goscontract/3090</guid>
-      <pubDate>Wed, 15 Jul 2026 15:45:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Теперь промежуточная отчетность будет только в электронном виде. Впервые её должны сдавать головн…</title>
-      <link>https://telegram.me/goscontract/3089</link>
-      <description>Теперь промежуточная отчетность будет только в электронном виде. Впервые её должны сдавать головные исполнители и исполнители гособоронзаказа.
-
-#поставщику
-
-https://ppt.ru/go/Pd1vQM</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/FPuxZrwapLJCu9txyi1h53KIvFjU0vPtXP-iyfMr0tMMwcdD2KWAZY_fDho9cQyOISVf7wd0qWYic0cB3Uyo50SBij5CEJEwuUfb1DIr-Yn7dmwnPdN9uZI6S3_OglhZnTGI3mkoiqrg8BiqxqoC-FDZJktKm9xYN7Y03AUB_hwrh1Q-NdHJEPzb8ZgutCOzI8OHdmcdA57xvtZB22qKoDJJoa8HXaobzcm2zrBoW11QFSBi27VYjsSm6jsI6Tw4Gzv8KWawoJ2IBsXRy7HGOMvjeuZCjREkWXwxltbIN-3gXNiXYvDwY_av8LFuYEQrNW9nKDT8cdHScpeWZdOj3w.jpg" /></p>
-Теперь промежуточная отчетность будет только в электронном виде. Впервые её должны сдавать головные исполнители и исполнители гособоронзаказа.<br/><br/><a href="?q=%23%D0%BF%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA%D1%83">#поставщику</a><br/><br/><a href="https://ppt.ru/go/Pd1vQM" rel="noopener" target="_blank">https://ppt.ru/go/Pd1vQM</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/goscontract/3089</guid>
-      <pubDate>Wed, 15 Jul 2026 14:31:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ошибки в планировании закупок, как показывает практика, возникают у заказчиков часто. Рассказывае…</title>
-      <link>https://telegram.me/goscontract/3088</link>
-      <description>Ошибки в планировании закупок, как показывает практика, возникают у заказчиков часто. Рассказываем, за какие нарушения в документах планирования заказчика могут наказать, и приводим актуальную таблицу штрафов по 44-ФЗ.
-
-#поставщику
-
-https://ppt.ru/go/nM4CdK</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/XI8ZvH5H_wFSw_AiNmJF0HSMS0s-Lancsa-rWoNvKvbSBXVRxz_mvONMO3zRne0d_moSjPqM6NfbrMOqQehcZeAKhPTUDsknKppgDlOYEKLuiEq4s4K5WpvvtJcLtHPPQuf0SlJwOdQqBQkzCn9P_hewYYRJ0Y9tUEQ2PB5sXgnuqzrW7bbw09m0mQeRr7cpakvfG0OqSSU0Bil-Q0Awj4SGMV9ruu-B7p4_KnobZybQefUsafkB4ueZAvLyjnjyvonRExNuQb-PPAu-BBudrYLfqxuC1KyGIaRNz3SJ2q6W3i3kmWA-cl8Jan3p75n10Q-hWjcsxabrDEvbfrnQgA.jpg" /></p>
-Ошибки в планировании закупок, как показывает практика, возникают у заказчиков часто. Рассказываем, за какие нарушения в документах планирования заказчика могут наказать, и приводим актуальную таблицу штрафов по 44-ФЗ.<br/><br/><a href="?q=%23%D0%BF%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA%D1%83">#поставщику</a><br/><br/><a href="https://ppt.ru/go/nM4CdK" rel="noopener" target="_blank">https://ppt.ru/go/nM4CdK</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/goscontract/3088</guid>
-      <pubDate>Wed, 15 Jul 2026 11:26:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Рубрика: «Вопрос-ответ по заполнению РКМ» Вопрос: При переводе ориентировочной (уточняемой) цены…</title>
-      <link>https://telegram.me/goscontract/3087</link>
-      <description>Рубрика: «Вопрос-ответ по заполнению РКМ» Вопрос: При переводе ориентировочной (уточняемой) цены в фиксированную на дату подготовки РКМ значительная часть работ уже выполнена.
-
-#поставщику
-
-https://ppt.ru/go/4ya97A</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/L1p-ZpTDKZhaPN7qMJA6l08-FH7G7AudNcHrSKVfPstnH0_3IbbMX3tBffwdbgvKpolDsXG_9ySw7azzrRdq8DY-DPWcSIhZBU9jJqP4i4zrGAtMNCZPvO7vfPct0N57FbpKfCvQ5beSeae4UzBn4_LfWUAT8pT6v661MdSvh4-L3Z3ean3Y1XoaV5Z7hjyvziNSABjfXr6wejZjbtABEFGkEkdcnkOOvzXQ3Ogkqk1mV8mJ4Fptzt6Dq9GAbl8tWXosMUs95CJwffdGBDlGma8Zm_HPBIMARhPgWjUOcDEi3idxY66cct3mtkmmfOVjWrHCr_MhyOaUh4SSeczk_Q.jpg" /></p>
-Рубрика: «Вопрос-ответ по заполнению РКМ» Вопрос: При переводе ориентировочной (уточняемой) цены в фиксированную на дату подготовки РКМ значительная часть работ уже выполнена.<br/><br/><a href="?q=%23%D0%BF%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA%D1%83">#поставщику</a><br/><br/><a href="https://ppt.ru/go/4ya97A" rel="noopener" target="_blank">https://ppt.ru/go/4ya97A</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/goscontract/3087</guid>
-      <pubDate>Tue, 14 Jul 2026 11:26:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Новые правила затронут государственных и муниципальных заказчиков и поставщиков.</title>
-      <link>https://telegram.me/goscontract/3086</link>
-      <description>Новые правила затронут государственных и муниципальных заказчиков и поставщиков.
-
-#поставщику
-
-https://ppt.ru/go/shjFM2</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/X07gCG75Io5dwbV9rsQF-WCvXAmbxLfos-TIcfxeUXFhnSU6kCRxwMO-QHOYRWK21tZ064DIPYEShYXAcqneM4xDOaBUKDBLSgAHnASgd5ngBZ2V4bpd2iV0VNCv627qrTrOaoQumm3o8Pg5NK0DryiEPB7Hpcff8acvFYNnqEvSPpDzT6jlR14r9eBOtW_iEd65g9VUn_ubVXyFlcvnhGzWIiPJbvhVCIRSmr5m8Ryjyp-C8Zg7OQ8h6QHLcS6Dmb677rbdY6V8ZVYjE6YafaShPWw9m8ldunxo6bHUoaIUhdRlxMiSE7ZZpqXchcoPENGHktpS4HX6W6OIyVuJbA.jpg" /></p>
-Новые правила затронут государственных и муниципальных заказчиков и поставщиков.<br/><br/><a href="?q=%23%D0%BF%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA%D1%83">#поставщику</a><br/><br/><a href="https://ppt.ru/go/shjFM2" rel="noopener" target="_blank">https://ppt.ru/go/shjFM2</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/goscontract/3086</guid>
-      <pubDate>Tue, 14 Jul 2026 07:18:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Правительство исключило случаи, когда заказчики могли не применять запрет на закупку иностранных…</title>
-      <link>https://telegram.me/goscontract/3085</link>
-      <description>Правительство исключило случаи, когда заказчики могли не применять запрет на закупку иностранных тканей, одежды и обуви из-за небольшой цены контракта.
-
-#поставщику
-
-https://ppt.ru/go/Z9Jygq</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/PF63sP-ud_stg0T8M6sTQBXrCY2nEM3CgMa_2SynV5jW81yWEhsLb06l7ZKQoxWsPKUzQ5V-2cKncqSkUs6gyibHBaGmKKsuTuhXTTUYOD_qhoDw0g3AIPvqyznetzjf4aw2ONhuoLv1qhsG5iEW4svkuVZa-qYr0aiLVtN4NJTZfHRnw1oOMv57mAKWhgRYxSNfznd1Q8ZVwIfsKtwrFDHm6GDmhCAECZwbEhB2SvQ3H4PsH18yeWSHKZZI74541mtbeAMHeny89gGOgxW8oezRJbvO3DDSvr4-HYrlRIzeffLrnISQAH6sGwEHLcJZvKgNa9qs2QBWZJSs021_0Q.jpg" /></p>
-Правительство исключило случаи, когда заказчики могли не применять запрет на закупку иностранных тканей, одежды и обуви из-за небольшой цены контракта.<br/><br/><a href="?q=%23%D0%BF%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA%D1%83">#поставщику</a><br/><br/><a href="https://ppt.ru/go/Z9Jygq" rel="noopener" target="_blank">https://ppt.ru/go/Z9Jygq</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/goscontract/3085</guid>
-      <pubDate>Mon, 13 Jul 2026 15:45:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Что изменилось в правилах госзакупок с 2026 года и как теперь отличить формальную ошибку от насто…</title>
-      <link>https://telegram.me/goscontract/3084</link>
-      <description>Что изменилось в правилах госзакупок с 2026 года и как теперь отличить формальную ошибку от настоящей недостоверности? Узнайте, чтобы не попасть под штраф - читайте статью.
-
-#поставщику
-
-https://ppt.ru/go/hdb3KT</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/MPSzWXDPj89qT3UtLCn2p4mLp-0RPQWLS-FTxW5nLCc6R-PNNYeaq_zCuxcHb-tYtJ0X-XQGjXJC500LxqxAODWN1mb37CMornQnNx61CiokHoLZnF2E8sbzerCCR7X8gVqRCosOMy1vbGjYl52QDvjVJPsw1D96R8LwCXvVBsGrT1XYm97gZUFiFtOpJKp4XB_BYD0mrr7gDqzrTYx1zgZf0BwF8GOv9Ps4lUyaXj1CbRAZ9oQZr16p6smHm4KmwS1v-VrEKarbf7JY_5gW4zMawqqFuJXNYzqHX8XrbJnS3ERijGL_-yw2lexfB98e-iC_RO-StSpsO1zr9hIEkQ.jpg" /></p>
-Что изменилось в правилах госзакупок с 2026 года и как теперь отличить формальную ошибку от настоящей недостоверности? Узнайте, чтобы не попасть под штраф - читайте статью.<br/><br/><a href="?q=%23%D0%BF%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA%D1%83">#поставщику</a><br/><br/><a href="https://ppt.ru/go/hdb3KT" rel="noopener" target="_blank">https://ppt.ru/go/hdb3KT</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/goscontract/3084</guid>
-      <pubDate>Mon, 13 Jul 2026 14:31:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Правительство утвердило порядок изменения условий контрактов на ремонт и содержание федеральных а…</title>
-      <link>https://telegram.me/goscontract/3083</link>
-      <description>Правительство утвердило порядок изменения условий контрактов на ремонт и содержание федеральных автодорог для заказчиков и подрядчиков, которых затронуло повышение ставки НДС.
-
-#поставщику
-
-https://ppt.ru/go/1drXNL</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/f7ZnrQAr2bauQ5Fh2ctDx_0BQT0xREPXli8fBeoz1_t0mS92_jPPAR5xQW1rkJ-RU49nQTt3_i9Guk4ztetWpQMgzgpcJgSj6_QHwEUc9QEuh8tL2Os9XbwUp2skyi4S4ytkIqcNryNOxdFZifeVTLgDOuw5pdFU25I0YJ17T6Frg6zM-IauCjaJYMRNKSUUOhl3wNl0UBiFyss1-msG5ko5Hc_AkFdO9wJ7NYHQ5MuCiWLA58iGtzRIKuTVQbR2eC1BXgCbL0szOHNYLnUwWdRbX4IxhfSislMyhrNMeVW9LRn_KaVxjf8JyFK96oeBFEysGpMHN5BOn4kU1xrgpQ.jpg" /></p>
-Правительство утвердило порядок изменения условий контрактов на ремонт и содержание федеральных автодорог для заказчиков и подрядчиков, которых затронуло повышение ставки НДС.<br/><br/><a href="?q=%23%D0%BF%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA%D1%83">#поставщику</a><br/><br/><a href="https://ppt.ru/go/1drXNL" rel="noopener" target="_blank">https://ppt.ru/go/1drXNL</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/goscontract/3083</guid>
-      <pubDate>Mon, 13 Jul 2026 11:26:04 +0000</pubDate>
+https://ppt.ru/go/x6TG8s</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/HiqXyOniKPTloL9aTyH0426-VSmc6gsSv0Yu60nUNQ-xxCdRnBWqA75A-HxZkKm8UnIUEh17E-mcD63RMoLch9pk2HB8HhqJQ4aSBLY7bQVzMDc9KUdk39qhXSMc7YxBYmdcW1BKpNaIYDy_FRkw5dDMPaz3QBaEMot8GalLdLeFz4LqFH8L0YkHLTs7jMswBtSJUnB5APvPME_BpUrl3AUqA4vginv3OU2S-toCNhitCcuH9tRyUsF-RPSaQsLIxlE1URdt3S4tfNF2Cxyn_CZR4pblEO6TLGm9RLZwcKDp0Bsa2ju_U_H4RfmRtP-VHdjdkR3xOasU3qKBY-A2Hg.jpg" /></p>
+Норма будет действовать с 1 октября 2026 по 30 сентября 2028 года.<br/><br/><a href="?q=%23%D0%BF%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA%D1%83">#поставщику</a><br/><br/><a href="https://ppt.ru/go/x6TG8s" rel="noopener" target="_blank">https://ppt.ru/go/x6TG8s</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/goscontract/3103</guid>
+      <pubDate>Fri, 24 Jul 2026 11:26:02 +0000</pubDate>
     </item>
   </channel>
 </rss>

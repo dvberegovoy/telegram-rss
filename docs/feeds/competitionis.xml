@@ -3,350 +3,136 @@
   <channel>
     <title>Торги и закупки Москвы</title>
     <link>https://dvberegovoy.github.io/telegram-rss/feeds/competitionis.xml</link>
-    <description>RSS-лента канала @competitionis, собранная из публичного веб-превью Telegram.</description>
+    <description>RSS-лента канала @competitionis за последние 3 дн., собранная из публичного веб-превью Telegram.</description>
     <atom:link href="https://dvberegovoy.github.io/telegram-rss/feeds/competitionis.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 24 Jul 2026 07:45:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 08:52:57 +0000</lastBuildDate>
     <item>
-      <title>🏎</title>
-      <link>https://telegram.me/competitionis/3235</link>
-      <description>🏎
-Паркуйте автомобиль с комфортом
+      <title>Офис, образовательный центр или клиника: пространство для бизнеса в центре мегаполиса на торгах</title>
+      <link>https://telegram.me/competitionis/3245</link>
+      <description>Офис, образовательный центр или клиника: пространство для бизнеса в центре мегаполиса на торгах
 
-Город выставил на открытые аукционы 
-38 парковочных мест
- в районе Восточное Измайлово.
+Город выставил на торги 
+нежилое помещение
+ в Тверском районе.
 
 🚩
 Адрес:
- Измайловский бульвар, дом 71
+ Долгоруковская улица, дом 33, строение 3
 
 ➡️
-Площадь:
- 13,7–17,5 м²
+Площадь: 
+254,2 м² 
 
-®️
-Начальные цены:
- 1,9–2,2 млн ₽ 
+Почему это интересно:
 
-Почему стоит приобрести машино-место на торгах:
+— центр Москвы — высокая проходимость и развитая инфраструктура;
 
-🔴
-экономия времени на ежедневный поиск парковки;
+— свободное назначение — подойдет для офиса, образовательного центра или другого проекта;
 
-🔴
-сохранность автомобиля;
-
-🔴
-покупка напрямую у города без посредников;
-
-🔴
-все этапы сделки проходят онлайн.
+— сделка с городом — прозрачность процедуры, гарантированная юридическая чистота и отсутствие посредников.
 
 🗓
-Прием заявок продлится до 28 июля. Аукционы пройдут 4 августа на электронной площадке «Росэлторг».
+Прием заявок на участие в торгах завершится 6 августа. Аукцион пройдет 18 августа в электронной форме. 
 
 Подписывайтесь на наш канал в 
 МАКС
 ☑️
+ 
 
 #предложение_от_города</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/voc20BepKCOr4gXTHsYBalh-io4pJxVYvAu6baC-mrXQ3uEetQlG-IpIISo8eFppBjSvpWiRCcqRmGYzoDvyEjEwOm5zXWGCWBCSjHXSx0nqZZ2CpYU_3HLnYsfT3Ie7bgVhLStIjQjwfyJle_M8-qo-T6-2QgxNKOSHEkQgNXwpDtyMj4Gt3oy6FkelLNqfOouxxEqCX2kEDoTLAG2UoMJYgfJSwR1RQdk798D6L40oMUvMQXnvvEh9Zik9nBj_bVy25ChaN3wbbLo1RmdFEJwCjopRw2YtItS8P4JauJpfNAbGrp_HmAaWsOcKBT0hMb53w-031xuPow2Y4sQ5jg.jpg" /></p>
-<tg-emoji emoji-id="5440402011184979168"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8F8E.png')"><b>🏎</b></i></tg-emoji><b>Паркуйте автомобиль с комфортом</b><br/><br/>Город выставил на открытые аукционы <a href="https://investmoscow.ru/tenders/?objectKinds=nsi:tender_type_portal:13&amp;amp;objectTypes=nsi:41:30011578&amp;amp;searchText=%D0%98%D0%B7%D0%BC%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9+%D0%B1%D1%83%D0%BB%D1%8C%D0%B2%D0%B0%D1%80&amp;amp;tenderStatus=nsi:tender_status_tender_filter:1" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">38 парковочных мест</a> в районе Восточное Измайлово.<br/><br/><tg-emoji emoji-id="5440832663260782173"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9AA9.png')"><b>🚩</b></i></tg-emoji><b>Адрес:</b> Измайловский бульвар, дом 71<br/><tg-emoji emoji-id="5440592454329852764"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29EA1.png')"><b>➡️</b></i></tg-emoji><b>Площадь:</b> 13,7–17,5 м²<br/><br/><tg-emoji emoji-id="5440359254785551132"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/C2AE.png')"><b>®️</b></i></tg-emoji><b>Начальные цены:</b> 1,9–2,2 млн ₽ <br/><br/><b>Почему стоит приобрести машино-место на торгах:</b><br/><tg-emoji emoji-id="5440617231996187103"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')"><b>🔴</b></i></tg-emoji>экономия времени на ежедневный поиск парковки;<br/><tg-emoji emoji-id="5440617231996187103"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')"><b>🔴</b></i></tg-emoji>сохранность автомобиля;<br/><tg-emoji emoji-id="5440617231996187103"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')"><b>🔴</b></i></tg-emoji>покупка напрямую у города без посредников;<br/><tg-emoji emoji-id="5440617231996187103"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')"><b>🔴</b></i></tg-emoji>все этапы сделки проходят онлайн.<br/><br/><tg-emoji emoji-id="5440474072146272031"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9793.png')"><b>🗓</b></i></tg-emoji>Прием заявок продлится до 28 июля. Аукционы пройдут 4 августа на электронной площадке «Росэлторг».<br/><br/><b>Подписывайтесь на наш канал в </b><a href="https://max.ru/id7704515009_gos" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b>МАКС</b></a><tg-emoji emoji-id="5440813271483441115"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29891.png')"><b>☑️</b></i></tg-emoji><br/><br/><a href="?q=%23%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BE%D1%82_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B0">#предложение_от_города</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/competitionis/3235</guid>
-      <pubDate>Fri, 24 Jul 2026 06:01:13 +0000</pubDate>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/dYuFf_PNG80xQAeDf-Z05-55bVmRoOcQ3ujh7C3jYPAorGS9UYJCJ1kp5h0QpEFbf-wA2_8opMoLv1RBjBBSbt66Do0UcA1k2M3jGm8OeXHlDtYsIsD-T0r2dRyUm04jCRLQlOkFpeSev0rkpoY7tgpNMnVPnwiQIbx76XbRdOyd6R5eWDFmdBc2uKol2BOpQOFHPFwMjCsCld76A9ja56HXf7xrhSvZHqKR0cOALNqHIu2Zr-bNDtKuO3Vi6aRO_3kC83NDkKfHhKzAhjGpmPybvZUrqOKdq5BZGp2P5ifwva6ozYU2HjUFNg31b83uVFF1twQNdavnBcNNNpeV6w.jpg" /></p>
+<b>Офис, образовательный центр или клиника: пространство для бизнеса в центре мегаполиса на торгах<br/></b><br/>Город выставил на торги <a href="https://investmoscow.ru/tenders/tender/20138469" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">нежилое помещение</a> в Тверском районе.<br/><br/><tg-emoji emoji-id="5440832663260782173"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9AA9.png')"><b>🚩</b></i></tg-emoji><b>Адрес:</b> Долгоруковская улица, дом 33, строение 3<br/><tg-emoji emoji-id="5440592454329852764"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29EA1.png')"><b>➡️</b></i></tg-emoji><b>Площадь: </b>254,2 м² <br/><br/><b>Почему это интересно:</b><br/>— центр Москвы — высокая проходимость и развитая инфраструктура;<br/>— свободное назначение — подойдет для офиса, образовательного центра или другого проекта;<br/>— сделка с городом — прозрачность процедуры, гарантированная юридическая чистота и отсутствие посредников.<br/><br/><tg-emoji emoji-id="5440474072146272031"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9793.png')"><b>🗓</b></i></tg-emoji>Прием заявок на участие в торгах завершится 6 августа. Аукцион пройдет 18 августа в электронной форме. <br/><br/><b>Подписывайтесь на наш канал в </b><a href="https://max.ru/id7704515009_gos" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b>МАКС</b></a><tg-emoji emoji-id="5440813271483441115"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29891.png')"><b>☑️</b></i></tg-emoji> <br/><br/><a href="?q=%23%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BE%D1%82_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B0">#предложение_от_города</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/competitionis/3245</guid>
+      <pubDate>Mon, 27 Jul 2026 06:04:59 +0000</pubDate>
     </item>
     <item>
-      <title>🔍</title>
-      <link>https://telegram.me/competitionis/3234</link>
-      <description>🔍
-Найти помещение на торгах самому — реально?
+      <title>Купцы Карзинкины: фамилия — по ошибке, империя — по расчету</title>
+      <link>https://telegram.me/competitionis/3244</link>
+      <description>Купцы Карзинкины: фамилия — по ошибке, империя — по расчету
 
-Герой сериала «Время действовать: покупай у города» уже знает, что коммерческую недвижимость можно приобрести напрямую у столицы. Но теперь он сомневается: получится ли разобраться в поиске самостоятельно?
-
-Во второй серии он узнает, как подобрать объект на Инвестиционном портале Москвы. Там можно задать нужные параметры и увидеть актуальные объекты, которые подходят под запрос пользователя.
-
-А главное — сделка с городом проходит безопасно: все документы проверены, а юридическая чистота объекта подтверждена.
+По семейному преданию, чиновник неверно записал фамилию приезжего купца Корзинкина — и именно о ней через несколько десятилетий узнает вся Москва. Так Корзинкины стали Карзинкиными, а небольшое торговое дело выросло в одну из самых известных предпринимательских династий Российской империи.
 
 ✨
-Герой сериала понял: попробовать стоит. Смотрите вторую серию и убедитесь сами!
+Сначала Карзинкины прославились как крупные московские торговцы чаем, а позже их имя стало символом текстильной промышленности. Семья одной из первых в России сделала ставку на среднеазиатский хлопок, модернизировала производство и вывела Ярославскую Большую мануфактуру в число крупнейших предприятий страны.
 
-Подписывайтесь на наш канал в 
-МАКС
- 
-☑️
+Но впечатляет не только масштаб бизнеса. Для рабочих здесь строили жилье с электричеством и вентиляцией, открывали школы, больницы, детские сады и театр. Такой уровень проведения социальной политики на предприятии для того времени был большой редкостью.
 
-#сериал_время_действовать</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/GUDa2s7jJ-ndGaVjnB2MMx7fQiEl-W54dXyqV56AVfYMstpPdUtY8A76luK14ABK1Lv7C_apksfotHsoI9ZDbjUWhAaOMULSsfEbAds_zOOrtiLNfzr27Dnew-6IssTzr380Pb55Kvder9dAejac5KgUhOyT8tOTYmK1VsgOqgi7YFPQU3SmDj7u4JrgRGp8LImHPOSXCpvTT9GXsSEySJCncxlt9iDAWHJRbjJab4T7qw7cu_2h0L-TPiZ0B-9jCEazUIkjlHVxmox3-T5fkr9lpzdK_BBUbokV975ATw88Q3WLpJg6dLyJUM8D0vHcdvv7XXp1jrIE4vdSIpJrDA" /></p>
-<tg-emoji emoji-id="5440651896677230703"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F948D.png')"><b>🔍</b></i></tg-emoji><b>Найти помещение на торгах самому — реально?<br/></b><br/>Герой сериала «Время действовать: покупай у города» уже знает, что коммерческую недвижимость можно приобрести напрямую у столицы. Но теперь он сомневается: получится ли разобраться в поиске самостоятельно?<br/><br/>Во второй серии он узнает, как подобрать объект на Инвестиционном портале Москвы. Там можно задать нужные параметры и увидеть актуальные объекты, которые подходят под запрос пользователя.<br/><br/>А главное — сделка с городом проходит безопасно: все документы проверены, а юридическая чистота объекта подтверждена.<br/><br/><tg-emoji emoji-id="5440833737002607848"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29CA8.png')"><b>✨</b></i></tg-emoji>Герой сериала понял: попробовать стоит. Смотрите вторую серию и убедитесь сами!<br/><br/><b>Подписывайтесь на наш канал в </b><a href="https://max.ru/id7704515009_gos" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b>МАКС</b></a><b> </b><tg-emoji emoji-id="5440813271483441115"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29891.png')"><b>☑️</b></i></tg-emoji><br/><br/><a href="?q=%23%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB_%D0%B2%D1%80%D0%B5%D0%BC%D1%8F_%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%BE%D0%B2%D0%B0%D1%82%D1%8C">#сериал_время_действовать</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/competitionis/3234</guid>
-      <pubDate>Thu, 23 Jul 2026 14:03:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>🅿️</title>
-      <link>https://telegram.me/competitionis/3229</link>
-      <description>🅿️
- 
-Компактный объект — большая польза: машино-места на торгах
-
-Приобрести парковочное место можно на открытых городских аукционах, а подобрать — на столичном Инвестиционном портале.
-
-В карточках рассказываем, на что обратить внимание при выборе и почему сделка с городом — это надежно. 
-
-➡️
-Подробную статью читайте в нашем 
+❓
+Как случайная ошибка изменила историю целой династии? Почему чай стал лишь первым шагом к промышленной империи? За что художник Константин Коровин сравнивал условия жизни рабочих у Карзинкиных с английскими? И какие известные писатели и художники бывали в доме семьи? Читайте полную историю в 
 Дзене
 .
 
 Подписывайтесь на наш канал в 
 МАКС
-☑️</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/BqcSq_cyr79l9U2KlA_A_uR0bbTXUHw0dUEAakAFC4XmBY1HbmwnzcKgFxYO7MR4Nf6KK6J2pc0APS-v0BGNh3mHKO8D3ex3ot9SFOCGzO9O2ojFQRLxg9MTQT_nHDMdGRYVD8RnnqhX-zAHnft4mmFvvIAzXPziULuBiMyGfGr7zTMvikrbdgKtn5cmiyPQxdN-fD7KDiGNBxk1eOeHovEjMSTwyBRocgacNd20HPv7b3Aju4Jdxplz3VFIq026zAQTYcxoUINCD2yvrGNVxbxS3mhwG5jcQMcMxiaZzo4zNT_duTwy4dgjWu0ywfV1on4-dYK7U8bInFYs2e5hGQ.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/ggQMd6c_dhmk9hQQhNK31JtaE6vcrEB2tYl_Vs27AAaUr99YU1PSuInlijCsExsB8-cKfGfg_H4c81ZqJkogFqvegxNi_-wK-lkS3XehThJ7mbgnYlDbZVCDDSWBOannlW6IGHPzNGT6w7J8JJHrCaTJYVXfLLMOj0I1cPQflEjs3tfoN-hFPQ_cHk74zybGctlXFRCZVIk886-HzRwUtj-yAem--bWc_eVZ1z8n_1QBu7-ESCX20KH1Skxl0CjISSHU2_UgXjpqudGECdzHU7M4923IQ5aCcGtoACAUPTpLCyQat1frGhbDwR4wxJACJvepmxw5Ko6Kssl4YuwlDQ.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/rlxRflX1Q17hmM6VU89nuiBJdluW7eg-5bxQ5IICHhZHZyPx7h2a6_0QINHGQe1fPVR9m62ksc-gDt1XI2K17EpJY-1Cmg1TQxFDcKO_KlrPNS0nbsRYX2XNBty58mGGmV5sb9CJdS5AyIIFu_xiytjjJOhkk-aJ-BTTfgHiHoHyMVvOsAD1p9Bl7z4tupet2xQ6_iQCkkb3FosbXO2UetxXWKslDY_HkfV-nPAR08NPnAQGibK1e_bMmYfPh8IpGgABJYNE2oDXwSLqc3TwvOSl3GmKvpJEmIXm8oc0EA_NK4bT85KKHOlf3QNVn7bOjkN5_U1n-zIy49hfqFhxMg.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/WgddQme5m3umUo-2FJ48DSSEVcfkVxq7sIM4RnD2VjyCBCfraOwb7KTEGooOguK8bDwNYnbHfk7IT-6-ZjzvcrkPhDk2MLCuztu_gfe43ZWVj7yKZxM0RxDGtnTmo98BzqY4czo_oI9A2XaZxHY_uK19kKffcfP9yiezrG3zMpfKPb5cxcuZCU4RJdvaUX3MRQKF1bbNgsocyol1MKj-n3cGHXycVKeBrwYOlLGUEqS6kIhlH4HUm8SLa91S5VvGUzPuim6WFgD55iWDFxhQoSuIcQBkNniBJiktB0xnvOHDxtvyCNqbuhAAHNMbqjvvSnCIwMhBJh7Iic4idOJi4w.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/Tuxwb6xS5DHIqHB3v7wvPRZYCYDTvDdbx_Fi2c3nHQHteSbT6lMS-sDgpOgi6LRoYen5DtdFfep_LBgM4OYcj23sMXo2Of1t_t34BycZlgH5Kv4-OaM1X1DWVrrfC2MJRa9pTxMVrAnTCDfwWC798nTajQdPdYcCOllGMcjLxJiotj0QT9HFsBM_W-pJbN7sJgHMJLM4PGRBYOgmRsuvdowYI6bePg8EU9P-O5vq-JWAJJMaUy959dBfzdk1nVkTRLTzLr1sCqZsVwEu3Z3_IKmnvpLDDhiFwHt6nGC0BW-kvXsOvObIG9bF7HRynyFdsnhYsNE-lTsfmi8y3HbRhg.jpg" /></p>
-<tg-emoji emoji-id="5440500962936513548"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F85BF.png')"><b>🅿️</b></i></tg-emoji> <b>Компактный объект — большая польза: машино-места на торгах</b><br/><br/>Приобрести парковочное место можно на открытых городских аукционах, а подобрать — на столичном Инвестиционном портале.<br/><br/>В карточках рассказываем, на что обратить внимание при выборе и почему сделка с городом — это надежно. <br/><br/><tg-emoji emoji-id="5440592454329852764"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29EA1.png')"><b>➡️</b></i></tg-emoji>Подробную статью читайте в нашем <a href="https://dzen.ru/a/amCwZTxIjEclkfLJ" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Дзене</a>.<br/><br/><b>Подписывайтесь на наш канал в </b><a href="https://max.ru/id7704515009_gos" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b>МАКС</b></a><b><tg-emoji emoji-id="5440813271483441115"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29891.png')"><b>☑️</b></i></tg-emoji></b>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/competitionis/3229</guid>
-      <pubDate>Thu, 23 Jul 2026 12:45:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>❓</title>
-      <link>https://telegram.me/competitionis/3228</link>
-      <description>❓
-Как купить недвижимость у города? Рассказали на семинаре
-
-В Москве провели практический семинар «Покупай у города: машино-места и жилые помещения от города без посредников». Участникам рассказали, как приобрести недвижимость на торгах — от поиска лота на Инвестиционном портале до подписания электронного договора.
-
-В число представленных на мероприятии лотов вошли машино-места по адресам:
-
-— 
-3-й Михалковский переулок, дом 17
-;
-
-— 
-улица Годовикова, дом 11а
-;
-
-— 
-улица Говорова, дом 14а
-;
-
-— 
-Феодосийская улица, дом 5
-.
-
-Подобные мероприятия для желающих приобрести недвижимость на торгах проводятся регулярно. Следите за 
-анонсами
-.
-
-Подписывайтесь на наш канал в
- 
-МАКС
-☑️</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/MHjky_8BxWcj0S1PGdyP9zhxyZDDAcwVboD6J8I0q4Qf0YfvFdSDULuTatfbh2AYYR6Ox77hUIvd5GjVz5_4k8GobqLNV36cjHcPxeyz7hshkepGl2xYtSeW1TxY1fDMFBmiXqL_pu_Xi7BhRcNNj2Bl1QQc_FFYrsQDOtdNe7D7Bnzk61wvUtiMn1BxjGrQC7ZtBLjO1XFhHlDlMVgts5WAtjCxap6SpfrCcpI3lhm86_Qi8dZyp_R0NC2pmOvaFfARWa2YWGOhZyN02MxEsYhJrpeguDfbRjhjTxFpPRNQVYF0nrly10l3hdJUYH4tA6LLkMLrAQ-OU-Tx3I1CeQ.jpg" /></p>
-<b><tg-emoji emoji-id="5442931785577029027"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29D93.png')"><b>❓</b></i></tg-emoji></b><b>Как купить недвижимость у города? Рассказали на семинаре</b><br/><br/>В Москве провели практический семинар «Покупай у города: машино-места и жилые помещения от города без посредников». Участникам рассказали, как приобрести недвижимость на торгах — от поиска лота на Инвестиционном портале до подписания электронного договора.<br/><br/><b>В число представленных на мероприятии лотов вошли машино-места по адресам:</b><br/>— <a href="https://investmoscow.ru/tenders/?objectKinds=nsi%3Atender_type_portal%3A13&amp;amp;objectTypes=nsi%3A41%3A30011578&amp;amp;searchText=%D0%9C%D0%B8%D1%85%D0%B0%D0%BB%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9&amp;amp;tenderStatus=nsi%3Atender_status_tender_filter%3A1" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">3-й Михалковский переулок, дом 17</a>;<br/>— <a href="https://investmoscow.ru/tenders/?objectKinds=nsi%3Atender_type_portal%3A13&amp;amp;objectTypes=nsi%3A41%3A30011578&amp;amp;searchText=%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0&amp;amp;tenderStatus=nsi%3Atender_status_tender_filter%3A1" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">улица Годовикова, дом 11а</a>;<br/>— <a href="https://investmoscow.ru/tenders/?objectKinds=nsi%3Atender_type_portal%3A13&amp;amp;objectTypes=nsi%3A41%3A30011578&amp;amp;searchText=%D0%93%D0%BE%D0%B2%D0%BE%D1%80%D0%BE%D0%B2%D0%B0&amp;amp;tenderStatus=nsi%3Atender_status_tender_filter%3A1" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">улица Говорова, дом 14а</a>;<br/>— <a href="https://investmoscow.ru/tenders/?objectTypes=nsi%3A41%3A30011578&amp;amp;searchText=%D0%A4%D0%B5%D0%BE%D0%B4%D0%BE%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F+&amp;amp;tenderStatus=nsi%3Atender_status_tender_filter%3A1" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Феодосийская улица, дом 5</a>.<br/><br/>Подобные мероприятия для желающих приобрести недвижимость на торгах проводятся регулярно. Следите за <a href="https://tender.mos.ru/events/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">анонсами</a>.<br/><br/><b>Подписывайтесь на наш канал в</b> <a href="https://max.ru/id7704515009_gos" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b>МАКС</b></a><b><tg-emoji emoji-id="5440813271483441115"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29891.png')"><b>☑️</b></i></tg-emoji></b>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/competitionis/3228</guid>
-      <pubDate>Thu, 23 Jul 2026 09:21:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>🏢</title>
-      <link>https://telegram.me/competitionis/3227</link>
-      <description>🏢
- 
-Большое помещение для больших идей в районе Митино
-
-Если вы планируете открыть новый офис, клинику, фитнес-студию или расширить действующий бизнес, обратите внимание на новый лот на городских торгах.
-
-Город реализует 
-коммерческое помещение
- площадью 185,2 м² в Митине.
-
-Почему стоит присмотреться:
-
-🚩
-расположение в деловом центре на Пятницком шоссе;
-
-🚇
-рядом метро «Волоколамская»;
-
-🏎
-удобные подъезд и парковка;
-
-🔴
-свободное назначение — помещение можно адаптировать под разные виды деятельности.
-
-®️
-Начальная цена:
- 33,5 млн ₽
-
-➡️
-Подать заявку можно до 27 июля, а 6 августа состоится электронный аукцион на площадке «Росэлторг».
-
-Вся информация — фотографии, документы и условия участия — доступна в разделе «Торги Москвы» на столичном Инвестиционном портале.
-
-Подписывайтесь на наш канал в 
-МАКС
- 
 ☑️
  
 
-#предложение_от_города</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/F8deZ58R7zkHTeyzerv1yRFYJQvnXS3Gh9Fozi2K4et97xiP774BjNIGhY5996kZ3ZUDatGCsOGRj8WzmImrAurfm4RjFmgUg4ird4zab1t6-1nFfIy770pu8LT2pPFAhC9sMQPYbtQHy6fw7p6896FHGjhxSo3kr_9Gju-ZaiIBX3001fZfp6C76BG-fm96qFEDglbXNNZ-pMWQ2N_-hPcDkMmJg6i9Hy9dhUBm7qZ0oz2iMD4SqkGIP7DX79xuRwIq82dNWLVWlzxoly41BIMvU1K6lYQncMumykacykYt36KjLrIc5jFi1cOdI3d5fcSF5WJuo7o2J7hHotbjTw.jpg" /></p>
-<tg-emoji emoji-id="5440356437287004555"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8FA2.png')"><b>🏢</b></i></tg-emoji> <b>Большое помещение для больших идей в районе Митино</b><br/><br/>Если вы планируете открыть новый офис, клинику, фитнес-студию или расширить действующий бизнес, обратите внимание на новый лот на городских торгах.<br/><br/>Город реализует <a href="https://investmoscow.ru/tenders/tender/19996594" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">коммерческое помещение</a> площадью 185,2 м² в Митине.<br/><br/><b>Почему стоит присмотреться:</b><br/><tg-emoji emoji-id="5440832663260782173"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9AA9.png')"><b>🚩</b></i></tg-emoji>расположение в деловом центре на Пятницком шоссе;<br/><tg-emoji emoji-id="5188519758575725254"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9A87.png')"><b>🚇</b></i></tg-emoji>рядом метро «Волоколамская»;<br/><tg-emoji emoji-id="5440402011184979168"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8F8E.png')"><b>🏎</b></i></tg-emoji>удобные подъезд и парковка;<br/><tg-emoji emoji-id="5440400636795446838"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')"><b>🔴</b></i></tg-emoji>свободное назначение — помещение можно адаптировать под разные виды деятельности.<br/><br/><tg-emoji emoji-id="5440359254785551132"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/C2AE.png')"><b>®️</b></i></tg-emoji><b>Начальная цена:</b> 33,5 млн ₽<br/><br/><tg-emoji emoji-id="5440592454329852764"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29EA1.png')"><b>➡️</b></i></tg-emoji>Подать заявку можно до 27 июля, а 6 августа состоится электронный аукцион на площадке «Росэлторг».<br/><br/>Вся информация — фотографии, документы и условия участия — доступна в разделе «Торги Москвы» на столичном Инвестиционном портале.<br/><br/><b>Подписывайтесь на наш канал в </b><a href="https://max.ru/id7704515009_gos" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b>МАКС</b></a> <tg-emoji emoji-id="5440813271483441115"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29891.png')"><b>☑️</b></i></tg-emoji> <br/><br/><a href="?q=%23%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BE%D1%82_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B0">#предложение_от_города</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/competitionis/3227</guid>
-      <pubDate>Thu, 23 Jul 2026 06:20:01 +0000</pubDate>
+#история_московских_поставщиков</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/Z3m0SDwV-F9MsfZrk85oaJ6Qje7an8GZspiihIBCD9fgbFPLDOGTSVMgH0UuEWExQK1foI0QcTwMf3Sw-RAkKm9sniG7nqmi9u5iJ9XIzXbWNGK_-vw8WoCi4R-xqBInUVm5xay5ckgkQyrFNYRsBhBaynHfBhYoVjDkSgMVWoeKlA18WBT-YlkTDdfujJ5ZsZ2aj8uGN2oS8XsELpWK7QVPFVoeWwYOL7B7cftpGNOkCzZ7PSlYDOLpORuKgCCBlzIv6LZwaNmoK6midt9N6ILfwhtT8Ma2tQF0Fyh4xcg51lCnFF2NaO2WK1JyzuOTMAA8dNXrkyUqByUk8MbCMQ.jpg" /></p>
+<b>Купцы Карзинкины: фамилия — по ошибке, империя — по расчету</b><br/><br/>По семейному преданию, чиновник неверно записал фамилию приезжего купца Корзинкина — и именно о ней через несколько десятилетий узнает вся Москва. Так Корзинкины стали Карзинкиными, а небольшое торговое дело выросло в одну из самых известных предпринимательских династий Российской империи.<br/><br/><tg-emoji emoji-id="5440833737002607848"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29CA8.png')"><b>✨</b></i></tg-emoji>Сначала Карзинкины прославились как крупные московские торговцы чаем, а позже их имя стало символом текстильной промышленности. Семья одной из первых в России сделала ставку на среднеазиатский хлопок, модернизировала производство и вывела Ярославскую Большую мануфактуру в число крупнейших предприятий страны.<br/><br/>Но впечатляет не только масштаб бизнеса. Для рабочих здесь строили жилье с электричеством и вентиляцией, открывали школы, больницы, детские сады и театр. Такой уровень проведения социальной политики на предприятии для того времени был большой редкостью.<br/><br/><tg-emoji emoji-id="5442931785577029027"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29D93.png')"><b>❓</b></i></tg-emoji>Как случайная ошибка изменила историю целой династии? Почему чай стал лишь первым шагом к промышленной империи? За что художник Константин Коровин сравнивал условия жизни рабочих у Карзинкиных с английскими? И какие известные писатели и художники бывали в доме семьи? Читайте полную историю в <a href="https://dzen.ru/a/amMRlWOMyk6ci6jZ" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Дзене</a>.<br/><br/><b>Подписывайтесь на наш канал в </b><a href="https://max.ru/id7704515009_gos" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b>МАКС</b></a><b><tg-emoji emoji-id="5440813271483441115"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29891.png')"><b>☑️</b></i></tg-emoji></b><b> </b><br/><br/><a href="?q=%23%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%BC%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D1%85_%D0%BF%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA%D0%BE%D0%B2">#история_московских_поставщиков</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/competitionis/3244</guid>
+      <pubDate>Sat, 25 Jul 2026 07:00:27 +0000</pubDate>
     </item>
     <item>
-      <title>Какой формат бизнеса подойдет для помещения возле парка в Бескудниковском районе?</title>
-      <link>https://telegram.me/competitionis/3226</link>
-      <description>Какой формат бизнеса подойдет для помещения возле парка в Бескудниковском районе?
+      <title>Предпринимательская жизнь — она такая...</title>
+      <link>https://telegram.me/competitionis/3237</link>
+      <description>Предпринимательская жизнь — она такая...
 
-Нейросеть предложила концепцию коворкинга «Деловой квартал» — пространство с лаунж-зоной, где комфортно и работать, и отдыхать. В ролике — визуализация этого интерьера в помещении площадью 225,9 м² на Бескудниковском бульваре.
+Собрали мемы, в которых предприниматель может узнать себя. Листайте, улыбайтесь и отправляйте коллегам 
+☺️
 
-Хотите воплотить эту идею? Помещение можно выкупить на городских торгах. Подробности по 
-ссылке
-. 
-⬅️
- 
-
-Подписывайтесь на наш канал в 
-МАКС
- 
-☑️
- 
-
-#до_после</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/EODYOuyziNdpjtkVV2_sXR09zUYAdFbMGcdY0QgLNZZeU-ly2CvEDi5HL1u5_BGv0QkSSgYXUJxcnZnu-aW_vTV6BFiARzWexier0-gpLY58Bt4bZf2RmMjN-Y27lK1jOdhVbzvkIK68-Vd1uH_aHKTJvX7BzKv-t1P1954sHjMEJ26GmDT1sJ70eM32r3AjOSjiqWKLyMw6DeCMIa1-LAnEljo64WyTogSGuZd5EitOf8y3QWOIiw_HyE1qhrhhKtD7-6Wrnj6huXAh-0lAmY6SvdAGFE6igE3Y94_cl_hquqdJDGcL20ZExzwTcQ73X5CadqijmxHX4_FN7TkfKQ" /></p>
-<b>Какой формат бизнеса подойдет для помещения возле парка в Бескудниковском районе?</b><br/><br/>Нейросеть предложила концепцию коворкинга «Деловой квартал» — пространство с лаунж-зоной, где комфортно и работать, и отдыхать. В ролике — визуализация этого интерьера в помещении площадью 225,9 м² на Бескудниковском бульваре.<br/><br/>Хотите воплотить эту идею? Помещение можно выкупить на городских торгах. Подробности по <a href="https://investmoscow.ru/tenders/tender/20147555" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">ссылке</a>. <tg-emoji emoji-id="5440907314087353897"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E2AC85.png')"><b>⬅️</b></i></tg-emoji> <br/><br/><b>Подписывайтесь на наш канал в </b><a href="https://max.ru/id7704515009_gos" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b>МАКС</b></a><b> </b><b><tg-emoji emoji-id="5440813271483441115"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29891.png')"><b>☑️</b></i></tg-emoji></b><b> </b><br/><br/><a href="?q=%23%D0%B4%D0%BE_%D0%BF%D0%BE%D1%81%D0%BB%D0%B5">#до_после</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/competitionis/3226</guid>
-      <pubDate>Wed, 22 Jul 2026 12:01:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>📌</title>
-      <link>https://telegram.me/competitionis/3221</link>
-      <description>📌
- Как не пропустить выгодную закупку на Портале поставщиков
-
-На 
+А если после этого появится настроение искать новые возможности для бизнеса — они всегда есть на 
+Инвестиционном портале Москвы
+ и 
 Портале поставщиков
- ежедневно публикуются сотни закупок. Чтобы не упустить подходящее предложение, можно настроить персональные инструменты поиска и отслеживания. 
+✨</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/NSKPDltYXFAEjjW5cHXMlOATtAeCp2xaO3cWwFiHlvM40zuRcWPITlyG1_Pl9dGSS7Vh9TN48QA8UbEzbYeMRn314aJzAjpUqEEJSlp2_i_1PZXdIvxtbrnLmZU0XoDJCCY3KnSbUaQWBjQiuObFiGDBpUorvf6ePyLbgL2d1HfUGwrNO-R5Nav9M15CN1pxqZv763cYzp1wm71xvZQ5pxpGYpvSpmE1d64uwOYykBRz88BT5MKdwCx506PrFN3PUATp-tdTwLJTtSqrR7RaeW4kG7O6MtAUAkqc0H7wgBLmisi-m_AbhHWf6QQsp0QrQuMwU-Yvfo3VhBAKirAQtw.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/EgFwIp3i5E1aE0XpDdLL_pHY64-0IbT1SVnyu3vcjIPf0Vv9fdqqPgYT1olUGLvDFfCmjpSnmUfxk0L2aPafHPf5OI0FANq4ZwQfymfX1PVyEFVhRWrrOU92GfW_uoiNX_8ScDtCyeTK880xLCMmOKEnP-0XI9KI8JMWqDoir3k06wKZlBaJN1a3HyIUxyoc8wufuRqZpVIxqGKg4RzLu5QqzinDy6B62-oyXWr1XL9aEiqrn8WOnrkwpgRC0FobrDlfDSUt9DXOrd3QhT0GupnMAwUUpsYLS55b7QbhikZa8T4kJnYLyiLymUH05ZxuClVNsLXEHGQxj39eAQuN1g.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/DhcNmx29vO9hJgDuIZTSVdXa-_T9pODPSF7X2MUJu15C5O0AqwIYXS0EdswJ6nYJKD7nBp_r2CmkSwOzRv0w6JJU0VdXsfXAT0n_Q25aTXHg4o5vFs1JHKr42VjLcJzWiqH_4OdNPJs3cXoxuXURqqxrGnY2XN-b7jR9ksBlVw9Ck80gswhtytgpOrrOxNYV_I587p_t-eGjKrg69vah3AbxCA9gOPg1FnTxYK8JU_qgqmYeYsV776Z3D9ztbzQ-sNHzxS4Dn1kOCNKWOV_Qnsyyo6HliPNrDsqxa7pB78E_ShcvAaQQ0UZw2mJIiq2-Dgfbqo7sST3mf6G1--Y4WA.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/loSVcuC5K8canmQRUCVnutvPtXEw-gW2bVXU9hH-VjJM9l1cvyH7EXKD8UN-r-toIUMAJunpFCm0phOpT5-fHFFlqEnep4IttslgT2aCZYB2txgEjbtWR9qVWMwFQ1S2YongE0aR0uwzxQCvukeJ2B7DG-4cKp28KCh9-sOCC4vS6dCQRlgPh2bbAGSZj52Tk1_w9PXyH792_Fhn9cdluE8h8czbXWXP6CBArvEkRNFNCpvKZwHQ2ce3JdEBP36VmRCIcFbLXekDjonNnuUkGe1MLkpnRCr08EClMkKVqD_JjmjUNOb6wwljih1w22RgM9z_5TBMbuWiWL2oMoHPLA.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/sL7UVllahf0h0V4d5c3HYMWj7BoX0JbwGGQ5jkZ3v4mgvmQwqTUxrznaELq2ZZu87vjiycWnHMZ9wCm54ZVjtmFnrT6Af-9R5BcvP3cM4v1ib5Lbcw9n_J5Ohp1UiPR2p9eM8FBFlFzw-1JiWF5T3hbIB-L6m0dZdPHTpoYKw5hLwixezpNpv2sRIlGiuCwcliIud9xs2foysV_X3nwFvXSMbDmXXbwmUgToCqTwY7wM2jbYsjkHx-z1FL_f7z-4C7WMRR_AfZkUG9ROsIdU7wCpYDyZV5nD1yJ07kHEuAvKZRrpnlM5C3jm_5ybg3-YCqTL9iLbwRvYBkC5HiWgzQ.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/qOdRcqFV0J260oLfDyhOD3zE-HJORhjg8XYcnBbBlnqHz0aXvzqGD0OUjnQY-BI89DZyM7yB_Vy2KKVt_Ymo24bz7EKIvxuD-2Er9f-7AJX6WQzuye-pXDhbhrybfwZtwlLjS34ZAlUPTsRC21iRB456CSLhBwfcpF2LocsDkC-lXuxiSGMK8tBuL6i21FwxuMxk_qeRu2qXyYP5xw73NnDfEwfCVFqo7GXEaye62NThDB8w2d_T_HQrRZaLyuUPQ7LypxEBHx8cwtsZvXZ3E6rV8sNACxe03AzFKXIRBAwsEGxF53_fc2u3CK45OzzKcrA2NSuBfvWg__0FIh5QoQ.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/kjZxPqn0B3-x-mzwsDIHiditUPppypBfQ1fpWrtcGye3noLCYidazSa1qDp_qaOHAxt4Wm2o2DqepHqi4QDSVjOjEa2AIPIuFnyyafAnScWwdzt5LdAdWE1PxngnOX4UsoqYudaPw-dustSgOL8j_wVuF7phUyxp78IQ5XYu0J3cSl8cQ7ggX3CqBO9MJhVArRice9wGNquYhEl3_rdHFSX2dF8e1-vpSiZkpo6IfFsYrxtYCoHgs_zB9bjB8-sabPjon2LxUP-29Dp_WiedM3Z1AnS9zz3tmDIRIB9tyfPYJWAImDA1l7iEbPE2Rw2wEOXe72GermXEz1U9DMrPDA.jpg" /></p>
+<b>Предпринимательская жизнь — она такая...</b><br/><br/><b>Собрали мемы, в которых предприниматель может узнать себя. Листайте, улыбайтесь и отправляйте коллегам </b><b><tg-emoji emoji-id="5440536044229387459"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E298BA.png')"><b>☺️</b></i></tg-emoji></b><br/><br/>А если после этого появится настроение искать новые возможности для бизнеса — они всегда есть на <a href="https://investmoscow.ru/tenders/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Инвестиционном портале Москвы</a> и <a href="https://zakupki.mos.ru/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Портале поставщиков</a><tg-emoji emoji-id="5440833737002607848"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29CA8.png')"><b>✨</b></i></tg-emoji>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/competitionis/3237</guid>
+      <pubDate>Fri, 24 Jul 2026 14:00:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Конкурентный код Москвы»: риелтор с 14-летним стажем поделилась опытом приобрения недвижимости н…</title>
+      <link>https://telegram.me/competitionis/3236</link>
+      <description>«Конкурентный код Москвы»: риелтор с 14-летним стажем поделилась опытом приобрения недвижимости на торгах
 
-В карточках рассказываем о ключевых возможностях 
+Продолжаем цикл подкастов о торгах и закупках. Новый гость — Елена Гаврилова, специалист по недвижимости с большим опытом. В работе она также использует возможности городских аукционов и рекомендует этот инструмент своим клиентам.
+
+В выпуске обсудили:
+
+— в чем преимущество сделок с городом перед покупкой недвижимости у частников;
+
+— как определить свою цену и выйти из аукциона, не переплатив;
+
+— за счет чего вложения в коммерческую недвижимость окупаются быстрее, чем в жилье, и почему машино-место — выгодная инвестиция;
+
+— почему большое число участников — не повод пугаться, а признак ликвидного объекта.
+
+Елена делится реальными кейсами из практики — и победами, и ошибками. А ещё объясняет, почему не нужно бояться повышения цены на торгах.
+
 ➡️
-
-❗️
-Важно: чтобы заказчики сами находили ваши товары и услуги, держите оферты в актуальном состоянии — проверяйте цены, сроки действия и характеристики. 
-
-Подписывайтесь на наш канал в 
-МАКС
-☑️
-
-#полезно_знать</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/ABfg-D7G_i0gEM-esbl95oOGRI_2Y8KF-rrlF89DGt5WF5hLx2NOtrjcUiNVigBFNaPrJ4wPAga8HH9wr_ufzfN99afiG7wtn_tAupVzcRmYRmws57sYAOw0cGwvDnNkSOMsekjt3MhnTZi4xysRkicwJduADvhRYjwuoza8tXMihSLvSEUfMzJ7-hvlwUhsw6EGsE2voJOkaWvh6_BrNwz_tUAvY8ghc2yBB96GL2oD164307uaOs-Ke9ixdWOCIP4dLE_oqDdsqW4ONIDAkU7E3EFsloZpuF1vceXbtgXO1n1eFlLtNlFOigHfFFDLTaDECP5ZU4SPtXwdCsdVGw.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/cj8bcoSktRb6pbjJ3iAPjL5XQ57qpmMtb_8jkxv8xStJMtqRxujfORUKkrDzR6Vhx-MJTxvQVV_S3DbrwwPCJMjvsOdgK6tx9w_LW9_DC5rcYvrOHUNVIGuosyY6_9YeABQtSo5yzauAzdRj5pGCOj6KsvAX58ykNIGH7azKvi2KxO2kjPpuBo08cKU9B-QGS5GUhDdOnHj1kJccWKOi81DNIX6rU5-nPMdjBl8lMzNQ6PUhrpOiE_WCguVuWacjvRl4T9ulrMzLIvcse9l5grDe7NiPFtwtfbTAAecsT1_tBQ_SVycIIIApOXYQcKMs_u9SseklG0mTi3JQVAzUPA.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/YaIcI7i36Dba05P1oWKuI_7ZY62btSFV0RRh3ndWTdgZ5_-UpmNn1_zjpA5DhkEBaVvHN-kXZ8sE6GaQwYybvnoDuBa6w80sgEl538tfFowafX-zEJD8ajdSz0PTm_65nUgItmMtt1FfqWa3rrocUMjUlt2KBKUGW5wHsgWf9HGAMsUTmGDkOZZc4xbORc1OsxgTlahMeipc-9i_i0heBRiTviI7D5649VieDVGrU4r-sLuaPICGyX2DtPl5vMx6HgwFQgfp2vShvjXJg5OMGeKBdYMGmfY4j30EoLPeorwO_i2k-1QdubXyv-YUh8qdd1uqS_mkqbn0eWqiBpFXXw.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/XqTCG6VQ0sGkVZJpmQK944JNC0qSog0GzAsZhDRi0VVd70W6HV2WuvxACxQgNiEXUaw-HnIsJm6EXPrsEWi5hWw31kBYvKp0Ptm-xk4xeGLgkQrvnJydl-hkHfpo-vNf7WTTuCaRVP__TET8ah2jxgdsS8qcHTsCVPH1uXOauZyUv1XHIe-mnEsrjlyfeFOvo1KYuO38AnpBvov0kl4I01K_gX0LqMhfbgK9IUQke-NaHp2TJLThgLef3GYeO77HGsSkFFZlTAW33JyNKlOSyOIJTS0MfaVBFOfwIR9uFsZIRULOOo_t4WA6ntzbclVQCvaOxARsAnjzDDo1WBuu-A.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/HmFH2tZgfGi_xi2CpJTwM6RC6JRUegF4lkyYyL-idl-Tv8q1nUHx_e3m5GJuc3noU9wHht-WPiTCfic_Cv44Dw8LWDyyDeII36LWQwnxYsykJdkvnoCbeqfqcL6J9zBkxvLvqD_2xcvQCt9sxoews4Dy41_Pm71hZtGLx6WMT7OtE7fAcPNicQxVEmxFVproIkxjXfSNIYnyHECU9G6zjLm0W2fLPNZEfD-IOg9s90kQzmKaMBuQJWCkGLE5cGAGdEcws16zkf1slmDBTUE1DRsU502ZaTAFlmvYIBA1gPX-b_WpQ-p0zykcJnkIHX9w6BKVbjKjVb4EvSD8Im8d5Q.jpg" /></p>
-<b><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938C.png')"><b>📌</b></i> Как не пропустить выгодную закупку на Портале поставщиков</b><br/><br/>На <a href="https://zakupki.mos.ru/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Портале поставщиков</a> ежедневно публикуются сотни закупок. Чтобы не упустить подходящее предложение, можно настроить персональные инструменты поиска и отслеживания. <br/><br/>В карточках рассказываем о ключевых возможностях <tg-emoji emoji-id="5440592454329852764"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29EA1.png')"><b>➡️</b></i></tg-emoji><br/><br/><tg-emoji emoji-id="5440588868032158497"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29D97.png')"><b>❗️</b></i></tg-emoji>Важно: чтобы заказчики сами находили ваши товары и услуги, держите оферты в актуальном состоянии — проверяйте цены, сроки действия и характеристики. <br/><br/><b>Подписывайтесь на наш канал в </b><a href="https://max.ru/id7704515009_gos" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b>МАКС</b></a><b><tg-emoji emoji-id="5440813271483441115"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29891.png')"><b>☑️</b></i></tg-emoji></b><br/><br/><a href="?q=%23%D0%BF%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D0%BE_%D0%B7%D0%BD%D0%B0%D1%82%D1%8C">#полезно_знать</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/competitionis/3221</guid>
-      <pubDate>Wed, 22 Jul 2026 09:01:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Лот недели: более 500 квадратных метров для бизнеса в районе Нагатино-Садовники</title>
-      <link>https://telegram.me/competitionis/3220</link>
-      <description>Лот недели: более 500 квадратных метров для бизнеса в районе Нагатино-Садовники
-
-Город выставил на аукцион 
-просторное помещение
- свободного назначения на первом этаже жилого дома. Площадь 506,7 м² позволяет разместить как один проект — фитнес-центр или ресторан, — так и организовать несколько направлений бизнеса.
-
-🚩
-Адрес:
- 1-й Нагатинский проезд, дом 11, корпус 1 
-
-®️
-Начальная цена:
- 78,6 млн ₽
-
-🗓
-Заявки принимаются до 27 июля. Аукцион пройдет 7 августа на электронной площадке «Росэлторг».
-
-Подписывайтесь на наш канал в 
-МАКС
- 
-☑️
-
-#лот_недели</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/JL8v-Kdkqpm1OrOkJvogFGsKVXfNemLKWBwVPvbCdquTR1Ea0RPEAmcJ3ev6NyPDxUJbJ2H9xQ79OaD5AUmfTIl0ptrHw4cT22-CqnBmdcejGkBlJTs3VbIaadT0n5DAXg7Y3cXe55hMhtn49OefrvRHZ8QnkTClYAmR8Ux2Uwp0b1jm2BPM-EyMYLj1EX99qWhYew-zcGOkGjAE-QtgaEhsFO4_dOphN7WQXW4vt--u0LsOC3GTOwCHkQ6JoFEjLG6wv6sxbK8zcMT8BbTjbEh3XMAfUQn1cEWMaV4A32Wi7rbfmn5tcUay_F5sEfGOgE-1rQb1U0NOOzC9KNhgyA.jpg" /></p>
-<b>Лот недели: более 500 квадратных метров для бизнеса в районе Нагатино-Садовники</b><br/><br/>Город выставил на аукцион <a href="https://investmoscow.ru/tenders/tender/19755389" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">просторное помещение</a> свободного назначения на первом этаже жилого дома. Площадь 506,7 м² позволяет разместить как один проект — фитнес-центр или ресторан, — так и организовать несколько направлений бизнеса.<br/><br/><tg-emoji emoji-id="5440832663260782173"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9AA9.png')"><b>🚩</b></i></tg-emoji><b>Адрес:</b> 1-й Нагатинский проезд, дом 11, корпус 1 <br/><br/><tg-emoji emoji-id="5440359254785551132"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/C2AE.png')"><b>®️</b></i></tg-emoji><b>Начальная цена:</b> 78,6 млн ₽<br/><br/><tg-emoji emoji-id="5440474072146272031"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9793.png')"><b>🗓</b></i></tg-emoji>Заявки принимаются до 27 июля. Аукцион пройдет 7 августа на электронной площадке «Росэлторг».<br/><br/><b>Подписывайтесь на наш канал в </b><a href="https://max.ru/id7704515009_gos" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b>МАКС</b></a><b> </b><b><tg-emoji emoji-id="5440813271483441115"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29891.png')"><b>☑️</b></i></tg-emoji></b><b><br/></b><br/><a href="?q=%23%D0%BB%D0%BE%D1%82_%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B8">#лот_недели</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/competitionis/3220</guid>
-      <pubDate>Wed, 22 Jul 2026 06:04:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Два помещения в историческом здании на Маросейке — на городских торгах</title>
-      <link>https://telegram.me/competitionis/3219</link>
-      <description>Два помещения в историческом здании на Маросейке — на городских торгах
-
-На аукционы выставили коммерческие объекты в Басманном районе. 
-Помещения
- находятся в здании, которое является объектом культурного наследия регионального значения и носит название
- 
-«Доходный дом с лавками». Рядом — станция метро «Китай-город». Помещения подойдут для офиса, клиники широкого профиля или других организаций сферы услуг. 
-
-🚩
-Адрес:
- улица Маросейка, дом 6-8, строение 1
-
-Характеристики:
-
-— площадь: 209,6 и 260,5 м²
-
-— второй этаж
-
-— свободное назначение
-
-®️
-Начальные цены:
- 81,5 и 99,8 млн ₽
-
-Прием заявок завершится 6 августа. Аукционы пройдут 18 августа на электронной площадке «Росэлторг». 
+Слушайте и смотрите 
+второй выпуск
+.
 
 Подписывайтесь на наш канал в 
 МАКС
 ☑️
 
-#предложение_от_города</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/R_QllU138KsjJBoGC2IeJl9L7kaJMgSu5u2v3XkO_3uugP2rPIEuhgRpidwpOnnTrWBRzXmOP7wG2nfZ_OBnV4m0lFXC_aPy621LJj8sEF_4vW4ORknjFQRduB3S1taYvZWV2ZkdKzbbbf-0ZfzJl-CaTNUiyaPHXqKvCSt1v0LXTwihUYAN0QzoF0JCL25AIkXpBp6_qE-aKUyrc_ZcwaPBr_ZDFF71155P7eFCOeKWVCE1uZEWr5T67XPNn1f_L_iVczxOAK_yLS_xJIE4EzG0umOz3Ht5HQHaAdieayn3CHoTQ1eAFg0dD34ODyPy5VlOrFKNISguCepZPmKPNQ.jpg" /></p>
-<b>Два помещения в историческом здании на Маросейке — на городских торгах</b><br/><br/>На аукционы выставили коммерческие объекты в Басманном районе. <a href="https://investmoscow.ru/tenders/?searchText=%D0%9C%D0%B0%D1%80%D0%BE%D1%81%D0%B5%D0%B9%D0%BA%D0%B0,+%D0%B4%D0%BE%D0%BC+6-8&amp;amp;tenderStatus=nsi:tender_status_tender_filter:1" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Помещения</a> находятся в здании, которое является объектом культурного наследия регионального значения и носит название<a href="https://investmoscow.ru/tenders/?searchText=%D0%9C%D0%B0%D1%80%D0%BE%D1%81%D0%B5%D0%B9%D0%BA%D0%B0,+%D0%B4%D0%BE%D0%BC+6-8&amp;amp;tenderStatus=nsi:tender_status_tender_filter:1" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"> </a>«Доходный дом с лавками». Рядом — станция метро «Китай-город». Помещения подойдут для офиса, клиники широкого профиля или других организаций сферы услуг. <br/><br/><tg-emoji emoji-id="5440832663260782173"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9AA9.png')"><b>🚩</b></i></tg-emoji><b>Адрес:</b> улица Маросейка, дом 6-8, строение 1<br/><br/><b>Характеристики:</b><br/>— площадь: 209,6 и 260,5 м²<br/>— второй этаж<br/>— свободное назначение<br/><br/><tg-emoji emoji-id="5440359254785551132"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/C2AE.png')"><b>®️</b></i></tg-emoji><b>Начальные цены:</b> 81,5 и 99,8 млн ₽<br/><br/>Прием заявок завершится 6 августа. Аукционы пройдут 18 августа на электронной площадке «Росэлторг». <br/><br/><b>Подписывайтесь на наш канал в </b><a href="https://max.ru/id7704515009_gos" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b>МАКС</b></a><b><tg-emoji emoji-id="5440813271483441115"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29891.png')"><b>☑️</b></i></tg-emoji></b><b><br/></b><br/><a href="?q=%23%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BE%D1%82_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B0">#предложение_от_города</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/competitionis/3219</guid>
-      <pubDate>Tue, 21 Jul 2026 10:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Столичные заказчики провели более 116 тысяч котировочных сессий на Портале поставщиков за полгода</title>
-      <link>https://telegram.me/competitionis/3215</link>
-      <description>Столичные заказчики провели более 116 тысяч котировочных сессий на Портале поставщиков за полгода
-
-За первое полугодие 2026 года на платформе провели на 25% больше котировочных сессий, чем за тот же период прошлого года. Снижение цены составило в среднем 14%, а на один лот претендовали семь участников.
-
-Котировочные сессии на Портале поставщиков — это инструмент, который помогает бизнесу находить новых партнеров, а заказчикам — закупать необходимую продукцию по оптимальной цене благодаря высокому уровню конкуренции. 
-
-В карточках — подробности о наиболее востребованных категориях и географии поставщиков.
-
-Подписывайтесь на наш канал в 
-МАКС
-☑️
-
-#итоги</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/XBJpf5YrIePnOxUpvdaAne2WV3_0POPXhdjEdGBTQaxh2_Rivia-kPsRPr0gt2SfFH1HoDoTb9EWcpBgt7aknEFVFCIX-D_LEb2D9xYctsxnQ4CD5JeIZeEgNN2Y9qAvmGACr5u9sGM4pv_74FiLBpC-tPBgywh82FN12428M3i7-QFwDGin5FD1SrJ0kYiaDcP1M-NRoPFuUH_VDAz0ywd-ItfZ691q-BSpZE61Hj0ps7T84xzlqIAA5dpxqe-DBrP0d4-lXyTnmh2YUHOQXGxy-j2NzGflOs4cjyxDHtHS8Yn50guKbLVyPsZGkn8LOi2tc9iUNnJS1QGzMUuFEA.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/eqJ92tRF_x-W3IER3lOqXK8gyuI11pOaIYpKdMXTb0ns90lDb9qpzFkL7-ynTBAWPA6vcvV8Sf8PkVDdQB5dN2y3gQ7XA-A63I6CbWFa8hf0mDg7Blim3Rc3aQdM8-HXjlyl8z0E9j_rLFjFbLRwBO4fBM0X_yE7__ZH_vvUxZ8GaHQtkJ-PCFaMqo0jzc4HdZRER1BDDSsJyIA2exzsjri_BNVMrlFHkL6xXCj9woGgYBZpTX8s4THduUQIPugdOVAmcwYW89EabmGAdqIMEu0quq1bHgOPySOFidiMy8xUHT2sWoD1DbjQ9b-twgPD-a_IE_ZHcvr2hb9kCjHFtw.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/RlOvrU2lC9zmajhH0Yx7_K1I8QlHd3KeQKnIJIhvzvxFLhIlHEg15D8iRJcsS-809CwMRyyEnLBg-c7hV1xWGxpJbwScj9BtpQBW1ZfK0ld1XYWsAm_ysNXg6pmVB4NwIlPM55qerWzzpWp7BDuS1MN2aR-4-QWJpL0uYvX9t2IcSf8XOcZAf7NkY3Q7_1AWCJW-nQKATl8ZtAvRhSiEtFxRhbRdZ1osSB-0q-4nvuzZ1hl7nE1Dyl0Cs8toBMDGWkOsW0vXEb12lfM15gqkqLq1x67PY1rGjci_ClXhg96WwvP6sgIeRoNnbE8xpswmr_WAZuuZO7F-4tL-6V7PlA.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/VIfA_Vvw1V2wlYI1MlIRLPRPGA26erqjJRuIWvD17sS7v03kmnHAxWUtIN1GaWTGq4FgJLGEveDE0iRpSFiZW8HntaJuj7mQezh7v5Xib9zE-LF_oGsFdXJ-f9rpvvfN3KMTGg6o3hCV0SvPDc4ZCy1-uT1qicuNtB1aWCYdTSQRrsKymonrLqQ8Zl90Tj0AsYnItaoLQpEaNLJcWMWZPT_Lt7Q2RoRMwExy-667CrvNQMj4Eer-Xlgac5kS2L7EZJeEq9P_qaz2z65k5J07PRDGQELA9JjscHU-0MnmHIsUgNZyf5ZXK4p_MOYuBcu2Zs2feqYMvMY1nBpIrLhMeQ.jpg" /></p>
-<b>Столичные заказчики провели более 116 тысяч котировочных сессий на Портале поставщиков за полгода</b><br/><br/>За первое полугодие 2026 года на платформе провели на 25% больше котировочных сессий, чем за тот же период прошлого года. Снижение цены составило в среднем 14%, а на один лот претендовали семь участников.<br/><br/>Котировочные сессии на Портале поставщиков — это инструмент, который помогает бизнесу находить новых партнеров, а заказчикам — закупать необходимую продукцию по оптимальной цене благодаря высокому уровню конкуренции. <br/><br/>В карточках — подробности о наиболее востребованных категориях и географии поставщиков.<br/><b><br/>Подписывайтесь на наш канал в </b><a href="https://max.ru/id7704515009_gos" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b>МАКС</b></a><b><tg-emoji emoji-id="5440813271483441115"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29891.png')"><b>☑️</b></i></tg-emoji></b><br/><br/><a href="?q=%23%D0%B8%D1%82%D0%BE%D0%B3%D0%B8">#итоги</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/competitionis/3215</guid>
-      <pubDate>Mon, 20 Jul 2026 12:10:12 +0000</pubDate>
+#подкаст</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/cCKmnq5-59N2B5MIjy7cYyQKgCJffN92MU37HPOWElx4SbTMLHzDvULYLdeNfKo2_gy1jaQXz5v6CAofCdqy9qt9Hag8NFStdBKux5-ggf7OGAkYRsS-t_mNqpwlt2OozhcCYzrROGVYahZbMj-jT1JV5xDVRN-ePweZtpTRh38XY71g8owApFRPw38sTV4dgJ1kOd950O9MVK4cmMG5BoETz2A15nWGGw_QsjaE12H8cLciujzVI8QWb0eb6tjDZDzwvLu97DTlFqlc0pgZnYQi5mMYivc5rlUHMHcmg6fOdbkmoMtmSAdjjcxnD5fOIlkuDG7JGdB3ks9hgszwZw" /></p>
+<b>«Конкурентный код Москвы»: риелтор с 14-летним стажем поделилась опытом приобрения недвижимости на торгах</b><br/><br/>Продолжаем цикл подкастов о торгах и закупках. Новый гость — Елена Гаврилова, специалист по недвижимости с большим опытом. В работе она также использует возможности городских аукционов и рекомендует этот инструмент своим клиентам.<br/><br/><b>В выпуске обсудили:</b><br/>— в чем преимущество сделок с городом перед покупкой недвижимости у частников;<br/>— как определить свою цену и выйти из аукциона, не переплатив;<br/>— за счет чего вложения в коммерческую недвижимость окупаются быстрее, чем в жилье, и почему машино-место — выгодная инвестиция;<br/>— почему большое число участников — не повод пугаться, а признак ликвидного объекта.<br/><br/>Елена делится реальными кейсами из практики — и победами, и ошибками. А ещё объясняет, почему не нужно бояться повышения цены на торгах.<br/><br/><tg-emoji emoji-id="5440592454329852764"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29EA1.png')"><b>➡️</b></i></tg-emoji>Слушайте и смотрите <a href="https://rutube.ru/video/private/c30c7ee5612f79c974f80d62a5ee1325/?p=41mUxHumIxttHfshQuSQqg" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">второй выпуск</a>.<br/><br/><b>Подписывайтесь на наш канал в </b><a href="https://max.ru/id7704515009_gos" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b>МАКС</b></a><tg-emoji emoji-id="5440813271483441115"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29891.png')"><b>☑️</b></i></tg-emoji><br/><br/><a href="?q=%23%D0%BF%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82">#подкаст</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/competitionis/3236</guid>
+      <pubDate>Fri, 24 Jul 2026 12:01:31 +0000</pubDate>
     </item>
   </channel>
 </rss>

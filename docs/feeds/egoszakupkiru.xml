@@ -3,29 +3,53 @@
   <channel>
     <title>Госзаказ</title>
     <link>https://dvberegovoy.github.io/telegram-rss/feeds/egoszakupkiru.xml</link>
-    <description>RSS-лента канала @egoszakupkiru, собранная из публичного веб-превью Telegram.</description>
+    <description>RSS-лента канала @egoszakupkiru за последние 3 дн., собранная из публичного веб-превью Telegram.</description>
     <atom:link href="https://dvberegovoy.github.io/telegram-rss/feeds/egoszakupkiru.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 24 Jul 2026 07:44:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 08:52:42 +0000</lastBuildDate>
+    <item>
+      <title>Изменения в закупках у едпоставщика с 1 июля 2026 года</title>
+      <link>https://telegram.me/egoszakupkiru/5940</link>
+      <description>Изменения в закупках у едпоставщика с 1 июля 2026 года
+
+Готовы проверить себя? Посмотрите в конце урока интерактивное упражнение. На конкретных примерах потренируетесь применять новые правила, которые вступили в силу с 1 июля.
+
+А перед этим — повторите новые правила, как изменилась закупка у едпоставщика: какие пункты статьи 93 теперь можно перевести в цифру, почему Казначейство рекомендует заключать контракты в ЕИС, как обновить локальные акты и назначить ответственных.
+
+Еще в уроке — памятка по новым правилам и интерактивное упражнение для самопроверки. Забирайте в 
+Макс
+ и в 
+Телеграм
+.
+
+#ползное
+ | 
+😍
+ 
+Подписаться на Госзаказ
+ | 
+Читать нас в MAX</description>
+      <content:encoded><![CDATA[<b>Изменения в закупках у едпоставщика с 1 июля 2026 года</b><br/><br/>Готовы проверить себя? Посмотрите в конце урока интерактивное упражнение. На конкретных примерах потренируетесь применять новые правила, которые вступили в силу с 1 июля.<br/><br/>А перед этим — повторите новые правила, как изменилась закупка у едпоставщика: какие пункты статьи 93 теперь можно перевести в цифру, почему Казначейство рекомендует заключать контракты в ЕИС, как обновить локальные акты и назначить ответственных.<br/><br/>Еще в уроке — памятка по новым правилам и интерактивное упражнение для самопроверки. Забирайте в <a href="https://max.ru/id7715670503_bot?startapp=demo_schgz__cb22_urok_izmenenie_2_pg" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Макс</a> и в <a href="https://telegram.me/action_education_bot/open_arts?startapp=cb22_urok_izmenenie_2_pg" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Телеграм</a>.<br/><br/><a href="?q=%23%D0%BF%D0%BE%D0%BB%D0%B7%D0%BD%D0%BE%D0%B5">#ползное</a> | <tg-emoji emoji-id="5402581061752366148"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F988D.png')"><b>😍</b></i></tg-emoji> <a href="https://telegram.me/+J5erJZHkhBJjYjRi" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Подписаться на Госзаказ</a> | <a href="https://max.ru/id503501079307_1_bot?startapp=TL3b768ae59360" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Читать нас в MAX</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/egoszakupkiru/5940</guid>
+      <pubDate>Mon, 27 Jul 2026 08:00:21 +0000</pubDate>
+    </item>
     <item>
       <title>🔮</title>
-      <link>https://telegram.me/egoszakupkiru/5931</link>
+      <link>https://telegram.me/egoszakupkiru/5939</link>
       <description>🔮
  Минутка утренней магии.
 
-24 июля карта дня: 
-Король жезлов «Карьера и власть»
+27 июля карта дня: 
+Десятка кубков «Семейное счастье»
 
-Это карта лидерства, уверенности и взрослой позиции. Сегодня хорошо брать управление в свои руки, но без режима грозового облака над отделом. Настоящая власть не в том, чтобы громче всех стучать по столу, а в том, чтобы понимать, куда вообще идет процесс.
+Это карта спокойствия, поддержки и ощущения, что дома наконец-то не пожар, а нормальная жизнь. Сегодня хорошо быть ближе к своим, не спорить из-за мелочей и не приносить домой рабочие проблемы и стресс.
 
-В обычной жизни Король жезлов советует действовать смелее. Можно продвигать свои идеи, говорить увереннее и не прятать профессиональные амбиции в папку с названием потом когда-нибудь.
+На работе Десятка кубков напоминает: даже маленькие закупки должны попасть в большую семейную летопись документов. Если закупку за наличный расчет не включить в постотчет или реестр контрактов по малым закупкам, контролеры могут выписать штраф. За недостоверные сведения, просрочку или полное молчание — от 10 до 20 тыс. руб.
 
-На работе карта напоминает про малые закупки и дробление. Несколько однородных контрактов теперь не считаются нарушением автоматически. Но если закупка выглядит как обход конкурентной процедуры, контролеры быстро достанут лупу, калькулятор и плохое настроение.
-
-Совет карты:
- держите власть над ситуацией документами. Покажите, что каждая закупка закрывает отдельную потребность, поставщик выбран объективно, а сговора нет. Король жезлов любит смелость, но еще больше любит доказательства.
+Совет карты: 
+берегите семейное счастье и не приносите домой штрафы вместо пирога. Наличная закупка тоже хочет быть замеченной, оформленной и пристроенной в отчетность.
 
 #малыезакупки
  | 
@@ -34,19 +58,14 @@
 Подписаться на Госзаказ
  | 
 Читать нас в MAX</description>
-      <content:encoded><![CDATA[<b><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94AE.png')"><b>🔮</b></i> Минутка утренней магии.</b><br/><br/>24 июля карта дня: <i>Король жезлов «Карьера и власть»</i><br/><br/>Это карта лидерства, уверенности и взрослой позиции. Сегодня хорошо брать управление в свои руки, но без режима грозового облака над отделом. Настоящая власть не в том, чтобы громче всех стучать по столу, а в том, чтобы понимать, куда вообще идет процесс.<br/><br/>В обычной жизни Король жезлов советует действовать смелее. Можно продвигать свои идеи, говорить увереннее и не прятать профессиональные амбиции в папку с названием потом когда-нибудь.<br/><br/>На работе карта напоминает про малые закупки и дробление. Несколько однородных контрактов теперь не считаются нарушением автоматически. Но если закупка выглядит как обход конкурентной процедуры, контролеры быстро достанут лупу, калькулятор и плохое настроение.<br/><br/><b>Совет карты:</b> держите власть над ситуацией документами. Покажите, что каждая закупка закрывает отдельную потребность, поставщик выбран объективно, а сговора нет. Король жезлов любит смелость, но еще больше любит доказательства.<br/><br/><a href="?q=%23%D0%BC%D0%B0%D0%BB%D1%8B%D0%B5%D0%B7%D0%B0%D0%BA%D1%83%D0%BF%D0%BA%D0%B8">#малыезакупки</a> | <tg-emoji emoji-id="5402581061752366148"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F988D.png')"><b>😍</b></i></tg-emoji> <a href="https://telegram.me/+J5erJZHkhBJjYjRi" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Подписаться на Госзаказ</a> | <a href="https://max.ru/id503501079307_1_bot?startapp=TL3b768ae59360" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Читать нас в MAX</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/egoszakupkiru/5931</guid>
-      <pubDate>Fri, 24 Jul 2026 06:00:21 +0000</pubDate>
+      <content:encoded><![CDATA[<b><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94AE.png')"><b>🔮</b></i> Минутка утренней магии.</b><br/><br/>27 июля карта дня: <i>Десятка кубков «Семейное счастье»</i><br/><br/>Это карта спокойствия, поддержки и ощущения, что дома наконец-то не пожар, а нормальная жизнь. Сегодня хорошо быть ближе к своим, не спорить из-за мелочей и не приносить домой рабочие проблемы и стресс.<br/><br/>На работе Десятка кубков напоминает: даже маленькие закупки должны попасть в большую семейную летопись документов. Если закупку за наличный расчет не включить в постотчет или реестр контрактов по малым закупкам, контролеры могут выписать штраф. За недостоверные сведения, просрочку или полное молчание — от 10 до 20 тыс. руб.<br/><br/><b>Совет карты: </b>берегите семейное счастье и не приносите домой штрафы вместо пирога. Наличная закупка тоже хочет быть замеченной, оформленной и пристроенной в отчетность.<br/><br/><a href="?q=%23%D0%BC%D0%B0%D0%BB%D1%8B%D0%B5%D0%B7%D0%B0%D0%BA%D1%83%D0%BF%D0%BA%D0%B8">#малыезакупки</a> | <tg-emoji emoji-id="5402581061752366148"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F988D.png')"><b>😍</b></i></tg-emoji> <a href="https://telegram.me/+J5erJZHkhBJjYjRi" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Подписаться на Госзаказ</a> | <a href="https://max.ru/id503501079307_1_bot?startapp=TL3b768ae59360" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Читать нас в MAX</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/egoszakupkiru/5939</guid>
+      <pubDate>Mon, 27 Jul 2026 06:00:15 +0000</pubDate>
     </item>
     <item>
-      <title>Утречка! Заметили, что мы решили добавить немного магии в наши закупочные будни?</title>
-      <link>https://telegram.me/egoszakupkiru/5930</link>
-      <description>Утречка! Заметили, что мы решили добавить немного магии в наши закупочные будни? 
-😁
-
-Если в штате появился таролог, то просто невозможно этим не воспользоваться.
-
-Как говорил известный маг Рахат Лукумыч - «Ахалай-махалай!»
+      <title>Утречка! А как прошли ваши выходные?</title>
+      <link>https://telegram.me/egoszakupkiru/5938</link>
+      <description>Утречка! А как прошли ваши выходные?
 
 #юмор
  | 
@@ -55,211 +74,45 @@
 Подписаться на Госзаказ
  | 
 Читать нас в MAX</description>
-      <content:encoded><![CDATA[Утречка! Заметили, что мы решили добавить немного магии в наши закупочные будни? <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9881.png')"><b>😁</b></i><br/><br/>Если в штате появился таролог, то просто невозможно этим не воспользоваться.<br/>Как говорил известный маг Рахат Лукумыч - «Ахалай-махалай!»<br/><br/><a href="?q=%23%D1%8E%D0%BC%D0%BE%D1%80">#юмор</a> | <tg-emoji emoji-id="5402581061752366148"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F988D.png')"><b>😍</b></i></tg-emoji> <a href="https://telegram.me/+J5erJZHkhBJjYjRi" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Подписаться на Госзаказ</a> | <a href="https://max.ru/id503501079307_1_bot?startapp=TL3b768ae59360" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Читать нас в MAX</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/egoszakupkiru/5930</guid>
-      <pubDate>Fri, 24 Jul 2026 04:00:03 +0000</pubDate>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/DR1N4LSpfbarXIUJ6Nrsl3ljTNeCwiFmn_OyhbIQatmgUa6Ld6Jxoicm3YMZmQZGWp_l5EDZIe8rwrD2QwY9c_zwMs-n8kOwaiQVSuqE4LbrCp2T9FkOzp9sAhYeBRVmRsdGs-voufeOw0ke4ZkOvBkv2Z7y03_DLQz1b_T2_wob6j9ts4rIE_CJWP5BJVJtNXwaGu26RgRiya88cDDGIkROBA1mWreMgCscRdV3LOuSSGEpHvr39fplpMnwsehSFN7K7SAGVkMwDk2DENPuDNwuuMNTbELNCEAOQD_dC427X9as1_utG4sGYCVn38En3xcJgsddnLJFEKWhaeJ7Rw.jpg" /></p>
+Утречка! А как прошли ваши выходные?<br/><br/><a href="?q=%23%D1%8E%D0%BC%D0%BE%D1%80">#юмор</a> | <tg-emoji emoji-id="5402581061752366148"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F988D.png')"><b>😍</b></i></tg-emoji> <a href="https://telegram.me/+J5erJZHkhBJjYjRi" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Подписаться на Госзаказ</a> | <a href="https://max.ru/id503501079307_1_bot?startapp=TL3b768ae59360" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Читать нас в MAX</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/egoszakupkiru/5938</guid>
+      <pubDate>Mon, 27 Jul 2026 04:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>📊</title>
-      <link>https://telegram.me/egoszakupkiru/5929</link>
-      <description>📊
- ФАС проверила, выполняют ли заказчики обязательный объем закупок у малого и среднего бизнеса.
+      <title>🕵️</title>
+      <link>https://telegram.me/egoszakupkiru/5937</link>
+      <description>🕵️
+ Последняя суббота июля — расследование месяца подходит к концу
 
-Напомним: не менее 25 процентов закупок должно приходиться на субъектов МСП. Но справились с этой задачей не все.
+Все части закупочного детектива уже вышли, но еще есть шанс успеть пройти квест и проверить себя в роли детектива: найти улики, выбрать верные решения и не попасться в закупочные ловушки.
 
-Почти 13 тысяч заказчиков не набрали нужный объем. Еще в 3091 случае отчеты в ЕИС разместили с опозданием. А отчетность, как известно, умеет ждать только до установленного срока, потом уже начинаются другие развлечения 
-🙃
+Внутри четыре дела, где привычное «мы всегда так делали» может внезапно привести к жалобе, штрафу или срыву закупки.
 
-Есть и хорошие новости. По сравнению с 2023 годом заказчиков, которые не выполнили норматив, стало меньше на 36,2 процента. Просрочек по отчетам тоже заметно поубавилось: сразу на 51,2 процента.
-
-Тех, кто не достиг нужного объема или опоздал с отчетностью, привлекли к административной ответственности.
-
-Поэтому здесь лучше держать под контролем сразу две вещи: сколько закупили у малого бизнеса и вовремя ли отчитались об этом в ЕИС. ФАС следит за обоими пунктами 
-👀
-
-Подробнее &gt;&gt;&gt; 
-
-#новости
- | 
-😍
- 
-Подписаться на Госзаказ
- | 
-Читать нас в MAX</description>
-      <content:encoded><![CDATA[<b><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938A.png')"><b>📊</b></i> ФАС проверила, выполняют ли заказчики обязательный объем закупок у малого и среднего бизнеса.</b><br/><br/>Напомним: не менее 25 процентов закупок должно приходиться на субъектов МСП. Но справились с этой задачей не все.<br/><br/>Почти 13 тысяч заказчиков не набрали нужный объем. Еще в 3091 случае отчеты в ЕИС разместили с опозданием. А отчетность, как известно, умеет ждать только до установленного срока, потом уже начинаются другие развлечения <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9983.png')"><b>🙃</b></i><br/><br/>Есть и хорошие новости. По сравнению с 2023 годом заказчиков, которые не выполнили норматив, стало меньше на 36,2 процента. Просрочек по отчетам тоже заметно поубавилось: сразу на 51,2 процента.<br/><br/>Тех, кто не достиг нужного объема или опоздал с отчетностью, привлекли к административной ответственности.<br/><br/>Поэтому здесь лучше держать под контролем сразу две вещи: сколько закупили у малого бизнеса и вовремя ли отчитались об этом в ЕИС. ФАС следит за обоими пунктами <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9180.png')"><b>👀</b></i><br/><br/><a href="https://1gzakaz.ru/?utm_source=egoszakupkiru&amp;amp;utm_medium=tg&amp;amp;utm_channel=social&amp;amp;utm_campaign=post230726_3#/document/16/214807/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Подробнее &gt;&gt;&gt; </a><br/><br/><a href="?q=%23%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8">#новости</a> | <tg-emoji emoji-id="5402581061752366148"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F988D.png')"><b>😍</b></i></tg-emoji> <a href="https://telegram.me/+J5erJZHkhBJjYjRi" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Подписаться на Госзаказ</a> | <a href="https://max.ru/id503501079307_1_bot?startapp=TL3b768ae59360" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Читать нас в MAX</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/egoszakupkiru/5929</guid>
-      <pubDate>Thu, 23 Jul 2026 14:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Скачайте презентацию с вебинара!</title>
-      <link>https://telegram.me/egoszakupkiru/5928</link>
-      <description>Скачайте презентацию с вебинара!
-
-Вчера прошел вебинар по теме: 
-«Контракт-2026: как поставщику выигрывать там, где другие теряют деньги»
-
-Редакция уже загрузила презентацию в бот 
-Телеграма
- и 
-Макса
-. Скачайте ее бесплатно.
-
-Запись этого и других вебинаров 
-смотрите тут &gt;&gt;&gt;&gt; 
-
-#полезное
- | 
-😍
- 
-Подписаться на Госзаказ
- | 
-Читать нас в MAX</description>
-      <content:encoded><![CDATA[Скачайте презентацию с вебинара!<br/><br/>Вчера прошел вебинар по теме: <b>«Контракт-2026: как поставщику выигрывать там, где другие теряют деньги»</b><br/><br/>Редакция уже загрузила презентацию в бот <a href="https://telegram.me/Action_Gz_WebBot?start=link_9EZrnuSatM" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Телеграма</a> и <a href="https://max.ru/id7715670503_bot?startapp=prezy_channel" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Макса</a>. Скачайте ее бесплатно.<br/>Запись этого и других вебинаров <a href="https://action-goszakaz.ru/webinars/?utm_source=egoszakupkiru&amp;amp;utm_medium=tg&amp;amp;utm_channel=social&amp;amp;utm_campaign=post230726_4" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">смотрите тут &gt;&gt;&gt;&gt; </a><br/><br/><a href="?q=%23%D0%BF%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D0%BE%D0%B5">#полезное</a> | <tg-emoji emoji-id="5402581061752366148"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F988D.png')"><b>😍</b></i></tg-emoji> <a href="https://telegram.me/+J5erJZHkhBJjYjRi" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Подписаться на Госзаказ</a> | <a href="https://max.ru/id503501079307_1_bot?startapp=TL3b768ae59360" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Читать нас в MAX</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/egoszakupkiru/5928</guid>
-      <pubDate>Thu, 23 Jul 2026 13:00:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>🖼 Фото — Госзаказ</title>
-      <link>https://telegram.me/egoszakupkiru/5927</link>
-      <description>🖼 Фото — Госзаказ</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/HbIN8CxrXOdkwsiFEAmmtTGFZhj-nYlZsISK6qy-5f9P0L_hplBfw0JhxvfRn0O8PZQIFI9RgIC071tRpbUOitwZ-5sEeayh3020dKqp-ZSJ67wmX5sG7tRxAYHFieVgk_3BCsZ7PiXpTnhcOwTFrO4CKPHFhr3Kxnl_I__yEfRPoe9cgxYyrdw2UnVxbb28QpnnrOwLGskJDi3kNkHYwT3zyRk_EYrzOJJlJXlOvHWVVGxFI8mt-7q2NL5yg5aeJAsYfyh_LNRcUFFtXSHtVrMD7SZBebQb9Fhxa6JhRpKIcoM9yhbGQvNWbS7L6C-ZMTjFy_5frFpb-pemficRnw.jpg" /></p>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/egoszakupkiru/5927</guid>
-      <pubDate>Thu, 23 Jul 2026 12:00:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>📄</title>
-      <link>https://telegram.me/egoszakupkiru/5926</link>
-      <description>📄
- Как направить гарантию заказчику
-
-Гарантию предоставляйте вместе с подписанным контрактом. Чтобы сэкономить время, можно оформить её в электронном виде.
-
-При закупках по 223-ФЗ среди МСП используйте независимую гарантию по типовой форме из постановления № 1397. Она обязательна именно для закупок у малого бизнеса. В остальных случаях допустима обычная банковская гарантия.
-
-Ключевые требования к гарантии для МСП:
-
-- выдаёт гарант из числа банков, соответствующих части 1 статьи 45 Закона № 44-ФЗ;
-
-- отозвать её нельзя;
-
-- срок оплаты по требованию — не позже 10 рабочих дней;
-
-- срок действия — не меньше месяца после окончания срока исполнения обязательств;
-
-- судебные акты для оплаты не требуются.
-
-Запрещено включать в гарантию:
-
-- право гаранта на отзыв;
-
-- обязанность заказчика представлять лишние документы;
-
-- отказ в оплате при отсутствии уведомления о нарушении;
-
-- плату за предоставление требования.
-
-Чтобы не составлять с нуля — скачайте типовую форму независимой гарантии для обеспечения исполнения договора при закупках среди МСП. Всё по правилам.
-
-#документы_госзаказ
- | 
-📌
- Подписаться на Госзаказ
- | 
-Читать нас в MAX</description>
-      <content:encoded><![CDATA[<a href="https://telegram.me/sistema_gz_bot?start=link_ZifNEIEcxY" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9384.png')"><b>📄</b></i></b></a><b> Как направить гарантию заказчику</b><br/><br/>Гарантию предоставляйте вместе с подписанным контрактом. Чтобы сэкономить время, можно оформить её в электронном виде.<br/><br/>При закупках по 223-ФЗ среди МСП используйте независимую гарантию по типовой форме из постановления № 1397. Она обязательна именно для закупок у малого бизнеса. В остальных случаях допустима обычная банковская гарантия.<br/><br/><b>Ключевые требования к гарантии для МСП:</b><br/>- выдаёт гарант из числа банков, соответствующих части 1 статьи 45 Закона № 44-ФЗ;<br/>- отозвать её нельзя;<br/>- срок оплаты по требованию — не позже 10 рабочих дней;<br/>- срок действия — не меньше месяца после окончания срока исполнения обязательств;<br/>- судебные акты для оплаты не требуются.<br/><br/><b>Запрещено включать в гарантию:</b><br/>- право гаранта на отзыв;<br/>- обязанность заказчика представлять лишние документы;<br/>- отказ в оплате при отсутствии уведомления о нарушении;<br/>- плату за предоставление требования.<br/><br/>Чтобы не составлять с нуля — скачайте типовую форму независимой гарантии для обеспечения исполнения договора при закупках среди МСП. Всё по правилам.<br/><br/><a href="?q=%23%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B_%D0%B3%D0%BE%D1%81%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7">#документы_госзаказ</a> | <a href="https://telegram.me/+J5erJZHkhBJjYjRi" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938C.png')"><b>📌</b></i> Подписаться на Госзаказ</a> | <a href="https://max.ru/id503501079307_1_bot?startapp=TL3b768ae59360" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Читать нас в MAX</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/egoszakupkiru/5926</guid>
-      <pubDate>Thu, 23 Jul 2026 11:00:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>НМЦК снова перестала быть просто расчетом и стала отдельным маршрутом с развилками</title>
-      <link>https://telegram.me/egoszakupkiru/5925</link>
-      <description>НМЦК снова перестала быть просто расчетом и стала отдельным маршрутом с развилками 
-🧭
-
-Минфин, Минпромторг и Казначейство выпустили новые разъяснения, и привычные схемы придется обновить. Особенно по нацрежиму, запросам в ГИСП, КП от поставщиков и ценам с разным НДС.
-
-Главные ловушки: закупки у едпоставщика не попали в исключения, описание объекта и обоснование цены нельзя смешивать в одну кашу, а КП с разным НДС больше не получится спокойно уравнять.
-
-В уроке разобрали весь путь по шагам
-, с тренажерами и практикой: от исключений до итогового отчета об обосновании НМЦК.
-
-Хороший способ привести расчеты в порядок до того, как НМЦК начнет задавать неудобные вопросы на проверке 
+Если откладывали — самое время открыть расследование. Суббота как раз для этого: чай, лупа, немного азарта и четыре закупочных дела подряд 
 🔎
 
-#нмцк
+#квест
  | 
 😍
  
 Подписаться на Госзаказ
  | 
 Читать нас в MAX</description>
-      <content:encoded><![CDATA[<b>НМЦК снова перестала быть просто расчетом и стала отдельным маршрутом с развилками <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA7AD.png')"><b>🧭</b></i></b><br/><br/>Минфин, Минпромторг и Казначейство выпустили новые разъяснения, и привычные схемы придется обновить. Особенно по нацрежиму, запросам в ГИСП, КП от поставщиков и ценам с разным НДС.<br/><br/>Главные ловушки: закупки у едпоставщика не попали в исключения, описание объекта и обоснование цены нельзя смешивать в одну кашу, а КП с разным НДС больше не получится спокойно уравнять.<br/><br/><a href="https://www.pro-goszakaz.ru/school/2025/lessons/novyy_nmck/?utm_source=egoszakupkiru&amp;amp;utm_medium=tg&amp;amp;utm_channel=social&amp;amp;utm_campaign=post230726_2" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">В уроке разобрали весь путь по шагам</a>, с тренажерами и практикой: от исключений до итогового отчета об обосновании НМЦК.<br/><br/>Хороший способ привести расчеты в порядок до того, как НМЦК начнет задавать неудобные вопросы на проверке <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F948E.png')"><b>🔎</b></i><br/><br/><a href="?q=%23%D0%BD%D0%BC%D1%86%D0%BA">#нмцк</a> | <tg-emoji emoji-id="5402581061752366148"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F988D.png')"><b>😍</b></i></tg-emoji> <a href="https://telegram.me/+J5erJZHkhBJjYjRi" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Подписаться на Госзаказ</a> | <a href="https://max.ru/id503501079307_1_bot?startapp=TL3b768ae59360" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Читать нас в MAX</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/egoszakupkiru/5925</guid>
-      <pubDate>Thu, 23 Jul 2026 10:00:13 +0000</pubDate>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/ctV-4uXl-Epdw_hARk-X3JAYF5354nZO86xgAZPYzEAT4cA_DNsAmbb-qOjXJiy0YW-58RH7CDZiTvQHc1Xw1j7U87vQlA-E5xlZrFyuUEGNvu8jNyaM-3BbK3ViWjANhN5qQD3Ydf9TFYbSH1ivfMqEie8lMoriFWNSXnxWanAP3gJZmGYdKTzbIaku-AKToQY_rzdLddx_BymtDO5ITK2tm67kzSXqJd2_aC16i6eOH_YfkdgGchqyiJ1pfsc1dTTKhP0xzXdfhcpmv7WnPDrDGwI7DKOoDf2Rmxz6uXn9CLYmaoX-qBVa7QpserCpoZgUZChIknSelCVsdVQWyQ.jpg" /></p>
+<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F95B5.png')"><b>🕵️</b></i> Последняя суббота июля — расследование месяца подходит к концу<br/><br/>Все части закупочного детектива уже вышли, но еще есть шанс успеть пройти квест и проверить себя в роли детектива: найти улики, выбрать верные решения и не попасться в закупочные ловушки.<br/><br/>Внутри четыре дела, где привычное «мы всегда так делали» может внезапно привести к жалобе, штрафу или срыву закупки.<br/><br/>Если откладывали — самое время открыть расследование. Суббота как раз для этого: чай, лупа, немного азарта и четыре закупочных дела подряд <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F948E.png')"><b>🔎</b></i><br/><br/><a href="?q=%23%D0%BA%D0%B2%D0%B5%D1%81%D1%82">#квест</a> | <tg-emoji emoji-id="5402581061752366148"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F988D.png')"><b>😍</b></i></tg-emoji> <a href="https://telegram.me/+J5erJZHkhBJjYjRi" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Подписаться на Госзаказ</a> | <a href="https://max.ru/id503501079307_1_bot?startapp=TL3b768ae59360" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Читать нас в MAX</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/egoszakupkiru/5937</guid>
+      <pubDate>Sat, 25 Jul 2026 09:00:13 +0000</pubDate>
     </item>
     <item>
-      <title>Нацрежим и реестр‑2026: новые запреты, баллы и ручной ад уже с 1 июля</title>
-      <link>https://telegram.me/egoszakupkiru/5924</link>
-      <description>Нацрежим и реестр‑2026: новые запреты, баллы и ручной ад уже с 1 июля
+      <title>Пора домой.</title>
+      <link>https://telegram.me/egoszakupkiru/5936</link>
+      <description>Пора домой.
 
-Минпромторг и Казначейство одновременно бьют по заказчикам. Ошибка в одной строке — контракт под угрозой, проверяющие не простят, а переделывать будет некогда. Если не перестроить процессы прямо сейчас, ваша контрактная служба захлебнётся в двойной нагрузке, закупки сорвутся, а штрафы лягут на бюджет.
+Потому что телевизор сам себя не посмотрит, еда сама себя не съест, а отдых сам себя вообще никогда не организует.
 
-С 1 июля в нацрежиме — запрет на импортную рыбу, балльная система для лекарств и медизделий, ограничения на батарейки, спецтехнику и канаты. А в реестре — отдельный учёт малых закупок с ручным заполнением бумажных сделок и постотчёт, который к 2028 году превратится в сбор данных за 20 месяцев.
-
-Разобрались в новых правилах нацрежима, настроили учёт в реестре и подготовились к изменениям.
-
-В материале — таблицы новых правил, сервисы проверки баллов и документов, инструкции по реестру. Забирайте в 
-Макс
- и в 
-Телеграм
-.
-
-#полезное
- | 
-😍
- 
-Подписаться на Госзаказ
- | 
-Читать нас в MAX</description>
-      <content:encoded><![CDATA[<b>Нацрежим и реестр‑2026: новые запреты, баллы и ручной ад уже с 1 июля</b><br/><br/>Минпромторг и Казначейство одновременно бьют по заказчикам. Ошибка в одной строке — контракт под угрозой, проверяющие не простят, а переделывать будет некогда. Если не перестроить процессы прямо сейчас, ваша контрактная служба захлебнётся в двойной нагрузке, закупки сорвутся, а штрафы лягут на бюджет.<br/><br/>С 1 июля в нацрежиме — запрет на импортную рыбу, балльная система для лекарств и медизделий, ограничения на батарейки, спецтехнику и канаты. А в реестре — отдельный учёт малых закупок с ручным заполнением бумажных сделок и постотчёт, который к 2028 году превратится в сбор данных за 20 месяцев.<br/><br/>Разобрались в новых правилах нацрежима, настроили учёт в реестре и подготовились к изменениям.<br/><br/>В материале — таблицы новых правил, сервисы проверки баллов и документов, инструкции по реестру. Забирайте в <a href="https://max.ru/id7715670503_bot?startapp=demo_ssgz__cb60_rec_natsrezhim" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Макс</a> и в <a href="https://telegram.me/sistema_gz_bot/open_arts?startapp=cb60_rec_natsrezhim" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Телеграм</a>.<br/><br/><a href="?q=%23%D0%BF%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D0%BE%D0%B5">#полезное</a> | <tg-emoji emoji-id="5402581061752366148"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F988D.png')"><b>😍</b></i></tg-emoji> <a href="https://telegram.me/+J5erJZHkhBJjYjRi" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Подписаться на Госзаказ</a> | <a href="https://max.ru/id503501079307_1_bot?startapp=TL3b768ae59360" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Читать нас в MAX</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/egoszakupkiru/5924</guid>
-      <pubDate>Thu, 23 Jul 2026 08:00:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔮</title>
-      <link>https://telegram.me/egoszakupkiru/5923</link>
-      <description>🔮
- Минутка утренней магии.
-
-23 июля карта дня: 
-Паж жезлов «Деловые связи».
-
-Это карта контактов, быстрых договоренностей и полезных людей, которые появляются вовремя. Сегодня можно решать вопросы через общение, но без лишней веры в силу устных обещаний. Улыбка помогает, чек потом помогает сильнее.
-
-В обычной жизни Паж жезлов советует быть более открытыми к людям и новым идеям. Только не берите на себя все подряд из вежливости. Деловые связи хороши, когда они не превращаются в кружок добровольного перегруза.
-
-На работе карта ведет к закупкам через подотчетное лицо. Для малых закупок теперь мало просто выдать сотруднику деньги и надеяться, что Вселенная принесет чек. Нужна заявка-обоснование по форме 0510521, авансовый отчет и подтверждающие документы. Без этого закупочная магия быстро становится нарушением порядка расходования средств.
-
-Совет карты:
- договаривайтесь, покупайте нужное оперативно, но оформляйте все так, будто проверяющий уже пьет чай у вас в кабинете. Сегодня сила не в импровизации, а в нормальном пакете документов.
-
-#подотчет
- | 
-😍
- 
-Подписаться на Госзаказ
- | 
-Читать нас в MAX</description>
-      <content:encoded><![CDATA[<b><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94AE.png')"><b>🔮</b></i> Минутка утренней магии.</b><br/><br/>23 июля карта дня: <i>Паж жезлов «Деловые связи».</i><br/><br/>Это карта контактов, быстрых договоренностей и полезных людей, которые появляются вовремя. Сегодня можно решать вопросы через общение, но без лишней веры в силу устных обещаний. Улыбка помогает, чек потом помогает сильнее.<br/><br/>В обычной жизни Паж жезлов советует быть более открытыми к людям и новым идеям. Только не берите на себя все подряд из вежливости. Деловые связи хороши, когда они не превращаются в кружок добровольного перегруза.<br/><br/>На работе карта ведет к закупкам через подотчетное лицо. Для малых закупок теперь мало просто выдать сотруднику деньги и надеяться, что Вселенная принесет чек. Нужна заявка-обоснование по форме 0510521, авансовый отчет и подтверждающие документы. Без этого закупочная магия быстро становится нарушением порядка расходования средств.<br/><br/><b>Совет карты:</b> договаривайтесь, покупайте нужное оперативно, но оформляйте все так, будто проверяющий уже пьет чай у вас в кабинете. Сегодня сила не в импровизации, а в нормальном пакете документов.<br/><br/><a href="?q=%23%D0%BF%D0%BE%D0%B4%D0%BE%D1%82%D1%87%D0%B5%D1%82">#подотчет</a> | <tg-emoji emoji-id="5402581061752366148"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F988D.png')"><b>😍</b></i></tg-emoji> <a href="https://telegram.me/+J5erJZHkhBJjYjRi" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Подписаться на Госзаказ</a> | <a href="https://max.ru/id503501079307_1_bot?startapp=TL3b768ae59360" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Читать нас в MAX</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/egoszakupkiru/5923</guid>
-      <pubDate>Thu, 23 Jul 2026 06:00:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Утречка! Как уже четверг?!...</title>
-      <link>https://telegram.me/egoszakupkiru/5922</link>
-      <description>Утречка! Как уже четверг?!...
-
-Примерно вот с такими огромными глазами я осознаю, что неделя почти закончилась
+Хороших выходных 
+🌻
 
 #юмор
  | 
@@ -268,216 +121,51 @@
 Подписаться на Госзаказ
  | 
 Читать нас в MAX</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/Xd8GAyg9Z87g78oFr6vnhF26IiGGSk7mUinPTk2yy5v97hhAQrMJG6z_ULCoij6XL44OsmErrvcP7RcYoeRjnYRrjz0wWs47YphKwiZprwq_E9KpOqpAGRhBi2-A4ikahVQsTZhwEROPJiLo6G0bM9M2rprbpwdjlbxk_2QPex06cwCdzz7Gk_gBJsp0C9LF8UIXk0S0WsMtog-N50-Qo5ZxpXxeiRBsjl9VenZYs__m7V3iT5XkmJlWL1PjEPzN3SYEXuRpJvwPSvyhpO2N4QTnIAuuH81_hNbdJ-U2mqpeWUaKK_rMcEOlh8-UDLV7VMtHkGp_LbM-G6Bia1k9Ww" /></p>
-Утречка! Как уже четверг?!...<br/><br/>Примерно вот с такими огромными глазами я осознаю, что неделя почти закончилась<br/><br/><a href="?q=%23%D1%8E%D0%BC%D0%BE%D1%80">#юмор</a> | <tg-emoji emoji-id="5402581061752366148"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F988D.png')"><b>😍</b></i></tg-emoji> <a href="https://telegram.me/+J5erJZHkhBJjYjRi" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Подписаться на Госзаказ</a> | <a href="https://max.ru/id503501079307_1_bot?startapp=TL3b768ae59360" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Читать нас в MAX</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/egoszakupkiru/5922</guid>
-      <pubDate>Thu, 23 Jul 2026 04:00:06 +0000</pubDate>
+      <content:encoded><![CDATA[Пора домой.<br/>Потому что телевизор сам себя не посмотрит, еда сама себя не съест, а отдых сам себя вообще никогда не организует.<br/><br/>Хороших выходных <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8CBB.png')"><b>🌻</b></i><br/><br/><a href="?q=%23%D1%8E%D0%BC%D0%BE%D1%80">#юмор</a> | <tg-emoji emoji-id="5402581061752366148"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F988D.png')"><b>😍</b></i></tg-emoji> <a href="https://telegram.me/+J5erJZHkhBJjYjRi" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Подписаться на Госзаказ</a> | <a href="https://max.ru/id503501079307_1_bot?startapp=TL3b768ae59360" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Читать нас в MAX</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/egoszakupkiru/5936</guid>
+      <pubDate>Fri, 24 Jul 2026 15:00:04 +0000</pubDate>
     </item>
     <item>
-      <title>А вот и ответы на вопросы</title>
-      <link>https://telegram.me/egoszakupkiru/5921</link>
-      <description>А вот и ответы на вопросы
+      <title>🎥 Видео — Госзаказ</title>
+      <link>https://telegram.me/egoszakupkiru/5935</link>
+      <description>🎥 Видео — Госзаказ</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/DeAYzUDU8o3jf2CnLH8ZC4f7odtVOBHfCpwsh3UKjLI2yogTEGJ--mb2_gDqVenfAH7JFKPfFFg979yURdgQJkYWCtgs6CaRagghnWxkgSp83A22AhRn-wqqMfW7Nt1dBlBaBLAqWLp4siBy15Pt8LD4g6OjyZ39xbsJbN2qYesM7vOh4KviJVPukGkZahHCkJLneBiaJPrKfiDI2fn_5-CbD1iRFpvSW-2WOC4YiDz4Laql8qWWdZ2Ja-LVMfBhwt-iiiKrPsXazBwoaXF5iKtQNhGLyFUTacGhQx7mf2M6aBZQkEBlJhOZq3myjDpTQRLkcvrRY0A28y89HGrvlg" /></p>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/egoszakupkiru/5935</guid>
+      <pubDate>Fri, 24 Jul 2026 13:00:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>📉</title>
+      <link>https://telegram.me/egoszakupkiru/5934</link>
+      <description>📉
+ Центробанк снизил ключевую ставку до 14%.</description>
+      <content:encoded><![CDATA[<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9389.png')"><b>📉</b></i> Центробанк снизил ключевую ставку до 14%.]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/egoszakupkiru/5934</guid>
+      <pubDate>Fri, 24 Jul 2026 11:11:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥</title>
+      <link>https://telegram.me/egoszakupkiru/5933</link>
+      <description>🔥
+ Если на выходных вам внезапно станет скучно, у нас есть приличный вариант развития событий: подборка популярных уроков за неделю:
 
-1. Ответ на первый вопрос В.
- Пункты, которые попадают под новые правила: 4, 5, 23, 42, 44 и 46 ч. 1 ст. 93 44-ФЗ. Пункт 8 в этом перечне отсутствует – на него изменения не распространяются. Перечень ограничен конкретными основаниями. 
-Подробнее в материале &gt;&gt;&gt; 
+Как указать характеристики товара в закупке с нацрежимом 
 
-2. Ответ на второй вопрос В.
- Для бумажных контрактов, заключенных в переходный период (с 01.07.2026 по 01.02.2028), у заказчика есть два варианта учета – ручное внесение в реестр контрактов либо включение в пост-отчет. Отсутствие регистрации поставщика в ЕИС не отменяет этого выбора, а является причиной, по которой контракт вообще не мог быть заключен в цифре. Оба способа учета для такого контракта допустимы. 
-Подробнее в материале &gt;&gt;&gt;
+Расчет НМЦК при закупке топлива 
 
-3. Ответ на второй вопрос Б. 
-Казначейство не проводит проверки сведений из пост-отчета – он формируется и размещается, но ведомственного контроля на этапе размещения нет. 
-Подробнее в материале &gt;&gt;&gt; 
+Как закупать картриджи для МФУ по разъяснениям Минпромторга 
 
-#едпоставщик
- | 
+Как рассматривать спорные заявки по правилам-2026 
+
+Как заключить контракт с едпоставщиком с 1 июля 2026 года 
+
 😍
  
 Подписаться на Госзаказ
  | 
 Читать нас в MAX</description>
-      <content:encoded><![CDATA[А вот и ответы на вопросы<br/><br/><b>1. Ответ на первый вопрос В.</b> Пункты, которые попадают под новые правила: 4, 5, 23, 42, 44 и 46 ч. 1 ст. 93 44-ФЗ. Пункт 8 в этом перечне отсутствует – на него изменения не распространяются. Перечень ограничен конкретными основаниями. <a href="https://e.goszakupkiru.ru/1190248?utm_source=egoszakupkiru&amp;amp;utm_medium=tg&amp;amp;utm_channel=social&amp;amp;utm_campaign=post220726_3" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Подробнее в материале &gt;&gt;&gt; </a><br/><br/><b>2. Ответ на второй вопрос В.</b> Для бумажных контрактов, заключенных в переходный период (с 01.07.2026 по 01.02.2028), у заказчика есть два варианта учета – ручное внесение в реестр контрактов либо включение в пост-отчет. Отсутствие регистрации поставщика в ЕИС не отменяет этого выбора, а является причиной, по которой контракт вообще не мог быть заключен в цифре. Оба способа учета для такого контракта допустимы. <a href="https://e.goszakupkiru.ru/1190248?utm_source=egoszakupkiru&amp;amp;utm_medium=tg&amp;amp;utm_channel=social&amp;amp;utm_campaign=post220726_3" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Подробнее в материале &gt;&gt;&gt;</a><br/><br/><b>3. Ответ на второй вопрос Б. </b>Казначейство не проводит проверки сведений из пост-отчета – он формируется и размещается, но ведомственного контроля на этапе размещения нет. <a href="https://e.goszakupkiru.ru/1190248?utm_source=egoszakupkiru&amp;amp;utm_medium=tg&amp;amp;utm_channel=social&amp;amp;utm_campaign=post220726_3" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Подробнее в материале &gt;&gt;&gt; </a><br/><br/><a href="?q=%23%D0%B5%D0%B4%D0%BF%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA">#едпоставщик</a> | <tg-emoji emoji-id="5402581061752366148"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F988D.png')"><b>😍</b></i></tg-emoji> <a href="https://telegram.me/+J5erJZHkhBJjYjRi" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Подписаться на Госзаказ</a> | <a href="https://max.ru/id503501079307_1_bot?startapp=TL3b768ae59360" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Читать нас в MAX</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/egoszakupkiru/5921</guid>
-      <pubDate>Wed, 22 Jul 2026 14:00:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Маркировка товаров тихо подкралась к приемке и забрала себе отдельное место за столом</title>
-      <link>https://telegram.me/egoszakupkiru/5920</link>
-      <description>Маркировка товаров тихо подкралась к приемке и забрала себе отдельное место за столом 
-🧴
-
-Теперь мало просто проверить количество и качество. По части товаров нужно сверить коды в УПД, на самой продукции и в системе «Честный знак». А если товар на поэкземплярном учете, проверка может стать почти поштучной.
-
-Если код не найден, данные не совпадают или товар вообще без маркировки, приемку лучше приостановить и оформить расхождения. Иначе можно получить не просто спор с поставщиком, а штрафы и претензии за нецелевое расходование средств.
-
-В рекомендации разобрали
-, какие товары попали под новые правила, что включить в контракт, как действовать на приемке и чем рискует заказчик при ошибках.
-
-Полезно открыть до ближайшей поставки, чтобы коробка с шампунем, водой или кормом не превратилась в маленькую проверку на внимательность 
-🧃
-
-#маркировка
-  | 
-📌
- Подписаться на Госзаказ
- | 
-Читать нас в MAX</description>
-      <content:encoded><![CDATA[Маркировка товаров тихо подкралась к приемке и забрала себе отдельное место за столом <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA7B4.png')"><b>🧴</b></i><br/><br/>Теперь мало просто проверить количество и качество. По части товаров нужно сверить коды в УПД, на самой продукции и в системе «Честный знак». А если товар на поэкземплярном учете, проверка может стать почти поштучной.<br/><br/>Если код не найден, данные не совпадают или товар вообще без маркировки, приемку лучше приостановить и оформить расхождения. Иначе можно получить не просто спор с поставщиком, а штрафы и претензии за нецелевое расходование средств.<br/><br/><a href="https://1gzakaz.pro-goszakaz.ru/about/2025/recomendations/pravila_priemki_markirovka/?utm_source=egoszakupkiru&amp;amp;utm_medium=tg&amp;amp;utm_channel=social&amp;amp;utm_campaign=post220726_2" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">В рекомендации разобрали</a>, какие товары попали под новые правила, что включить в контракт, как действовать на приемке и чем рискует заказчик при ошибках.<br/><br/>Полезно открыть до ближайшей поставки, чтобы коробка с шампунем, водой или кормом не превратилась в маленькую проверку на внимательность <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA783.png')"><b>🧃</b></i><br/><br/><a href="?q=%23%D0%BC%D0%B0%D1%80%D0%BA%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0">#маркировка</a>  | <a href="https://telegram.me/+J5erJZHkhBJjYjRi" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938C.png')"><b>📌</b></i> Подписаться на Госзаказ</a> | <a href="https://max.ru/id503501079307_1_bot?startapp=TL3b768ae59360" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Читать нас в MAX</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/egoszakupkiru/5920</guid>
-      <pubDate>Wed, 22 Jul 2026 12:00:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>📋</title>
-      <link>https://telegram.me/egoszakupkiru/5919</link>
-      <description>📋
- Реестр контрактов: сроки для цифры и бумаги
-
-Знать сроки размещения сведений в реестре контрактов значит работать без ошибок и лишней нервотрёпки. Когда информация поступает вовремя, контроль проходит гладко, а у вас остаётся время на другие задачи. Сроки зависят от формы документа. Для цифровых контрактов они вдвое короче. Для бумажных - другие. Если перепутаете, контролеры выпишут штраф.
-
-Для цифровых документов сроки такие: заключение, изменение и расторжение контракта — 3 рабочих дня, приёмка — в день подписания в ЕИС, оплата через ЕИС происходит автоматически.
-
-Для бумажных документов сроки иные: заключение, изменение и расторжение — 5 рабочих дней, приёмка — 1 рабочий день, оплата вне ЕИС — 5 рабочих дней.
-
-В реестр включают не все контракты. Например, по пунктам 4 и 5 части 1 статьи 93, если заказчик выбрал постотчёт, контракты с гостайной, а также контракты по решению Правительства, если в акте предусмотрено.
-
-Полный перечень сведений для каждого этапа и инструкции по работе с реестром — 
-в Системе Госзаказ
-. Всё собрали в одном месте, чтобы вы ничего не искали.
-
-#предложение
- | 
-😍
- 
-Подписаться на Госзаказ
- | 
-Читать нас в MAX</description>
-      <content:encoded><![CDATA[<b><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938B.png')"><b>📋</b></i> Реестр контрактов: сроки для цифры и бумаги</b><br/><br/>Знать сроки размещения сведений в реестре контрактов значит работать без ошибок и лишней нервотрёпки. Когда информация поступает вовремя, контроль проходит гладко, а у вас остаётся время на другие задачи. Сроки зависят от формы документа. Для цифровых контрактов они вдвое короче. Для бумажных - другие. Если перепутаете, контролеры выпишут штраф.<br/><br/>Для цифровых документов сроки такие: заключение, изменение и расторжение контракта — 3 рабочих дня, приёмка — в день подписания в ЕИС, оплата через ЕИС происходит автоматически.<br/><br/>Для бумажных документов сроки иные: заключение, изменение и расторжение — 5 рабочих дней, приёмка — 1 рабочий день, оплата вне ЕИС — 5 рабочих дней.<br/><br/>В реестр включают не все контракты. Например, по пунктам 4 и 5 части 1 статьи 93, если заказчик выбрал постотчёт, контракты с гостайной, а также контракты по решению Правительства, если в акте предусмотрено.<br/><br/>Полный перечень сведений для каждого этапа и инструкции по работе с реестром — <a href="https://1gzakaz.pro-goszakaz.ru/about/2025/recomendations/reestr_kontr/?utm_source=egoszakupkiru&amp;amp;utm_medium=tg&amp;amp;utm_channel=social&amp;amp;utm_campaign=post220726_4" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">в Системе Госзаказ</a>. Всё собрали в одном месте, чтобы вы ничего не искали.<br/><br/><a href="?q=%23%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5">#предложение</a> | <tg-emoji emoji-id="5402581061752366148"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F988D.png')"><b>😍</b></i></tg-emoji> <a href="https://telegram.me/+J5erJZHkhBJjYjRi" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Подписаться на Госзаказ</a> | <a href="https://max.ru/id503501079307_1_bot?startapp=TL3b768ae59360" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Читать нас в MAX</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/egoszakupkiru/5919</guid>
-      <pubDate>Wed, 22 Jul 2026 10:00:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Вопрос-ответ с экспертами: отвечаем на ваши вопросы коротко и по делу</title>
-      <link>https://telegram.me/egoszakupkiru/5918</link>
-      <description>Вопрос-ответ с экспертами: отвечаем на ваши вопросы коротко и по делу
-
-В статье — ответы на актуальные вопросы заказчиков, которые работают по законам № 44-ФЗ и № 223-ФЗ. Эксперты редакции «Госзакупки.ру» объясняют простыми словами нюансы, на поиск решения которых можно потратить несколько часов.
-
-Среди вопросов: применять ли нацрежим в закупках ЕАТ «Березка», должен ли заказчик вносить информацию о маркировке товара в ГИС «Честный знак», обязан ли направлять запросы в ГИСП для обоснования НМЦК в закупках у едпоставщика, а также можно ли отклонить заявку из-за расхождения кода ОКПД2 и включать ли в расчет неустойки день поставки товара.
-
-Получили ответы на сложные вопросы и разобрались в нюансах.
-
-В статье — разбор каждого вопроса с комментариями экспертов. Забирайте в 
-Макс
- и в 
-Телеграм
-.
-
-#полезное
- | 
-😍
- 
-Подписаться на Госзаказ
- | 
-Читать нас в MAX</description>
-      <content:encoded><![CDATA[<b>Вопрос-ответ с экспертами: отвечаем на ваши вопросы коротко и по делу</b><br/><br/>В статье — ответы на актуальные вопросы заказчиков, которые работают по законам № 44-ФЗ и № 223-ФЗ. Эксперты редакции «Госзакупки.ру» объясняют простыми словами нюансы, на поиск решения которых можно потратить несколько часов.<br/><br/>Среди вопросов: применять ли нацрежим в закупках ЕАТ «Березка», должен ли заказчик вносить информацию о маркировке товара в ГИС «Честный знак», обязан ли направлять запросы в ГИСП для обоснования НМЦК в закупках у едпоставщика, а также можно ли отклонить заявку из-за расхождения кода ОКПД2 и включать ли в расчет неустойки день поставки товара.<br/><br/>Получили ответы на сложные вопросы и разобрались в нюансах.<br/><br/>В статье — разбор каждого вопроса с комментариями экспертов. Забирайте в <a href="https://max.ru/id7715670503_bot?startapp=demo_pergz__cb130_statia_vio" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Макс</a> и в <a href="https://telegram.me/gzru_help_bot/open_arts?startapp=cb130_statia_vio" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Телеграм</a>.<br/><br/><a href="?q=%23%D0%BF%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D0%BE%D0%B5">#полезное</a> | <tg-emoji emoji-id="5402581061752366148"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F988D.png')"><b>😍</b></i></tg-emoji> <a href="https://telegram.me/+J5erJZHkhBJjYjRi" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Подписаться на Госзаказ</a> | <a href="https://max.ru/id503501079307_1_bot?startapp=TL3b768ae59360" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Читать нас в MAX</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/egoszakupkiru/5918</guid>
-      <pubDate>Wed, 22 Jul 2026 08:00:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Пост — Госзаказ</title>
-      <link>https://telegram.me/egoszakupkiru/5917</link>
-      <description>Пост — Госзаказ</description>
-      <content:encoded><![CDATA[(нет текста)]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/egoszakupkiru/5917</guid>
-      <pubDate>Wed, 22 Jul 2026 07:04:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Пост — Госзаказ</title>
-      <link>https://telegram.me/egoszakupkiru/5916</link>
-      <description>Пост — Госзаказ</description>
-      <content:encoded><![CDATA[(нет текста)]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/egoszakupkiru/5916</guid>
-      <pubDate>Wed, 22 Jul 2026 07:02:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Пост — Госзаказ</title>
-      <link>https://telegram.me/egoszakupkiru/5915</link>
-      <description>Пост — Госзаказ</description>
-      <content:encoded><![CDATA[(нет текста)]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/egoszakupkiru/5915</guid>
-      <pubDate>Wed, 22 Jul 2026 07:00:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔮</title>
-      <link>https://telegram.me/egoszakupkiru/5914</link>
-      <description>🔮
- Минутка утренней магии.
-
-22 июля карта дня - 
-Тройка жезлов «Начало нового этапа», но в перевернутом положении.
-
-Обычно эта карта про движение вперед, планы и горизонт, на котором уже маячит что-то новое. Но в перевернутом виде она предупреждает: стартовать хочется, а карта маршрута где-то под кружкой, уведомлениями и легкой паникой.
-
-Сегодня лучше не бежать вперед на одном энтузиазме. Новый этап начнется нормально, если сначала разобраться, куда именно идти. Даже великие перемены иногда начинаются с банального: выспаться, открыть нужный файл и не спорить с реальностью до завтрака.
-
-На работе перевернутая Тройка жезлов намекает на нацрежим. Перед закупкой сначала проверьте код ОКПД2 и перечни постановления № 1875. От этого зависит, что применять: запрет, ограничение или преимущество. Ошибка в коде может превратить красивый старт закупки в штраф до 10 тыс. руб., а если зацепит конкуренцию, до 60 тыс. руб.
-
-Совет карты: 
-не начинайте новый этап с уверенного шага не туда. Сначала код, потом механизм нацрежима, потом характеристики товара. Магия магией, но ФАС все равно попросит обоснование.
-
-#нацрежим
- | 
-😍
- 
-Подписаться на Госзаказ
- |
- Читать нас в MAX</description>
-      <content:encoded><![CDATA[<b><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94AE.png')"><b>🔮</b></i> Минутка утренней магии.</b><br/><br/>22 июля карта дня - <i>Тройка жезлов «Начало нового этапа», но в перевернутом положении.</i><br/><br/>Обычно эта карта про движение вперед, планы и горизонт, на котором уже маячит что-то новое. Но в перевернутом виде она предупреждает: стартовать хочется, а карта маршрута где-то под кружкой, уведомлениями и легкой паникой.<br/><br/>Сегодня лучше не бежать вперед на одном энтузиазме. Новый этап начнется нормально, если сначала разобраться, куда именно идти. Даже великие перемены иногда начинаются с банального: выспаться, открыть нужный файл и не спорить с реальностью до завтрака.<br/><br/>На работе перевернутая Тройка жезлов намекает на нацрежим. Перед закупкой сначала проверьте код ОКПД2 и перечни постановления № 1875. От этого зависит, что применять: запрет, ограничение или преимущество. Ошибка в коде может превратить красивый старт закупки в штраф до 10 тыс. руб., а если зацепит конкуренцию, до 60 тыс. руб.<br/><br/><b>Совет карты: </b>не начинайте новый этап с уверенного шага не туда. Сначала код, потом механизм нацрежима, потом характеристики товара. Магия магией, но ФАС все равно попросит обоснование.<br/><br/><a href="?q=%23%D0%BD%D0%B0%D1%86%D1%80%D0%B5%D0%B6%D0%B8%D0%BC">#нацрежим</a> | <tg-emoji emoji-id="5402581061752366148"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F988D.png')"><b>😍</b></i></tg-emoji> <a href="https://telegram.me/+J5erJZHkhBJjYjRi" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Подписаться на Госзаказ</a> |<a href="https://max.ru/id503501079307_1_bot?startapp=TL3b768ae59360" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"> Читать нас в MAX</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/egoszakupkiru/5914</guid>
-      <pubDate>Wed, 22 Jul 2026 06:00:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Утречка! Я не плачу, это вода из 44-ФЗ через мои глаза вытекает</title>
-      <link>https://telegram.me/egoszakupkiru/5913</link>
-      <description>Утречка! Я не плачу, это вода из 44-ФЗ через мои глаза вытекает
-
-#юмор
- | 
-📌
- Подписаться на Госзаказ
- | 
-Читать нас в MAX</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/Thf6po5IchIPZ4F_N_pd0SjCtf3k1YaZQr2SS0JsBuYBOl8Tz1-G_w4bfIJsagQ-mo9G4S_Zp22phGZuZwa-qQ7l76MBkh_241gV3PQGXnZeF5_elEcRaRsVpCEVIdEktEbpBjSF41LgfVRdAkC7Qb8dwI5TwLJ3zKlP60yO1ld5OphVBQG9UYjnlWJTsJFstDDHqzmhcfcRG_6jNGV1TdUBXp0Z4VBQkbLUsiwcQZtcGPyJWTGgZNbTLks303GyY4mZddZqkYoH9JDMCSYObJMkIYBdV9dQkOmgM73yDMqnCAvD1rm7nneF8R3Z1dYYK5aimMA-pezLgFRwbHOg-g.jpg" /></p>
-Утречка! Я не плачу, это вода из 44-ФЗ через мои глаза вытекает<br/><br/><a href="?q=%23%D1%8E%D0%BC%D0%BE%D1%80">#юмор</a> | <a href="https://telegram.me/+J5erJZHkhBJjYjRi" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938C.png')"><b>📌</b></i> Подписаться на Госзаказ</a> | <a href="https://max.ru/id503501079307_1_bot?startapp=TL3b768ae59360" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Читать нас в MAX</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/egoszakupkiru/5913</guid>
-      <pubDate>Wed, 22 Jul 2026 04:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Закупки-2026 решили не мелочиться: изменений набралось сразу на целую таблицу</title>
-      <link>https://telegram.me/egoszakupkiru/5912</link>
-      <description>Закупки-2026 решили не мелочиться: изменений набралось сразу на целую таблицу 
-🗂
-
-Тут и малые закупки с новым учетом, и цифровые контракты с едпоставщиком, и постотчет, который лучше не оставлять на 2028 год. Плюс новые правила по нацрежиму, жалобы на просрочку оплаты, штрафы, изменения по контрактам и отдельные истории для строительства, медицины и ГИС ГМУ.
-
-Главная сложность даже не в том, что изменений много. А в том, что они разбросаны по разным датам, постановлениям и зонам ответственности. Где-то нужно поправить порядок работы уже сейчас, где-то подготовиться к 2027 году, а где-то просто не пропустить новый риск.
-
-В статье все собрали в формате было-стало
-: что изменилось, как было раньше и как это повлияет на работу заказчика.
-
-Полезно открыть и пройтись по таблице как по чек-листу. Без героического поиска по интернету и ощущения, что закупочное законодательство опять устроило генеральную перестановку мебели 
-🧭
-
-#едпоставщик
- | 
-📌
- Подписаться на Госзаказ
- | 
-Читать нас в MAX</description>
-      <content:encoded><![CDATA[<b>Закупки-2026 решили не мелочиться: изменений набралось сразу на целую таблицу <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9782.png')"><b>🗂</b></i></b><br/><br/>Тут и малые закупки с новым учетом, и цифровые контракты с едпоставщиком, и постотчет, который лучше не оставлять на 2028 год. Плюс новые правила по нацрежиму, жалобы на просрочку оплаты, штрафы, изменения по контрактам и отдельные истории для строительства, медицины и ГИС ГМУ.<br/><br/>Главная сложность даже не в том, что изменений много. А в том, что они разбросаны по разным датам, постановлениям и зонам ответственности. Где-то нужно поправить порядок работы уже сейчас, где-то подготовиться к 2027 году, а где-то просто не пропустить новый риск.<br/><br/><a href="https://buy.pro-goszakaz.ru/callback_new/2025_2/statii/tablitsa_2026july/?utm_source=egoszakupkiru&amp;amp;utm_medium=tg&amp;amp;utm_channel=social&amp;amp;utm_campaign=post210726_4" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">В статье все собрали в формате было-стало</a>: что изменилось, как было раньше и как это повлияет на работу заказчика.<br/><br/>Полезно открыть и пройтись по таблице как по чек-листу. Без героического поиска по интернету и ощущения, что закупочное законодательство опять устроило генеральную перестановку мебели <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA7AD.png')"><b>🧭</b></i><br/><br/><a href="?q=%23%D0%B5%D0%B4%D0%BF%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA">#едпоставщик</a> | <a href="https://telegram.me/+J5erJZHkhBJjYjRi" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938C.png')"><b>📌</b></i> Подписаться на Госзаказ</a> | <a href="https://max.ru/id503501079307_1_bot?startapp=TL3b768ae59360" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Читать нас в MAX</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/egoszakupkiru/5912</guid>
-      <pubDate>Tue, 21 Jul 2026 14:00:12 +0000</pubDate>
+      <content:encoded><![CDATA[<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')"><b>🔥</b></i> Если на выходных вам внезапно станет скучно, у нас есть приличный вариант развития событий: подборка популярных уроков за неделю:<br/><br/><a href="https://academy.gzakypki.ru/programs/225419/f8507246-1b36-4e03-89a0-1d318bdf1933/5b86e789-89f8-4125-8ae4-ffd59435f505?utm_source=egoszakupkiru&amp;amp;utm_medium=tg&amp;amp;utm_channel=social&amp;amp;utm_campaign=post240726_3&amp;amp;utm_term=link_1" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Как указать характеристики товара в закупке с нацрежимом </a><br/><br/><a href="https://academy.gzakypki.ru/programs/223229/68fefb4a-30d5-4e1c-9857-90587a6454e1/626abb93-d639-4dbf-b0ef-14082aaa4371?utm_source=egoszakupkiru&amp;amp;utm_medium=tg&amp;amp;utm_channel=social&amp;amp;utm_campaign=post240726_3&amp;amp;utm_term=link_2" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Расчет НМЦК при закупке топлива </a><br/><br/><a href="https://academy.gzakypki.ru/programs/228119/a7b35e0b-ce20-4c0f-b3be-dd99ed72b713/90b2b43e-d071-450f-b2ae-6a6ee0e6880e?utm_source=egoszakupkiru&amp;amp;utm_medium=tg&amp;amp;utm_channel=social&amp;amp;utm_campaign=post240726_3&amp;amp;utm_term=link_3" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Как закупать картриджи для МФУ по разъяснениям Минпромторга </a><br/><br/><a href="https://academy.gzakypki.ru/programs/228119/54d60a91-72ec-4493-9d71-260ded524719/8569f71e-cdec-448d-9ca2-7b8b77ec0cdd?utm_source=egoszakupkiru&amp;amp;utm_medium=tg&amp;amp;utm_channel=social&amp;amp;utm_campaign=post240726_3&amp;amp;utm_term=link_4" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Как рассматривать спорные заявки по правилам-2026 </a><br/><br/><a href="https://academy.gzakypki.ru/programs/228119/9f1515fb-e147-4d95-9211-64a1b48a40c0/7a3b11e9-e0a9-4d2e-aa34-14d9916edd2d?utm_source=egoszakupkiru&amp;amp;utm_medium=tg&amp;amp;utm_channel=social&amp;amp;utm_campaign=post240726_3&amp;amp;utm_term=link_5" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Как заключить контракт с едпоставщиком с 1 июля 2026 года </a><br/><br/><tg-emoji emoji-id="5402581061752366148"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F988D.png')"><b>😍</b></i></tg-emoji> <a href="https://telegram.me/+J5erJZHkhBJjYjRi" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Подписаться на Госзаказ</a> | <a href="https://max.ru/id503501079307_1_bot?startapp=TL3b768ae59360" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Читать нас в MAX</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/egoszakupkiru/5933</guid>
+      <pubDate>Fri, 24 Jul 2026 11:00:13 +0000</pubDate>
     </item>
   </channel>
 </rss>

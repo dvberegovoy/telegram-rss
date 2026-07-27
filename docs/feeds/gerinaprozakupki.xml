@@ -3,637 +3,111 @@
   <channel>
     <title>PRO_закупки | Любовь Герина тендеры и госзакупки</title>
     <link>https://dvberegovoy.github.io/telegram-rss/feeds/gerinaprozakupki.xml</link>
-    <description>RSS-лента канала @gerinaprozakupki, собранная из публичного веб-превью Telegram.</description>
+    <description>RSS-лента канала @gerinaprozakupki за последние 3 дн., собранная из публичного веб-превью Telegram.</description>
     <atom:link href="https://dvberegovoy.github.io/telegram-rss/feeds/gerinaprozakupki.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 24 Jul 2026 07:45:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 08:53:46 +0000</lastBuildDate>
     <item>
-      <title>Часть 2/3: как цифровой рубль изменит саму механику расчётов</title>
-      <link>https://telegram.me/gerinaprozakupki/3111</link>
-      <description>Часть 2/3: как цифровой рубль изменит саму механику расчётов 
-⚙️
+      <title>Почему кажется, что летом закупок меньше?</title>
+      <link>https://telegram.me/gerinaprozakupki/3113</link>
+      <description>Почему кажется, что летом закупок меньше?
 
-Продолжаю тему из прошлого поста. Главная фишка цифрового рубля — программируемость. Деньги буквально «привязаны» к цели и условиям оплаты.
+Друзья, всем привет! 
+👋
 
-Что это значит на практике:
+Смотрю на статистику последних недель и слышу один и тот же вопрос: «Любовь, а правда, что летом закупок меньше?»
 
-💰
- 
-Целевое финансирование
- Бюджет заказчика помечается под конкретный тендер. Оплата поставщику — только после подписания в ЕИС или подписания КС-2/КС-3. Неиспользованные средства автоматически возвращаются в бюджет.
+Давайте разберёмся честно.
 
-💰
- 
-Программируемые платежи
+Да, часть заказчиков действительно уходит в отпуска, планы согласовываются медленнее, где-то бюджеты просто «зависают» до осени. Это факт.
 
-— Аванс можно потратить только на материалы и субподрядчиков
+Но! 
+Бюджет никуда не исчезает.
+ Он просто немного смещается по срокам. То, что не разместили в июле — почти всегда догоняют в августе-сентябре, причём часто пачками.
 
-— Этапная оплата проходит только после приёмки работ
+Я проходила это уже не первый год: летом действительно спокойнее по количеству новых закупок, но это не значит, что рынок встал. Это значит, что сейчас другое время — не для гонки, а для точности.
 
-— Массовые платежи по реестрам (школы, больницы, детсады) — тоже через эту систему
+Ощущение «затишья» часто путают с «всё, ниша умерла». Это не так. Это просто сезонная волна, и она предсказуема.
 
-А теперь про требования лично к вам как к поставщику:
-
-✅
- Открыть счёт цифрового рубля в подключённом банке
-
-✅
- Интегрировать 1С/CRM с платформой ЦБ
-
-✅
- Обновить шаблоны счетов, актов, платёжек под новый формат
-
-Звучит как «ещё одна головная боль», но на самом деле — это разовая настройка. Дальше платежи идут мгновенно и без банковских комиссий.
-
-В следующем посте — какие риски есть у тех, кто не подготовится, и что делать прямо сейчас, чтобы не потерять тендеры 
-👇
+Завтра расскажу, как я сама использую эти недели — и почему для многих именно сейчас начинается самая продуктивная точка входа в закупки.
 
 #тендерыбезпаники
- 
-#клубвнутри
 
 Кто я?
  | 
 Закрытый Клуб
  | 
 Мы в МАХ</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/QDqQF0Vfz1YXwzg9frm9B5oxr24oYb06OYBD5Ia08_jj4t64_kR7026r5gkLOQLlQs9gO61am65YO2VInnFNjmhujQVVKXRRwg4g_4EPYPpqmOOlBx2CQidjtzX7yAUuylEnpmK0XVKbtLczZahgnyv-M3HqChRvIYBefciNgNhydHgTmRE-8DnK2eTB8ZXB6WTWVcSliyBygIjbcrypUxLRoHBjK71DVldvuk2J3LIUK5rgOGAGeLYOzmKRrWhnZyUkcwbDAHC-1hQJTU_qTxTEVIAVRfCCWClDF5J-j_uSOzlg0SZNCVdDcWpBe82d0z5CBoKb42USslIedSRu4g.jpg" /></p>
-<b>Часть 2/3: как цифровой рубль изменит саму механику расчётов <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29A99.png')"><b>⚙️</b></i></b><br/><br/>Продолжаю тему из прошлого поста. Главная фишка цифрового рубля — программируемость. Деньги буквально «привязаны» к цели и условиям оплаты.<br/><br/>Что это значит на практике:<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92B0.png')"><b>💰</b></i> <b>Целевое финансирование</b> Бюджет заказчика помечается под конкретный тендер. Оплата поставщику — только после подписания в ЕИС или подписания КС-2/КС-3. Неиспользованные средства автоматически возвращаются в бюджет.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92B0.png')"><b>💰</b></i> <b>Программируемые платежи</b><br/>— Аванс можно потратить только на материалы и субподрядчиков<br/>— Этапная оплата проходит только после приёмки работ<br/>— Массовые платежи по реестрам (школы, больницы, детсады) — тоже через эту систему<br/><br/>А теперь про требования лично к вам как к поставщику:<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C85.png')"><b>✅</b></i> Открыть счёт цифрового рубля в подключённом банке<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C85.png')"><b>✅</b></i> Интегрировать 1С/CRM с платформой ЦБ<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C85.png')"><b>✅</b></i> Обновить шаблоны счетов, актов, платёжек под новый формат<br/><br/>Звучит как «ещё одна головная боль», но на самом деле — это разовая настройка. Дальше платежи идут мгновенно и без банковских комиссий.<br/><br/>В следующем посте — какие риски есть у тех, кто не подготовится, и что делать прямо сейчас, чтобы не потерять тендеры <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9187.png')"><b>👇</b></i><br/><a href="?q=%23%D1%82%D0%B5%D0%BD%D0%B4%D0%B5%D1%80%D1%8B%D0%B1%D0%B5%D0%B7%D0%BF%D0%B0%D0%BD%D0%B8%D0%BA%D0%B8">#тендерыбезпаники</a> <a href="?q=%23%D0%BA%D0%BB%D1%83%D0%B1%D0%B2%D0%BD%D1%83%D1%82%D1%80%D0%B8">#клубвнутри</a><br/><br/><a href="https://telegram.me/gerinaprozakupki/2649" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Кто я?</a> | <a href="https://gerina-zakupki.ru/club" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Закрытый Клуб</a> | <a href="https://max.ru/join/b9GZqE55Fw4HOPg-PyhZT_MUA3yJkarVsyNBfBOBArs" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Мы в МАХ</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/gerinaprozakupki/3111</guid>
-      <pubDate>Thu, 23 Jul 2026 15:24:01 +0000</pubDate>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/L3gKzxAUm2Pr5EBiMKX78GwXoxA3cBCQzipgvg6CwDtaXE1ciL1VKV6bahlospvma9hnxH1htPwO86onJ0X9OVSGH868Fam_3eTM7yf6M9ULayPUtILeseO88aJqfSwZ9cY7_K4jeSCfmXZ5jwOfu8AgwhhD4pNV9pXxKWybOo_A8UVaPwkhWFRY8Kdd2PYWDN589UmOci_SDrizvkAP01GkdN1kRktRIb3zNdvFMD4Ka_HLQeGnPMNvr_eMcQioyBVP2vIlUONx6XD2-Vlot_DBz7zQzUazjweQuGS4wcQeA5kEkLsrbedsGu1NiR7z8t3ErKKO5F8UBZeNcXaCTg.jpg" /></p>
+<b>Почему кажется, что летом закупок меньше?</b><br/><br/>Друзья, всем привет! <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F918B.png')"><b>👋</b></i><br/><br/>Смотрю на статистику последних недель и слышу один и тот же вопрос: «Любовь, а правда, что летом закупок меньше?»<br/>Давайте разберёмся честно.<br/>Да, часть заказчиков действительно уходит в отпуска, планы согласовываются медленнее, где-то бюджеты просто «зависают» до осени. Это факт.<br/><br/>Но! <b>Бюджет никуда не исчезает.</b> Он просто немного смещается по срокам. То, что не разместили в июле — почти всегда догоняют в августе-сентябре, причём часто пачками.<br/><br/>Я проходила это уже не первый год: летом действительно спокойнее по количеству новых закупок, но это не значит, что рынок встал. Это значит, что сейчас другое время — не для гонки, а для точности.<br/><br/>Ощущение «затишья» часто путают с «всё, ниша умерла». Это не так. Это просто сезонная волна, и она предсказуема.<br/><br/>Завтра расскажу, как я сама использую эти недели — и почему для многих именно сейчас начинается самая продуктивная точка входа в закупки.<br/><a href="?q=%23%D1%82%D0%B5%D0%BD%D0%B4%D0%B5%D1%80%D1%8B%D0%B1%D0%B5%D0%B7%D0%BF%D0%B0%D0%BD%D0%B8%D0%BA%D0%B8">#тендерыбезпаники</a><br/><br/><a href="https://telegram.me/gerinaprozakupki/2649" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Кто я?</a> | <a href="https://gerina-zakupki.ru/club" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Закрытый Клуб</a> | <a href="https://max.ru/join/b9GZqE55Fw4HOPg-PyhZT_MUA3yJkarVsyNBfBOBArs" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Мы в МАХ</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/gerinaprozakupki/3113</guid>
+      <pubDate>Sun, 26 Jul 2026 16:42:03 +0000</pubDate>
     </item>
     <item>
-      <title>Часть 1/3: Цифровой рубль и госзакупки — что вообще происходит</title>
-      <link>https://telegram.me/gerinaprozakupki/3110</link>
-      <description>Часть 1/3: Цифровой рубль и госзакупки — что вообще происходит 
-👀
-
-Друзья, тема, которая скоро коснётся каждого из нас — цифровой рубль в тендерах.
-
-С 2026 года это уже не эксперимент, а реальность для 44-ФЗ и 223-ФЗ. Заказчики начнут получать бюджет в цифровых рублях, привязанных к конкретному контракту. Поставщики — мгновенные целевые платежи по подписанию в ЕИС 
-💸
-
-Расскажу, как это будет происходить поэтапно:
-
-📌
- 
-2026 год
- — 1 сентября подключаются крупнейшие банки и компании с выручкой от 120 млн ₽/год. Федеральные учреждения начинают расчёты по контрактам в цифре.
-
-📌
- 
-2027 год
- — банки с универсальной лицензией + компании от 30 млн ₽. Подтягиваются региональные закупки.
-
-📌
- 
-2028 год
- — полное покрытие: банки с базовой лицензией и бизнес 20–30 млн ₽, дальше и малый бизнес.
-
-То есть если у вас выручка поменьше — есть время подготовиться. Если побольше — готовиться нужно уже сейчас.
-
-В следующем посте разберу, как именно изменится механика оплаты по контрактам — там есть нюансы, которые важно понимать заранее 
-👇
-
-#тендерыбезпаники
- 
-#клубвнутри
-
-Кто я?
- | 
-Закрытый Клуб
- | 
-Мы в МАХ</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/GRf0FqFBSkHOuk9iy_MmmBxICgdvIWz9TO7BVzXnagMAhsXp8X93avUVi_Q-maq5fTP8QzzWNJip7PKxYvLofIoPKY54GgLwCJsgcFMsSTGLoKQgy0X-H9i3mYdZbQhGtbvDDs3kIXPGvjgT_qb5Jd5_mkawWAd2LBb2-OuwocDGh9h3chAHW-gXEGbBB28oHN2mwDdX_ga0I8BDJiL3zZaRhZYwQ7pP34RhiZ4sLyL8jYyO7BC7HRQtEOac1lKniZXx3gp7uBoozTmfdaW6hjFETkP3maX6xpkfIBYCwiUbkcVdTKsCyb-C80yitbsXYFKdT-jedIxQSZuXPzg8rg.jpg" /></p>
-<b>Часть 1/3: Цифровой рубль и госзакупки — что вообще происходит <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9180.png')"><b>👀</b></i></b><br/><br/>Друзья, тема, которая скоро коснётся каждого из нас — цифровой рубль в тендерах.<br/><br/>С 2026 года это уже не эксперимент, а реальность для 44-ФЗ и 223-ФЗ. Заказчики начнут получать бюджет в цифровых рублях, привязанных к конкретному контракту. Поставщики — мгновенные целевые платежи по подписанию в ЕИС <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92B8.png')"><b>💸</b></i><br/><br/>Расскажу, как это будет происходить поэтапно:<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938C.png')"><b>📌</b></i> <b>2026 год</b> — 1 сентября подключаются крупнейшие банки и компании с выручкой от 120 млн ₽/год. Федеральные учреждения начинают расчёты по контрактам в цифре.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938C.png')"><b>📌</b></i> <b>2027 год</b> — банки с универсальной лицензией + компании от 30 млн ₽. Подтягиваются региональные закупки.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938C.png')"><b>📌</b></i> <b>2028 год</b> — полное покрытие: банки с базовой лицензией и бизнес 20–30 млн ₽, дальше и малый бизнес.<br/><br/>То есть если у вас выручка поменьше — есть время подготовиться. Если побольше — готовиться нужно уже сейчас.<br/><br/>В следующем посте разберу, как именно изменится механика оплаты по контрактам — там есть нюансы, которые важно понимать заранее <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9187.png')"><b>👇</b></i><br/><a href="?q=%23%D1%82%D0%B5%D0%BD%D0%B4%D0%B5%D1%80%D1%8B%D0%B1%D0%B5%D0%B7%D0%BF%D0%B0%D0%BD%D0%B8%D0%BA%D0%B8">#тендерыбезпаники</a> <a href="?q=%23%D0%BA%D0%BB%D1%83%D0%B1%D0%B2%D0%BD%D1%83%D1%82%D1%80%D0%B8">#клубвнутри</a><br/><br/><a href="https://telegram.me/gerinaprozakupki/2649" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Кто я?</a> | <a href="https://gerina-zakupki.ru/club" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Закрытый Клуб</a> | <a href="https://max.ru/join/b9GZqE55Fw4HOPg-PyhZT_MUA3yJkarVsyNBfBOBArs" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Мы в МАХ</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/gerinaprozakupki/3110</guid>
-      <pubDate>Wed, 22 Jul 2026 09:10:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔐</title>
-      <link>https://telegram.me/gerinaprozakupki/3108</link>
-      <description>🔐
- 
-Как прошёл эфир «Закрытые закупки»
- — и почему стоит посмотреть запись
-
-Вчерашний эфир получился 
-насыщенным и живым
-! 
+      <title>Часть 3/3: риски и что делать уже сегодня</title>
+      <link>https://telegram.me/gerinaprozakupki/3112</link>
+      <description>Часть 3/3: риски и что делать уже сегодня 
 🔥
 
-📦
+Завершаю разбор цифрового рубля в госзакупках. Самое важное — риски и конкретный план действий.
+
+⚠️
  
-Разобрали всё, что обычно пугает новичков
-:
+Для поставщиков:
 
-— как зарегистрироваться и попасть в закрытую часть;
+— Несовместимый банк = потеря тендеров уже с 2026 года
 
-— какие документы СКЗИ реально нужны (и почему бояться их не стоит);
+— Технические сбои при интеграции = задержки оплаты
 
-— как устроена пошаговая подача заявок;
+— Нарушение условий программируемого платежа = штрафы
 
-— где искать закупки и что вообще собой представляет закрытая часть.
-
-💬
+⚠️
  
-Показали на живом примере
-: наша новая организация всего несколько месяцев на рынке, а количество закупок, доступных для участия после регистрации, уже приличное.
+Для заказчиков:
 
-🎁
- 
-И в подарок — образец заявки.
- Он сохранён прямо под видео, всё в одном комплекте.
+— Неподготовленные победители = срыв контрактов
 
-🎥
- Запись эфира уже доступна, в ней — все ответы, контакты, схемы и пошаговые инструкции.
+— Ошибки в «метках» средств = возврат в бюджет
 
-👉
- Получить запись можно 
-по ссылке
+— Усиленный аудит ЦБ по целевому расходованию
 
-Эта встреча заменит вам месяцы проб и ошибок — и даст контакты, которые уже помогают десяткам поставщиков работать по всей России 
-💼
+Но есть и хорошая новость. Прозрачность платежей отсеет тех, кто привык работать «в серую», и даст преимущество добросовестным поставщикам с чистой отчётностью — именно они заберут самые жирные контракты 2026–2028 
+👑
 
-#клубвнутри</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/TkSMG1REHL6IcjGNmYcIPLMrfrDKf6f8GrXyAllm9fcYH-6xDV5Nz7QgcIHY5rbD_D2xmCxRoIBnb0tYQN0sWqClN1T0SLasYhdsYqHJukMx3vRxs02StbEgC1WeVPjb9d4XqIEy-ZPIkd-ybTZokLzws3HQ-Im_YHk_hcBiitRSajC3EZdL0L67e6T2EYjpN88PhGEUp0KR7P088kxA_47WQhPtw7TckBSlIDP5b2iU9JqB04IwjYaN0CCdZRQh6WrHhFl58izdHvvrOk0-hLGr9Uc4oZSxJRBRLAGEg8IYwLkVRS7mnOQSnVTggFQOW19a3Zoac2j5FMRPU7KcSg" /></p>
-<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9490.png')"><b>🔐</b></i> <b>Как прошёл эфир «Закрытые закупки»</b> — и почему стоит посмотреть запись<br/><br/>Вчерашний эфир получился <i>насыщенным и живым</i>! <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')"><b>🔥</b></i><br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93A6.png')"><b>📦</b></i> <b>Разобрали всё, что обычно пугает новичков</b>:<br/>— как зарегистрироваться и попасть в закрытую часть;<br/>— какие документы СКЗИ реально нужны (и почему бояться их не стоит);<br/>— как устроена пошаговая подача заявок;<br/>— где искать закупки и что вообще собой представляет закрытая часть.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92AC.png')"><b>💬</b></i> <b>Показали на живом примере</b>: наша новая организация всего несколько месяцев на рынке, а количество закупок, доступных для участия после регистрации, уже приличное.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8E81.png')"><b>🎁</b></i> <i>И в подарок — образец заявки.</i> Он сохранён прямо под видео, всё в одном комплекте.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8EA5.png')"><b>🎥</b></i> Запись эфира уже доступна, в ней — все ответы, контакты, схемы и пошаговые инструкции.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"><b>👉</b></i> Получить запись можно <a href="https://course.gerinaprozakupki.ru/club_7days" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">по ссылке</a><br/><br/>Эта встреча заменит вам месяцы проб и ошибок — и даст контакты, которые уже помогают десяткам поставщиков работать по всей России <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92BC.png')"><b>💼</b></i><br/><br/><a href="?q=%23%D0%BA%D0%BB%D1%83%D0%B1%D0%B2%D0%BD%D1%83%D1%82%D1%80%D0%B8">#клубвнутри</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/gerinaprozakupki/3108</guid>
-      <pubDate>Tue, 21 Jul 2026 12:25:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Пост — PRO_закупки | Любовь Герина тендеры и госзакупки</title>
-      <link>https://telegram.me/gerinaprozakupki/3105</link>
-      <description>Пост — PRO_закупки | Любовь Герина тендеры и госзакупки</description>
-      <content:encoded><![CDATA[(нет текста)]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/gerinaprozakupki/3105</guid>
-      <pubDate>Mon, 20 Jul 2026 06:23:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Пост — PRO_закупки | Любовь Герина тендеры и госзакупки</title>
-      <link>https://telegram.me/gerinaprozakupki/3106</link>
-      <description>Пост — PRO_закупки | Любовь Герина тендеры и госзакупки</description>
-      <content:encoded><![CDATA[(нет текста)]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/gerinaprozakupki/3106</guid>
-      <pubDate>Mon, 20 Jul 2026 06:23:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Сегодня — про то, как не уйти в тревогу и замирание, когда стабильности нет</title>
-      <link>https://telegram.me/gerinaprozakupki/3107</link>
-      <description>Сегодня — про то, как не уйти в тревогу и замирание, когда стабильности нет 
-🙏
-
-Рассказываю, почему закрытые закупки — это на ближайшие 10 лет точно, и как в 
-клубе
- мы уже сегодня подаём заявки и разбираем их на реальном примере.
-
-Ждём всех на эфире, опытных особенно!
-
-#клубвнутри</description>
-      <content:encoded><![CDATA[Сегодня — про то, как не уйти в тревогу и замирание, когда стабильности нет <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F998F.png')"><b>🙏</b></i><br/><br/>Рассказываю, почему закрытые закупки — это на ближайшие 10 лет точно, и как в <a href="https://course.gerinaprozakupki.ru/club_7days" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">клубе</a> мы уже сегодня подаём заявки и разбираем их на реальном примере.<br/><br/>Ждём всех на эфире, опытных особенно!<br/><br/><a href="?q=%23%D0%BA%D0%BB%D1%83%D0%B1%D0%B2%D0%BD%D1%83%D1%82%D1%80%D0%B8">#клубвнутри</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/gerinaprozakupki/3107</guid>
-      <pubDate>Mon, 20 Jul 2026 06:23:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔒</title>
-      <link>https://telegram.me/gerinaprozakupki/3104</link>
-      <description>🔒
- Как выигрывать в закрытых закупках?
-
-Закрытые закупки — это не про случай. Здесь нужен серьёзный подход: наработанный рейтинг, внимательное чтение ТЗ, понимание условий приёмки.
-
-📌
- К примеру, наши результаты: две победы подряд — на ёмкости и порошки. В обоих протоколах мы оказались единственными участниками, и контракты заключены по начальной максимальной цене.
-
-❤️
- Почему так получается?
-
-Мы выбираем закупки с маржинальностью от 25% и выше. Всегда закладываем запас на форс-мажоры, просчитываем каждую деталь, и только потом выходим в торги.
-
-📈
- Что получаем в итоге:
-
-— победы идут одна за другой,
-
-— маржа защищает от убытков,
-
-— доход становится стабильным и предсказуемым.
-
-🔥
- А если вы хотите прокачать свой результат в закупках или узнать подробнее о них — самое время присоединиться к 
-клубу
-!
-
-📅
- Стартуем 20 июля в 16:00!</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/O02glSjIEO0CFMRz40hFHV_NTD6f01hLtT-0rTCQbk2mQ2g6U4dKB28ZqJSK9F9lhzc1TVy4Gw92OTSOhoatkERmOKa4IDl-DAgrGQf7xcUfJGHe4PlI1f301wKQne51RVtX1SUW2qGTThuP-20XistFR4MSpDhwGQ0oyGT9AdSVLkRBQwg46CCN8QFithOopP15xE_iwBXPLAkq24Vy0xUVN4o_TodKJad90BZ2S043ny__lRDHOdhXuQ4lGI-kYTVELTOdyC8jpu8aXjyyKpOvjsW5rfXOGFJXEOMA00E57zDFzHU7iHnntEXf3HqEP2KLghLBswyu8WUeSayMRQ.jpg" /></p>
-<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9492.png')"><b>🔒</b></i> Как выигрывать в закрытых закупках?<br/><br/>Закрытые закупки — это не про случай. Здесь нужен серьёзный подход: наработанный рейтинг, внимательное чтение ТЗ, понимание условий приёмки.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938C.png')"><b>📌</b></i> К примеру, наши результаты: две победы подряд — на ёмкости и порошки. В обоих протоколах мы оказались единственными участниками, и контракты заключены по начальной максимальной цене.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29DA4.png')"><b>❤️</b></i> Почему так получается?<br/>Мы выбираем закупки с маржинальностью от 25% и выше. Всегда закладываем запас на форс-мажоры, просчитываем каждую деталь, и только потом выходим в торги.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9388.png')"><b>📈</b></i> Что получаем в итоге:<br/>— победы идут одна за другой,<br/>— маржа защищает от убытков,<br/>— доход становится стабильным и предсказуемым.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')"><b>🔥</b></i> А если вы хотите прокачать свой результат в закупках или узнать подробнее о них — самое время присоединиться к <a href="https://course.gerinaprozakupki.ru/club_7days" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">клубу</a>!<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9385.png')"><b>📅</b></i> Стартуем 20 июля в 16:00!]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/gerinaprozakupki/3104</guid>
-      <pubDate>Sat, 18 Jul 2026 13:22:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>🗣</title>
-      <link>https://telegram.me/gerinaprozakupki/3103</link>
-      <description>🗣
- Почему закрытые закупки — это не про доступ «для своих», а про новый этап роста, где конкуренция минимальная?
-
-В этом выпуске:
-
-✔️
- Что такое закрытые закупки и чем они отличаются от привычных 44 и 223
-
-✔️
- Как устроены закупки для организаций, связанных с Ростехом и гособоронзаказом
-
-✔️
- Почему в закрытой части побеждает почти каждая пятая-седьмая заявка
-
-🎧
- Тайм-коды:
-
-00:01 – Что такое закрытые закупки и почему это новый этап
-
-00:53 – Кто относится к закрытым закупкам: Ростех и гособоронзаказ
-
-02:25 – Почему в закрытых закупках меньше конкуренции
-
-03:08 – Регистрация и аккредитация — бесплатно и пошагово
-
-04:28 – Цифры: 10+ млн чистыми за 2025 год на закрытых закупках
-
-04:42 – Реестр выигранных контрактов, которого нет в открытом доступе
-
-08:11 – В понедельник, 20 июля, в 16:00 проведу в Клубе прямой эфир
-
-💡
- Разберём:
-
-— как выходить на закрытые закупки;
-
-— как регистрироваться на ЭТП грамотно, без ошибок;
-
-— что делать, когда база пройдена, а хочется роста.
-
-Пробная неделя — 990 ₽.
-
-Вы заходите, смотрите всё, участвуете в эфире, решаете, оставаться ли.
-
-Ссылка для входа: 
-https://course.gerinaprozakupki.ru/club_7days
-
-Присоединяйтесь 
-🚀
-
-#клубвнутри
- 
-#тендерыбезпаники</description>
-      <content:encoded><![CDATA[<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F97A3.png')"><b>🗣</b></i> Почему закрытые закупки — это не про доступ «для своих», а про новый этап роста, где конкуренция минимальная?<br/><br/>В этом выпуске:<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C94.png')"><b>✔️</b></i> Что такое закрытые закупки и чем они отличаются от привычных 44 и 223<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C94.png')"><b>✔️</b></i> Как устроены закупки для организаций, связанных с Ростехом и гособоронзаказом<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C94.png')"><b>✔️</b></i> Почему в закрытой части побеждает почти каждая пятая-седьмая заявка<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8EA7.png')"><b>🎧</b></i> Тайм-коды:<br/><br/>00:01 – Что такое закрытые закупки и почему это новый этап<br/>00:53 – Кто относится к закрытым закупкам: Ростех и гособоронзаказ<br/>02:25 – Почему в закрытых закупках меньше конкуренции<br/>03:08 – Регистрация и аккредитация — бесплатно и пошагово<br/>04:28 – Цифры: 10+ млн чистыми за 2025 год на закрытых закупках<br/>04:42 – Реестр выигранных контрактов, которого нет в открытом доступе<br/>08:11 – В понедельник, 20 июля, в 16:00 проведу в Клубе прямой эфир<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')"><b>💡</b></i> Разберём:<br/>— как выходить на закрытые закупки;<br/>— как регистрироваться на ЭТП грамотно, без ошибок;<br/>— что делать, когда база пройдена, а хочется роста.<br/><br/>Пробная неделя — 990 ₽.<br/>Вы заходите, смотрите всё, участвуете в эфире, решаете, оставаться ли.<br/><br/>Ссылка для входа: <a href="https://course.gerinaprozakupki.ru/club_7days" rel="noopener" target="_blank">https://course.gerinaprozakupki.ru/club_7days</a><br/><br/>Присоединяйтесь <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9A80.png')"><b>🚀</b></i><br/><br/><a href="?q=%23%D0%BA%D0%BB%D1%83%D0%B1%D0%B2%D0%BD%D1%83%D1%82%D1%80%D0%B8">#клубвнутри</a> <a href="?q=%23%D1%82%D0%B5%D0%BD%D0%B4%D0%B5%D1%80%D1%8B%D0%B1%D0%B5%D0%B7%D0%BF%D0%B0%D0%BD%D0%B8%D0%BA%D0%B8">#тендерыбезпаники</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/gerinaprozakupki/3103</guid>
-      <pubDate>Fri, 17 Jul 2026 11:02:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔒</title>
-      <link>https://telegram.me/gerinaprozakupki/3102</link>
-      <description>🔒
- Что такое закрытые закупки?
-
-Закрытые тендеры связаны с гособоронзаказом и крупными организациями «Ростех» которым всегда что-то нужно: металл, оборудование, стройматериалы и многое другое.
-
-👀
- Почему это рост и 
-масштаб
-?
-
-👉
-Меньше конкуренции.
- Здесь участвуют только те, кто подготовлен.
-
-👉
-Стабильность.
- Нет сезонности — спрос на поставки постоянный.
-
-👉
-Высокая маржинальность. 
-Заработать больше 20% с контракта — реальность, а не мечта.
-
-❓
- Как туда попасть?
-
-Закрытые закупки — это не для новичков. 
-
-Вот что нужно:
+Что сделать прямо сейчас:
 
 1️⃣
- Понимание процессов в госзакупках (вы должны быть уверены в себе).
+ Проверить, входит ли ваш банк в первые волны подключения (Сбер, ВТБ, Т-банк, Альфа-Банк, Газпромбанк)
 
 2️⃣
- Команда или сообщество, где есть хотя бы один человек, знающий закрытые закупки «от А до Я».
+ Оценить выручку — когда именно ваша компания попадает под обязательное подключение
 
 3️⃣
- Опыт выполнения контрактов.
+ Протестировать цифровой кошелёк в пилотном режиме
 
-Если у вас всё это есть, то пора двигаться дальше. А если нет — начните с 44-ФЗ и 223-ФЗ. Это обязательная база!
+4️⃣
+ Обновить регламенты расчётов с контрагентами
 
-📌
-Закрытые закупки — это не только про деньги. 
-Это про стабильность, уверенность в своём бизнесе и возможность работать с серьёзными заказчиками.
+Тема новая, вопросов будет много — разбираем такие вещи детальнее внутри 
+клуба
+, без воды и с конкретными разборами под вашу ситуацию 
+🙌
 
-Наш кейс за 2025 год - это больше 10 млн. рублей чистыми за год. 
-
-✅
-Если вы уже прошли базовое обучение и 
-готовы к большему
+#тендерыбезпаники
  
-—
- приходите на эфир 20.07 в 16:00, где мы будем делать первые шаги, проходить регистрацию, аккредитацию и смотреть первые заявки
-😉
-Присоединиться к эфиру по ссылке 
-👉
- 
-https://course.gerinaprozakupki.ru/club_7days
+#клубвнутри
 
-🎁
-Образец заявки на закрытую закупку</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/T3l1xX77sYkikjFUBtzco_qmlG1qmZTfxDfE_k2MAgqAzYbCxeco7q8s1PpE1y51eGrxNe2XrNEU5zkudk4Ro1mthkiSxQm1010hQD_XogipKtebolxxE9YY5HXSif7O7SYhYnk7cgxWbFpE048EPUUCoJ5oEbL7dYcycCwkfhZc6K9Z7In0gNgU6n2DVZnAyG3YPpuImy51B7VnYq84d1y_l6uguCgAWu9K-gNMG53fbi4w8z--IFDQNlXiogElo4eZ7dZwN52euNDRR8Kb3kl86ZKF2aDbKW3nZBVRmDf4n6mKRzAYF4Ti755DKUu_HqgDW8mO8NQgT0hGEEzaoA.jpg" /></p>
-<b><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9492.png')"><b>🔒</b></i> Что такое закрытые закупки?</b><br/>Закрытые тендеры связаны с гособоронзаказом и крупными организациями «Ростех» которым всегда что-то нужно: металл, оборудование, стройматериалы и многое другое.<br/><br/><b><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9180.png')"><b>👀</b></i> Почему это рост и </b>масштаб<b>?</b><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"><b>👉</b></i><b>Меньше конкуренции.</b> Здесь участвуют только те, кто подготовлен.<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"><b>👉</b></i><b>Стабильность.</b> Нет сезонности — спрос на поставки постоянный.<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"><b>👉</b></i><b>Высокая маржинальность. </b>Заработать больше 20% с контракта — реальность, а не мечта.<br/><br/><b><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29D93.png')"><b>❓</b></i> Как туда попасть?</b><br/>Закрытые закупки — это не для новичков. <br/><br/><b>Вот что нужно:</b><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/31E283A3.png')"><b>1️⃣</b></i> Понимание процессов в госзакупках (вы должны быть уверены в себе).<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/32E283A3.png')"><b>2️⃣</b></i> Команда или сообщество, где есть хотя бы один человек, знающий закрытые закупки «от А до Я».<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/33E283A3.png')"><b>3️⃣</b></i> Опыт выполнения контрактов.<br/><br/><b><i>Если у вас всё это есть, то пора двигаться дальше. А если нет — начните с 44-ФЗ и 223-ФЗ. Это обязательная база!</i></b><br/><br/><b><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938C.png')"><b>📌</b></i>Закрытые закупки — это не только про деньги. </b>Это про стабильность, уверенность в своём бизнесе и возможность работать с серьёзными заказчиками.<br/><br/>Наш кейс за 2025 год - это больше 10 млн. рублей чистыми за год. <br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C85.png')"><b>✅</b></i>Если вы уже прошли базовое обучение и <b>готовы к большему</b> <b>—</b> приходите на эфир 20.07 в 16:00, где мы будем делать первые шаги, проходить регистрацию, аккредитацию и смотреть первые заявки<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9889.png')"><b>😉</b></i>Присоединиться к эфиру по ссылке <b><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"><b>👉</b></i> </b><a href="https://course.gerinaprozakupki.ru/club_7days" rel="noopener" target="_blank"><b>https://course.gerinaprozakupki.ru/club_7days</b></a><br/><br/><b><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8E81.png')"><b>🎁</b></i>Образец заявки на закрытую закупку</b>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/gerinaprozakupki/3102</guid>
-      <pubDate>Thu, 16 Jul 2026 13:14:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>40% — предприниматели, 28% — специалисты, 32% — присматриваетесь.</title>
-      <link>https://telegram.me/gerinaprozakupki/3101</link>
-      <description>40% — предприниматели, 28% — специалисты, 32% — присматриваетесь.
-
-Я не случайно спросила. В прошлом посте вы честно ответили, кто вы. И теперь я точно знаю: в моём канале есть и те, кто уже в теме, и те, кто только заглядывает.
-
-И вот что интересно.
-
-Мне написал участник Клуба, который зашёл на два бесплатных дня:
-
-«Впечатляет. Но я уже вырос из базы. Мне нужно масштабирование, инвестиции и закрытые закупки».
-
-Это не критика. Это — сигнал. Что Клуб — это не только про «первые шаги». Что есть те, кому нужны стратегии под свой уровень.
-
-И я слышу вас.
-
-В понедельник, 20 июля, в 16:00 проведу в Клубе прямой эфир для тех, кто уже не новичок.
-
-Разберём:
-
-— как выходить на закрытые закупки;
-
-— как регистрироваться на ЭТП грамотно, без ошибок;
-
-— что делать, когда база пройдена, а хочется масштаба.
-
-Но это — только часть.
-
-В Клубе есть и тест-драйв для новичков: база знаний, уроки, разборы, чат с практиками. Всё, чтобы сделать первый шаг без страха.
-
-Поэтому я приглашаю всех.
-
-— Тем, кто присматривается — заходите, смотрите, пробуйте.
-
-— Специалистам — будет что обсудить и с кем обменяться опытом.
-
-— Предпринимателям — эфиры и инструменты для масштаба.
-
-Пробная неделя — 990 ₽.
-
-Вы заходите, смотрите всё, участвуете в эфире, решаете, оставаться ли.
-
-Ссылка для входа: 
-https://course.gerinaprozakupki.ru/club_7days
-
-Ваш уровень — не важен. Важен ваш интерес. Присоединяйтесь. 
-🚀</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/OLOOwufv1y6a6L4hLC0sBcjAcYtxztIJcNs-4S7fMYAV8Xypr14F69ItfEkk8ETZpe5kWvGKgEBHZlAChMt2NjsA-xC-srorBhdkwg8qGccaWRxFa8sheBATuBB-FsMFwDmSBcAnAE1AiWjHJhtRsLrLg06WVT2aP3UxmakDQ2a8f8xqbscluIUpka3JSmqx0xZT4kox0OQv9_IY0ZVFy54mscByvMZ2WT0O_rVNZfPm_lZosf5jDafTjN05QXTwr4MWKkVRLcpJbIOs-Ckx6-auxJ1bepz7TtjfcdmwZqYjc-3bax6rCfL-CmEjQcSBsEVWAnz5yPi7Ez7V4KjtkQ.jpg" /></p>
-40% — предприниматели, 28% — специалисты, 32% — присматриваетесь.<br/><br/>Я не случайно спросила. В прошлом посте вы честно ответили, кто вы. И теперь я точно знаю: в моём канале есть и те, кто уже в теме, и те, кто только заглядывает.<br/><br/>И вот что интересно.<br/><br/>Мне написал участник Клуба, который зашёл на два бесплатных дня:<br/><br/>«Впечатляет. Но я уже вырос из базы. Мне нужно масштабирование, инвестиции и закрытые закупки».<br/><br/>Это не критика. Это — сигнал. Что Клуб — это не только про «первые шаги». Что есть те, кому нужны стратегии под свой уровень.<br/><br/>И я слышу вас.<br/><br/>В понедельник, 20 июля, в 16:00 проведу в Клубе прямой эфир для тех, кто уже не новичок.<br/>Разберём:<br/>— как выходить на закрытые закупки;<br/>— как регистрироваться на ЭТП грамотно, без ошибок;<br/>— что делать, когда база пройдена, а хочется масштаба.<br/><br/>Но это — только часть.<br/><br/>В Клубе есть и тест-драйв для новичков: база знаний, уроки, разборы, чат с практиками. Всё, чтобы сделать первый шаг без страха.<br/><br/>Поэтому я приглашаю всех.<br/>— Тем, кто присматривается — заходите, смотрите, пробуйте.<br/>— Специалистам — будет что обсудить и с кем обменяться опытом.<br/>— Предпринимателям — эфиры и инструменты для масштаба.<br/><br/>Пробная неделя — 990 ₽.<br/>Вы заходите, смотрите всё, участвуете в эфире, решаете, оставаться ли.<br/><br/>Ссылка для входа: <a href="https://course.gerinaprozakupki.ru/club_7days" rel="noopener" target="_blank">https://course.gerinaprozakupki.ru/club_7days</a><br/><br/>Ваш уровень — не важен. Важен ваш интерес. Присоединяйтесь. <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9A80.png')"><b>🚀</b></i>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/gerinaprozakupki/3101</guid>
-      <pubDate>Wed, 15 Jul 2026 06:00:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Пост — PRO_закупки | Любовь Герина тендеры и госзакупки</title>
-      <link>https://telegram.me/gerinaprozakupki/3100</link>
-      <description>Пост — PRO_закупки | Любовь Герина тендеры и госзакупки</description>
-      <content:encoded><![CDATA[(нет текста)]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/gerinaprozakupki/3100</guid>
-      <pubDate>Mon, 13 Jul 2026 16:07:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Что такое госзакупки и как они работают</title>
-      <link>https://telegram.me/gerinaprozakupki/3099</link>
-      <description>Что такое госзакупки и как они работают
-
-Госзакупки — это обычная покупка. Только покупает не человек, а государство.
-
-Школам нужно питание и ремонт. Больницам — лекарства и оборудование. Учреждениям — услуги, техника, стройка и так далее. И всё это покупается официально и публично — через электронные площадки.
-
-В госзакупках на самом деле есть два совершенно разных формата заработка 
-👀
-
-Тендерный специалист
- — ищет закупки, читает документацию, считает риски и рентабельность, готовит заявки и ведёт контракт до оплаты. Работает для предпринимателей и компаний, которые не хотят разбираться в системе сами. Доход — процент от прибыли по контрактам, и потолка здесь нет.
-
-Предприниматель
- — заходит в закупки уже сам, как поставщик. Подаёт заявки от своего юрлица, выигрывает контракты и исполняет их. Здесь доход выше, потому что вы зарабатываете на марже контракта, а не на проценте. Но и ответственности больше — за поставку, сроки, качество.
-
-Кстати, очень многие приходят к предпринимательству именно через профессию тендерного специалиста: сначала учатся видеть хорошие закупки и считать риски, а потом уже решают — масштабироваться в свой бизнес или нет.
-
-А кто вы сейчас? Голосуйте 
-👇
-
-#клубвнутри</description>
-      <content:encoded><![CDATA[<b>Что такое госзакупки и как они работают</b><br/><br/>Госзакупки — это обычная покупка. Только покупает не человек, а государство.<br/><br/>Школам нужно питание и ремонт. Больницам — лекарства и оборудование. Учреждениям — услуги, техника, стройка и так далее. И всё это покупается официально и публично — через электронные площадки.<br/><br/>В госзакупках на самом деле есть два совершенно разных формата заработка <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9180.png')"><b>👀</b></i><br/><br/><b>Тендерный специалист</b> — ищет закупки, читает документацию, считает риски и рентабельность, готовит заявки и ведёт контракт до оплаты. Работает для предпринимателей и компаний, которые не хотят разбираться в системе сами. Доход — процент от прибыли по контрактам, и потолка здесь нет.<br/><br/><b>Предприниматель</b> — заходит в закупки уже сам, как поставщик. Подаёт заявки от своего юрлица, выигрывает контракты и исполняет их. Здесь доход выше, потому что вы зарабатываете на марже контракта, а не на проценте. Но и ответственности больше — за поставку, сроки, качество.<br/><br/>Кстати, очень многие приходят к предпринимательству именно через профессию тендерного специалиста: сначала учатся видеть хорошие закупки и считать риски, а потом уже решают — масштабироваться в свой бизнес или нет.<br/><br/>А кто вы сейчас? Голосуйте <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9187.png')"><b>👇</b></i><br/><br/><a href="?q=%23%D0%BA%D0%BB%D1%83%D0%B1%D0%B2%D0%BD%D1%83%D1%82%D1%80%D0%B8">#клубвнутри</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/gerinaprozakupki/3099</guid>
-      <pubDate>Mon, 13 Jul 2026 16:07:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Сегодня — выходной</title>
-      <link>https://telegram.me/gerinaprozakupki/3097</link>
-      <description>Сегодня — выходной 
-🌤️
-🍓
-
-Дети сами собирают ягоды, солнце греет, ветер лёгкий.
-
-И в голове одна мысль: как же хорошо, что мы уехали с севера 
-🌿
-
-В 2021‑м я 
-решилась
-. Уйдя в декрет — начала строить свою мечту.
-
-Сейчас у меня школа, агентство, площадка. И это не про «повезло». Это про 
-«решилась»
-.
-
-Раньше я боялась, что без начальника пропаду.
-
-А теперь понимаю: 
-начальник — это я
-. И дети бегают не по серым коридорам, а по траве 
-🌾
-
-Никто мне не давал никаких гарантий, что получится. Просто делала шаг за шагом 
-👣
-
-При этом 
-каждый выбирает своё
-.
-
-А вы бы решились? 
-👇</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/IVfU1Rjz3SNCMj5R78O1UHTflLbsZfiUAEvvGuiTmUKvDai6uwOe8W2le31WUrUj4B-jSVQpew1OESEASPRRwH7KnENTDG8G3j36ad-g7IRRnL4dg3o5V6bBUhApAGmucGJ4SO2P1P0jUmi88OKgrEboggdofQiV0cXIo47mPQefxp8a_iX36gY1Jap_x5UQbu6w_x0iKP7WzO3IUkWMjP-7jag3xkewyKUesA5F_vi_W2718p-qVvNvXN3fUcGq9pTdHgtngKIDvjZ6uQU1cEP-UN6Gv7hP8WDtn8REspsmsG3Ej43iQxuURF1pAtJd33lf_adazoDNUAcOoB0cng.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/NT7HxO2s4ZH9pGN73YW-T_Au5Nyon30clo1bTAyO273qh7jjXoodoOWKaXkICV6kHV2hho1U7uXt_A278Fc0r-6N3S0bj5mMI4OAtEq1EbSax3pb1zr0reGWq0P3G_sUxf8Q_awXdU3Sf3sERxrcVBmSsdMS44AdQZGDOAqMQ222QSooRjB542qR4Sw5mM08Xrna3g5naCT9avXLF-LbnjplY78WcmtLMMuqUWvloF7CzQmYEe3F7DT55vUDjlp-AWGTaDMH6GVj5wieUCusG-tjFcS5EnAejy46RMLmbII-BdiI9llVuNsYpp7xk8J-1bwBZu_4tZ-VYvVsoEIA2A.jpg" /></p>
-<div class="tgme_widget_message_text js-message_text" dir="auto">Сегодня — выходной <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8CA4.png')"><b>🌤️</b></i><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8D93.png')"><b>🍓</b></i><br/><br/>Дети сами собирают ягоды, солнце греет, ветер лёгкий.<br/>И в голове одна мысль: как же хорошо, что мы уехали с севера <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8CBF.png')"><b>🌿</b></i><br/><br/>В 2021‑м я <i>решилась</i>. Уйдя в декрет — начала строить свою мечту.<br/>Сейчас у меня школа, агентство, площадка. И это не про «повезло». Это про <b>«решилась»</b>.<br/><br/>Раньше я боялась, что без начальника пропаду.<br/>А теперь понимаю: <b>начальник — это я</b>. И дети бегают не по серым коридорам, а по траве <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8CBE.png')"><b>🌾</b></i><br/><br/>Никто мне не давал никаких гарантий, что получится. Просто делала шаг за шагом <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F91A3.png')"><b>👣</b></i><br/><br/>При этом <i>каждый выбирает своё</i>.<br/><br/>А вы бы решились? <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9187.png')"><b>👇</b></i></div>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/gerinaprozakupki/3097</guid>
-      <pubDate>Sun, 12 Jul 2026 16:52:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>🥇</title>
-      <link>https://telegram.me/gerinaprozakupki/3094</link>
-      <description>🥇
- 
-Очередная победа!
-
-📦
- Поставка промышленных ёмкостей для центра питомниководства и садоводства
-
-💰
- Контракт: 
-359 533,34₽
-
-💵
- Закуп товара: 
-178 000₽
-
-📉
- Логистика + комиссия площадки + прочие затраты: 
-61 172,26₽
-
-💸
- Чистая прибыль: 
-120 361,08₽
-
-🏆
- Мы в закупке были 
-единственным участником
- — и это в очередной раз показывает важную вещь: конкуренция в тендерах далеко не всегда высокая. Иногда кажется, что «там уже всё занято», а по факту в закупку заходишь один.
-
-💸
- Маржинальность по контракту — 
-выше 50%
-.
-
-🚩
- Хороший показательный пример того, что результат в закупках часто рождается не из «секретных схем», а из трёх вещей:
-
-✅
- правильный выбор тендера
-
-✅
- грамотный расчёт экономики
-
-✅
- системная подача заявок, а победы будут всегда
-🫶
- полное видео подачи заявки в 
-клубе
- 
-
-Вот так, шаг за шагом, и строится стабильный доход в закупках 
-💪
-
-#кухнятендерщика
- 
-#клубвнутри</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/iO28d-kqvkXBMMI-Yk2MyE61WTWsx-Brtrv12QNMpFJRQ6A2xUVtDzom7CRnDZeK_KUJMtljkyQKESyUJRJv2YkEykUoiBemEK-e8RtLsxILd5T27iOx-lJTnJPgHPGrHNn_fJWgXRchV09NrLl-nB0VOPeN43XJBe3HjzpCzV1QrgLZNb3kQGqiFgrhwUMpm_lcuitSenk3kyjj2SDOthHKkecTWJWbEUdkM_n7qg-dgCKDpOTijOVpPaF7VfgVSzJyccZU6W3_zCzDGhfSsyarWDQ3iUM_Q2qEfUBBeHFKTkLcXgzUeaR4WHTd6q93TAFzWbAifwBGjqHnlX0mSg.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/KDyK-VHnewL-7gDMSbfdQ_WP9VrZMREJeKsoloiHjgciN4VifzMb6zo_pmiz_PcDUkNHki_Zskk5Hza7xNKejZ3HsJgrc5Z_VP4uImCE0Z09NFu9BOf7ZBARtOFELaXom0V4Vi5vDN3OnLvSh0zut1B9cLZonJdl26eAMrQme6X-GeCpheRZOQbibrTKSvqthZl0zE9b__o6YQXQEbRPIaXM56tJGp2FK6qcRGevZPzFMVyUVKi6QjsUMpVKbIM52ibJwZ5jIuHr6CLpxUb1JdvJpOG8oInKnadd73L8__AR1Gbz3YAoTorte5HUSVHJd5DQDg4UEzGlnoLYaIa6fw.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/DyNhPJEcVu3Za97M5-AjXj7WFchNiRoBtaPj39RzC9wbiwfAQ2ciwGAFOtOTrv3c5Uq23t4ocZyeooKHC6ky0GnDTFk3MgkFIX_BU76zWYN3YWD1WMsiyVJptLcg_T-7NwqCKpCAyM0mhg9HqW0LgC2hpD8wVkJx7eWgx3WMyY1uG6H5AjHZ3cF3BYc1fKa3A5cxbylsMqwlSyqIQL_-oheoBC378VgFH4dOE7jjmQdpJKF9zDcIP_di5a_Fus7GNphs4bxT3ceKP-mj0ndciLrK5ENOEjQpYdsthfsHNq8a_cmolwYEnHCoD4xbQVaE1mw3plQJcTVxS6qJLhlAkg" /></p>
-<div class="tgme_widget_message_text js-message_text" dir="auto"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA587.png')"><b>🥇</b></i> <b>Очередная победа!</b><br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93A6.png')"><b>📦</b></i> Поставка промышленных ёмкостей для центра питомниководства и садоводства<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92B0.png')"><b>💰</b></i> Контракт: <b>359 533,34₽</b><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92B5.png')"><b>💵</b></i> Закуп товара: <b>178 000₽</b><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9389.png')"><b>📉</b></i> Логистика + комиссия площадки + прочие затраты: <b>61 172,26₽</b><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92B8.png')"><b>💸</b></i> Чистая прибыль: <b>120 361,08₽</b><br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8F86.png')"><b>🏆</b></i> Мы в закупке были <b>единственным участником</b> — и это в очередной раз показывает важную вещь: конкуренция в тендерах далеко не всегда высокая. Иногда кажется, что «там уже всё занято», а по факту в закупку заходишь один.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92B8.png')"><b>💸</b></i> Маржинальность по контракту — <b>выше 50%</b>.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9AA9.png')"><b>🚩</b></i> Хороший показательный пример того, что результат в закупках часто рождается не из «секретных схем», а из трёх вещей:<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C85.png')"><b>✅</b></i> правильный выбор тендера<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C85.png')"><b>✅</b></i> грамотный расчёт экономики<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C85.png')"><b>✅</b></i> системная подача заявок, а победы будут всегда<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FABB6.png')"><b>🫶</b></i> полное видео подачи заявки в <a href="https://course.gerinaprozakupki.ru/club_7days" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">клубе</a> <br/><br/>Вот так, шаг за шагом, и строится стабильный доход в закупках <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92AA.png')"><b>💪</b></i><br/><br/><a href="?q=%23%D0%BA%D1%83%D1%85%D0%BD%D1%8F%D1%82%D0%B5%D0%BD%D0%B4%D0%B5%D1%80%D1%89%D0%B8%D0%BA%D0%B0">#кухнятендерщика</a> <a href="?q=%23%D0%BA%D0%BB%D1%83%D0%B1%D0%B2%D0%BD%D1%83%D1%82%D1%80%D0%B8">#клубвнутри</a></div>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/gerinaprozakupki/3094</guid>
-      <pubDate>Fri, 10 Jul 2026 16:43:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Записала кружочек — впервые провожу экскурсию прямо по Клубу изнутри</title>
-      <link>https://telegram.me/gerinaprozakupki/3090</link>
-      <description>Записала кружочек — впервые провожу экскурсию прямо по Клубу изнутри 
-👀
-
-Показываю, а не рассказываю: 
-рубрики, разборы, формат встреч
- — всё, как оно есть на самом деле.
-
-Обычно про Клуб я пишу текстом. А тут решила — так честнее.
-
-Смотрите 
-👇
-
-#кухнятендерщика</description>
-      <content:encoded><![CDATA[Записала кружочек — впервые провожу экскурсию прямо по Клубу изнутри <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9180.png')"><b>👀</b></i><br/><br/>Показываю, а не рассказываю: <b>рубрики, разборы, формат встреч</b> — всё, как оно есть на самом деле.<br/><br/>Обычно про Клуб я пишу текстом. А тут решила — так честнее.<br/><br/>Смотрите <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9187.png')"><b>👇</b></i><br/><br/><a href="?q=%23%D0%BA%D1%83%D1%85%D0%BD%D1%8F%D1%82%D0%B5%D0%BD%D0%B4%D0%B5%D1%80%D1%89%D0%B8%D0%BA%D0%B0">#кухнятендерщика</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/gerinaprozakupki/3090</guid>
-      <pubDate>Thu, 09 Jul 2026 15:04:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Пост — PRO_закупки | Любовь Герина тендеры и госзакупки</title>
-      <link>https://telegram.me/gerinaprozakupki/3091</link>
-      <description>Пост — PRO_закупки | Любовь Герина тендеры и госзакупки</description>
-      <content:encoded><![CDATA[(нет текста)]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/gerinaprozakupki/3091</guid>
-      <pubDate>Thu, 09 Jul 2026 15:04:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>⏳</title>
-      <link>https://telegram.me/gerinaprozakupki/3089</link>
-      <description>⏳
- 
-«2 дня — это слишком мало»
-
-Я понимаю, что двух дней недостаточно, чтобы по-настоящему оценить глубину клуба. За это время можно только заглянуть, но 
-не прочувствовать систему
-.
-
-Поэтому я приняла решение: для всех я открываю возможность ознакомиться с клубом в течение 
-целой недели
- 
-🗓
-. Вы получите доступ ко всем материалам, урокам, разборам и чату — 
-без ограничений
-! 
-🔥
-
-Стоимость этого ознакомительного периода — 
-990 рублей
- 
-💸
-.
-
-🔹
- Если за неделю вы поймёте, что клуб даёт вам нужную опору и вы хотите остаться, то доплачиваете разницу до полной стоимости месячного участия. И вы продолжаете работать в 
-полном формате
-.
-
-🔸
- Если же решите, что это не ваше — просто завершаете доступ, и вопрос закрыт. 
-Никаких автопродлений, никаких лишних списаний
-.
-
-Мне важно, чтобы вы принимали решение 
-осознанно
-, а не в спешке. И я даю вам такую возможность 
-🤝
-.
-
-👉
- 
-https://course.gerinaprozakupki.ru/club_7days</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/Itewisr0rsdjc1I2AskmhrpZMaJjRAfxaBTRS-Nz7_fLUz5Jyu95ypZEmd1exTuAYijwSaj4Rsm1Et_g_gNITW3ppPuFQ43A3hzZAiKUwVSLeS36J3-UQ7cOEOLs1hJDF3U-BT7w8RLDYqiFdDR_0D5FbDwX_dZAxo4J3DN-6wiHQYGXG9jiAhQL0TYK477Lrm1-QpAKKAy4L2xaY-zPR3rAGk_3uHjhwzOxFL-xv2P_QkYX-SJAB62TH4vWoqT0sOXWIQJ6K9m1G76EULm449tUZEZs7oqzUTgG4Cxlg0YPRVI8gBzQFG-9iLzMaHqLsWQscO0a3InRjMcbVmn3zA.jpg" /></p>
-<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E28FB3.png')"><b>⏳</b></i> <b>«2 дня — это слишком мало»</b><br/><br/>Я понимаю, что двух дней недостаточно, чтобы по-настоящему оценить глубину клуба. За это время можно только заглянуть, но <i>не прочувствовать систему</i>.<br/><br/>Поэтому я приняла решение: для всех я открываю возможность ознакомиться с клубом в течение <b>целой недели</b> <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9793.png')"><b>🗓</b></i>. Вы получите доступ ко всем материалам, урокам, разборам и чату — <b>без ограничений</b>! <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')"><b>🔥</b></i><br/><br/>Стоимость этого ознакомительного периода — <b>990 рублей</b> <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92B8.png')"><b>💸</b></i>.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> Если за неделю вы поймёте, что клуб даёт вам нужную опору и вы хотите остаться, то доплачиваете разницу до полной стоимости месячного участия. И вы продолжаете работать в <b>полном формате</b>.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')"><b>🔸</b></i> Если же решите, что это не ваше — просто завершаете доступ, и вопрос закрыт. <i>Никаких автопродлений, никаких лишних списаний</i>.<br/><br/>Мне важно, чтобы вы принимали решение <b>осознанно</b>, а не в спешке. И я даю вам такую возможность <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA49D.png')"><b>🤝</b></i>.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"><b>👉</b></i> <a href="https://course.gerinaprozakupki.ru/club_7days" rel="noopener" target="_blank">https://course.gerinaprozakupki.ru/club_7days</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/gerinaprozakupki/3089</guid>
-      <pubDate>Thu, 09 Jul 2026 10:04:45 +0000</pubDate>
+Кто я?
+ | 
+Закрытый Клуб
+ | 
+Мы в МАХ</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/It4gc0OXmZ3mSijFYthDqz8RfcHBMbC6kIf1S6X6xYXWOXQGTzMQ5NQyyuN0ii0ujAzUvRuFUYit2-8PL9gEhR882oRYUjMpo6PU6KaQJIDRXND9Q03QiYcGIVQn-RnsUzWIRDAFGm9vwnvqa74IhsrqfH6DvrqhDrklww3FvxunCQl_4KwsMRmFragCMq4Lb64GnHpVxGYGHSETSXkSs1Iv0_U9jq32FdE6N0D71dmM1_orDbC0dLrKlyywFdeweoxuSsqOzzxMaqvizMvrczXMLIQih9Itdp6LijRcWcH_Yb80jCYCGWsm3PENoGQSlxMQpo3acvufjoiAvW7EXw.jpg" /></p>
+<b>Часть 3/3: риски и что делать уже сегодня <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')"><b>🔥</b></i></b><br/><br/>Завершаю разбор цифрового рубля в госзакупках. Самое важное — риски и конкретный план действий.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29AA0.png')"><b>⚠️</b></i> <b>Для поставщиков:</b><br/>— Несовместимый банк = потеря тендеров уже с 2026 года<br/>— Технические сбои при интеграции = задержки оплаты<br/>— Нарушение условий программируемого платежа = штрафы<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29AA0.png')"><b>⚠️</b></i> <b>Для заказчиков:</b><br/>— Неподготовленные победители = срыв контрактов<br/>— Ошибки в «метках» средств = возврат в бюджет<br/>— Усиленный аудит ЦБ по целевому расходованию<br/><br/>Но есть и хорошая новость. Прозрачность платежей отсеет тех, кто привык работать «в серую», и даст преимущество добросовестным поставщикам с чистой отчётностью — именно они заберут самые жирные контракты 2026–2028 <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9191.png')"><b>👑</b></i><br/><br/><b>Что сделать прямо сейчас:</b><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/31E283A3.png')"><b>1️⃣</b></i> Проверить, входит ли ваш банк в первые волны подключения (Сбер, ВТБ, Т-банк, Альфа-Банк, Газпромбанк)<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/32E283A3.png')"><b>2️⃣</b></i> Оценить выручку — когда именно ваша компания попадает под обязательное подключение<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/33E283A3.png')"><b>3️⃣</b></i> Протестировать цифровой кошелёк в пилотном режиме<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/34E283A3.png')"><b>4️⃣</b></i> Обновить регламенты расчётов с контрагентами<br/><br/>Тема новая, вопросов будет много — разбираем такие вещи детальнее внутри <a href="https://course.gerinaprozakupki.ru/club_7days" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">клуба</a>, без воды и с конкретными разборами под вашу ситуацию <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F998C.png')"><b>🙌</b></i><br/><a href="?q=%23%D1%82%D0%B5%D0%BD%D0%B4%D0%B5%D1%80%D1%8B%D0%B1%D0%B5%D0%B7%D0%BF%D0%B0%D0%BD%D0%B8%D0%BA%D0%B8">#тендерыбезпаники</a> <a href="?q=%23%D0%BA%D0%BB%D1%83%D0%B1%D0%B2%D0%BD%D1%83%D1%82%D1%80%D0%B8">#клубвнутри</a><br/><br/><a href="https://telegram.me/gerinaprozakupki/2649" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Кто я?</a> | <a href="https://gerina-zakupki.ru/club" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Закрытый Клуб</a> | <a href="https://max.ru/join/b9GZqE55Fw4HOPg-PyhZT_MUA3yJkarVsyNBfBOBArs" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Мы в МАХ</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/gerinaprozakupki/3112</guid>
+      <pubDate>Fri, 24 Jul 2026 14:59:02 +0000</pubDate>
     </item>
   </channel>
 </rss>

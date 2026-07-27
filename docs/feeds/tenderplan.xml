@@ -3,85 +3,25 @@
   <channel>
     <title>Тендерплан – всё о закупках</title>
     <link>https://dvberegovoy.github.io/telegram-rss/feeds/tenderplan.xml</link>
-    <description>RSS-лента канала @tenderplan, собранная из публичного веб-превью Telegram.</description>
+    <description>RSS-лента канала @tenderplan за последние 3 дн., собранная из публичного веб-превью Telegram.</description>
     <atom:link href="https://dvberegovoy.github.io/telegram-rss/feeds/tenderplan.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 24 Jul 2026 07:45:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 08:53:37 +0000</lastBuildDate>
     <item>
-      <title>🆕</title>
-      <link>https://telegram.me/tenderplan/1409</link>
-      <description>🆕
- Госзакупки упрощают: законопроект прошел первое чтение
+      <title>❓</title>
+      <link>https://telegram.me/tenderplan/1410</link>
+      <description>❓
+Контракт 44-ФЗ — исполнять или расторгнуть
 
-Госдума приняла в первом чтении законопроект № 1286425-8 об упрощении закупочных процедур. 
+Выиграли тендер, но работать по контракту стало невозможно? Заказчик не дает доступ на объект, постоянно меняет техзадание или самовольно нарушает условия контракта? Просто так выйти из контракта не получится, но спойлер: инструменты для защиты своих интересов есть. 
 
-Инициаторы — председатели Совфеда и Госдумы Валентина Матвиенко и Вячеслав Володин, а также группа сенаторов и депутатов.
+Ситуация с расторжением контрактов не является чем-то необычным. Ежегодно по разным причинам расторгаются сотни тысяч контрактов — и в подавляющем большинстве случаев расторжение проходит мирно и без серьезных последствий для поставщика.
 
-Что предлагается (по тексту законопроекта, принятому в первом чтении):
-
-🔹
-Для малого бизнеса и социально ориентированных НКО. Поднять порог закупок у СМП и СОНКО с 20 до 30 млн руб.  
-
-🔹
-Упрощенная процедура. Увеличить порог для электронного запроса котировок с 10 до 20 млн руб. 
-
-🔹
-Гибкость контрактов. Для договоров с неопределенным объемом (например, топливо) разрешить менять цену и объем в пределах 10%. Для лекарств и медизделий — до 30%.
-
-🔹
-Замена товара. Закрепить право заменять товар на аналог и менять страну происхождения, если не нарушаются запреты на импорт. Это спасет от штрафов, если поставщик не может исполнить контракт из-за санкций или логистики.
-
-🔹
-Единственный поставщик. Разрешить закупать однородные товары в пределах года у того же единственного поставщика 
-
-🔹
-Разъяснения Минфина. Разрешить действовать на основании официальных разъяснений Минфина по 44-ФЗ. Данная мера поможет снизить риски для заказчиков и поставщиков при неоднозначных трактовках закона. 
-
-Законопроект прошел первое чтение. Впереди — второе чтение и работа над поправками. 
-
-#новости_тендеров
-
-☺
-️
- Telegram
- | 
-VК
- |
- 
-MAX</description>
-      <content:encoded><![CDATA[<b><tg-emoji emoji-id="5435904995742457332"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8695.png')"><b>🆕</b></i></tg-emoji></b><b> Госзакупки упрощают: законопроект прошел первое чтение</b><br/><br/>Госдума приняла в первом чтении законопроект № 1286425-8 об упрощении закупочных процедур. <br/><br/><i>Инициаторы — председатели Совфеда и Госдумы Валентина Матвиенко и Вячеслав Володин, а также группа сенаторов и депутатов.</i><br/><br/><b>Что предлагается (по тексту законопроекта, принятому в первом чтении):</b><br/><tg-emoji emoji-id="5296283477329587350"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji>Для малого бизнеса и социально ориентированных НКО. Поднять порог закупок у СМП и СОНКО с 20 до 30 млн руб.  <br/><tg-emoji emoji-id="5296283477329587350"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji>Упрощенная процедура. Увеличить порог для электронного запроса котировок с 10 до 20 млн руб. <br/><tg-emoji emoji-id="5296283477329587350"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji>Гибкость контрактов. Для договоров с неопределенным объемом (например, топливо) разрешить менять цену и объем в пределах 10%. Для лекарств и медизделий — до 30%.<br/><tg-emoji emoji-id="5296283477329587350"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji>Замена товара. Закрепить право заменять товар на аналог и менять страну происхождения, если не нарушаются запреты на импорт. Это спасет от штрафов, если поставщик не может исполнить контракт из-за санкций или логистики.<br/><tg-emoji emoji-id="5296283477329587350"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji>Единственный поставщик. Разрешить закупать однородные товары в пределах года у того же единственного поставщика <br/><tg-emoji emoji-id="5296283477329587350"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji>Разъяснения Минфина. Разрешить действовать на основании официальных разъяснений Минфина по 44-ФЗ. Данная мера поможет снизить риски для заказчиков и поставщиков при неоднозначных трактовках закона. <br/><br/>Законопроект прошел первое чтение. Впереди — второе чтение и работа над поправками. <br/><br/><a href="?q=%23%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_%D1%82%D0%B5%D0%BD%D0%B4%D0%B5%D1%80%D0%BE%D0%B2">#новости_тендеров</a><br/><br/><tg-emoji emoji-id="5357171364669187802"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E298BA.png')"><b>☺</b></i></tg-emoji><a href="https://telegram.me/tenderplan" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">️</a><a href="https://telegram.me/tenderplan" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"> Telegram</a> | <a href="https://vk.com/tenderplan" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">VК</a> |<a href="https://max.ru/id7325121949_biz" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b> </b></a><a href="https://max.ru/id7325121949_biz" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">MAX</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/tenderplan/1409</guid>
-      <pubDate>Thu, 23 Jul 2026 09:18:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>😇</title>
-      <link>https://telegram.me/tenderplan/1403</link>
-      <description>😇
- 
-Добросовестность в закупках: почему честная работа окупается
-
-В госзакупках репутация строится годами — одним успешным контрактом ее не создать. Но именно она открывает двери и экономит деньги.
-
-Добросовестный поставщик — тот, кто исполняет контракты в срок, без штрафов и нарушений. И это не просто вопрос принципа. Это конкретная выгода. 
-
-Работайте качественно — и это окупится. Не только репутацией, но и реальными преимуществами в закупках.
-
-В карточках разобрали: 
-
-🔻
-Что такое добросовестность и когда она рассматривается заказчиком
-
-🔻
-Как подтвердить добросовестность
-
-🔻
-Какие преференции может получить добросовестный поставщик
-
-P.S. В последней карточке — о том, как сделать добросовестность своим конкурентным преимуществом.
-
-#тендеры_с_нуля
+💙
+Хотите узнать, как выйти из проблемного контракта без риска для бизнеса? Читайте нашу новую статью: 
+https://tenderplan.ru/blog/kak_postavshchiku_rastorgnut_kontrakt_44fz/
 
 ☺️
  Telegram
@@ -90,211 +30,9 @@ VК
  |
  
 MAX</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/m_BdONEzhNaOzvvSvMf_gtJsYzxSQv12Zy3BhJnh83vt8EVfLmqWfHofZ9h5966jIi5mXCrFsZB4LxWbLDjYA38UdjtKgwgA6oGp3FdchercA9BPLYthmtFBrP2aj4vXt7o3pqEA-Pc4Xo7LjiEB767iglqf4KrAKurGuLsMZQsZJF3uZuK8wvuC7SEUNEHbACpDqt2xnTfgtpSkoEcyXSTIFa-5ibAvpthEgwsJcSHf_fJWzCLhBG1Wp5hRde08hNKL49CfdDutfwCaWcdZi3n0R_z0jvobEgK0pGpQR1XpEYUENCD71VuHapOrD_mqMy5ofNwFclixRU8RApm1YA.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/oY7uQV1TI8s7CbmrhB0SJkRfBriOCkMW7mCsMwUW0E6DrC9SJN4BtLCuhBLhoJsaWs400RGSa8X6_G3AnG2oGVs4RgifUzrvQCC5f3RNY-OAORZl_Ui7jY3Pfluotyi384qA5e7Q_i7vyfRJOV1fwLh9g4aXNyh4JCXCj9-VnoiHuOCvXbSlct_Hy4l1mpdXjDjm_e6qL5ASeK__nfBC8vghhzqWl52UNOCFEeMap9AHkqGFnEsylGl-_G1V9-aTdltHO2k7qu0hJEbEHcnfCnXzm01p-6JLPXEWiWH3KUHGkO0ABoPQnOb7sBDnfDWDwKW4tPViHgpfQcViK_RZgA.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/fCBprFNOyXTcbLONoENJNvNiBmyI-ROIoOT8six7oKApvlQ_0AeQJS0tUZazo7MnDJleAFNoSOJ_n9CSjuhMgRmGCJ2Qtk0oGEqL2tTCLZ8vnp3Jh7L-Ulkc6fKjLWqFPQrKt192_bQzsqu3cvZ_G51aPuA6AFEX3QeHP9oUE4I8J68n7mlb1kY2EUhLuADzEteTJrnwPDEelj5pSF7StmKkA-gkvNxU7mczopPEpvvtAM59pA5I3KNe3KkizqNF_f1MyufhJz9G4jharRncHptrhbNr8MRqp2lvrNaSWQ7KuPXm55ODhmdxdyY58eRuZ06ZWRy14mX4Z_XT3cEUDg.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/Awd4Gdak53I9QoTTiRvP3GboOIAk2Y6L1R1z9N_y9W1l_3wrX7Tkaum4i-Yun_CXk5NBKF4Oh4a3es2c25P-mWMLJQbajGNs8ypUxjPfI-R0G2NAVDtqcwS3QxQcg6AJ9VVLKmT7dK9JZNJ3zz69cApUXjqi8ogBEYlMcBWlg-8ZZnLIAzpSiztYoa7bSeC25ihoSthXHoFnx2ebJe_NxF7khjJlgL4UrbOgaSbRo5ItJLjwoU_AJ1Fw6tZzg8aaaGX1ruoqhuosLZQEeNtEvbc8QG-wmQCS2HOMA45TgHZjghZ-Y9BU1-Y4RtrQz_T8eQrvf1DiMSrtGYhFR3o5lg.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/Iuo8F5Cs5GRtatWQT3EV5GLWf1buGnn1XZa9xHi6xn4ilvssKfcYAzNB6qme6OdAOFpNAoKQEmrz2UjVOBaA7MydlOeUadD2TR4oDXjOuUtpxio7_2J1Z0VLoJWSvezjyi_F6I8jnOeA0TBhYJzdmK1J0gOx4q2PqjACFjHbouyX1Pla1T_vsMzuu5roaD3j6OM8rDvFExDYbcfeBhFI0l5ujQZVzzzX9579xtRh0XFgPd95A136w2jiabRmfUobnMCdeDE8NZUxQGz9zkEtsK1UM8598K56cIrVEhymq4ThNTOBOBSL6f0wMzFWxflhi5mN7tg0jcK6Q7EB2Vab7A.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/NK84xDkzpBzztQ6OBBm4OAInb4AO0UlJz8N2MG2r9V6OCxg21QAQPWcrMHXfZsDp7bkr5Kk6Or_TXKPs8FnvLg9ZbZEQKnSS6KmS1ExXf9gr4dXXMwnFNyJ1xCUhyIK-3RcjDIfcGsr-dVZkO2dqRL7KEkksv1SDhqFD2sNDbn7-t4cy2EzAjS0p0IyW31nz9fhvSykxq50FpqZdlMDc7z3mUmpQo1XYmlFRuejLnvRHAR9C8VE9ZeYr6CTVUN99zW6ickn9XAZMIOQeCgEUntipF3lXAKMyPm6k7NnaQDzYRVZA85QBJn-NT28tXygCYldZ91S4RskZrcFUti99Sw.jpg" /></p>
-<tg-emoji emoji-id="5798763959125284104"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9887.png')"><b>😇</b></i></tg-emoji> <b>Добросовестность в закупках: почему честная работа окупается</b><br/><br/>В госзакупках репутация строится годами — одним успешным контрактом ее не создать. Но именно она открывает двери и экономит деньги.<br/><br/>Добросовестный поставщик — тот, кто исполняет контракты в срок, без штрафов и нарушений. И это не просто вопрос принципа. Это конкретная выгода. <br/><br/>Работайте качественно — и это окупится. Не только репутацией, но и реальными преимуществами в закупках.<br/><br/>В карточках разобрали: <br/><tg-emoji emoji-id="5472123780639769827"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')"><b>🔻</b></i></tg-emoji>Что такое добросовестность и когда она рассматривается заказчиком<br/><tg-emoji emoji-id="5472123780639769827"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')"><b>🔻</b></i></tg-emoji>Как подтвердить добросовестность<br/><tg-emoji emoji-id="5472123780639769827"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')"><b>🔻</b></i></tg-emoji>Какие преференции может получить добросовестный поставщик<br/><br/><i>P.S. В последней карточке — о том, как сделать добросовестность своим конкурентным преимуществом.</i><br/><br/><a href="?q=%23%D1%82%D0%B5%D0%BD%D0%B4%D0%B5%D1%80%D1%8B_%D1%81_%D0%BD%D1%83%D0%BB%D1%8F">#тендеры_с_нуля</a><br/><br/><tg-emoji emoji-id="5357171364669187802"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E298BA.png')"><b>☺️</b></i></tg-emoji><a href="https://telegram.me/tenderplan" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"> Telegram</a> | <a href="https://vk.com/tenderplan" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">VК</a> |<a href="https://max.ru/id7325121949_biz" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b> </b>MAX</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/tenderplan/1403</guid>
-      <pubDate>Wed, 22 Jul 2026 09:12:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>💼</title>
-      <link>https://telegram.me/tenderplan/1402</link>
-      <description>💼
- 
-Могут ли самозанятые работать в госзакупках?
-
-Более 12 000 человек выиграли тендеры без ИП и ООО в 2025 году и получили 48 млрд рублей на госзакупках.
-
-Это данные Российского союза промышленников и предпринимателей. Самозанятые — обычные физлица с налоговым режимом — заходят в госзакупки, получают контракты и зарабатывают на госзаказах.
-
-Это возможно, потому что существует законный механизм, который позволяет самозанятым участвовать в закупках. И ниши, в которых они могут успешно работать.
-
-📋
- Какие закупки доступны самозанятым и что нужно сделать, чтобы начать — рассказали в статье: 
-https://tenderplan.ru/blog/uchastie_samozanyatyh_v_tenderah/
-
-☺️
- Telegram
- | 
-VК
- |
- 
-MAX</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/QZip3-oSYkJ-yUFTpRsxrPuvKszmokawhEY1ccVOWS_1ZJr_dY6KolqJJLYNQJQxb7u0nfq1GYXR398icpeSgidGX78ALnKqXILxat7VERH2RmqSxRb4umKRkwdIQSrddPm6tw_gW-3KwIPetGSQ0r8oPynnBE9JBjBZKoxrMru28W7NpIof9xiBKKhZEVmgewrhK4VT3WVuPkX_KVJJMPvVDXL6-r-rt7xvEipMW7VvRkds-sGUIzYeyxj_7uk8k004gX3TR9YqOdXdKYusISByKlMzc7AAQWpBpT10czMWM5AKA8mkTN-x-1xpWsLq-Q6aeGF8WllFKfQmMi4kag.jpg" /></p>
-<tg-emoji emoji-id="5359785904535774578"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92BC.png')"><b>💼</b></i></tg-emoji> <b>Могут ли самозанятые работать в госзакупках?</b><br/><br/>Более 12 000 человек выиграли тендеры без ИП и ООО в 2025 году и получили 48 млрд рублей на госзакупках.<br/><br/>Это данные Российского союза промышленников и предпринимателей. Самозанятые — обычные физлица с налоговым режимом — заходят в госзакупки, получают контракты и зарабатывают на госзаказах.<br/><br/>Это возможно, потому что существует законный механизм, который позволяет самозанятым участвовать в закупках. И ниши, в которых они могут успешно работать.<br/><br/><tg-emoji emoji-id="5445023039513184326"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938B.png')"><b>📋</b></i></tg-emoji> Какие закупки доступны самозанятым и что нужно сделать, чтобы начать — рассказали в статье: <a href="https://tenderplan.ru/blog/uchastie_samozanyatyh_v_tenderah/" rel="noopener" target="_blank">https://tenderplan.ru/blog/uchastie_samozanyatyh_v_tenderah/</a><br/><br/><tg-emoji emoji-id="5357171364669187802"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E298BA.png')"><b>☺️</b></i></tg-emoji><a href="https://telegram.me/tenderplan" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"> Telegram</a> | <a href="https://vk.com/tenderplan" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">VК</a> |<a href="https://max.ru/id7325121949_biz" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b> </b>MAX</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/tenderplan/1402</guid>
-      <pubDate>Fri, 17 Jul 2026 09:16:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>🛒</title>
-      <link>https://telegram.me/tenderplan/1394</link>
-      <description>🛒
- 
-Закупки с полки: как участвовать
-
-Знаете, что такое закупки с полки?
-
-Если нет — самое время разобраться. Это один из самых доступных способов работать с госзаказчиками без сложных тендеров и долгих процессов.
-
-В карточках разобрали: что это за процедура, чем отличается от классического тендера, как находить такие закупки и пошаговый алгоритм участия.
-
-Листайте, сохраняйте и применяйте 
-🧡
-
-#тендеры_с_нуля
-
-☺️
- Telegram
- | 
-VК
- |
- 
-MAX</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/Va8ZyoLi_nirfO41HdN_ouflTFuCmBDDgZvRshu0TeWMi8HRopcwiK9QQKVIYprSLz6ouHxI-G5wbvL_JuygV2JD7mc0b-Jm3tMPZaF3Dq0nMYuh-5rMthkx6vxunNUezwwhw-Lkp1U6Ng6U_ftCE5z_mUd_hYFsXN7ErqeFwCDCQ1Y8wnWjIkY5Cx8wFMh1fNtOVAo1jdQ5TSXKFODjqVqFRvjWbdL8ui8P03OXaCDa7XgLzP1mWa9qU9Vkruyj0YBWG99ljjYw15LuVMN9QV-mogXeMizJS6p2U_bH74ug8t-jov19125kwXid-sWdCOd_96-go6AGHI1LhqG9KA.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/LLuFt1l3S7-b5aKy9yk87XGDhGiJVUYEBuLfhmPlL614RK-5TMKgX2JXnkr9Bq8DpKd75SkyDzW7DsR-DiYe0z72kCFtUeRnvznei_gykr9vemWzpaH_-dMpQDDZfja0HwmTrdDYQxFpcrhZtr5FatVnKPRZNXqv0FEEoyQ4mJcc8tbBggeQnIzKS09ey6d9Sezi1LmfX83Uxoh7C2CfLkaWtzAj90yb0dgbKCLC6rKr98uoa63orxTXat3CG8NE1fnYwCCuXoUVAo4mJJoRu_ByFGG_NGOxyWFxrpMFeTsk0Ylj0eSB2QfmPT2gvSUS-NOBv-g_47kpn4RPxQav0A.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/QtgaAvvrcU3Iu8UQCKgmQanX8ByArgGaous6nmP40zvnPjFgLhbAwMWA3TiuZSxw0-VxeRQc8XiVDWnH8gXhpMVEILnkE_AmnKfp6C5zF1fMiVdMUxlu8tbJDRS_SuO_ImSPisxXLdZs37XkXAUkopp1MgyWd28eZQ-RBDFY4VpMCja6FnOTzyrR2Pjbge2rOHcyFCHXFh0LwvqGoKXLbtYKiwy-yOfpTvrGREdA9wgdBYb8mVYgLjUob-TgAJF3Cxj3fe9M5cz29nBscYcG7FJ60oGHXMrm6Q4oYogFDApc4ByWnEwh6Be9u1WhoiFSAcQEA6Tw2DCNytRujL85yA.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/dw2e9QVR_UgQd7Uml8_IsWJPaD9M4rxk2-ozCUNDby2CKkVXTTC3Utu0TwawznJeLpg_LeDRDDY1C-GMV90eGOalqcYfM9V_TQJvNkEaDTTwfbFhFoJBkNAYEc8qew4i_Di9Q2roGIrNSN1byskxStsvJuQN_zYpocTMG3as8XVmnOO4Rqccy8lhvRywNDuMJ7px_wMF-MgzSnLrHB1IUjdP0AYmvDzksmn-OA2F8fwEIqV8BMpsGpe3L7eBHfDEAXVUfUiDNW4KqM3sKduvSf3Qrd4RKxMo4jKB13Sm7bMZJDcq__zO-8-GwMyUlZfw4UvjVzHeGtKB9PVo8aSi8w.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/NqqD7_748tYEyHOH3tS-x9XimafrFd1wUN1L7JIL1_DFU6_llzfiH3oYtIkgTMbxIajBrIZoUrnsqyKif72m-dmA29aNyIvEkSU4LBXoGHBsfeZrkxOVndVjkneresG9tB4fDh7chCWu4Bj4WHC_FLBRoCmgrOcqkd17Cup4Y1coXgOpoaxIu4JhpAErJs_IUO_LUCCHkdGkXCrtJdDOprD4t7Wnao2TmcP0HDaIuHFGjYlZG5fg6sMQZ7hMW8x2g6lrXPtVrMPzwtU9MB37UVjbuv7BZYCrXNq6MswaZ2nn5b9PDU16hqZslsEU915G2Qy2xuEWU12CnDBpdJavJw.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/k1byfQ5J97W2VZupqrz4WLRJReDVyNynM3ZVF1YnkXlLYktzvYT4N3jsGeWH-QiHDaeerfOL7VYeDX7KRfAhRN5zcCFLUP8GUC55TkORHYZE2BDH7YCGFwfqGzYQvAjHT5XSjCEHMh0QC7HdSB9sCMWbXZsdSJFLDKoj972exIFNs7T9rQgWTTMn66VLmcJwmfVFygz9kuTxc4SzOGGBlz_ljwOFuknNsl__iJHUfQFn3zfYiGezVQr5R2G2WSrbRjdu-F13KWoRqokWVS5kUDhEEgyD2XIx5l_DZHMsVK_KRkdJXwRj2jTzAuTLUULMh10cGBNODjr3pyj8BbbveA.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/Er350Li85AV_ZK57BdmtdK6liaQCz-dh5LTtcNdyKTlLwu2KrFB2LprFyPy4XVKBebPWTTC4HiJ3YJ6I-nxMYO50sA96Nfa005QppnkcCVhrxluRTyobkarCo-TDkckrbleVZhwDWc8G_aRm1BJpqNOtNOkGhrE6zd_Vk-DyYvT-p0bhJVZsYgpmbRx7HiP04HnHJDQvYd3UjRKAq1l4AR1_RnCqczYnS1MxdbyIaAzizkn6WJmDifFzdcnvzmJc8rGlCGQyG8WED5W50bDBsa4yOmDCRfAmd4qmljzuEL_hBbtcIMAGk2oD1rz7drekAy4TRoAK0Nr7DU6mZ19huA.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/IFo8IZ9lLaQ22bmoM3cfwnennR8rU9cZYdNs4q5Z6LNQrEej5_fEnBa7CALVAXagPhr_F4vXVxbl1Pk7zqRADzkL9pC68zCMCZlpNsP-Ue8rCEnNj2IuvthPtoC5XdvadoKN-ZX78xKiy1OAu7DM5eZ4Eb2FdW0AsDD4hzMGh3LKOQIuH8d-wzp1Nz147THP7Ig140amUgJ0-NVRyjdKe6pmQjEkb54XSqoqSURFvnYHvByssNkOBveBscUas34hsG4CJu8oyg6dFS1W82bAlpabvuiavrfgiYCEq7eoXcULhaS3SM0eZmVMvkdtBdIESsGaP63lPDeRjNL-f9Vl4A.jpg" /></p>
-<tg-emoji emoji-id="5267038598334529102"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9B92.png')"><b>🛒</b></i></tg-emoji> <b>Закупки с полки: как участвовать</b><br/><br/>Знаете, что такое закупки с полки?<br/>Если нет — самое время разобраться. Это один из самых доступных способов работать с госзаказчиками без сложных тендеров и долгих процессов.<br/><br/>В карточках разобрали: что это за процедура, чем отличается от классического тендера, как находить такие закупки и пошаговый алгоритм участия.<br/><br/>Листайте, сохраняйте и применяйте <tg-emoji emoji-id="5258296046374631808"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA7A1.png')"><b>🧡</b></i></tg-emoji><br/><br/><a href="?q=%23%D1%82%D0%B5%D0%BD%D0%B4%D0%B5%D1%80%D1%8B_%D1%81_%D0%BD%D1%83%D0%BB%D1%8F">#тендеры_с_нуля</a><br/><br/><tg-emoji emoji-id="5357171364669187802"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E298BA.png')"><b>☺️</b></i></tg-emoji><a href="https://telegram.me/tenderplan" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"> Telegram</a> | <a href="https://vk.com/tenderplan" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">VК</a> |<a href="https://max.ru/id7325121949_biz" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b> </b>MAX</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/tenderplan/1394</guid>
-      <pubDate>Wed, 15 Jul 2026 09:05:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>🚫</title>
-      <link>https://telegram.me/tenderplan/1393</link>
-      <description>🚫
- Матвиенко предложила приостановить 44-ФЗ. Что это значит?
-
-Спикер Совфеда Валентина Матвиенко на заседании палаты 1 июля 
-поручила
- вице-спикеру Николаю Журавлеву и профильным комитетам проработать возможность приостановки закона № 44-ФЗ (или отдельных его статей).
-
-По ее словам, закон «очень правильно» принимался для борьбы с коррупцией, но теперь коррупционеры научились его обходить, а добросовестные участники процесса «сталкиваются с огромными трудностями, потерей времени». Цель — упростить процедуры, ускорить освоение бюджетных средств и «облегчить жизнь и бизнесу, и регионам».
-
-Важный нюанс:
- полная отмена 44-ФЗ технически крайне сложна и маловероятна — закон дополняют сотни подзаконных актов, а бюджетные закупки на 2026 год уже спланированы. Скорее речь идет о точечных послаблениях.
-
-Пока это только инициатива. Конкретные предложения Правительства ожидаются в ближайшее время. Следим за развитием событий.
-
-#новости_тендеров
-
-☺️
- Telegram
- | 
-VК
- |
- 
-MAX</description>
-      <content:encoded><![CDATA[<b><tg-emoji emoji-id="5280803324273115630"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9AAB.png')"><b>🚫</b></i></tg-emoji></b><b> Матвиенко предложила приостановить 44-ФЗ. Что это значит?</b><br/><br/>Спикер Совфеда Валентина Матвиенко на заседании палаты 1 июля <a href="https://tass.ru/ekonomika/27875689" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">поручила</a> вице-спикеру Николаю Журавлеву и профильным комитетам проработать возможность приостановки закона № 44-ФЗ (или отдельных его статей).<br/><br/>По ее словам, закон «очень правильно» принимался для борьбы с коррупцией, но теперь коррупционеры научились его обходить, а добросовестные участники процесса «сталкиваются с огромными трудностями, потерей времени». Цель — упростить процедуры, ускорить освоение бюджетных средств и «облегчить жизнь и бизнесу, и регионам».<br/><br/><b>Важный нюанс:</b> полная отмена 44-ФЗ технически крайне сложна и маловероятна — закон дополняют сотни подзаконных актов, а бюджетные закупки на 2026 год уже спланированы. Скорее речь идет о точечных послаблениях.<br/><br/>Пока это только инициатива. Конкретные предложения Правительства ожидаются в ближайшее время. Следим за развитием событий.<br/><br/><a href="?q=%23%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_%D1%82%D0%B5%D0%BD%D0%B4%D0%B5%D1%80%D0%BE%D0%B2">#новости_тендеров</a><br/><br/><tg-emoji emoji-id="5357171364669187802"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E298BA.png')"><b>☺️</b></i></tg-emoji><a href="https://telegram.me/tenderplan" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"> Telegram</a> | <a href="https://vk.com/tenderplan" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">VК</a> |<a href="https://max.ru/id7325121949_biz" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b> </b>MAX</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/tenderplan/1393</guid>
-      <pubDate>Mon, 13 Jul 2026 09:19:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>😍</title>
-      <link>https://telegram.me/tenderplan/1392</link>
-      <description>😍
- 
-Неустойка по госконтракту — обязательно ли ее платить?
-
-Неустойка начислена, требование пришло. Первая реакция — оплатить и закрыть вопрос. Но стоит ли торопиться?
-
-По закону у поставщика есть инструменты, чтобы разобраться с ситуацией до того, как деньги уйдут из оборота. И первый шаг — даже не оплата, а анализ: все ли корректно, есть ли основания для пересмотра.
-
-📌
- Разобрали в статье, что именно можно сделать с неустойкой в рамках закона и в каком порядке действовать: 
-https://tenderplan.ru/blog/neustojka_postavshchika_v_zakupkah/
-
-☺️
- Telegram
- | 
-VК
- |
- 
-MAX</description>
-      <content:encoded><![CDATA[<tg-emoji emoji-id="5188558967332152962"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F988D.png')"><b>😍</b></i></tg-emoji> <b>Неустойка по госконтракту — обязательно ли ее платить?</b><br/><br/>Неустойка начислена, требование пришло. Первая реакция — оплатить и закрыть вопрос. Но стоит ли торопиться?<br/><br/>По закону у поставщика есть инструменты, чтобы разобраться с ситуацией до того, как деньги уйдут из оборота. И первый шаг — даже не оплата, а анализ: все ли корректно, есть ли основания для пересмотра.<br/><br/><tg-emoji emoji-id="5310276210197031363"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938C.png')"><b>📌</b></i></tg-emoji> Разобрали в статье, что именно можно сделать с неустойкой в рамках закона и в каком порядке действовать: <a href="https://tenderplan.ru/blog/neustojka_postavshchika_v_zakupkah/" rel="noopener" target="_blank">https://tenderplan.ru/blog/neustojka_postavshchika_v_zakupkah/</a><br/><br/><tg-emoji emoji-id="5357171364669187802"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E298BA.png')"><b>☺️</b></i></tg-emoji><a href="https://telegram.me/tenderplan" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"> Telegram</a> | <a href="https://vk.com/tenderplan" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">VК</a> |<a href="https://max.ru/id7325121949_biz" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b> </b>MAX</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/tenderplan/1392</guid>
-      <pubDate>Fri, 10 Jul 2026 09:17:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>🆕</title>
-      <link>https://telegram.me/tenderplan/1391</link>
-      <description>🆕
- 
-Минфин разрешил оплачивать малые закупки до внесения в реестр 
-
-Раньше поставщики по ЗМО (пп. 4 и 5 ч. 1 ст. 93 44-ФЗ) могли столкнуться с проблемой: заказчик не оплачивает контракт, пока не внесет сведения в реестр. Это создавало кассовые разрывы и неопределенность.
-
-Минфин в 
-письме от 26.06.2026 № 24-06-09/54818
- разъяснил: оплата возможна даже до направления сведений в реестр.
-
-Почему это важно для поставщика?
-
-🔹
-Деньги могут прийти быстрее. 
-Заказчик может оплатить контракт сразу после приемки, не дожидаясь внесения данных в реестр.
-
-🔹
-Споров станет меньше. 
-Если раньше заказчики откладывали оплату, ссылаясь на ч. 8 ст. 103 44-ФЗ, то  теперь у них есть официальное разъяснение — можно платить.
-
-🔹
-Переходный период — до 2028 года.
- С 1 июля 2026 года по 1 февраля 2028 года заказчики вправе направлять в Федеральное казначейство не документы по каждому контракту, а общий перечень. Сделать это можно до 1 мая 2028 года.
-
-Главное:
- для поставщика это означает снижение риска задержек оплаты по контрактам малого объема. Заказчик получил «зеленый свет» платить сразу, без оглядки на реестр.
-
-#новости_тендеров
-
-☺️
- Telegram
- | 
-VК
- |
- 
-MAX</description>
-      <content:encoded><![CDATA[<tg-emoji emoji-id="5435904995742457332"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8695.png')"><b>🆕</b></i></tg-emoji> <b>Минфин разрешил оплачивать малые закупки до внесения в реестр </b><br/><br/>Раньше поставщики по ЗМО (пп. 4 и 5 ч. 1 ст. 93 44-ФЗ) могли столкнуться с проблемой: заказчик не оплачивает контракт, пока не внесет сведения в реестр. Это создавало кассовые разрывы и неопределенность.<br/><br/>Минфин в <a href="https://base.garant.ru/414457533/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">письме от 26.06.2026 № 24-06-09/54818</a> разъяснил: оплата возможна даже до направления сведений в реестр.<br/><br/>Почему это важно для поставщика?<br/><tg-emoji emoji-id="5296283477329587350"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji><b>Деньги могут прийти быстрее. </b>Заказчик может оплатить контракт сразу после приемки, не дожидаясь внесения данных в реестр.<br/><tg-emoji emoji-id="5296283477329587350"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji><b>Споров станет меньше. </b>Если раньше заказчики откладывали оплату, ссылаясь на ч. 8 ст. 103 44-ФЗ, то  теперь у них есть официальное разъяснение — можно платить.<br/><tg-emoji emoji-id="5296283477329587350"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji><b>Переходный период — до 2028 года.</b> С 1 июля 2026 года по 1 февраля 2028 года заказчики вправе направлять в Федеральное казначейство не документы по каждому контракту, а общий перечень. Сделать это можно до 1 мая 2028 года.<br/><br/><b>Главное:</b> для поставщика это означает снижение риска задержек оплаты по контрактам малого объема. Заказчик получил «зеленый свет» платить сразу, без оглядки на реестр.<br/><br/><a href="?q=%23%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_%D1%82%D0%B5%D0%BD%D0%B4%D0%B5%D1%80%D0%BE%D0%B2">#новости_тендеров</a><br/><br/><tg-emoji emoji-id="5357171364669187802"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E298BA.png')"><b>☺️</b></i></tg-emoji><a href="https://telegram.me/tenderplan" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"> Telegram</a> | <a href="https://vk.com/tenderplan" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">VК</a> |<a href="https://max.ru/id7325121949_biz" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b> </b>MAX</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/tenderplan/1391</guid>
-      <pubDate>Wed, 08 Jul 2026 09:15:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>⌨️</title>
-      <link>https://telegram.me/tenderplan/1390</link>
-      <description>⌨️
- 
-ИИ приходит в транспорт: закупок стало больше
-
-По данным Тендерплана, за первые 5 месяцев 2026 года объем закупок
- ИИ для транспорта
- по сравнению с тем же периодом 2025 года 
-вырос почти в 3 раза.
-
-Управление дорожным движением и светофорами, анализ транспортных потоков, мониторинг пробок, повышение безопасности на дорогах — ИИ нужен везде.  
-
-🏷
-О том, как искусственный интеллект меняет управление транспортом — 
-в материале «Газеты.Ru»
-
-#тендеры_в_цифрах
-
-☺️
- Telegram
- | 
-VК
- |
- 
-MAX</description>
-      <content:encoded><![CDATA[<tg-emoji emoji-id="5244578517831669469"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E28CA8.png')"><b>⌨️</b></i></tg-emoji> <b>ИИ приходит в транспорт: закупок стало больше</b><br/><br/>По данным Тендерплана, за первые 5 месяцев 2026 года объем закупок<b> ИИ для транспорта</b> по сравнению с тем же периодом 2025 года <b>вырос почти в 3 раза.</b><br/><br/>Управление дорожным движением и светофорами, анализ транспортных потоков, мониторинг пробок, повышение безопасности на дорогах — ИИ нужен везде.  <br/><br/><tg-emoji emoji-id="5981003763706498536"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8FB7.png')"><b>🏷</b></i></tg-emoji>О том, как искусственный интеллект меняет управление транспортом — <a href="https://www.gazeta.ru/social/news/2026/07/02/28813111.shtml" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">в материале «Газеты.Ru»</a><br/><br/><a href="?q=%23%D1%82%D0%B5%D0%BD%D0%B4%D0%B5%D1%80%D1%8B_%D0%B2_%D1%86%D0%B8%D1%84%D1%80%D0%B0%D1%85">#тендеры_в_цифрах</a><br/><br/><tg-emoji emoji-id="5357171364669187802"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E298BA.png')"><b>☺️</b></i></tg-emoji><a href="https://telegram.me/tenderplan" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"> Telegram</a> | <a href="https://vk.com/tenderplan" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">VК</a> |<a href="https://max.ru/id7325121949_biz" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b> </b>MAX</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/tenderplan/1390</guid>
-      <pubDate>Mon, 06 Jul 2026 09:11:01 +0000</pubDate>
+      <content:encoded><![CDATA[<tg-emoji emoji-id="5382187118216879236"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29D93.png')"><b>❓</b></i></tg-emoji><b>Контракт 44-ФЗ — исполнять или расторгнуть</b><br/><br/>Выиграли тендер, но работать по контракту стало невозможно? Заказчик не дает доступ на объект, постоянно меняет техзадание или самовольно нарушает условия контракта? Просто так выйти из контракта не получится, но спойлер: инструменты для защиты своих интересов есть. <br/><br/>Ситуация с расторжением контрактов не является чем-то необычным. Ежегодно по разным причинам расторгаются сотни тысяч контрактов — и в подавляющем большинстве случаев расторжение проходит мирно и без серьезных последствий для поставщика.<br/><br/><tg-emoji emoji-id="5411446655935341717"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9299.png')"><b>💙</b></i></tg-emoji>Хотите узнать, как выйти из проблемного контракта без риска для бизнеса? Читайте нашу новую статью: <a href="https://tenderplan.ru/blog/kak_postavshchiku_rastorgnut_kontrakt_44fz/" rel="noopener" target="_blank">https://tenderplan.ru/blog/kak_postavshchiku_rastorgnut_kontrakt_44fz/</a><br/><br/><tg-emoji emoji-id="5357171364669187802"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E298BA.png')"><b>☺️</b></i></tg-emoji><a href="https://telegram.me/tenderplan" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"> Telegram</a> | <a href="https://vk.com/tenderplan" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">VК</a> |<a href="https://max.ru/id7325121949_biz" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b> </b>MAX</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/tenderplan/1410</guid>
+      <pubDate>Fri, 24 Jul 2026 09:15:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
