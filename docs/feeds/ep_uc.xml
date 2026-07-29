@@ -8,7 +8,66 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 28 Jul 2026 07:58:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 08:02:54 +0000</lastBuildDate>
+    <item>
+      <title>«У нас уже есть СЭД. Значит, отдельный электронный архив не нужен»</title>
+      <link>https://telegram.me/ep_uc/5308</link>
+      <description>«У нас уже есть СЭД. Значит, отдельный электронный архив не нужен»
+
+Именно с такой логикой многие компании подходят к организации хранения документов. Но когда приходит время передавать документы в архив,  оказывается, что система документооборота и система хранения решают разные задачи.
+
+Где заканчивается зона ответственности СЭД и можно ли хранить все документы в одной системе?
+
+4 августа в 11:00 мск на бесплатном вебинаре
+ действующие члены Ассоциации специалистов в сфере управления документами 
+Евгения Кожанова
+ и 
+Светлана Азарова
+ разберут, как правильно распределить задачи между СЭД и СХЭД, чтобы соблюсти требования законодательства, избежать лишних затрат и сохранить удобство работы с документами.
+
+Кроме теории, участников ждет живая демонстрация архивных процедур в СХЭД: покажут, как выполняются экспертиза ценности, составление описей и формирование годовых разделов.
+
+👉
+ 
+Зарегистрироваться</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/MerUBxxfWEt9o4edbvlM-W5K-IYdGfF7RaH9tiO_PCq1DEV2kMHTDWJxYwVyLjU_LXuQPR_BVv7xunUOD6_bTJ_Yn6k_-IIG2KDAaUSQ_ondXkelhL6VZcJg2cnZR_x1MsKNsCpLug2zTVFvM6XTjkGLY1u4ZPbjmCNJz2XK6f7VWmSOOEJHjfDGU-s9F2NK6jATxZJrg_wgIYyytH6jH5DLhLaV2F6sYWz9CZqLUcby8BdbsYxM0OfCeH6iRyAlWvL0DfudehjDZTHRcumAS0IVKY6oATjluDqYGe-1tifpTQ5wetxpSv8Jr4_In1limKw0_AjbUofWMoyJ7UkSnw.jpg" /></p>
+<b>«У нас уже есть СЭД. Значит, отдельный электронный архив не нужен»</b><br/><br/>Именно с такой логикой многие компании подходят к организации хранения документов. Но когда приходит время передавать документы в архив,  оказывается, что система документооборота и система хранения решают разные задачи.<br/><br/>Где заканчивается зона ответственности СЭД и можно ли хранить все документы в одной системе?<br/><br/><b>4 августа в 11:00 мск на бесплатном вебинаре</b> действующие члены Ассоциации специалистов в сфере управления документами <b>Евгения Кожанова</b> и <b>Светлана Азарова</b> разберут, как правильно распределить задачи между СЭД и СХЭД, чтобы соблюсти требования законодательства, избежать лишних затрат и сохранить удобство работы с документами.<br/><br/>Кроме теории, участников ждет живая демонстрация архивных процедур в СХЭД: покажут, как выполняются экспертиза ценности, составление описей и формирование годовых разделов.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"><b>👉</b></i> <a href="https://tglink.io/7f1e994aa70531?erid=2W5zFK7EPw7" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Зарегистрироваться</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5308</guid>
+      <pubDate>Wed, 29 Jul 2026 05:30:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>✍️</title>
+      <link>https://telegram.me/ep_uc/5307</link>
+      <description>✍️
+ГОСТ 28147-89 - настолько ли не актуален?
+
+Вы пишете техническое задание, в котором есть строка, что алгоритмы шифрования должны быть реализованы в 
+
+соответствии с ГОСТ 28147-89, ГОСТ Р 34.12-2015 (ГОСТ 34.12-2018) и ГОСТ Р 34.13-2015 (ГОСТ 34.13-2018). Вы уверены в этом, т.к. взяли требование из формуляра на СКЗИ. При этом получаете замечание от юристов, которые открыли 
+первую попавшуюся
+ справочную систему, что ГОСТ 28147-89 - 
+отменён
+.
+
+При этом на практике он успешно используется, тот же Портал Госуслуг 
+продолжает работать
+ в режиме "переходного периода" - с поддержкой и старого и нового ГОСТ шифрования, сроки окончательного перехода неизвестны.
+
+Что можно ответить таким юристам и просветить неразумных (проверено на практике) - в соответствии с действующей в Российской Федерации нормативной правовой базой федеральным органом исполнительной власти, отвечающим за реализацию научно-технической политики в области криптографической защиты информации, является ФСБ России.
+
+Позиция ФСБ России в отношении использования алгоритма блочного шифрования ГОСТ 28147-89 изложена на официальном сайте ФСБ России 
+
+http://www.fsb.ru/fsb/science/single.htm%21id%3D10438446%40fsbResearchart.html
+
+Учитывая данную позицию, реализация в настоящее время в СКЗИ ГОСТ 28147-89 в случаях, согласованных с  Центром защиты информации и специальной связи ФСБ России, является легитимной. Алгоритм 28147-89 действительно уже не является ГОСТом, но остаётся "рекомендованным алгоритмом ФСБ России".
+
+✍️
+"Об ЭП и УЦ"</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/CFxE_VCY6QX78jnjilSBgyEV60wlhaF7UGG5hpGz7RjIPeESIKyt_KJyu8dBDkiZ86u0QmWUwNBIcAZsI1TFhhiVaWps4FZ3QI5rImPThm6sf5Jg80_y--QcdDasMEpPz1TMZaodLrbCQyS9D4mI1qtHgnvOMH1d779NWPkaxqLa-PXFaf9NmGsyBx8SiKY9dLpzRUrtZZ_wfts3Erani7H5sIukSZrGMzLIV4I6xRon5MWRgOU3WJ74yxJO5QRAQYZnoXmeq0vjs6n4YP9bSmvo6lA_d5IxFS0P0kjsSTRXyckne0qonL9B2yoXdYlOVYzBeG27_HN2IIXbcoetug.jpg" /></p>
+<tg-emoji emoji-id="5470060791883374114"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><b>ГОСТ 28147-89 - настолько ли не актуален?</b><br/><br/>Вы пишете техническое задание, в котором есть строка, что алгоритмы шифрования должны быть реализованы в <br/>соответствии с ГОСТ 28147-89, ГОСТ Р 34.12-2015 (ГОСТ 34.12-2018) и ГОСТ Р 34.13-2015 (ГОСТ 34.13-2018). Вы уверены в этом, т.к. взяли требование из формуляра на СКЗИ. При этом получаете замечание от юристов, которые открыли <a href="https://base.garant.ru/5919871/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">первую попавшуюся</a> справочную систему, что ГОСТ 28147-89 - <a href="https://base.garant.ru/72130996/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">отменён</a>.<br/><br/>При этом на практике он успешно используется, тот же Портал Госуслуг <a href="https://telegram.me/ep_uc/4846" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">продолжает работать</a> в режиме "переходного периода" - с поддержкой и старого и нового ГОСТ шифрования, сроки окончательного перехода неизвестны.<br/><br/>Что можно ответить таким юристам и просветить неразумных (проверено на практике) - в соответствии с действующей в Российской Федерации нормативной правовой базой федеральным органом исполнительной власти, отвечающим за реализацию научно-технической политики в области криптографической защиты информации, является ФСБ России.<br/><br/>Позиция ФСБ России в отношении использования алгоритма блочного шифрования ГОСТ 28147-89 изложена на официальном сайте ФСБ России <br/><a href="http://www.fsb.ru/fsb/science/single.htm%21id%3D10438446%40fsbResearchart.html" rel="noopener" target="_blank">http://www.fsb.ru/fsb/science/single.htm%21id%3D10438446%40fsbResearchart.html</a><br/><br/>Учитывая данную позицию, реализация в настоящее время в СКЗИ ГОСТ 28147-89 в случаях, согласованных с  Центром защиты информации и специальной связи ФСБ России, является легитимной. Алгоритм 28147-89 действительно уже не является ГОСТом, но остаётся "рекомендованным алгоритмом ФСБ России".<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5307</guid>
+      <pubDate>Wed, 29 Jul 2026 05:25:15 +0000</pubDate>
+    </item>
     <item>
       <title>🌄</title>
       <link>https://telegram.me/ep_uc/5300</link>
@@ -52,7 +111,7 @@ VK, Билайна, Озон Банка, Райффайзенбанка
  
 Оставляйте заявку
  уже сейчас. Количество мест ограничено.</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/RTNw8KTowkqqMngUhV7ei2le32PhcFikKXZ7SXh9aaIg4Wu8xQr6crOLbs3SDr-GrNOc2RGcPQv88SJLv4Jn8lVlRKQfqB4ksYJ39q3euXaRCpT_4KeI7TZ4GNBZR4LToTWYPV3pUs5EVRdrXlUeD2SEUKWkESs3_yZQLKO2Cebbki9f9t3miAjWnpG4zD7wzHRXCrrcGh2GEzc8h1zVX7RpqE_fdjia0Mwh-1INlLjQh1DmQZpiriCYBzC1u4iZPfDbhtNwULTFGoSxYwITlVAxv6u9Y3sVH7CVwKC-yG_97dghN2UF21M6hy_yXRUYK9N0ZRLu_lK9oNpn6M4v7A.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/HZDO3z1cLdoDVhUsjMMuUgSImBfz1C3Q7GfCKPLSbna918gW7Al3Mq3TLvaruz-fSyjlGlJzh6HZeiTv-HFJ9l_ulU87Euelk1PKQfX3s6ppf81gLmEbsAa9fxe1cfxBIqqYkFH6khKsLt6BCAijcdv907DgFFm5xqmHiYZ1ovjZ_fb2X5Oyrv5RotPnnY1Jz5W9ZIKbpodaIw19iZdw2yPzdxlZV2c3Q2dF_zWpmiq41pelCbvsAvb-TDhBYLLbgKOXWhasx1Cq7c82tp017Os-4sTNfoRg7GMiGddR7uRn-4ps7HEON1ANxgKoenj7m5zP3d52T0P7P9LZo7GuQA.jpg" /></p>
 <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8C84.png')"><b>🌄</b></i> <a href="https://codeib.ru/event/kod-ib-profi-sochi-2026-1014/page/vvedenie-kod-ib-profi-sochi-2026?utm_source=telegram&amp;amp;utm_medium=codeib&amp;amp;utm_campaign=profi2026" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b>Код ИБ ПРОФИ</b></a><b> </b>— выездной интенсив по кибербезопасности в формате «три дня учебы, три дня приключений».<br/><br/><tg-emoji emoji-id="5274055917766202507"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9793.png')"><b>🗓</b></i></tg-emoji> 9-13 сентября 2026<br/><tg-emoji emoji-id="5391032818111363540"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938D.png')"><b>📍</b></i></tg-emoji> Сочи, курорт «Роза Хутор»<br/><br/><i>Что ждет участников?</i><br/><br/>• Практические мастер-классы от CISO <b>Сбербанка, Яндекса</b>, <b>VK, Билайна, Озон Банка, Райффайзенбанка</b> и других ведущих компаний. Эксперты разберут реальные кейсы и подходы, которые редко обсуждаются публично.<br/><br/>• <b>Киберучения в штабе и на киберполигоне</b>, где можно отработать действия в условиях, максимально приближенных к реальным инцидентам.<br/><br/>• <b>Удостоверение о повышении квалификации</b> установленного образца (16 ак. часов).<br/><br/>• <b>Горы, рафтинг, сапы, волейбол, барбекю-вечеринки, песни под гитару у костра</b> <b>и общение</b> с людьми, которые каждый день отвечают за кибербезопасность крупнейших компаний страны.<br/><br/>Код ИБ ПРОФИ — это возможность не только получить знания, но и на несколько дней выйти из рабочей рутины, сменить обстановку и стать частью профессионального сообщества.<br/><br/><tg-emoji emoji-id="5411449928700421676"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29EA1.png')"><b>➡️</b></i></tg-emoji> <a href="https://codeib.ru/event/kod-ib-profi-sochi-2026-1014/page/vvedenie-kod-ib-profi-sochi-2026?utm_source=telegram&amp;amp;utm_medium=codeib&amp;amp;utm_campaign=profi2026" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b>Оставляйте заявку</b></a> уже сейчас. Количество мест ограничено.]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5300</guid>
       <pubDate>Tue, 28 Jul 2026 07:20:38 +0000</pubDate>
@@ -82,7 +141,7 @@ VK, Билайна, Озон Банка, Райффайзенбанка
 ⭐️
  
 Главные происшествия — 112</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/J7oKtseIv8ngh0aoV5hLwCkmbCz1UcGPX-HfwtnslHIzr7nvvp1R3h28bH5DZhYsrnz6xeGxE8qNd9E1Ysls67hkbW-2PE-uzUNI09F2Bl1JkV8xdy2NfM3N0eT-1Vy1mdUEL9B6Z_dRY9JSfw0BX66HR7Rdwjvvy2q9nUygDlbJNaZAQ8AuVwbjN91M_wgc5ppqgFkCeJr-YQFo8Xwr3YUF3-GYqCULA6ilz3a1xrero3p0EoqLus2-YF2PUP0ACbbrxfM-7oTx8mWUeXlr0QlTQWUnSCwNvFLCtNyXm_81J4UHcRX9anvAoEx54RTh0fnkvgPQM9xJJskdmMND3A.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/LEtu6mJ-JcaVXYLC-1RwkDPVDBs00d8o19ljhI06-TnHvv-QB99lht1bdcSKCtjVRekV172K2IFb9vTDwyHoVfBZcEqOap6w0rl8xa2XpMKU4KznsXCfIfJRHWCD3E8X6qdONr-JUm0P8B9_kA7tMj26rDQ9UHjjXNXLTVM-ruP2P3iSMj7e11I3dSfvsovU6yR1DXP5ps-LpZ6UGJ5JaPhvv1miohmM89c6pauF7ibYmszuG7CqaPd7bMW4Yw5Las3PZQiXGYzZnY5FHh3g_e_FnJ75huXmaHYPxrbdIsjmxn5v_MdbpG1oRiEYtQw8Ur2UbQXZTLEk_Hmz4uMtbQ.jpg" /></p>
 Самый лёгкий путь к бизнесу и миллионному долгу прошёл мужчина из Калуги, когда <tg-spoiler>потерял паспорт.</tg-spoiler><br/><br/>О своем незавидном достижении Алексей К. рассказал 112. Три года назад он приехал по делам в Подмосковье, но удача не улыбнулась ему. Когда мужчина обнаружил пропажу главного документа, он всё восстановил, вернулся домой и забыл о неприятной ситуации.<br/><br/>Вспомнить пришлось, когда на Госуслуги пришло уведомление: «Вам начислен налог на сумму 1 076 160 рублей». Оказалось, на его имя открыли фирму в Удмуртии, и она вела деятельность. В налоговой пояснили: ИНН и электронная подпись, использованные при регистрации конторы, действительно принадлежат Алексею. А затем — новый удар. Из-за возникшего долга заблокировали зарплатную карту. Мужчина обратился в местную прокуратуру и надеется на справедливость.<br/><br/>Пасынок фортуны.<br/><br/><tg-emoji emoji-id="5348321687635009059"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E2AD90.png')"><b>⭐️</b></i></tg-emoji> <a href="https://telegram.me/ENews112" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Главные происшествия — 112</a>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5298</guid>
       <pubDate>Mon, 27 Jul 2026 19:08:09 +0000</pubDate>
@@ -133,63 +192,6 @@ VK, Билайна, Озон Банка, Райффайзенбанка
       <content:encoded><![CDATA[В связи с распространением ложной информации о произошедшей утечке данных пользователей с ресурсов КриптоПро сообщаем следующее.<br/><br/>С момента первого появления информации об утечке из баз данных компании нашими специалистами было проверено значительное количество образцов появившихся в открытом доступе данных, связываемых с данной утечкой. <br/><br/>В отношении всех проверенных данных сообщаем, что на серверах КриптоПро они отсутствуют. Кроме того, часть полей из образцов данных вовсе отсутствует в базах данных нашей компании. <br/><br/>Таким образом, к настоящему времени причин предполагать утечку из нашей инфраструктуры нет.<br/><br/>Тем не менее, так как указанные данные могли быть собраны на основе иных слитых баз данных или баз иных организаций, просим проявлять особую бдительность с учетом возможности использования этих данных мошенниками в рамках методов социальной инженерии.<br/><br/>В случае возникновения вопросов или появления дополнительной информации по данному вопросу просьба сообщать нам любым удобным способом.]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5294</guid>
       <pubDate>Sun, 26 Jul 2026 12:09:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Давний подписчик нашего канала Михаил поделился скриншотом из одного сериала, его цепкий взгляд у…</title>
-      <link>https://telegram.me/ep_uc/5292</link>
-      <description>Давний подписчик нашего канала Михаил поделился скриншотом из одного сериала, его цепкий взгляд увидел, какой по сюжету документ разрисовал ребенок. 
-
-99,(9) % зрителей максимум, что смогут увидеть - слово "приказ", и только специалисты нашей сферы без проблем узнают 795 приказ ФСБ "Об утверждении Требований к форме квалифицированного сертификата ключа проверки электронной подписи", оригинал которого взят 
-отсюда
-.
-
-Что мог делать 795 приказ у героев этого сериала - ответа нет, спасибо, что 152-ФАПСИ не разрисовали.
-
-795 приказ действует до 
-1 сентября 2027
- года, какое будет "продление" - новый документ или изменение данного срока? 
-Многие документы
- нашей сферы истекают в следующем году, решение "Проблемы 2027" пока не наблюдается.
-
-✍️
-"Об ЭП и УЦ"</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/h85b5mkVeqpRuNtB-50JaovdhhExJ4LE_5blwUs26nKOvV_K6FQaK1-itu1hO1xUf9l8pbqXam8LhuYdKh9sbVKNWx3-2dzWanp35Gkv5F8XBPD4aqjbW17BGZRuVP77ls9WIi7U4EaBAJStnkKkYsku7vIkBw-w2vddEPPtR2yhg1Iw--6E2h4yajxl62Ds2YO_8lk6WLeUZ_HbAygxcD61pi5TNi9lyRJKSSzi7F_KHjqS3Kpk3Are0TkzGOFsYF9-lk9nju6Tl81aTt_UTvrbgh1VTNER6ue9zCNn3ZXeAHh42PG7VUfamZMdC-UgpSXafTmolQtsM6lvkqIkeA.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/TQZBDLsIVJDLj-nwXKBG0xpYExVI5d6FhuDm75-WIsX2nHE_Eb4VnyTEmxbG0Hgztg_FCGD7XAp7gqBS8erAejQkofTSqW7WKoDtMCSTWfWhX2WM5vBLPrHdWWKrLo3f6EGCltMlSwuW_U_BzVkUAC8lw_wBeyCnS2y3u65d48JGoTprsS4ri5dXm4sK0anebWgjC-_cjEziLCmNCVe8o6MJ75hJq-5jA6ZtqZk8Ux0Dp3YFIkaXY_MQOiJOZjIkW4a6Xx1G9xyl1SqQ0ia9XNrO460eAEqoStLgYJHQ1Wk9wKikuhWs6GKrqC3oSu9zH4Eb2NCwITm9VjbkWmlIWQ.jpg" /></p>
-Давний подписчик нашего канала Михаил поделился скриншотом из одного сериала, его цепкий взгляд увидел, какой по сюжету документ разрисовал ребенок. <br/><br/>99,(9) % зрителей максимум, что смогут увидеть - слово "приказ", и только специалисты нашей сферы без проблем узнают 795 приказ ФСБ "Об утверждении Требований к форме квалифицированного сертификата ключа проверки электронной подписи", оригинал которого взят <a href="https://minjust.consultant.ru/documents/1113" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">отсюда</a>.<br/><br/>Что мог делать 795 приказ у героев этого сериала - ответа нет, спасибо, что 152-ФАПСИ не разрисовали.<br/><br/>795 приказ действует до <a href="http://pravo.gov.ru/proxy/ips/?docbody=&amp;amp;link_id=1&amp;amp;nd=102155745&amp;amp;" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">1 сентября 2027</a> года, какое будет "продление" - новый документ или изменение данного срока? <a href="https://telegram.me/ep_uc/4111" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Многие документы</a> нашей сферы истекают в следующем году, решение "Проблемы 2027" пока не наблюдается.<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5292</guid>
-      <pubDate>Sun, 26 Jul 2026 06:20:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Продолжаются отзывы сертификатов безопасности</title>
-      <link>https://telegram.me/ep_uc/5286</link>
-      <description>Продолжаются отзывы сертификатов безопасности
-
-УЦ Actalis вчера отозвал TLS-сертификаты у доменов Банка Александровский, УЦ HARICA - у доменов Ростефти, Банка Металлинвест и Positive Technologies.
-
-Причина всех отзывов - отзыв привелегий, Privilege Withdrawn, которая уже стала стандартной, но что за ней может скрываться на самом деле.
-
-В феврале УЦ HARICA 
-заявлял
-, что со 2 марта 2026 года не будет включать Client Auth в EKU в выдаваемые TLS-сертификаты, которые связаны с корневым хранилищем Chrome (перейдет на выдачу сертификатов только с указанием server Auth в Extended Key Usage), срок был перенесён, но новый график не появился.
-
-Дата 
-15 июня 2026 года
- появилась в заявлении 
-другого УЦ
-, но УЦ HARICA продолжил и после этой даты включать Client Auth в свои сертификаты, теперь они отзываются. Сами же выдавали такие сертификаты, а теперь решили исправить свою же ошибку.
-
-Организации, чьи сертификаты были отозваны, переходят на сертификаты от УЦ ZeroSSL, TrustAsia, Let's Encrypt.
-
-✍️
-"Об ЭП и УЦ"</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/GyohBMeDMJP1E5oYIMiFyU20xq703kVrYCwZsrh1AFAGxdlAXvY0KIYtCnSk-pxySNhTCRrLHzZY4yagQq-1F8WKErgK93dD2XxRqYKI0isTtJyP-k4k_dbavEtI0l8eFjftaWbKWWChtTFtHIBpJ_B5bt7s0qLOrozNkfI9S_GdMjINMGQwmWuHf4uJyK-go-CnuHEkREihkfCtzp0Y4BN5UbYC6EfsheG33zEXCVTxWVR-0jpaV9tKMnc6zq7bgJ6qKbFu2-O2L1OBjM7vBvc_gya-MOofY4qxCijkFcduRZ3MdB_kJMAA2grHCJr1HfIsJhnkH1yhkh_slwWVGQ.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/WKDCqvQa3hxK82MpmgEQ9TsVluYOJxSZ_8lFKYtnLl2_UHxo_UHvxOwAFWi29zNMo_n0Fxz4zHuGmIH8hHOhXkSPnT0FojbHdD2TYeYBKi-BQGY-sklPzkKt3TCzukVGeseaTYZfzkUEKPBCbDqdFGDUkJ4cdWk7P5jS4f7E4E5V5Y1qRyo10j1MkX-3vze-suitahxWUFlsC_IthY_rMRrovEcUvftvIV1nUjNQuwWzc1sGR3BZ24q1IokEQqAQTOxD7gTQjgahxsCWlYOrOTn-jZsPSEvGrOwETgufVHCYDFzLaIXP5VHaCwQ2e4kfRvWRslmDkC0IrO2QxgMscQ.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/UGGOnfCG2stGkyO2C3gS1E-w2wtLmXXutyaqajJFSG7HSX07OVsus5ptbJyKd-QZYCWFoaDc6sDQ7umRAhlgjeXLekuzUaxMS12DDDGhcuN_6mRCHEh0XBXialAOh9QG4gXXAPzTKbeZfgsD0VIrxWZRdhF7uTooroUqeSnUGx2u-Skx4AkO5zA6yqx46xC9O-vLmQnU2xo178edkMhsj2UmKcuQZCK8t3FN_aLv4TyUeRajhrJvnSVu3QQCZh_8kHCG0Y9nvyhzyaQHd-dLG5FJ3VAxUO9_uNJCJ8LKF5U7aTERlonPSafQjwdepPGSQ7bjKgtsSqFx_HQZwpxkhA.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/nQIhKQiaSrApm7sk75bZaDfmR10Ob69NPqeZqDOEhhWSef3m1JBEuNlRQuQYm86-OAuU5JavMmOxZX3KjZFVxj0NxGK2K_znTHGf4KyCxlAfqNQy45TnI8pQ8vJHEh_kpcQ15DoPVMpArZP9q_wMiCIJ2Zq3IxWTEXiUn6g9T1hz5UHw7yJEhmfYKUXMndVHRnfa8XpvsMrm4UfaTQhB9G3-HoQJiUFjTjp243str_TE34CdIhNWM_--29IaWiowedNxjqPO6kA_57atbspUcjslGfdYJlG6-iK6qwumJB_QRLzCOUIsmwS3cdjTXFBQCTB5lxK1BAzD4_I06e2uXw.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/KmRCU75QFEWuJS6NREVjlh3iRMJnJ85ty5tlGcZFgLYY0WM5UX_Ji5cnzPBDrikQcvFJ1x7WF8TbmtmKC5fCrysO7W9rINbKVgsIQaO6fCSPiUSZIwUrsSGDBzrpT07kprBOoSCnc34n2kdV0UXvGQuKz8yazkG37zSzWMXnHExXH-Mu6qqn6fl_QEf_9Uzduc8OZ6xQsk1zpm4F6BynXwIcACBKlqbD8sv7XJftLAT8dOxZF-U6vGoKoi3aTZFpqzymeahnmNGWuizMKxkoYbIvBW_XnkYBFtCrGoJHDHOayLActtiZuFTpvjmglzK17lloFWRI9MhvaG5kA3UjUg.jpg" /></p>
-<b>Продолжаются отзывы сертификатов безопасности</b><br/><br/>УЦ Actalis вчера отозвал TLS-сертификаты у доменов Банка Александровский, УЦ HARICA - у доменов Ростефти, Банка Металлинвест и Positive Technologies.<br/><br/>Причина всех отзывов - отзыв привелегий, Privilege Withdrawn, которая уже стала стандартной, но что за ней может скрываться на самом деле.<br/><br/>В феврале УЦ HARICA <a href="https://news.harica.gr/article/tls-client-authenticaion/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">заявлял</a>, что со 2 марта 2026 года не будет включать Client Auth в EKU в выдаваемые TLS-сертификаты, которые связаны с корневым хранилищем Chrome (перейдет на выдачу сертификатов только с указанием server Auth в Extended Key Usage), срок был перенесён, но новый график не появился.<br/><br/>Дата <a href="https://telegram.me/ep_uc/5254" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">15 июня 2026 года</a> появилась в заявлении <a href="https://www.godaddy.com/zh-sg/help/why-is-godaddy-removing-clientauth-eku-and-transitioning-to-the-r1-root-hierarchy-for-dv-tls-issuance-42783?lc=en-US" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">другого УЦ</a>, но УЦ HARICA продолжил и после этой даты включать Client Auth в свои сертификаты, теперь они отзываются. Сами же выдавали такие сертификаты, а теперь решили исправить свою же ошибку.<br/><br/>Организации, чьи сертификаты были отозваны, переходят на сертификаты от УЦ ZeroSSL, TrustAsia, Let's Encrypt.<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5286</guid>
-      <pubDate>Sat, 25 Jul 2026 13:40:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
