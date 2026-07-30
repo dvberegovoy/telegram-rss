@@ -8,32 +8,52 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 29 Jul 2026 08:02:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 07:44:46 +0000</lastBuildDate>
     <item>
-      <title>«У нас уже есть СЭД. Значит, отдельный электронный архив не нужен»</title>
-      <link>https://telegram.me/ep_uc/5308</link>
-      <description>«У нас уже есть СЭД. Значит, отдельный электронный архив не нужен»
-
-Именно с такой логикой многие компании подходят к организации хранения документов. Но когда приходит время передавать документы в архив,  оказывается, что система документооборота и система хранения решают разные задачи.
-
-Где заканчивается зона ответственности СЭД и можно ли хранить все документы в одной системе?
-
-4 августа в 11:00 мск на бесплатном вебинаре
- действующие члены Ассоциации специалистов в сфере управления документами 
-Евгения Кожанова
- и 
-Светлана Азарова
- разберут, как правильно распределить задачи между СЭД и СХЭД, чтобы соблюсти требования законодательства, избежать лишних затрат и сохранить удобство работы с документами.
-
-Кроме теории, участников ждет живая демонстрация архивных процедур в СХЭД: покажут, как выполняются экспертиза ценности, составление описей и формирование годовых разделов.
-
-👉
+      <title>❌</title>
+      <link>https://telegram.me/ep_uc/5310</link>
+      <description>❌
  
-Зарегистрироваться</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/MerUBxxfWEt9o4edbvlM-W5K-IYdGfF7RaH9tiO_PCq1DEV2kMHTDWJxYwVyLjU_LXuQPR_BVv7xunUOD6_bTJ_Yn6k_-IIG2KDAaUSQ_ondXkelhL6VZcJg2cnZR_x1MsKNsCpLug2zTVFvM6XTjkGLY1u4ZPbjmCNJz2XK6f7VWmSOOEJHjfDGU-s9F2NK6jATxZJrg_wgIYyytH6jH5DLhLaV2F6sYWz9CZqLUcby8BdbsYxM0OfCeH6iRyAlWvL0DfudehjDZTHRcumAS0IVKY6oATjluDqYGe-1tifpTQ5wetxpSv8Jr4_In1limKw0_AjbUofWMoyJ7UkSnw.jpg" /></p>
-<b>«У нас уже есть СЭД. Значит, отдельный электронный архив не нужен»</b><br/><br/>Именно с такой логикой многие компании подходят к организации хранения документов. Но когда приходит время передавать документы в архив,  оказывается, что система документооборота и система хранения решают разные задачи.<br/><br/>Где заканчивается зона ответственности СЭД и можно ли хранить все документы в одной системе?<br/><br/><b>4 августа в 11:00 мск на бесплатном вебинаре</b> действующие члены Ассоциации специалистов в сфере управления документами <b>Евгения Кожанова</b> и <b>Светлана Азарова</b> разберут, как правильно распределить задачи между СЭД и СХЭД, чтобы соблюсти требования законодательства, избежать лишних затрат и сохранить удобство работы с документами.<br/><br/>Кроме теории, участников ждет живая демонстрация архивных процедур в СХЭД: покажут, как выполняются экспертиза ценности, составление описей и формирование годовых разделов.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"><b>👉</b></i> <a href="https://tglink.io/7f1e994aa70531?erid=2W5zFK7EPw7" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Зарегистрироваться</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5308</guid>
-      <pubDate>Wed, 29 Jul 2026 05:30:05 +0000</pubDate>
+Головной удостоверяющий центр нарушает 63-ФЗ и 796 приказ ФСБ России
+ 
+
+Согласно 
+пункту 29.5 Приложения 2
+ - Требований к средствам удостоверяющего центра, утвержденным 796 приказом ФСБ России, средства для УЦ самого минимального класса КС1 (на практике КС1 не встречается, но данное требование наследуется вышестоящими классами) в отношении владельца сертификата ключа проверки ЭП должны быть реализованы механизмы проверки уникальности ключа проверки ЭП и обладания соответствующим ключом ЭП.
+
+Что это обозначает на практике - с помощью средств УЦ должно быть невозможно создать новый квалифицированный сертификат с использованием ключа проверки ЭП, для которого ранее выдавался квалифицированный сертификат, такой открытый ключ не должен проходить обязательную проверку на уникальность.
+
+Более того, пункты 5 и 6 статьи 2 63-ФЗ определяют ключ электронной подписи и ключ проверки (открытый ключ) как "уникальную последовательность символов". На уровне 63-ФЗ говорится, что два разных сертификата не могут иметь одну и ту же уникальную последовательность - ни открытый, от закрытый ключи. Помните 
+историю
+ с "ковидными сертификатами" и почему она не 
+сработала
+?
+
+Лет 10 назад с коллегой из 8 Центра обсуждали данную норму, как АУЦ вообще понять, что по направленному запросу не был выдан сертификат другим АУЦ, ведь реестра значений открытых ключей нет, к которому было бы возможно обратиться, например, в рамках проверок СМЭВ (АУЦ предварительно должны эти сведения в СМЭВ направить). Получен ответ - открытый ключ из запроса на сертификат уникальный, сертификат выдаётся, ответ - открытый ключ уже присутствует в другом сертификате - отказ. В общем пришли к мнению, что на практике эта реализация возможна только в рамках одного конкретного АУЦ.
+
+Теперь к теме заголовка, Головной удостоверяющий центр в очередной раз 
+продемонстрировал
+, что на него 
+не распространяется
+ действующая нормативная правовая система в области электронной подписи. 
+19 февраля
+ и 
+16 марта
+ на основании одного и того же файла запроса, на одном и том же корневом сертификате ГУЦ были выданы два разных сертификата для АУЦ 1С. Сертификат от 19 февраля был отозван, но это не отменяет факта что нарушений ГУЦ 63-ФЗ и 796-ФСБ.
+
+Доклад с обзором сомнительных практик ГУЦ был 
+отклонен
+ Программным комитетом PKI-Форума, говорить на конференции 
+по проблематике инфраструктуры открытых ключей и электронной подписи
+ про проблематику не принято.
+
+✍️
+"Об ЭП и УЦ"</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/XVVG79Yuhvb1ab0WH-TPCnUmSwVXkKr9fhQWjoHFfQNeJwa3p3fnRg0r5QzGnCBQ-okaYOHTyd3w78gZJGuwfMOnpBhnqJHUFxvt5blKCz8ZQRprGETLH14cG6jAjQPhun1YNy_wRwsbf3xSZ5lo8LR3Sbw8yZbG3p7lBqa1wBl_ic5gUhq2whyC8fN6YXI2lm-YiX43WJiqmDM8Vq4jrDq8bww4Q-riNDxTS_Fcv-KXzU4OVsd7znKxce8z0Sx7w0AvSGjFly39S7R1a9POP1O5TIAt4mNyxg8lNX45HWHWBrl-DYGfP4SeblCpv6ayuf-Y1rSz0s6-8sOlZdAH9g.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/KiyHuC5qevxJQNgtFWJfBfEo_810kMqpvx2tP-GQ-nvszE4oEKWuqADleqlofs-Gnb1_wDywLcKDiLZcJ0BLc0fKkjHm6mUaIxAUdjDYcshTy1lZitoeDjRMOSkJafk5aoJTRECVM2rlXEtNSMMlgLNN00nCSuZOpyZiVoqikTfqTSTbBt8pbx96VapHyZ59RVicrRfAtFGRnA6aMQDdTO3GCfHEEpGSHxwc7MCBTzJ5tqUEuabq48cAHPpLx9MTlTFSbrXmDHbFbyx2WoagOUzWhYXKsOtR77pxFb5jEV32r1iySbRhryxYKEIP1USU8TIuXpMYr0EjklRPfdBQHQ.jpg" /></p>
+<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29D8C.png')"><b>❌</b></i> <b>Головной удостоверяющий центр нарушает 63-ФЗ и 796 приказ ФСБ России</b> <br/><br/>Согласно <a href="https://docs.cntd.ru/document/902324512" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">пункту 29.5 Приложения 2</a> - Требований к средствам удостоверяющего центра, утвержденным 796 приказом ФСБ России, средства для УЦ самого минимального класса КС1 (на практике КС1 не встречается, но данное требование наследуется вышестоящими классами) в отношении владельца сертификата ключа проверки ЭП должны быть реализованы механизмы проверки уникальности ключа проверки ЭП и обладания соответствующим ключом ЭП.<br/><br/>Что это обозначает на практике - с помощью средств УЦ должно быть невозможно создать новый квалифицированный сертификат с использованием ключа проверки ЭП, для которого ранее выдавался квалифицированный сертификат, такой открытый ключ не должен проходить обязательную проверку на уникальность.<br/><br/>Более того, пункты 5 и 6 статьи 2 63-ФЗ определяют ключ электронной подписи и ключ проверки (открытый ключ) как "уникальную последовательность символов". На уровне 63-ФЗ говорится, что два разных сертификата не могут иметь одну и ту же уникальную последовательность - ни открытый, от закрытый ключи. Помните <a href="https://telegram.me/ep_uc/107" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">историю</a> с "ковидными сертификатами" и почему она не <a href="https://telegram.me/ep_uc/2558" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">сработала</a>?<br/><br/>Лет 10 назад с коллегой из 8 Центра обсуждали данную норму, как АУЦ вообще понять, что по направленному запросу не был выдан сертификат другим АУЦ, ведь реестра значений открытых ключей нет, к которому было бы возможно обратиться, например, в рамках проверок СМЭВ (АУЦ предварительно должны эти сведения в СМЭВ направить). Получен ответ - открытый ключ из запроса на сертификат уникальный, сертификат выдаётся, ответ - открытый ключ уже присутствует в другом сертификате - отказ. В общем пришли к мнению, что на практике эта реализация возможна только в рамках одного конкретного АУЦ.<br/><br/>Теперь к теме заголовка, Головной удостоверяющий центр в очередной раз <a href="https://telegram.me/ep_uc/4912" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">продемонстрировал</a>, что на него <a href="https://telegram.me/ep_uc/4653" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">не распространяется</a> действующая нормативная правовая система в области электронной подписи. <a href="https://e-trust.gosuslugi.ru/registry/cert/34940" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">19 февраля</a> и <a href="https://e-trust.gosuslugi.ru/registry/cert/34942" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">16 марта</a> на основании одного и того же файла запроса, на одном и том же корневом сертификате ГУЦ были выданы два разных сертификата для АУЦ 1С. Сертификат от 19 февраля был отозван, но это не отменяет факта что нарушений ГУЦ 63-ФЗ и 796-ФСБ.<br/><br/>Доклад с обзором сомнительных практик ГУЦ был <a href="https://telegram.me/ep_uc/5257" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">отклонен</a> Программным комитетом PKI-Форума, говорить на конференции <b>по проблематике инфраструктуры открытых ключей и электронной подписи</b> про проблематику не принято.<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5310</guid>
+      <pubDate>Thu, 30 Jul 2026 05:25:03 +0000</pubDate>
     </item>
     <item>
       <title>✍️</title>
@@ -63,7 +83,7 @@ http://www.fsb.ru/fsb/science/single.htm%21id%3D10438446%40fsbResearchart.html
 
 ✍️
 "Об ЭП и УЦ"</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/CFxE_VCY6QX78jnjilSBgyEV60wlhaF7UGG5hpGz7RjIPeESIKyt_KJyu8dBDkiZ86u0QmWUwNBIcAZsI1TFhhiVaWps4FZ3QI5rImPThm6sf5Jg80_y--QcdDasMEpPz1TMZaodLrbCQyS9D4mI1qtHgnvOMH1d779NWPkaxqLa-PXFaf9NmGsyBx8SiKY9dLpzRUrtZZ_wfts3Erani7H5sIukSZrGMzLIV4I6xRon5MWRgOU3WJ74yxJO5QRAQYZnoXmeq0vjs6n4YP9bSmvo6lA_d5IxFS0P0kjsSTRXyckne0qonL9B2yoXdYlOVYzBeG27_HN2IIXbcoetug.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/gSGVEIns2wmuH5e2cLxeTlU-znFVktu0JujegMfR-EnQgHNV2JGZEphakLy6qPxw-yjwQJe7t4kIFY6RC9jL5acy_Q6R4x7W_qbuW_af-Za7SdsmBMdGrCHCCE6lrVn1CYH5MKCxgPdUZXgesi2L0rlslYY57Fig4bywW_S-iKA9ts6KOXSx8EWsqbHEJgNzZT64p3XBS_nvDv7SeHMsGGp3mYiuaW6FwwQhlHRTMtjeY8wbiqo0-OJpBsIzr-SPOR-OKcSINO94No5dplxtTsihz9JMZSRbMErDNNVsh-g5yuUIvcjWztx8MASs6aeENhmZaCgFXpbkQA-wqqF7UQ.jpg" /></p>
 <tg-emoji emoji-id="5470060791883374114"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><b>ГОСТ 28147-89 - настолько ли не актуален?</b><br/><br/>Вы пишете техническое задание, в котором есть строка, что алгоритмы шифрования должны быть реализованы в <br/>соответствии с ГОСТ 28147-89, ГОСТ Р 34.12-2015 (ГОСТ 34.12-2018) и ГОСТ Р 34.13-2015 (ГОСТ 34.13-2018). Вы уверены в этом, т.к. взяли требование из формуляра на СКЗИ. При этом получаете замечание от юристов, которые открыли <a href="https://base.garant.ru/5919871/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">первую попавшуюся</a> справочную систему, что ГОСТ 28147-89 - <a href="https://base.garant.ru/72130996/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">отменён</a>.<br/><br/>При этом на практике он успешно используется, тот же Портал Госуслуг <a href="https://telegram.me/ep_uc/4846" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">продолжает работать</a> в режиме "переходного периода" - с поддержкой и старого и нового ГОСТ шифрования, сроки окончательного перехода неизвестны.<br/><br/>Что можно ответить таким юристам и просветить неразумных (проверено на практике) - в соответствии с действующей в Российской Федерации нормативной правовой базой федеральным органом исполнительной власти, отвечающим за реализацию научно-технической политики в области криптографической защиты информации, является ФСБ России.<br/><br/>Позиция ФСБ России в отношении использования алгоритма блочного шифрования ГОСТ 28147-89 изложена на официальном сайте ФСБ России <br/><a href="http://www.fsb.ru/fsb/science/single.htm%21id%3D10438446%40fsbResearchart.html" rel="noopener" target="_blank">http://www.fsb.ru/fsb/science/single.htm%21id%3D10438446%40fsbResearchart.html</a><br/><br/>Учитывая данную позицию, реализация в настоящее время в СКЗИ ГОСТ 28147-89 в случаях, согласованных с  Центром защиты информации и специальной связи ФСБ России, является легитимной. Алгоритм 28147-89 действительно уже не является ГОСТом, но остаётся "рекомендованным алгоритмом ФСБ России".<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5307</guid>
       <pubDate>Wed, 29 Jul 2026 05:25:15 +0000</pubDate>
@@ -111,7 +131,7 @@ VK, Билайна, Озон Банка, Райффайзенбанка
  
 Оставляйте заявку
  уже сейчас. Количество мест ограничено.</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/HZDO3z1cLdoDVhUsjMMuUgSImBfz1C3Q7GfCKPLSbna918gW7Al3Mq3TLvaruz-fSyjlGlJzh6HZeiTv-HFJ9l_ulU87Euelk1PKQfX3s6ppf81gLmEbsAa9fxe1cfxBIqqYkFH6khKsLt6BCAijcdv907DgFFm5xqmHiYZ1ovjZ_fb2X5Oyrv5RotPnnY1Jz5W9ZIKbpodaIw19iZdw2yPzdxlZV2c3Q2dF_zWpmiq41pelCbvsAvb-TDhBYLLbgKOXWhasx1Cq7c82tp017Os-4sTNfoRg7GMiGddR7uRn-4ps7HEON1ANxgKoenj7m5zP3d52T0P7P9LZo7GuQA.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/FxhK4jIDQs_aNT1z4CofTy2DChjbfFlyGcejDR7qtSViXrjZmplKTinb4lGJHH-EjReV1lPwFkpyZRM4tIDmEBE1TUYokhPN8cDun4w0tLxDZtNoKbCTQRQSsZxcp6m8W4GGotsyhJ5XIlePof_jf6TcDWHBAQiRlqYKxcZFyBH0fchoHHQ53WpwzF89s6IK7p8utD0-Ery2qptp4o2BDjJ9aWmNCyQaz-uWSROPjYgM_MDQ0ilDGaP8rp21nDMpdQI5LdxH23MAeTnA2QrCHecVNm9veFOOe2suPaluHtX9RJX30t--ImP0dMGq2UEWoahNA-ddU2Ys9ySA0smzTg.jpg" /></p>
 <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8C84.png')"><b>🌄</b></i> <a href="https://codeib.ru/event/kod-ib-profi-sochi-2026-1014/page/vvedenie-kod-ib-profi-sochi-2026?utm_source=telegram&amp;amp;utm_medium=codeib&amp;amp;utm_campaign=profi2026" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b>Код ИБ ПРОФИ</b></a><b> </b>— выездной интенсив по кибербезопасности в формате «три дня учебы, три дня приключений».<br/><br/><tg-emoji emoji-id="5274055917766202507"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9793.png')"><b>🗓</b></i></tg-emoji> 9-13 сентября 2026<br/><tg-emoji emoji-id="5391032818111363540"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938D.png')"><b>📍</b></i></tg-emoji> Сочи, курорт «Роза Хутор»<br/><br/><i>Что ждет участников?</i><br/><br/>• Практические мастер-классы от CISO <b>Сбербанка, Яндекса</b>, <b>VK, Билайна, Озон Банка, Райффайзенбанка</b> и других ведущих компаний. Эксперты разберут реальные кейсы и подходы, которые редко обсуждаются публично.<br/><br/>• <b>Киберучения в штабе и на киберполигоне</b>, где можно отработать действия в условиях, максимально приближенных к реальным инцидентам.<br/><br/>• <b>Удостоверение о повышении квалификации</b> установленного образца (16 ак. часов).<br/><br/>• <b>Горы, рафтинг, сапы, волейбол, барбекю-вечеринки, песни под гитару у костра</b> <b>и общение</b> с людьми, которые каждый день отвечают за кибербезопасность крупнейших компаний страны.<br/><br/>Код ИБ ПРОФИ — это возможность не только получить знания, но и на несколько дней выйти из рабочей рутины, сменить обстановку и стать частью профессионального сообщества.<br/><br/><tg-emoji emoji-id="5411449928700421676"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29EA1.png')"><b>➡️</b></i></tg-emoji> <a href="https://codeib.ru/event/kod-ib-profi-sochi-2026-1014/page/vvedenie-kod-ib-profi-sochi-2026?utm_source=telegram&amp;amp;utm_medium=codeib&amp;amp;utm_campaign=profi2026" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b>Оставляйте заявку</b></a> уже сейчас. Количество мест ограничено.]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5300</guid>
       <pubDate>Tue, 28 Jul 2026 07:20:38 +0000</pubDate>
@@ -141,57 +161,10 @@ VK, Билайна, Озон Банка, Райффайзенбанка
 ⭐️
  
 Главные происшествия — 112</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/LEtu6mJ-JcaVXYLC-1RwkDPVDBs00d8o19ljhI06-TnHvv-QB99lht1bdcSKCtjVRekV172K2IFb9vTDwyHoVfBZcEqOap6w0rl8xa2XpMKU4KznsXCfIfJRHWCD3E8X6qdONr-JUm0P8B9_kA7tMj26rDQ9UHjjXNXLTVM-ruP2P3iSMj7e11I3dSfvsovU6yR1DXP5ps-LpZ6UGJ5JaPhvv1miohmM89c6pauF7ibYmszuG7CqaPd7bMW4Yw5Las3PZQiXGYzZnY5FHh3g_e_FnJ75huXmaHYPxrbdIsjmxn5v_MdbpG1oRiEYtQw8Ur2UbQXZTLEk_Hmz4uMtbQ.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/CPHnc6lMWCCA58ww2ISkoyF2SxwvOcuq1XCCWp1cXQDPg6AFf6vm9SHuabBiooZe2KOLZpBCzVnTZ_tOUWl7P-t8ai5POlwLRnDSXyqvzVipFtmHChMGOKa6UsVPOoAgfToZe6x6doLRdwMbzpsn5zBVhcNx3ZCTuSID8JtXJNin6MStdBlcmj8ajyoH5D4fOQxpLNwIGHVGT7I4OUTwqmjv7x-oLQL2u-UrtWrqNrMkt1UtXbSh-aFntE4y3TEjBkwlyJsAbFpCtJ2K999gVimacrh467oGrAQCuO7nNSjc5ppl0gL1BQMjoCn3Po1ev7EL2Ygtpg1K-Wh4g9Pb6g.jpg" /></p>
 Самый лёгкий путь к бизнесу и миллионному долгу прошёл мужчина из Калуги, когда <tg-spoiler>потерял паспорт.</tg-spoiler><br/><br/>О своем незавидном достижении Алексей К. рассказал 112. Три года назад он приехал по делам в Подмосковье, но удача не улыбнулась ему. Когда мужчина обнаружил пропажу главного документа, он всё восстановил, вернулся домой и забыл о неприятной ситуации.<br/><br/>Вспомнить пришлось, когда на Госуслуги пришло уведомление: «Вам начислен налог на сумму 1 076 160 рублей». Оказалось, на его имя открыли фирму в Удмуртии, и она вела деятельность. В налоговой пояснили: ИНН и электронная подпись, использованные при регистрации конторы, действительно принадлежат Алексею. А затем — новый удар. Из-за возникшего долга заблокировали зарплатную карту. Мужчина обратился в местную прокуратуру и надеется на справедливость.<br/><br/>Пасынок фортуны.<br/><br/><tg-emoji emoji-id="5348321687635009059"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E2AD90.png')"><b>⭐️</b></i></tg-emoji> <a href="https://telegram.me/ENews112" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Главные происшествия — 112</a>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5298</guid>
       <pubDate>Mon, 27 Jul 2026 19:08:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Статья Cnews</title>
-      <link>https://telegram.me/ep_uc/5297</link>
-      <description>Статья Cnews
- - 
-ФСБ создаст реестр браузеров, обязанных устанавливать российские сертификаты безопасности
-
-Кроме того, Минцифры установит правила подтверждения владения ключом идентификации. Под подтверждением владения ключом идентификации понимается получение НУЦ доказательств того, что лицо, обратившееся за получением сертификата безопасности НУЦ, владеет ключом идентификации, который соответствует ключу аутентификации, указанному данным лицом для получения такого сертификата. Кроме того, Минцифры установит требования к техническим средствам ГИС (государственная информационная система) Национального удостоверяющего центра и будет осуществлять подтверждения соответствия технических средств этим требованиям.
-
-Да не Минцифры это устанавливает, а 
-ФСБ
-! Невнимательно журналисты читают законы.
-
-Если говорить про все подзаконные акты, которые должны быть приняты в рамках НУЦ, то уже по названию видно , что они представляют кальку с действующих НПА, применительно к АУЦ. Гидротехнических сооружений только 
-не нужно
-.</description>
-      <content:encoded><![CDATA[<a href="https://gov.cnews.ru/news/top/2026-07-16_fsb_sozdast_reestr_brauzerov" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Статья Cnews</a> - <b>ФСБ создаст реестр браузеров, обязанных устанавливать российские сертификаты безопасности</b><br/><br/><blockquote>Кроме того, Минцифры установит правила подтверждения владения ключом идентификации. Под подтверждением владения ключом идентификации понимается получение НУЦ доказательств того, что лицо, обратившееся за получением сертификата безопасности НУЦ, владеет ключом идентификации, который соответствует ключу аутентификации, указанному данным лицом для получения такого сертификата. Кроме того, Минцифры установит требования к техническим средствам ГИС (государственная информационная система) Национального удостоверяющего центра и будет осуществлять подтверждения соответствия технических средств этим требованиям.</blockquote><br/><br/>Да не Минцифры это устанавливает, а <a href="https://telegram.me/ep_uc/5197" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">ФСБ</a>! Невнимательно журналисты читают законы.<br/><br/>Если говорить про все подзаконные акты, которые должны быть приняты в рамках НУЦ, то уже по названию видно , что они представляют кальку с действующих НПА, применительно к АУЦ. Гидротехнических сооружений только <a href="https://telegram.me/ep_uc/154" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">не нужно</a>.]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5297</guid>
-      <pubDate>Mon, 27 Jul 2026 05:08:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>📣</title>
-      <link>https://telegram.me/ep_uc/5295</link>
-      <description>📣
-Законопроект о поддержке развития технологий искусственного интеллекта в Российской Федерации сегодня внесен в Госдуму</description>
-      <content:encoded><![CDATA[<tg-emoji emoji-id="5470094069289984325"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93A3.png')"><b>📣</b></i></tg-emoji>Законопроект о поддержке развития технологий искусственного интеллекта в Российской Федерации сегодня внесен в Госдуму]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5295</guid>
-      <pubDate>Sun, 26 Jul 2026 14:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>В связи с распространением ложной информации о произошедшей утечке данных пользователей с ресурсо…</title>
-      <link>https://telegram.me/ep_uc/5294</link>
-      <description>В связи с распространением ложной информации о произошедшей утечке данных пользователей с ресурсов КриптоПро сообщаем следующее.
-
-С момента первого появления информации об утечке из баз данных компании нашими специалистами было проверено значительное количество образцов появившихся в открытом доступе данных, связываемых с данной утечкой. 
-
-В отношении всех проверенных данных сообщаем, что на серверах КриптоПро они отсутствуют. Кроме того, часть полей из образцов данных вовсе отсутствует в базах данных нашей компании. 
-
-Таким образом, к настоящему времени причин предполагать утечку из нашей инфраструктуры нет.
-
-Тем не менее, так как указанные данные могли быть собраны на основе иных слитых баз данных или баз иных организаций, просим проявлять особую бдительность с учетом возможности использования этих данных мошенниками в рамках методов социальной инженерии.
-
-В случае возникновения вопросов или появления дополнительной информации по данному вопросу просьба сообщать нам любым удобным способом.</description>
-      <content:encoded><![CDATA[В связи с распространением ложной информации о произошедшей утечке данных пользователей с ресурсов КриптоПро сообщаем следующее.<br/><br/>С момента первого появления информации об утечке из баз данных компании нашими специалистами было проверено значительное количество образцов появившихся в открытом доступе данных, связываемых с данной утечкой. <br/><br/>В отношении всех проверенных данных сообщаем, что на серверах КриптоПро они отсутствуют. Кроме того, часть полей из образцов данных вовсе отсутствует в базах данных нашей компании. <br/><br/>Таким образом, к настоящему времени причин предполагать утечку из нашей инфраструктуры нет.<br/><br/>Тем не менее, так как указанные данные могли быть собраны на основе иных слитых баз данных или баз иных организаций, просим проявлять особую бдительность с учетом возможности использования этих данных мошенниками в рамках методов социальной инженерии.<br/><br/>В случае возникновения вопросов или появления дополнительной информации по данному вопросу просьба сообщать нам любым удобным способом.]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5294</guid>
-      <pubDate>Sun, 26 Jul 2026 12:09:12 +0000</pubDate>
     </item>
   </channel>
 </rss>

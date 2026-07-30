@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 29 Jul 2026 08:03:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 07:45:44 +0000</lastBuildDate>
+    <item>
+      <title>Пост — НОВОСТИ ДРКС КК</title>
+      <link>https://telegram.me/drcs_news/1767</link>
+      <description>Пост — НОВОСТИ ДРКС КК</description>
+      <content:encoded><![CDATA[(нет текста)]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/drcs_news/1767</guid>
+      <pubDate>Wed, 29 Jul 2026 12:36:59 +0000</pubDate>
+    </item>
     <item>
       <title>📃</title>
       <link>https://telegram.me/drcs_news/1766</link>
@@ -52,7 +60,7 @@ https://clck.ru/3DeZdj
       <title>🖼 Фото — НОВОСТИ ДРКС КК</title>
       <link>https://telegram.me/drcs_news/1765</link>
       <description>🖼 Фото — НОВОСТИ ДРКС КК</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/htfADn90BkD40PXxQw71qBJTrchV4eu9xdbqoTiMRO60D74QqF9OJQwhAjIg1F0mMzyjNeMTOwI4w1tqMXTXyYbBudDYOiv_Yv1UXhtojDOrfzMmxYInsK8VEt2gmJxCjrLaRWyHqOiGFGd6I3eA94Z3BvE_yWSZMmnFWwwjoiAvWuMQVuCcn_vhoXIACb8Oc5nruwI3dCDuyFA2IeSZctQxCn3TQaASuoJpjQvgDNXa77Uu-e7fcFYmHMSXMnySnqbUAyBAVETQsDeVjzj_5V6Zakx52dcHxH4i159_MzrvZ3A5ri6Iv58BhwIHw6YvaroUZ39bBoSHSq0iLZph4g.jpg" /></p>]]></content:encoded>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/JbnGscBiYFzu4jSk1nVRb4SMG4rMOa3G1CDCgUG6hV281ZaazcB5SHZpB6V1UW3hALzeZTOU2Li69tMyvGZLyLDPC_nbe-p9SVH1OtYhorZ818s2EH8MgYj2feo1PMMKYSjE6VgRFvvjVA_3XIFpAqAwjeKFrPMruUOoCieRt_L9XYkp1nMLCAZyUHgBwI2llA2Kc5_UQppeUipNk5myNCLniFT6Tj51K2iFqbjVucWx5NqtvEpmFQTTtIFVBlfB1EzqBHNe3YqEhr0w8m3GjVYYwCDT1W80AZqccSPd38pBZri-LI68GjeapVd-YcvAkg6lCKT3bQqpNZArHU_7kQ.jpg" /></p>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/drcs_news/1765</guid>
       <pubDate>Tue, 28 Jul 2026 12:40:44 +0000</pubDate>
     </item>

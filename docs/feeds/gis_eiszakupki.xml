@@ -8,7 +8,54 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 29 Jul 2026 08:02:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 07:44:36 +0000</lastBuildDate>
+    <item>
+      <title>⁉️</title>
+      <link>https://telegram.me/gis_eiszakupki/3169</link>
+      <description>⁉️
+ 
+ВОПРОС
+
+Как отразить факт возврата товара поставщику?
+
+✔️
+ 
+ОТВЕТ
+
+Для отражения факта возврата товара 
+заказчику необходимо перевести документ о приемке в статус «Возврат»
+. Данный статус присваивается всей цепочке подписанных документов (документу о приемке и его исправлениям) и 
+позволяет высвободить ранее заактированное количество (объем) по указанным в документах позициям товаров.
+ 
+
+Статус «Возврат» недоступен для документов о приемке, в которых указаны объекты закупки с типом «Работа» и «Услуга».
+
+⚙️
+ Данная функция применима к документам о приемке, по которым уже произведена поставка и приемка, но возникла необходимость полного возврата товара по независящим от сторон обстоятельствам (например, партия лекарственного препарата забракована Росздравнадзором, отзыв товара производителем из обращения).
+
+❕
+Обращаем внимание, что 
+при частичном возврате товара заказчику необходимо обратиться к поставщику с целью формирования
+ 
+поставщиком исправления существенных условий
+, влекущих изменение стоимостных реквизитов, к документу о приемке, в котором возможно изменить количество товара.
+
+📖
+ Подробности работы функционала смотрите в Базе знаний → «Работа с документом о приемке в электронной форме».
+
+#ЧЗВ
+ 
+
+#ЭЛАКТ
+
+📱
+ 
+Следите за новостями ГИС ЕИС ЗАКУПКИ в MAX</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/YpkaUWg1HwEUttia5-qUgDl1ECjMUAauweA-ETL74ZDndDgh6PpoD1W7sEmHL2HGFwVG8fqJeRgHXGvTO0u9PwFbGndU_BGxuSL1UH-gmdr_ubLbgXhx_xz6wE7TGrfjhcfwmLRbROtb-wGcdI27ZBmT-0Gb9CniqRB_NZ3Ag5059KVVyD5WjSbUGQhEWuG5pVuQFu8vzo9ebtPRa28FRZ49mYjQhiFZ-FYmtizR0Tlp1jhNdEFWVtfyABQxZ2HF_l3yI_sSukQC1ozS-JaBWkwOAxZq0cZrbphFjjhHmE1uwIOLURiIquT4ijPD1Jflg3TnOWHI5Aw3TZ5jDELAIg.jpg" /></p>
+<tg-emoji emoji-id="5435994300997443130"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E28189.png')"><b>⁉️</b></i></tg-emoji> <b>ВОПРОС<br/></b>Как отразить факт возврата товара поставщику?<br/><br/><tg-emoji emoji-id="5435862449796423200"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C94.png')"><b>✔️</b></i></tg-emoji> <b>ОТВЕТ</b><br/>Для отражения факта возврата товара <b>заказчику необходимо перевести документ о приемке в статус «Возврат»</b>. Данный статус присваивается всей цепочке подписанных документов (документу о приемке и его исправлениям) и <b>позволяет высвободить ранее заактированное количество (объем) по указанным в документах позициям товаров.</b> <br/><br/>Статус «Возврат» недоступен для документов о приемке, в которых указаны объекты закупки с типом «Работа» и «Услуга».<br/><br/><tg-emoji emoji-id="5296535548960189760"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29A99.png')"><b>⚙️</b></i></tg-emoji> Данная функция применима к документам о приемке, по которым уже произведена поставка и приемка, но возникла необходимость полного возврата товара по независящим от сторон обстоятельствам (например, партия лекарственного препарата забракована Росздравнадзором, отзыв товара производителем из обращения).<br/><br/><tg-emoji emoji-id="5436322999139574951"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29D95.png')"><b>❕</b></i></tg-emoji>Обращаем внимание, что <b>при частичном возврате товара заказчику необходимо обратиться к поставщику с целью формирования</b> <b>поставщиком исправления существенных условий</b>, влекущих изменение стоимостных реквизитов, к документу о приемке, в котором возможно изменить количество товара.<br/><br/><tg-emoji emoji-id="5435982738945483816"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9396.png')"><b>📖</b></i></tg-emoji> Подробности работы функционала смотрите в Базе знаний → «Работа с документом о приемке в электронной форме».<br/><br/><a href="?q=%23%D0%A7%D0%97%D0%92">#ЧЗВ</a> <br/><a href="?q=%23%D0%AD%D0%9B%D0%90%D0%9A%D0%A2">#ЭЛАКТ</a><br/><br/><tg-emoji emoji-id="5294059873976200999"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93B1.png')"><b>📱</b></i></tg-emoji> <a href="https://max.ru/gis_eiszakupki" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Следите за новостями ГИС ЕИС ЗАКУПКИ в MAX</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/gis_eiszakupki/3169</guid>
+      <pubDate>Wed, 29 Jul 2026 11:09:44 +0000</pubDate>
+    </item>
     <item>
       <title>Повышаем эффективность контроля в сфере закупок</title>
       <link>https://telegram.me/gis_eiszakupki/3167</link>
