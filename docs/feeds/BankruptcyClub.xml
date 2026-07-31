@@ -8,104 +8,193 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 30 Jul 2026 07:45:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 08:15:02 +0000</lastBuildDate>
     <item>
-      <title>Банкротный Клуб</title>
-      <link>https://telegram.me/BankruptcyClub/1055</link>
-      <description>Банкротный Клуб
- pinned a video</description>
-      <content:encoded><![CDATA[<a class="tgme_widget_message_author_name" href="https://telegram.me/BankruptcyClub"><span dir="auto">Банкротный Клуб</span></a> pinned a video]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/BankruptcyClub/1055</guid>
-      <pubDate>Mon, 27 Jul 2026 08:49:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>🌟</title>
-      <link>https://telegram.me/BankruptcyClub/1054</link>
-      <description>🌟
-Сальдирование возможно и после включения в реестр требований кредиторов
+      <title>🔖</title>
+      <link>https://telegram.me/BankruptcyClub/1110</link>
+      <description>🔖
+Опубликован
+ банкротный дайджест за июль 2026
 
+I. 
+ВС разъяснил порядок применения переходных положений Постановления № 34-П при расчете компенсации залоговым кредиторам// Кейс месяца – Дело ОАО “Ивановская домостроительная компания”
+
+Верховный Суд 
+опубликовал
+ Определение по делу ОАО “Ивановская домостроительная компания”. В данном деле рассматривался вопрос выплаты компенсации залоговым кредиторам при банкротстве застройщиков.  ВС указал, если дело о банкротстве застройщика возбуждено до вступления в силу Закона № 282-ФЗ, объект застройки передан фонду, но вопрос о компенсации бывшим залоговым кредиторам не решен судом по существу, то такие требования рассматриваются и разрешаются судом в соответствии со статьей 5 Закона No 282-ФЗ.
+
+ℹ️
+ВС 
+разъяснил
+ условия сальдирования требований после включения их в реестр// Дело ООО «СоюзСпецСтрой»
+
+ℹ️
+ВС 
+разъяснил
+ порядок исчисления срока исковой давности для целей привлечения к субсидиарной ответственности // Дело ООО «Сервис-Терминал»
+
+ℹ️
+ ВС 
+разъяснил
+ порядок расчета компенсации залоговым кредитам застройщиков// Дело ООО «Альбион»
+
+ℹ️
+ ВС 
+разъяснил
+ условия введения процедуры банкротства застройщиков // Дело ООО «СтройГрупп»
+
+ℹ️
+ 
+ВС определил
+ очередность удовлетворения требований субъекта РФ в деле о банкротстве застройщика // Дело ООО «Брод-Эстейт»
+
+ℹ️
+ ВС 
+не допустил
+ включения в реестр внутрисемейных реституционных требований // Дело Ольги Поповой
+
+ℹ️
+ 
+ВС не допустил
+ освобождения от долгов гражданина, который умолчал об обязательствах в момент оформления кредита // Дело Вячеслава Жукова
+
+ℹ️
+ ВС 
+не допустил
+ применения института банкротства в разрешении корпоративного конфликта // Дело ООО «Евро-Азия Инвест»
+
+III. Самые интересные публикации за месяц на портале 
+Zakon.ru
  
 
-В деле
- ООО «СоюзСпецСтрой» 
-суды отказали в удовлетворении заявления о признании требований погашенными кредитору, который утверждал, что стороны прекратили правоотношения по подряду, а итоговое сальдо в пользу должника.
+Реверсивный вестинг в Канаде (Reverse Vesting Order, RVO): как суды «вымывают» обязательства из бизнеса без согласия кредиторов
 
- 
-
-Позиция ВС
-:
-
-🔑
-Определение сторонами в рамках одного договора либо нескольких взаимосвязанных договоров завершающей обязанности этих сторон при прекращении договорных отношений полностью, либо их отдельного этапа (сальдирование) не влечет последствий в виде предпочтительного удовлетворения требований кредитора.
-
-🔑
-В случае сальдирования стороны подводят финансовый итог в рамках одних правоотношений: сопоставляются взаимные обязанности сторон и осуществляются арифметические (расчетные) операции с целью определения лица, на которого возлагается завершающее исполнение с суммой такого исполнения.
-
-🔑
-При осуществлении сальдирования в правоотношениях с лицом, находящимся в состоянии банкротства, отсутствует такой признак, как получение второй стороной какого-либо предпочтения: итоговая денежная сумма определяется сопоставлением размера встречных обязательств по принципам возмездности и эквивалентности встречного предоставления.
-
-🔑
-В данном случае взаимные требования возникли в рамках одного и того же договора и должны учитываться (взаимопогашаться) при определении завершающего расчета между сторонами по оплате подрядных работ, поэтому эти требования подлежат сальдированию без ущерба для интересов третьих лиц.
-
-🔑
-Заявление кредитора о сальдировании взаимных обязательств направлено не на получение исполнения с предпочтением, а на констатацию сформировавшейся к этому моменту завершающей обязанности одной из сторон договора.
-
-🔑
-Факт того, что кредитор ранее не заявлял о сальдировании при рассмотрении различных судебных споров, вопреки выводам судов сам по себе не лишил его права сделать это позже и не препятствовал определению итогового сальдо взаимных обязательств.</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/nIdsnzmvb2pJa1R6HlCRrZVHdi0bS2k7rkDKUWL1ffDFjunJbHQAC-F1m2jsEBWIzOWdOGWpgCjNlt5dcDFJcYJHEzGLJj6pz1MZue-A9a9Mv3VH17DgLtGW9wCBifE2nLyKsqL_Ad17zmUdWH58Uolv_gpw1kvTte0ti9gFzLIQdrX62BTrRG_qVv4hDWgsGKr9y8Qoe4cU3R3zkSm8XQ3vW3dDC1c3VN6w3YXY2m2hNpGmWIjsTI6G-4GKfc8VsKLZRWEmPFFB9zRjk_hs8RY756T75D1qUVxxBMbJgRNd7KMQHZsrsDt6qjsAsCxWxlFaLdv1ioBdAi2VwYg57g.jpg" /></p>
-<tg-emoji emoji-id="5298737505678407110"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8C9F.png')"><b>🌟</b></i></tg-emoji><b>Сальдирование возможно и после включения в реестр требований кредиторов</b><br/> <br/>В деле<b> ООО «СоюзСпецСтрой» </b>суды отказали в удовлетворении заявления о признании требований погашенными кредитору, который утверждал, что стороны прекратили правоотношения по подряду, а итоговое сальдо в пользу должника.<br/><b> </b><br/><a href="https://ras.arbitr.ru/Document/Pdf/dd0bdd56-0ff9-4901-b83b-3cddf0e93921/a58db417-05b8-4bc0-a199-9ddbe44741ff/%D0%9056-72544-2020__20260710.pdf?isAddStamp=True" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b><u>Позиция ВС</u></b></a><b><u>:</u></b><br/><br/><tg-emoji emoji-id="5350833839776213473"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9491.png')"><b>🔑</b></i></tg-emoji>Определение сторонами в рамках одного договора либо нескольких взаимосвязанных договоров завершающей обязанности этих сторон при прекращении договорных отношений полностью, либо их отдельного этапа (сальдирование) не влечет последствий в виде предпочтительного удовлетворения требований кредитора.<br/><br/><tg-emoji emoji-id="5350833839776213473"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9491.png')"><b>🔑</b></i></tg-emoji>В случае сальдирования стороны подводят финансовый итог в рамках одних правоотношений: сопоставляются взаимные обязанности сторон и осуществляются арифметические (расчетные) операции с целью определения лица, на которого возлагается завершающее исполнение с суммой такого исполнения.<br/><br/><tg-emoji emoji-id="5350833839776213473"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9491.png')"><b>🔑</b></i></tg-emoji>При осуществлении сальдирования в правоотношениях с лицом, находящимся в состоянии банкротства, отсутствует такой признак, как получение второй стороной какого-либо предпочтения: итоговая денежная сумма определяется сопоставлением размера встречных обязательств по принципам возмездности и эквивалентности встречного предоставления.<br/><br/><tg-emoji emoji-id="5350833839776213473"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9491.png')"><b>🔑</b></i></tg-emoji>В данном случае взаимные требования возникли в рамках одного и того же договора и должны учитываться (взаимопогашаться) при определении завершающего расчета между сторонами по оплате подрядных работ, поэтому эти требования подлежат сальдированию без ущерба для интересов третьих лиц.<br/><br/><tg-emoji emoji-id="5350833839776213473"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9491.png')"><b>🔑</b></i></tg-emoji>Заявление кредитора о сальдировании взаимных обязательств направлено не на получение исполнения с предпочтением, а на констатацию сформировавшейся к этому моменту завершающей обязанности одной из сторон договора.<br/><br/><tg-emoji emoji-id="5350833839776213473"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9491.png')"><b>🔑</b></i></tg-emoji>Факт того, что кредитор ранее не заявлял о сальдировании при рассмотрении различных судебных споров, вопреки выводам судов сам по себе не лишил его права сделать это позже и не препятствовал определению итогового сальдо взаимных обязательств.]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/BankruptcyClub/1054</guid>
-      <pubDate>Mon, 27 Jul 2026 08:39:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>🗓</title>
-      <link>https://telegram.me/BankruptcyClub/1053</link>
-      <description>🗓
-Дорогие друзья, мы рады сообщить, что открываем регистрацию на очное заседание Банкротного Клуба, которое 
-состоится 04 сентября в г. Ярославль в отеле Cosmos Ярославль.
-
+Автор – Станислав Изосимов 
 🖥
-Подробная информация и регистрация.
 
-Условия участия:
+Где (карту открывали) арест накладывали, туда и идите. Или снова к вопросу об уголовно-правовом аресте в банкротстве на примере Определения СКГД ВС РФ № 18-КГ25-489-К4 от 19.05.26
 
-✔️
-Минимальное пожертвование — 10 000 рублей.
+Автор –Павел Замалаев
+🖥
 
-✔️
-Для действительных членов Банкротного Клуба — 5 000 рублей.
+Цифровой налоговый контроль и независимая оценка: новые вызовы для процедур банкротства
 
-Что вас ждет?
+Автор – Максим Неижко 
+🖥
 
-📌
-Обсуждение актуальных вопросов банкротства и тенденций судебной практики на всех уровнях.
+Нужен ли качественный критерий для признания обоснованным заявления о признании должника банкротом?
 
-📌
-Анализ ярких кейсов и их влияния на бизнес и управление рисками.
+Автор –Яков Дьячук
+🖥
 
-📌
-Разбор нормативных актов и научных публикаций с практической ценностью.
+Всеобщая реабилитация: красивая концепция, в которую мы поверили
 
-📌
-Обмен опытом и идеями между участниками и экспертами.
+Автор – Денис Беляев
+🖥
 
-📌
-Оценка влияния изменений законодательства на бизнес-процессы.
+на портале PROбанкротство 
 
-Приглашаем принять участие руководителей юридических фирм, специалистов по банкротству, арбитражных управляющих, представителей судов и органов власти, а также ученых, специализирующихся в вопросах сопровождения процедур несостоятельности (банкротства) бизнеса и граждан.
+✏️
+Долг без визы
 
-💥
-Организаторы: 
-Банкротный клуб, BIG FISH LAW | Арбитраж.ру.
+ Автор – Леонид Ионкис
 
-💥
-Партнеры
-: Экспертная группа Veta, activebc, 
-Bankro.TECH
-.</description>
-      <content:encoded><![CDATA[<tg-emoji emoji-id="5413879192267805083"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9793.png')"><b>🗓</b></i></tg-emoji>Дорогие друзья, мы рады сообщить, что открываем регистрацию на очное заседание Банкротного Клуба, которое <b>состоится 04 сентября в г. Ярославль в отеле Cosmos Ярославль.<br/></b><br/><a href="https://meet.bankruptcyclub.ru/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F96A5.png')"><b>🖥</b></i>Подробная информация и регистрация.</a><br/><br/><b>Условия участия:<br/></b><br/><tg-emoji emoji-id="5206607081334906820"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C94.png')"><b>✔️</b></i></tg-emoji>Минимальное пожертвование — 10 000 рублей.<br/><tg-emoji emoji-id="5206607081334906820"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C94.png')"><b>✔️</b></i></tg-emoji>Для действительных членов Банкротного Клуба — 5 000 рублей.<br/><br/><b>Что вас ждет?</b><br/><br/><tg-emoji emoji-id="5397782960512444700"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938C.png')"><b>📌</b></i></tg-emoji>Обсуждение актуальных вопросов банкротства и тенденций судебной практики на всех уровнях.<br/><tg-emoji emoji-id="5397782960512444700"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938C.png')"><b>📌</b></i></tg-emoji>Анализ ярких кейсов и их влияния на бизнес и управление рисками.<br/><tg-emoji emoji-id="5397782960512444700"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938C.png')"><b>📌</b></i></tg-emoji>Разбор нормативных актов и научных публикаций с практической ценностью.<br/><tg-emoji emoji-id="5397782960512444700"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938C.png')"><b>📌</b></i></tg-emoji>Обмен опытом и идеями между участниками и экспертами.<br/><tg-emoji emoji-id="5397782960512444700"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938C.png')"><b>📌</b></i></tg-emoji>Оценка влияния изменений законодательства на бизнес-процессы.<br/><br/>Приглашаем принять участие руководителей юридических фирм, специалистов по банкротству, арбитражных управляющих, представителей судов и органов власти, а также ученых, специализирующихся в вопросах сопровождения процедур несостоятельности (банкротства) бизнеса и граждан.<br/><br/><tg-emoji emoji-id="5276032951342088188"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92A5.png')"><b>💥</b></i></tg-emoji><b>Организаторы: </b>Банкротный клуб, BIG FISH LAW | Арбитраж.ру.<br/><tg-emoji emoji-id="5276032951342088188"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92A5.png')"><b>💥</b></i></tg-emoji><b>Партнеры</b>: Экспертная группа Veta, activebc, <a href="http://Bankro.TECH/" rel="noopener" target="_blank">Bankro.TECH</a>.]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/BankruptcyClub/1053</guid>
-      <pubDate>Mon, 27 Jul 2026 07:50:37 +0000</pubDate>
+✏️
+Об установлении в делах о банкротстве требований иностранных государств
+
+Автор – Илья Шевченко
+
+✏️
+Выявление фиктивной дебиторской задолженности должника
+
+Авторы – Ирина Астраханцева
+
+✏️
+Уголовная ответственность АУ: между профессиональным риском и реальным сроком
+
+Автор – Александр Герб
+
+✏️
+Can pay — should pay: начать с чистого (исполнительного) листа
+
+Автор – Сергей Завьялов, Вячеслав Калашников
+
+в Telegram 
+
+📱
+Субординация в случае банкротства кредитора, предоставившего финансирование
+
+Ничего нового для образованного юноши
+
+📱
+Эталонно
+
+Domnin.sa | Сергей Дóмнин
+
+📱
+Отсутствие прямых договорных отношений между гражданином и застройщиком не препятствует признанию первого участником строительства
+
+Legally_bald (Даниил Савченко
+)
+
+📱
+Спасти рядового бухгалтера
+
+Банкроверт
+
+📱
+О произвольности каузы долга и как это влияет на каузу освобождения от долгов
+
+Частное право от Евгения Суворова
+
+📱
+ 
+Данные по реабилитационным процедурам в Японии.
+
+libro_segreto
+
+Подробнее вы можете прочитать 
+в июльском дайджесте
+.
+
+В МАХ тут</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/d1VwFBqeQxerRNxqUBb8zG9_hnj96DF8B932-Hb6ymNwSDl5-ICOx2G7wI04M1c_XbJ2KLsz-XfXlgLv3alo3e7ehFCum5k8Mw7AdK9k0iA6VpBrOFuXHGxdgkLG3fS2tQU-V-GxG0P1GBYg149mkAbHk6xBvowJhLH7Qj1RgxJpjfmaHIUNMrFScW8RE-rf5HTvkoY-GvUquv0Cp5pbvBufmPtmAZ946LVYBtJzr1RlR573fmN7j1xZU4-v_yvXZMcUWteCghz-2kD6f-4xUoFlGPEfIW073epgqpMsdlu691E7op5EyQQjEQhweoOzVApcvwnURBuUqME11_MfNQ.jpg" /></p>
+<tg-emoji emoji-id="5222444124698853913"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9496.png')"><b>🔖</b></i></tg-emoji><a href="https://bankruptcyclub.ru/2026/07/31/digest_07_26/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Опубликован</a> банкротный дайджест за июль 2026<br/><br/>I. <b>ВС разъяснил порядок применения переходных положений Постановления № 34-П при расчете компенсации залоговым кредиторам// Кейс месяца – Дело ОАО “Ивановская домостроительная компания”</b><br/><br/>Верховный Суд <a href="https://ras.arbitr.ru/Document/Pdf/a71b2415-8f75-4473-a813-f690bbc74cd5/e99c53da-717c-4bdf-a408-96b2ee435ae6/%D0%9017-4841-2015__20260710.pdf?isAddStamp=True" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">опубликовал</a> Определение по делу ОАО “Ивановская домостроительная компания”. В данном деле рассматривался вопрос выплаты компенсации залоговым кредиторам при банкротстве застройщиков.  ВС указал, если дело о банкротстве застройщика возбуждено до вступления в силу Закона № 282-ФЗ, объект застройки передан фонду, но вопрос о компенсации бывшим залоговым кредиторам не решен судом по существу, то такие требования рассматриваются и разрешаются судом в соответствии со статьей 5 Закона No 282-ФЗ.<br/><br/><tg-emoji emoji-id="5334544901428229844"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E284B9.png')"><b>ℹ️</b></i></tg-emoji>ВС <a href="https://ras.arbitr.ru/Document/Pdf/dd0bdd56-0ff9-4901-b83b-3cddf0e93921/a58db417-05b8-4bc0-a199-9ddbe44741ff/%D0%9056-72544-2020__20260710.pdf?isAddStamp=True" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">разъяснил</a> условия сальдирования требований после включения их в реестр// Дело ООО «СоюзСпецСтрой»<br/><tg-emoji emoji-id="5334544901428229844"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E284B9.png')"><b>ℹ️</b></i></tg-emoji>ВС <a href="https://ras.arbitr.ru/Document/Pdf/1d959df4-4b41-4c4a-a53f-8e7b422266e7/22edc525-570c-4992-98ff-ae0a5870d41e/%D0%9082-9031-2016__20260710.pdf?isAddStamp=True" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">разъяснил</a> порядок исчисления срока исковой давности для целей привлечения к субсидиарной ответственности // Дело ООО «Сервис-Терминал»<br/><tg-emoji emoji-id="5334544901428229844"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E284B9.png')"><b>ℹ️</b></i></tg-emoji> ВС <a href="https://ras.arbitr.ru/Document/Pdf/b0bf88ab-f5a0-4227-8fbb-1b5ed663b9db/0c1768fc-439a-4345-b860-3e3534ac1909/%D0%9043-5991-2019__20260710.pdf?isAddStamp=True" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">разъяснил</a> порядок расчета компенсации залоговым кредитам застройщиков// Дело ООО «Альбион»<br/><tg-emoji emoji-id="5334544901428229844"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E284B9.png')"><b>ℹ️</b></i></tg-emoji> ВС <a href="https://ras.arbitr.ru/Document/Pdf/3ee60219-db5b-4593-bf7c-f82f78e1185f/39d1da25-572b-4aa4-8032-abc8e6d90d13/%D0%9041-5282-2024__20260713.pdf?isAddStamp=True" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">разъяснил</a> условия введения процедуры банкротства застройщиков // Дело ООО «СтройГрупп»<br/><tg-emoji emoji-id="5334544901428229844"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E284B9.png')"><b>ℹ️</b></i></tg-emoji> <a href="https://ras.arbitr.ru/Document/Pdf/57c7edb7-1f1a-4b4e-b680-8f4edd9bbe2b/ecd0fb51-7901-4cfc-8ac8-0e50442b0029/%D0%9040-266163-2019__20260720.pdf?isAddStamp=True" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">ВС определил</a> очередность удовлетворения требований субъекта РФ в деле о банкротстве застройщика // Дело ООО «Брод-Эстейт»<br/><tg-emoji emoji-id="5334544901428229844"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E284B9.png')"><b>ℹ️</b></i></tg-emoji> ВС <a href="https://ras.arbitr.ru/Document/Pdf/876d9e3f-b5f0-4b91-972f-d265f9aa3482/67875e70-4e3e-4b64-b884-6960a1a3ebf2/%D0%9041-102080-2022__20260720.pdf?isAddStamp=True" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">не допустил</a> включения в реестр внутрисемейных реституционных требований // Дело Ольги Поповой<br/><tg-emoji emoji-id="5334544901428229844"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E284B9.png')"><b>ℹ️</b></i></tg-emoji> <a href="https://ras.arbitr.ru/Document/Pdf/abd6ddc4-c6b9-43e9-91d7-f25591c4dd6a/21a73c30-8fb6-4b96-89ab-5746e770e456/%D0%9043-194-2023__20260722.pdf?isAddStamp=True" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">ВС не допустил</a> освобождения от долгов гражданина, который умолчал об обязательствах в момент оформления кредита // Дело Вячеслава Жукова<br/><tg-emoji emoji-id="5334544901428229844"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E284B9.png')"><b>ℹ️</b></i></tg-emoji> ВС <a href="https://ras.arbitr.ru/Document/Pdf/a0ae2f14-25df-492d-84d0-93c86473932a/97a344bf-71b9-4e55-8e8f-1ea4f4599218/%D0%9003-20779-2024__20260722.pdf?isAddStamp=True" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">не допустил</a> применения института банкротства в разрешении корпоративного конфликта // Дело ООО «Евро-Азия Инвест»<br/><br/>III. Самые интересные публикации за месяц на портале <a href="http://Zakon.ru/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Zakon.ru</a> <br/><br/><b>Реверсивный вестинг в Канаде (Reverse Vesting Order, RVO): как суды «вымывают» обязательства из бизнеса без согласия кредиторов</b><br/>Автор – Станислав Изосимов <tg-emoji emoji-id="5282843764451195532"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F96A5.png')"><b>🖥</b></i></tg-emoji><br/><br/><b>Где (карту открывали) арест накладывали, туда и идите. Или снова к вопросу об уголовно-правовом аресте в банкротстве на примере Определения СКГД ВС РФ № 18-КГ25-489-К4 от 19.05.26</b><br/>Автор –Павел Замалаев<tg-emoji emoji-id="5282843764451195532"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F96A5.png')"><b>🖥</b></i></tg-emoji><br/><br/><b>Цифровой налоговый контроль и независимая оценка: новые вызовы для процедур банкротства</b><br/>Автор – Максим Неижко <tg-emoji emoji-id="5282843764451195532"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F96A5.png')"><b>🖥</b></i></tg-emoji><br/><br/><b>Нужен ли качественный критерий для признания обоснованным заявления о признании должника банкротом?</b><br/>Автор –Яков Дьячук<tg-emoji emoji-id="5282843764451195532"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F96A5.png')"><b>🖥</b></i></tg-emoji><br/><br/><b>Всеобщая реабилитация: красивая концепция, в которую мы поверили</b><br/>Автор – Денис Беляев<tg-emoji emoji-id="5282843764451195532"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F96A5.png')"><b>🖥</b></i></tg-emoji><br/><br/>на портале PROбанкротство <br/><br/><tg-emoji emoji-id="5395444784611480792"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8F.png')"><b>✏️</b></i></tg-emoji><b>Долг без визы</b><br/> Автор – Леонид Ионкис<br/><br/><tg-emoji emoji-id="5395444784611480792"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8F.png')"><b>✏️</b></i></tg-emoji><b>Об установлении в делах о банкротстве требований иностранных государств</b><br/>Автор – Илья Шевченко<br/><br/><tg-emoji emoji-id="5395444784611480792"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8F.png')"><b>✏️</b></i></tg-emoji><b>Выявление фиктивной дебиторской задолженности должника</b><br/>Авторы – Ирина Астраханцева<br/><br/><tg-emoji emoji-id="5395444784611480792"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8F.png')"><b>✏️</b></i></tg-emoji><b>Уголовная ответственность АУ: между профессиональным риском и реальным сроком</b><br/>Автор – Александр Герб<br/><br/><tg-emoji emoji-id="5395444784611480792"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8F.png')"><b>✏️</b></i></tg-emoji><b>Can pay — should pay: начать с чистого (исполнительного) листа</b><br/>Автор – Сергей Завьялов, Вячеслав Калашников<br/><br/>в Telegram <br/><br/><tg-emoji emoji-id="5330237710655306682"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93B1.png')"><b>📱</b></i></tg-emoji><b>Субординация в случае банкротства кредитора, предоставившего финансирование</b><br/><a href="https://telegram.me/educatedyoungman/949" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Ничего нового для образованного юноши</a><br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93B1.png')"><b>📱</b></i><b>Эталонно</b><br/><a href="https://telegram.me/domnin_sa/571" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Domnin.sa | Сергей Дóмнин</a><br/><br/><tg-emoji emoji-id="5330237710655306682"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93B1.png')"><b>📱</b></i></tg-emoji><b>Отсутствие прямых договорных отношений между гражданином и застройщиком не препятствует признанию первого участником строительства</b><br/><a href="https://telegram.me/legally_bald/1290" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Legally_bald (Даниил Савченко</a>)<br/><br/><tg-emoji emoji-id="5330237710655306682"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93B1.png')"><b>📱</b></i></tg-emoji><b>Спасти рядового бухгалтера</b><br/><a href="https://telegram.me/bankrovert/817" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Банкроверт</a><br/><br/><tg-emoji emoji-id="5330237710655306682"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93B1.png')"><b>📱</b></i></tg-emoji><b>О произвольности каузы долга и как это влияет на каузу освобождения от долгов</b><br/><a href="https://telegram.me/insolvencylaw/702" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Частное право от Евгения Суворова</a><br/><br/><tg-emoji emoji-id="5330237710655306682"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93B1.png')"><b>📱</b></i></tg-emoji> <b>Данные по реабилитационным процедурам в Японии.</b><br/><a href="https://telegram.me/libro_segreto/383" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">libro_segreto</a><br/><br/>Подробнее вы можете прочитать <a href="https://bankruptcyclub.ru/2026/07/31/digest_07_26/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">в июльском дайджесте</a>.<br/><br/><a href="https://max.ru/id7720360786_biz" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">В МАХ тут</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/BankruptcyClub/1110</guid>
+      <pubDate>Fri, 31 Jul 2026 05:34:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Всем спасибо! Все свободны</title>
+      <link>https://telegram.me/BankruptcyClub/1109</link>
+      <description>Всем спасибо! Все свободны 
+строить планы выживания при угрозе банкротства — рекомендации от Veta в помощь 
+👨‍🏫
+ 
+
+Открываем для всех желающих доступ к записи вебинара «Спасибо, что живой». 
+
+На нём обсуждали возможности восстановления финансового здоровья компании не только до наступления банкротства, но и после (под контролем суда)
+👇
+
+1️⃣
+Шансы на восстановление платежеспособности.
+
+2️⃣
+Антикризисный план — последняя линия превентивных мер, чтобы предотвратить банкротство и защититься от субсидиарки.
+
+3️⃣
+План финансового оздоровления как дорожная карта реабилитации должника.
+
+📩
+ 
+Получить запись
+
+Всем желаем иметь хороший план и беречь финансовое здоровье 
+🐾</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/ApevmNW5W2x_-osJq0PYymzTAFW2Sk4PzZ2QixKBtSC9_A06tE1vUmLG2InsoGbMZGu_iF55PY3v4l0YUvwTjdhliAORDJDZ7YPnko2jtKcY8olvFPsbn6e5peDAJQ42GS-e3VqnKr8hn1VhVHD8CnsNyJdnYLgzPdSTf9vwwYXpLzB1fXRhKuxjnWcTbABJqHKW_JmeQ6aBrjdoINMfTJ_ImIQYuUcRH9NdtHXgOm2zbLYr5XvTOPmMpjxglB6XbKXP1EN1yOUf6YYaiVkQ04CSjaWlt1zjt5NbdSb39eRqYr-kaHqOYyg_R1F6fp-puqoShAR5lcfJBDWNG7UlmA.jpg" /></p>
+<b>Всем спасибо! Все свободны <tg-spoiler>строить планы выживания при угрозе банкротства — рекомендации от Veta в помощь </tg-spoiler></b><tg-spoiler><b><tg-emoji emoji-id="5274103076507116209"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F91A8E2808DF09F8FAB.png')"><b>👨‍🏫</b></i></tg-emoji></b></tg-spoiler><tg-spoiler><b> </b></tg-spoiler><br/><br/>Открываем для всех желающих доступ к записи вебинара «Спасибо, что живой». <br/><br/>На нём обсуждали возможности восстановления финансового здоровья компании не только до наступления банкротства, но и после (под контролем суда)<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9187.png')"><b>👇</b></i><br/><br/><tg-emoji emoji-id="5273787748598178959"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/31E283A3.png')"><b>1️⃣</b></i></tg-emoji>Шансы на восстановление платежеспособности.<br/><tg-emoji emoji-id="5274179496860216126"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/32E283A3.png')"><b>2️⃣</b></i></tg-emoji>Антикризисный план — последняя линия превентивных мер, чтобы предотвратить банкротство и защититься от субсидиарки.<br/><tg-emoji emoji-id="5274274046270269734"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/33E283A3.png')"><b>3️⃣</b></i></tg-emoji>План финансового оздоровления как дорожная карта реабилитации должника.<br/><br/><tg-emoji emoji-id="5472239203590888751"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93A9.png')"><b>📩</b></i></tg-emoji> <a href="https://vetaacademy.getcourse.ru/web_antikrizis-plan_zapis?utm_source=telegram&amp;amp;utm_medium=messenger&amp;amp;utm_campaign=post_290726&amp;amp;utm_term=zapis-veba-anti-kriz-plan" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b>Получить запись</b></a><br/><br/>Всем желаем иметь хороший план и беречь финансовое здоровье <tg-emoji emoji-id="5273746607106451794"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F90BE.png')"><b>🐾</b></i></tg-emoji>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/BankruptcyClub/1109</guid>
+      <pubDate>Fri, 31 Jul 2026 04:45:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
