@@ -8,6 +8,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 03 Aug 2026 08:46:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 07:59:44 +0000</lastBuildDate>
+    <item>
+      <title>Мне подарили стикерпак</title>
+      <link>https://telegram.me/goodwinproject/2729</link>
+      <description>Мне подарили стикерпак
+🔥
+
+Как вам?)</description>
+      <content:encoded><![CDATA[Мне подарили стикерпак<tg-emoji emoji-id="5420315771991497307"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')"><b>🔥</b></i></tg-emoji><br/>Как вам?)]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/goodwinproject/2729</guid>
+      <pubDate>Mon, 03 Aug 2026 19:24:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Пост — Юрист в госзакупках | Блог Дмитрия Сидаева</title>
+      <link>https://telegram.me/goodwinproject/2728</link>
+      <description>Пост — Юрист в госзакупках | Блог Дмитрия Сидаева</description>
+      <content:encoded><![CDATA[(нет текста)]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/goodwinproject/2728</guid>
+      <pubDate>Mon, 03 Aug 2026 19:24:03 +0000</pubDate>
+    </item>
   </channel>
 </rss>

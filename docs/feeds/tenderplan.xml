@@ -8,21 +8,34 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 03 Aug 2026 08:47:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 08:00:13 +0000</lastBuildDate>
     <item>
-      <title>😒</title>
-      <link>https://telegram.me/tenderplan/1418</link>
-      <description>😒
+      <title>🛢</title>
+      <link>https://telegram.me/tenderplan/1419</link>
+      <description>🛢
  
-Тендер для своих: как понять, стоит ли бороться за контракт
+ФАС предложила приостановить спецправила расчета НМЦК на топливо до конца года
 
-Заходите в закупку — а там будто все решено заранее: требования под одного производителя, цена почти не меняется, из раза в раз побеждает один и тот же поставщик. Стоит ли участвовать в таком тендере?
+ФАС России направила в Правительство предложение о введении моратория на применение 
+Постановления № 1074
+ и 
+приказа ФАС № 894/24.
+ Если решение утвердят, эти спецправила не будут действовать до 31 декабря 2026 года.
 
-Ответ — надо разбираться и искать причины. Очень многое зависит от ниши и сложившихся на рынке обстоятельств. Не будем отрицать — договорные тендеры есть, но государство активно борется с этим явлением и добивается, чтобы конкуренция была честной.
+Инициатива связана с ситуацией на рынке нефтепродуктов: по данным ФАС, значительная часть закупок топлива не состоялась из-за отсутствия заявок.
 
-📥
- Какие признаки картельного сговора бывают и как анализировать тендеры, чтобы случайно не стать участником такой закупки — рассказали в статье: 
-https://tenderplan.ru/blog/kartielnyi-sghovor-v-zakupkakh/
+Если мораторий введут, закупки топлива вернутся к общим правилам обоснования НМЦК по 44-ФЗ:
+
+🟠
+Для заказчиков: появится возможность гибко формировать цену на основе актуальных коммерческих предложений, а не привязываться к жестким методикам, которые могут отставать от реальной рыночной динамики.
+
+🟠
+Для поставщиков: повышается шанс, что начальная цена в тендерах будет ближе к рыночной. Это снижает риск подачи заявок «в ноль» или демпинга, который потом невозможно исполнить.
+
+Предложение уже направлено Председателю Правительства, но для вступления в силу требуется официальное постановление.
+
+#новости_тендеров
+ 
 
 ☺️
  Telegram
@@ -31,9 +44,9 @@ VК
  |
  
 MAX</description>
-      <content:encoded><![CDATA[<tg-emoji emoji-id="5303360582706015886"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9892.png')"><b>😒</b></i></tg-emoji> <b>Тендер для своих: как понять, стоит ли бороться за контракт</b><br/><br/>Заходите в закупку — а там будто все решено заранее: требования под одного производителя, цена почти не меняется, из раза в раз побеждает один и тот же поставщик. Стоит ли участвовать в таком тендере?<br/><br/>Ответ — надо разбираться и искать причины. Очень многое зависит от ниши и сложившихся на рынке обстоятельств. Не будем отрицать — договорные тендеры есть, но государство активно борется с этим явлением и добивается, чтобы конкуренция была честной.<br/><br/><tg-emoji emoji-id="5363851232815362563"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93A5.png')"><b>📥</b></i></tg-emoji> Какие признаки картельного сговора бывают и как анализировать тендеры, чтобы случайно не стать участником такой закупки — рассказали в статье: <a href="https://tenderplan.ru/blog/kartielnyi-sghovor-v-zakupkakh/" rel="noopener" target="_blank">https://tenderplan.ru/blog/kartielnyi-sghovor-v-zakupkakh/</a><br/><br/><tg-emoji emoji-id="5357171364669187802"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E298BA.png')"><b>☺️</b></i></tg-emoji><a href="https://telegram.me/tenderplan" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"> Telegram</a> | <a href="https://vk.com/tenderplan" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">VК</a> |<a href="https://max.ru/id7325121949_biz" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b> </b>MAX</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/tenderplan/1418</guid>
-      <pubDate>Fri, 31 Jul 2026 09:12:01 +0000</pubDate>
+      <content:encoded><![CDATA[<tg-emoji emoji-id="5303001935756944345"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9BA2.png')"><b>🛢</b></i></tg-emoji> <b>ФАС предложила приостановить спецправила расчета НМЦК на топливо до конца года</b><br/><br/>ФАС России направила в Правительство предложение о введении моратория на применение <a href="http://publication.pravo.gov.ru/document/0001201809180005" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Постановления № 1074</a> и <a href="http://publication.pravo.gov.ru/document/0001202501230018" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">приказа ФАС № 894/24.</a> Если решение утвердят, эти спецправила не будут действовать до 31 декабря 2026 года.<br/><br/>Инициатива связана с ситуацией на рынке нефтепродуктов: по данным ФАС, значительная часть закупок топлива не состоялась из-за отсутствия заявок.<br/><br/>Если мораторий введут, закупки топлива вернутся к общим правилам обоснования НМЦК по 44-ФЗ:<br/><tg-emoji emoji-id="5303454792813666644"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9FA0.png')"><b>🟠</b></i></tg-emoji>Для заказчиков: появится возможность гибко формировать цену на основе актуальных коммерческих предложений, а не привязываться к жестким методикам, которые могут отставать от реальной рыночной динамики.<br/><tg-emoji emoji-id="5303454792813666644"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9FA0.png')"><b>🟠</b></i></tg-emoji>Для поставщиков: повышается шанс, что начальная цена в тендерах будет ближе к рыночной. Это снижает риск подачи заявок «в ноль» или демпинга, который потом невозможно исполнить.<br/><br/>Предложение уже направлено Председателю Правительства, но для вступления в силу требуется официальное постановление.<br/><br/><a href="?q=%23%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_%D1%82%D0%B5%D0%BD%D0%B4%D0%B5%D1%80%D0%BE%D0%B2">#новости_тендеров</a> <br/><br/><tg-emoji emoji-id="5357171364669187802"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E298BA.png')"><b>☺️</b></i></tg-emoji><a href="https://telegram.me/tenderplan" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"> Telegram</a> | <a href="https://vk.com/tenderplan" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">VК</a> |<a href="https://max.ru/id7325121949_biz" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b> </b>MAX</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/tenderplan/1419</guid>
+      <pubDate>Mon, 03 Aug 2026 09:16:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
