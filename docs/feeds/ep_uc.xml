@@ -8,7 +8,58 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 06 Aug 2026 07:59:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 06:42:29 +0000</lastBuildDate>
+    <item>
+      <title>🏛</title>
+      <link>https://telegram.me/ep_uc/5342</link>
+      <description>🏛
+ 
+Судебная практика - суд признал кредитный договор незаключенным в связи с мошенническими действиями с использованием простой ЭП
+
+Решение Ростовского суда
+ вступило в силу. 
+
+Интересно, на что указал суд:
+
+электронная подпись, будучи техническим средством идентификации, не может подменять собой действительную волю лица на принятие кредитных обязательств, особенно в случаях, когда имеются объективные данные о возможных мошеннических действиях третьих лиц.
+
+Суд отметил, что сам по себе факт подписания договора электронной подписью не является безусловным доказательством волеизъявления гражданина, учитывая совокупность установленных по делу обстоятельств.
+
+Какие ещё нужны доказательства, что простая ЭП - 
+профанация электронной подписи
+?
+
+❗️
+Председатель Верховного суда России И.В. Краснов в мае 2026 года 
+поручил
+ российским судам провести масштабный анализ и обобщить судебную практику по делам, связанным с использованием искусственного интеллекта.
+
+@sovetsudey
+ анализ и обобщение судебной практики по делам, связанным с использованием электронной подписи отсутствует.
+
+✍️
+"Об ЭП и УЦ"</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/Ij5d-Arl9vqGqdMZ1RJej9jB9O5Xv1Yk0xDpDMxq9lJs3RXNmFwT-8LLXqFxALed1P-vDEI0uff4rJyK_DtEkcMfPTNGydLNHvoFqiSh2WI8GusucC1jhLq0FCkiTFrTk4JSObPGk-02gXGgnAoYE3fRvzxQrAFGphjqGDM0_O4lKRjuNJWIj3wWEAMswyDK0pYvVGr826jsz4Pm87rvlO9egs1Yr3CSU1Krkm1M8HHd-5R4Mh2YqTY_okW_vYzDan12IfhmTT13lgyye01XH2m5PHfDxk7sHbLrjJox5HG6EwICgZ62P820aLGxU3uNCElQDbOmZSxke0aIBOf-pQ.jpg" /></p>
+<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8F9B.png')"><b>🏛</b></i> <b>Судебная практика - суд признал кредитный договор незаключенным в связи с мошенническими действиями с использованием простой ЭП</b><br/><br/><a href="https://oblsud--ros.sudrf.ru/modules.php?name=press_dep&amp;amp;op=1&amp;amp;did=191" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Решение Ростовского суда</a> вступило в силу. <br/>Интересно, на что указал суд:<br/><blockquote>электронная подпись, будучи техническим средством идентификации, не может подменять собой действительную волю лица на принятие кредитных обязательств, особенно в случаях, когда имеются объективные данные о возможных мошеннических действиях третьих лиц.</blockquote><br/><br/>Суд отметил, что сам по себе факт подписания договора электронной подписью не является безусловным доказательством волеизъявления гражданина, учитывая совокупность установленных по делу обстоятельств.<br/><br/>Какие ещё нужны доказательства, что простая ЭП - <a href="https://telegram.me/ep_uc/3520?single" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">профанация электронной подписи</a>?<br/><br/><tg-emoji emoji-id="5334879084243622321"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29D97.png')"><b>❗️</b></i></tg-emoji>Председатель Верховного суда России И.В. Краснов в мае 2026 года <a href="https://www.vedomosti.ru/society/news/2026/05/27/1200480-sudebnuyu-praktiku-ii" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">поручил</a> российским судам провести масштабный анализ и обобщить судебную практику по делам, связанным с использованием искусственного интеллекта.<br/><br/><a href="https://telegram.me/sovetsudey" target="_blank">@sovetsudey</a> анализ и обобщение судебной практики по делам, связанным с использованием электронной подписи отсутствует.<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5342</guid>
+      <pubDate>Fri, 07 Aug 2026 05:36:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Бухгалтеры</title>
+      <link>https://telegram.me/ep_uc/5341</link>
+      <description>Бухгалтеры
+ и в 2026 году 
+продолжают оставаться
+ главной причиной компрометации ключей электронной подписи. Может им для удобства ещё по 7 ключей разных организаций на один токен записывать? 
+
+Только такие жизненные кейсы с проблемами для бизнеса заставляют руководителей задуматься о 
+последствиях
+, когда уже поздно.</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/PAiMHU4ZFTz0_YJh7OmCtWJ29DqwwpMFlFDlDK-Rv8XaXDTnwF7bvodEz_8czJuhjrmhWcmZOw9CqdEvTecc8oqoKeAZt1VkOGdHJ8L1-hsWcMsLXSw7wmhcy8uULUQO9cDErJJ_AlVw_Pc3Qg9aQ4PKO6omGx8OffGfrNJWE3UFx6Hj9mHEsUZ0rkdFDBTgGjq6vkRMn_-Dn1TNtkcAt6uHxtCC5m8kOPYiwwTPtQVzgdTlLCUE-Nkmk_hhoEw8bT1en4_Wwe2tc_yzw4Xyj4LqAQHHks5vyO6Vb4exUPpXoWuAfZasOZUMAWkRqxVQ03JxrZSiOX8ileAshdbi2A.jpg" /></p>
+<a href="https://telegram.me/ep_uc/3864" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Бухгалтеры</a> и в 2026 году <a href="https://www.klerk.ru/buh/news/703359/?srsltid=AfmBOoojd3SjKaYZjZsMuSxPaU0HB0OXakhrXU8d-qPJ7osCCH791dCH" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">продолжают оставаться</a> главной причиной компрометации ключей электронной подписи. Может им для удобства ещё по 7 ключей разных организаций на один токен записывать? <br/><br/>Только такие жизненные кейсы с проблемами для бизнеса заставляют руководителей задуматься о <a href="https://telegram.me/ep_uc/4908?single" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">последствиях</a>, когда уже поздно.]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5341</guid>
+      <pubDate>Thu, 06 Aug 2026 19:45:12 +0000</pubDate>
+    </item>
     <item>
       <title>📊</title>
       <link>https://telegram.me/ep_uc/5340</link>
@@ -22,7 +73,7 @@
 
 ✍️
 "Об ЭП и УЦ"</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/Q2-Bb81rdKVP7cN01yrSzxDw7DUVt8rI7hbX6i83dUnsjtu-fzy93QrNtCymh0hunR5Wu6xWC2KQrJNKSn8CJS-A-pFl3Ka_aHsvgEs9J7ZnBNOWPwm12FJpqxMNmhXQt5r618W7KJNH0PcfCNMq4m7eanrWOpx5cbNfghw705KtLT_Nxkz4BtZrRZmo7XhPVAS5dPBUU19FxtbbBN2DEAqul2dpc1-PYYe4GUzOBW5rNiMxOvBzw4ohaOdL5q8TKNM0U_WkkYQCycJQqyCKs7jMvRkLVzha1-_fOdw5beSAb61h9Cl_-bZDZW0mjwW4BltiuBLO2HmhUNvNY-d9CA.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/kz9yDCm8TnLbPn4i9vABb1W9IOlMXq6kp63aXJHbCHIcE4XaRKoeyByAQ3668anEps71L4spOadwHKf-dSGCMWuYcUC6hNIsGml_pHATuDeGQzer_S1srhkoxWHBWpLZ1lbwwmxLzcg4ge-eGs3QsRn_l7j1gW9wvQUOzR-hNHx4KhkjeTpASGmgvlyygCeIsQZGFeXdrI-SdOUdQPg6OgQ5un2jBA9TCOsJB11x0Ch0ZfiQYpgJdrOt0YPB5L2fSpQW98FkfCzbjNqFhltcYFCoqt4ptdDKKBHfSpC05EdpnLZ83FptNKZmVISOWKxJ7690INarHQgistg6HFygTA.jpg" /></p>
 <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938A.png')"><b>📊</b></i> <b>Топ-10 аккредитованных удостоверяющих центров за семь месяцев 2026 года<br/></b><br/>За семь месяцев 2026 года выдано около 11,7 млн. квалифицированных сертификатов - на 17 % больше, чем <a href="https://telegram.me/ep_uc/3827" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">год назад</a>. Состав рейтинга аналогичен прошлому году, расположение некоторых УЦ только отличается.<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5340</guid>
       <pubDate>Thu, 06 Aug 2026 05:25:11 +0000</pubDate>
@@ -72,9 +123,9 @@
 
 ✍️
 "Об ЭП и УЦ"</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/HOC8VCEUS605soMWnsw3O3jg1bEgZVwIcr6WqlL56DUXCWWQxfTQppIR5Bf-Q6KAcDirXJ7nwXppupeBHoFC-aY4EO8BoUduKJcGjFtID-o_me-tyRF-kGUUk-qBF_AKN8Y7xl--Cfh3y10dyOAqi2O_W5iWmy3_YQ5SGJi7Mbt5h_6SPx_qqvSaiKuSJfvNnjnPX9QmFlm5l8p5xzjxSvYW1zkgADpx2a_LUcP_GrMNGzTN5ELFm8nmkcpLHYHSjbh8Q8csSiclRE35ow7AUM2jpSA7MI7RpoI6DfQMfLXcn3kXGohrNnwy2wsdA4SaQKmVgA7gjzydAtnKBha2Hg.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/Z_JuDieWSnzVZz8lHkmV-kvJuMOiYZsA1-u8v77kMF44-G3Hm8kAr2mV3ZezJl8PT34bkC4eGedstWYpUs7GUpOHImMVxx8RJ9J_Q3OhKpM_HD1KcwMpQSwE5CuHXapemOV0sei3_1rYNaSCvOLDJIsKtwzyEKtzh0xstZb5lU0_EqhkhkrL-72f0PuEXM2F2iD0DwIxCifdW7g4Xgi4JZ9D28mbW9Yli3qqbBHpfsO9j1_vqqnttPHRc2wz7qH7gVO9x7MIGC14CQZ6i2tlAbIKlYurcm_zWKqP-evIbUN6-axhKUJFfBrg5pXh8_oD7KbcaqkNEMtG_apeHrmvVw.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/kmh4sdwK03SwEaOL_VzZvVEeNUJpjkV4k5HKS-Gmou1TowUb8zt7bcXjOhHDNi39vPhcEBnlRH1alJ1YJWiakq_Z4mlrw4X2uSNWE2UcpEKmKwTZ1_TnJSZYfNhGcuRpsiDsIk6s10CCar7Yob6u04Nj5tnx5JIhoMS5PepwFC27nWoD55APleRBGXCyVm6z58xBOlAeMQsTijSVhxSR6QXcoz-7kkbEYs243HBhriYBkYrWSCvUUNgltkx1o7gbIsNouCtvuo2Gw8ZmLflCYgk2Crdqjku1HtKg8jEiOoo69HUkU4X0VWtlTG6FqoqiUQFge4DnIrI3pQQ5auN7Qw.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/bPsUCapwhpNrCYVz05tCrltO18yvU0FmiUMz2cF1REiPXqOvaRB0F_Wex21W3tMTZb25POOu6CYGh47cMfX4guh0xCkX3HzABDqE_NZ7VFxgfQyfnADq7xKOlpaQTIJas1Bx7Eahi2QfokEXoduvEB2lI2yE97nb__18SeZr9BZABZlNCe60-cpMvEmLp5bTCv_BQQH1ZHHPeAJ_i3VKzrAqBZ5tjPypVAMeiTUY4Meq80wr6NLU2zD9JGj7hKZyYSLb-vcmsLC7h3JNg5eQlHNmR1GorObkOu304NfppRXPHUX5bfqaGVK0UQFNc5xL9P1n65tQnHD-Lhq03WXEIQ.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/Xss_Zjsj6vRg4OYHkfjV8wlS89lwAWeSZUq82C3ATskmgUAFnEl18FY-5MsPziovSCfvuCQVCWBzc4JZGVFEM4v7KoKRUSy86jaPUQkwi0KvMg20Fx3setEBEyUuMuuh37q6JGg8092JVl69TKMZWAZU15ZLUqkYH10xRpZ7jGllVwuiOR0dzJKPME8u1EBKVjmQVvTnVKldGZFR0s2JLoX8OHZbG7nJDzDgjuY1cOoBClCKag2apX-jiWs-m2ooRiwvEIoIxmlhPMDhjZWwUHFeRn6hIu4joO7oL4b9DdB2Pqk5O_-y3d455im9MydgOtRwBKF-jJWJNYm3eZ5XMg.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/L6MLldL8N-6jOCE6gu5GPIrXmlloVrxniM3acFKy_r1eeFTOr5DeLMcYIdtirs5Nwd0xD5c-TFhVda9ke4NtJEkd4AklN4a7f1WgAwxCe86Z1m6QZ3kW7mkcJMOeRWWwTRzDmZs6F70lUQGlbgDzk54ManJ5J6eg3vYtBLEq8_CHKmAIkLKbSXJKr3UvDG1eWO4xWRV6Y3auL5JdjCkdMXrNz7bwXqp7EsFLxSziv8_WYeRKwVNftIOmmw51D7r1bVt0Ubr7ajkKWm1pgj0duKhsX7CUOsJL8GruuT7OzqpKAvcCBjEDtFTTMnJfLyW97AebxJBKRuOODcDi9goNgA.jpg" /></p>
 <a href="https://telegram.me/ep_uc/3927" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">В конце августа прошлого года</a> стало известно, что с 1 сентября 2026 года СФР не будет принимать отчётность страхователей, подписанную с использованием квалифицированных сертификатов, <b>если они не содержат следующие атрибуты</b>: <br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>«Согласование ключей» (keyAgreement) <br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>«Шифрование данных» (Data encipherment) <br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>«Шифрование ключа» (Key encipherment)<br/><br/>Упор - на «Согласование ключей». Что это за атрибут, для чего он нужен и почему СФР начнет его требовать? <br/><br/>Атрибут keyAgreement нужен для выработки общего сессионного ключа между двумя участвующими в обмене документами сторонами. Проще говоря - без него обмен документами по новой технологии будет невозможен.<br/><br/>Почему технология изменилась?<br/>Соцфонд переводит прием отчетности на Единую цифровую платформу социальной сферы, переход <a href="https://sfr.gov.ru/employers/general_information/eflow/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">начался год назад</a>.<br/><br/>Оголтелые бухгалтеры и операторы ЭДО, без понимания кому и что менять, уже погнали всех своих клиентов на получение новых сертификатов. Мало им весны было. Например, Тензор, даже если используется сертификат, который содержит все необходимые атрибуты, всё равно присылает уведомление при каждом отчёте и не являясь <a href="https://www.nalog.gov.ru/rn77/related_activities/ucfns/dlucfns/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">доверенным лицом УЦ ФНС России</a> предлагают <a href="https://telegram.me/ep_uc/4590" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">бесплатную услугу</a> по получению новых сертификатов за 4 тыс. руб.<br/><br/>Новые сертификаты в УЦ ФНС России нужно получать только тем клиентам, если им конечно нужно сдавать отчётность в Соцфонд, если <a href="https://lk.gosuslugi.ru/settings/electronic-signatures" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">их сертификат</a> был <a href="https://telegram.me/ep_uc/3927?comment=162583" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">получен до 28.08.2025</a> (УЦ добавил атрибут после поста в нашем канале...). С остальными госУЦ и коммерческими АУЦ, как правило, проблем нет.<br/><br/>Почему второй раз за год появляется необходимость преждевременной смены сертификатов и можно ли это было исключить?<br/><br/>Если бы сроки сертификатов были 12 месяцев, то к концу августа все ранее выданные сертификаты просто бы истекли и были в плановом порядке заменены новыми. Но сроки сертификатов 15 месяцев, поэтому под замену теоретически попадают все сертификаты, полученные за три месяца лета прошлого года (а это 1,4 млн. между прочим). Если бы Соцфонд оповестил о своем требовании к сертификатам не в конце лета прошлого года, а в конце весны - проблемы бы не было.<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5337</guid>
       <pubDate>Wed, 05 Aug 2026 18:50:07 +0000</pubDate>
@@ -121,7 +172,7 @@
 
 ✍️
 "Об ЭП и УЦ"</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/fkeOSEO0SPFVQzfup2jts_gHZBrwoNRUaYMAem8Bdgh0QhdENSCJ6_7eoaI8JY-Lw4OJfXP13kFQLr1AmgbH145TTorHh9VEElpiJj3S9P1zw4tb7JdteuS17Q8aepUp6BH1pE9zQMjt909355vHSxGcttWa-pYzhNu6fktFjzbdOQjUUytAZIdUnXxLfopDO-UY8zzBWAS3SjjTL_hdSDokcAJsgqF5ZpzJfKvx8dgeEiTz4d0jKvpJmbpiUfL7JlZq6rUDidwLqQywxq0ROOTAxZNqgCu1tKXsK1LlMKOeWukmtJlL5fZq-x0lZBMz_bwXSqF9UlyhZZ7_tQVWUQ.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/oJ9eoDcSt7-9h1WJ3KE7rk_KdjF-MNcRfSBBI0S9nNOJx69oKhXiEDxQYv3Q8M5tMN2IHydoA1xAoFO7RkjG8WKUxmQzRY4ejyozBfPhBusKat2gELb3OKhG8ebbjLzaaDwTFzREt5DRxB08WyUWJ2IlHMjHzXE3PuOwkzhDl7VEU-jLH23aHtaMtKjaOJ2eY14PUiWCe_GGdaYI8a2bHWgka6rB4VTulB9UZ1FGO6J30umG0dbMzZomMefQvw25yijBdWDE2mqP-cOrbyHYkWTqi9qrspncYddrNIRzc2YIpzCub4JnFHVZlKlFMcK6EIPM8VtB0R-9JV-LHrrTIQ.jpg" /></p>
 <b>Электронная подпись 2027: основные изменения</b><br/><br/>Вчера был подписан <a href="https://telegram.me/ep_uc/5334" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Федеральный закон № 315-ФЗ</a> с важными поправками в 63-ФЗ "Об электронной подписи". Документ вступает в силу с 1 сентября 2027 года (не забываем , что 1 марта 2027 года вступает в силу <a href="https://telegram.me/ep_uc/5197" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">норма о Национальном удостоверяющем центре</a>), тезисно разберём основные изменения 315-ФЗ:<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> На первую позицию я поставлю изменение способов идентификации при выдаче квалифицированных сертификатов, закон вводит дифференцированный подход для резидентов и нерезидентов:<br/>- Граждане России, самый широкий спектр: лично, действующий квал, ЕСИА+ЕБС, загранпаспорт нового поколения (технология монополизирована Госключом).<br/><b>- Нерезиденты (иностранные граждане и лица без гражданства) при получении сертификатов в УЦ ФНС России - </b><a href="https://telegram.me/ep_uc/5334?comment=224528" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b>ТОЛЬКО</b></a><b> онлайн через ЕБС.</b><br/>- Нерезиденты (иностранные граждане и лица без гражданства) при получении сертификатов в УЦ ФК и Банке России: лично, через ЕБС или действующий квал.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> В состав заявителей включены международные (межправительственные) организации, их филиалы и представительства, для них прописаны отдельные правила выдачи сертификатов и идентификации в УЦ ФНС России.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> Вводится единая форма машиночитаемой доверенности (МЧД), формат размещается на Госуслугах. Дополнительные формы могут разрабатывать операторы ГИС, Банк России и Федеральная нотариальная палата, но все они должны соответствовать единым требованиям.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> Недостоверность адреса в ЕГРЮЛ не является основанием для отказа в выдаче квалифицированного сертификата.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> В сертификате теперь указывается "фамилия и (или) имя" вместо строгого "фамилия, имя, отчество". Это упрощает идентификацию иностранцев, у которых может быть только одно имя, и снимает противоречие с Гражданским кодексом.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> КПП обязателен для иностранных и международных организаций, их филиалов и представительств.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> Для документов на иностранном языке обязателен нотариально перевод, раньше это было рекомендацией, теперь стало требованием.<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5336</guid>
       <pubDate>Wed, 05 Aug 2026 05:53:23 +0000</pubDate>
@@ -145,7 +196,7 @@
 [ССЫЛКА]
 
 Бизнесу быть!</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/EiclIF_Fk5SSEXnAzLxSn9_ZsSZ5TG9K_ANnOrHKUvqLL878XlKxYoPLI14B2TpVCuuNzAvrahOeSCxG2dnLzrXeZFxzqXB2rHXntY-Z5eGd7bmzqL0s6nXZiX-QSBzf-JZkyQhXGoLkbVOd6P7r3byEAcwKV0EgQf6cf00litOU4C5eMyCwBSZNEtxuehTmnHnCXlBBvuIp6cC_dvMWIGbXN8sOeTX_fSeJZ6IfBmUUVObHYg2PIhS32V73auEKDLD4fWJTp3xsDfXSmfk74Gnw3dd8jByS1FdfL_P_J4AHBuTROX9Y_C2vauC-4EwttyC39OwHfFIC7DAgbTjFGg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/LcuhevpL2rKyueqKmGwhj3bdhPAGtMRY1TKKVB7uqK5A_p-43OUB7CK633VU5Yqlvuk1MZXZhSuH1AwLhWfMhJeBIxeXyT-4eWgmZa3dLy-BmdsWONLhdOc10BoStBFY9JzFXByiDOdrGOfdMvM8RgUtizObozuMq59ggJ2YZqHa5WHrChyvl88RjHF1dpYA3M19mkCWZ7z7rCd3zVUvVPD-Tyd1rGMXJ_EIXywwxOA40drcbVdG9Jffc32DTV2aTwV2O9fdN00fkPCHee1CITAhnBePYqvF5RbP2plAwpc93phb-Zi55hfveLUhQXbWXBduQuJkZXobhXPstD_lTA" /></p>
 Буксуете из-за перехода на ЭПД? Все ответы в одном месте — вместе вывезем!<br/><br/>Точка Банк запускает серию бесплатных эфиров для всех участников грузоперевозок. Без теории - прямое включение из кабины грузовика, разбор реальных ситуаций на погрузке, в рейсе и при приёмке.<br/><br/>Подключитесь 12 или 13 августа, чтобы:<br/>- разобраться с электронной подписью для водителей,<br/>- узнать, как регистрироваться в ГосЛоге,<br/>- и избежать простоев на разгрузке.<br/><br/>Участие бесплатное. Регистрация по ссылке: <a href="https://tochka.com/rko/easy-epd/?utm_source=influence&amp;amp;utm_medium=ep_uc&amp;amp;utm_campaign=conf-epd&amp;amp;utm_content=04.08" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">[ССЫЛКА]</a><br/><br/>Бизнесу быть!]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5335</guid>
       <pubDate>Tue, 04 Aug 2026 16:05:31 +0000</pubDate>
@@ -170,110 +221,6 @@
       <content:encoded><![CDATA[<tg-emoji emoji-id="5470094069289984325"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93A3.png')"><b>📣</b></i></tg-emoji><b>Подписан </b><a href="http://publication.pravo.gov.ru/document/0001202608040021" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b>Федеральный закон от 04.08.2026 № 315-ФЗ</b></a><b> "О внесении изменений в Федеральный закон "Об электронной подписи"</b><br/><br/>После <a href="http://publication.pravo.gov.ru/document/0001202606260070?index=1" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">210-ФЗ</a> - <a href="https://telegram.me/ep_uc/5197" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">закона о НУЦ</a>, это второе в этом году <a href="https://telegram.me/ep_uc/5263" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">изменение 63-ФЗ.</a><br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5334</guid>
       <pubDate>Tue, 04 Aug 2026 14:47:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Отсутствие</title>
-      <link>https://telegram.me/ep_uc/5333</link>
-      <description>Отсутствие 
-ИТ-журналистики
- в нашей стране, когда авторы статей пишут без понимания деталей сферы, приводит к многочисленным ошибкам:
-
-🔹
- 
-Cnews путает
- Минцифры с ФСБ
-
-🔹
- РБК - 
-КЭП с НЭП
-, когда пишет про цифровой рубль
-
-🔹
- SecPost обычное техническое продление НПА, которые давно действуют для нашей сферы, 
-выдают за какую-то реформу
- и "ужесточение требований к УЦ", а опрошенные ими так называемые эксперты говорят про "консолидацию рынка" - куда ещё больше?
-
-🔹
-РГ всех обошла
-, из вчерашнего интервью:
-
-Сергей Боярский: Убежден, что в Думе IX созыва нужно будет совместно со всеми участниками думать о законодательном обеспечении работы национального удостоверяющего центра, который будет выпускать собственные сертификаты. Это не может произойти единомоментно, но этот путь пора начинать, так как недружественные действия развиваются. Считаю эту работу абсолютно необходимой.
-
-Что они собрались законодательном обеспечении, когда
- норма о НУ
-Ц была внесена Федеральным законом "Антифрод 2.0"
- от 26.06.2026 № 210-Ф
-З, а принятие подзаконных актов это уже вопрос в компетенции Правительства и ФОИВ, а не Госдумы. "Этот путь пора начинать"... этот путь 
-начат 10 лет назад
-, его давно пора уже закончить.</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/hx9tJ7cfgxfjYjUWSEvjbkxwDTTaneoEO5HlN6ZDZUBIikMhZHAWLcR8Il0BBgkLmWfDnIzy9OOuxsV3_TcpmtO6uybePCYIx-8ixoa0mxCsNScxLnu7koJI0qmSA95qH0GWVP3rBAf4FjBHXVnlLjhXvXlBbh1NBiLqcdQvDAkai9K0ZORdRfRzLVRuxnJGFzprPdEy-xT4FvEX4orMnAmD3PmXWGZds6FG5cmpGV9aTxHoqMvM0s8jMce1GXkUtAmh8T6t4rJiG3SGd7D0EWdcocbGVsQnGsEYrGMsnrcZsoZlBg8dpAj0UerTw8VisNKgA_jMUfOGTsFx57vKZQ.jpg" /></p>
-Отсутствие <a href="https://telegram.me/ep_uc/4430" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">ИТ-журналистики</a> в нашей стране, когда авторы статей пишут без понимания деталей сферы, приводит к многочисленным ошибкам:<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> <a href="https://telegram.me/ep_uc/5297" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Cnews путает</a> Минцифры с ФСБ<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> РБК - <a href="https://telegram.me/ep_uc/4904" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">КЭП с НЭП</a>, когда пишет про цифровой рубль<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> SecPost обычное техническое продление НПА, которые давно действуют для нашей сферы, <a href="https://telegram.me/c/1691316533/224212" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">выдают за какую-то реформу</a> и "ужесточение требований к УЦ", а опрошенные ими так называемые эксперты говорят про "консолидацию рынка" - куда ещё больше?<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i><a href="https://rg.ru/2026/08/03/forma-dialoga.html" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">РГ всех обошла</a>, из вчерашнего интервью:<br/><blockquote>Сергей Боярский: Убежден, что в Думе IX созыва нужно будет совместно со всеми участниками думать о законодательном обеспечении работы национального удостоверяющего центра, который будет выпускать собственные сертификаты. Это не может произойти единомоментно, но этот путь пора начинать, так как недружественные действия развиваются. Считаю эту работу абсолютно необходимой.</blockquote><br/><br/>Что они собрались законодательном обеспечении, когда<a href="https://telegram.me/ep_uc/5197" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"> норма о НУ</a>Ц была внесена Федеральным законом "Антифрод 2.0"<a href="http://publication.pravo.gov.ru/document/0001202606260070?index=18" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"> от 26.06.2026 № 210-Ф</a>З, а принятие подзаконных актов это уже вопрос в компетенции Правительства и ФОИВ, а не Госдумы. "Этот путь пора начинать"... этот путь <a href="https://telegram.me/ep_uc/3796" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">начат 10 лет назад</a>, его давно пора уже закончить.]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5333</guid>
-      <pubDate>Tue, 04 Aug 2026 05:10:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>🚨</title>
-      <link>https://telegram.me/ep_uc/5332</link>
-      <description>🚨
- 
-Массовый отзыв TLS-сертификатов в российском сегменте 3 августа или "НеTrustAsia
-" 
-
-Сегодня произошел очередной массовый отзыв сертификатов безопасности УЦ TrustAsia Technologies, Inc. (LiteSSL RSA CA 2025) в период с 10:30 до 11:30 по UTC.
-
-В перечне - крупнейшие финансовые и промышленные структуры:
-
-🔹
- Банки: Сбербанк, ВТБ, Т-Банк, Росбанк, БСПБ, УБРиР, Совкомбанк, ПСБ, Абсолют Банк, Новиком, Экспобанк, РСХБ, Фор-Банк и др.
-
-🔹
- Корпорации: Роснефть, Алроса, Геоскан, ПТ-Безопасность, СИНАРА.
-
-🔹
- Дочерние сервисы: платежные шлюзы, системы ДБО, CDN, корпоративные порталы (
-pay.pscb.ru
-, 
-online.sberbank.ru
-, 
-tbank.ru
- и т.д.).
-
-Большинство сертификатов отозвано в одну минуту (11:30:30–36 UTC) - это явно не ручное действие, а автоматизированный отзыв. Причина - Privilege Withdrawn (отзыв привелегий, стандартная для таких ситуаций).
-
-Но фоне отзывов и миграции на сертификаты НУЦ - количество действующих сертификатов НУЦ 
-впервые превысило
- 12 тыс. и составило 12161 шт., общее количество выданных -  29376 шт.
-
-✍️
-"Об ЭП и УЦ"</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/E7z4QsE_Ip0W008naLPq7gbehjeAd5DcVGRkgg-oXlC8BEdG-SzVQwxqz59kWvUlA1Kpv_C5Nb_cqlonaVfEDVBIykvXHPtVeZwI2NINTSN-npoXUWuYeW1mnDhWsZcnMnEtsN66La8S-JGhVbUqrSd0nraHbMFkSxUBeWed-b6mVlne_GBtEO1zgDAtrAvRt2i0vfVM8dHO81aRuG1NV4xzNAhxqPDzzY4lF_MNkPRJ0HXky7kQrnLoI0KuhR9tAxEpfjVhLpppo2tx5l-VYGRenUTE9nnDOFK_kCy4cfkrv5tkHLqVm-quISnPh2Tc9jg2MaclMwGK0Cpon_Lsrg.jpg" /></p>
-<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')"><b>🚨</b></i> <b>Массовый отзыв TLS-сертификатов в российском сегменте 3 августа или "НеTrustAsia</b>" <br/><br/>Сегодня произошел очередной массовый отзыв сертификатов безопасности УЦ TrustAsia Technologies, Inc. (LiteSSL RSA CA 2025) в период с 10:30 до 11:30 по UTC.<br/><br/>В перечне - крупнейшие финансовые и промышленные структуры:<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> Банки: Сбербанк, ВТБ, Т-Банк, Росбанк, БСПБ, УБРиР, Совкомбанк, ПСБ, Абсолют Банк, Новиком, Экспобанк, РСХБ, Фор-Банк и др.<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> Корпорации: Роснефть, Алроса, Геоскан, ПТ-Безопасность, СИНАРА.<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> Дочерние сервисы: платежные шлюзы, системы ДБО, CDN, корпоративные порталы (<a href="http://pay.pscb.ru/" rel="noopener" target="_blank">pay.pscb.ru</a>, <a href="http://online.sberbank.ru/" rel="noopener" target="_blank">online.sberbank.ru</a>, <a href="http://tbank.ru/" rel="noopener" target="_blank">tbank.ru</a> и т.д.).<br/><br/>Большинство сертификатов отозвано в одну минуту (11:30:30–36 UTC) - это явно не ручное действие, а автоматизированный отзыв. Причина - Privilege Withdrawn (отзыв привелегий, стандартная для таких ситуаций).<br/><br/>Но фоне отзывов и миграции на сертификаты НУЦ - количество действующих сертификатов НУЦ <a href="https://precert.ru/stat/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">впервые превысило</a> 12 тыс. и составило 12161 шт., общее количество выданных -  29376 шт.<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5332</guid>
-      <pubDate>Mon, 03 Aug 2026 20:04:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>📣</title>
-      <link>https://telegram.me/ep_uc/5328</link>
-      <description>📣
-Минцифры продляет свои приказы до 2032 года
-
-Минцифры вслед за 
-ФСБ
- также 
-продляет 6 своих приказов
- до 1 сентября 2032.
-
-Все шесть данных приказов были указаны в рамках 
-"Проблемы 2027"
-.
-
-✍️
-"Об ЭП и УЦ"</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/qtG_D1JUIdlI4aXz8Z6HxrzdAsOSEV43xs42EZzpYeGV-dxn5xmuvYcXqqGNraZ6sGnlIkW0n55kYd3wWSKj_v3uzyQRUUzmJ121GKc2tc1xW-TcqWzKPXy5rMZRI01aSJk9dgonJDCE3HrWWAXj7nO_WXooYoWhMFI8QHLvwrJhKBTWmZfQAtdl4Nqwfb3Int29tjWI5o1pon-oMvaf68L2fG35N5wZ09abRqTwY_Vn3VafU2ntjCbVt63RX2s0CClTN4uZbO3Ban75du43iD6lhZ4e1hNhvoV11bsLht8VG7cTfBZ_AjfXByauDNK1M9nz9qpuFGIt0RSHGfoZ8g.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/gzrgdzCUiwle5zZ6Z2fD3wSefHdsc5Ez0KJ6u2VATO9Kp6koV4r1wElas3LKFvSdMZ1M1EiuzjltNrR3SwhJ33EI3LyPmBA3jhQq0h2RK7hjfvwF7M3762dUpoR31KuGriBhd7DWrJIGeNKBFTPcC8dfJNHkjcniGp7z75Lohg5ctqWe-c0YDzKs-UngkDbAImmoGIalzeMmBxfsYSDciKxlhdXR2pGZeDdCI-pHsdmYaZVVdEk8t9GZbCjNAGUWINgYscWHcqQ624hElIgIDk4TzVIf5e5hrgIiyHKspXTGQcjQqNUaoU_oZZLJVM4TwR_nUdSyKwuxZ7RUNX9Mgw.jpg" /></p>
-<tg-emoji emoji-id="5470094069289984325"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93A3.png')"><b>📣</b></i></tg-emoji><b>Минцифры продляет свои приказы до 2032 года</b><br/><br/>Минцифры вслед за <a href="https://telegram.me/ep_uc/5315" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">ФСБ</a> также <a href="https://regulation.gov.ru/projects/169814" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">продляет 6 своих приказов</a> до 1 сентября 2032.<br/><br/>Все шесть данных приказов были указаны в рамках <a href="https://telegram.me/ep_uc/4111" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Проблемы 2027"</a>.<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5328</guid>
-      <pubDate>Mon, 03 Aug 2026 10:46:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
