@@ -8,39 +8,23 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 10 Aug 2026 06:49:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 06:12:47 +0000</lastBuildDate>
     <item>
       <title>Уважаемые пользователи!</title>
-      <link>https://telegram.me/remd_egisz/883</link>
+      <link>https://telegram.me/remd_egisz/884</link>
       <description>Уважаемые пользователи!
 
 🔹
-Сообщаем, что 
-10.08.2026
- в 
-тестовой
- среде РЭМД будут применены доработанные пакеты XSD-схем, в промышленной среде они начнут действовать с 
-09.09.2026
- для следующих СЭМД. 
+Сообщаем, что 10.08.2026 в тестовой среде РЭМД применены доработанные пакеты XSD-схем, в промышленной среде они начнут действовать с 09.09.2026 для следующих СЭМД.
 
 Перечень изменений приведен в файле "Список изменений.docx" документации СЭМД на портале оперативного взаимодействия участников ЕГИСЗ.
 
-СЭМД (308) Выписной эпикриз из родильного дома (CDA) Редакция 5
+СЭМД (164) Экстренное извещение об инфекционном заболевании, пищевом, остром профессиональном отравлении, необычной реакции на прививку (CDA) Редакция 2
 
-https://portal.egisz.rosminzdrav.ru/materials/5027</description>
-      <content:encoded><![CDATA[Уважаемые пользователи!<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>Сообщаем, что <b>10.08.2026</b> в <u>тестовой</u> среде РЭМД будут применены доработанные пакеты XSD-схем, в промышленной среде они начнут действовать с <b>09.09.2026</b> для следующих СЭМД. <br/>Перечень изменений приведен в файле "Список изменений.docx" документации СЭМД на портале оперативного взаимодействия участников ЕГИСЗ.<br/><br/><b>СЭМД (308) Выписной эпикриз из родильного дома (CDA) Редакция 5</b><br/><a href="https://portal.egisz.rosminzdrav.ru/materials/5027" rel="noopener" target="_blank">https://portal.egisz.rosminzdrav.ru/materials/5027</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/remd_egisz/883</guid>
-      <pubDate>Fri, 07 Aug 2026 17:00:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Уважаемые пользователи!</title>
-      <link>https://telegram.me/remd_egisz/881</link>
-      <description>Уважаемые пользователи!  
-🔹
-Сообщаем, что 10.07.2026 в тестовой среде РЭМД будут применены доработанные схематроны, в промышленной среде они начнут действовать с 09.08.2026 для следующих СЭМД.  Перечень изменений приведен в файле "Список изменений.docx" документации…</description>
-      <content:encoded><![CDATA[Уважаемые пользователи!  <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>Сообщаем, что 10.07.2026 в тестовой среде РЭМД будут применены доработанные схематроны, в промышленной среде они начнут действовать с 09.08.2026 для следующих СЭМД.  Перечень изменений приведен в файле "Список изменений.docx" документации…]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/remd_egisz/881</guid>
-      <pubDate>Fri, 07 Aug 2026 08:12:25 +0000</pubDate>
+https://portal.egisz.rosminzdrav.ru/materials/4425</description>
+      <content:encoded><![CDATA[Уважаемые пользователи!<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>Сообщаем, что 10.08.2026 в тестовой среде РЭМД применены доработанные пакеты XSD-схем, в промышленной среде они начнут действовать с 09.09.2026 для следующих СЭМД.<br/>Перечень изменений приведен в файле "Список изменений.docx" документации СЭМД на портале оперативного взаимодействия участников ЕГИСЗ.<br/><br/>СЭМД (164) Экстренное извещение об инфекционном заболевании, пищевом, остром профессиональном отравлении, необычной реакции на прививку (CDA) Редакция 2<br/><a href="https://portal.egisz.rosminzdrav.ru/materials/4425" rel="noopener" target="_blank">https://portal.egisz.rosminzdrav.ru/materials/4425</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/remd_egisz/884</guid>
+      <pubDate>Mon, 10 Aug 2026 14:22:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
