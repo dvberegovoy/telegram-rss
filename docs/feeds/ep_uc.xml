@@ -8,11 +8,60 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 12 Aug 2026 06:51:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 06:54:06 +0000</lastBuildDate>
     <item>
-      <title>Со вчерашнего дня недоступны CRL двух УЦ (по факту конечно это один УЦ для тахографов):</title>
+      <title>Прошло более двух месяцев со дня вступления в силу приказа Минцифры от 05.11.2025 № 1001 об измен…</title>
+      <link>https://telegram.me/ep_uc/5366</link>
+      <description>Прошло более двух месяцев со дня вступления в силу приказа Минцифры от 05.11.2025 № 1001 об изменениях единых требований к формам МЧД, необходимых для использования квалифицированной электронной подписи. Единый формат версии 003 и схема ещё не актуализированы.…</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/vI1J2Jj6PtoVSoQsVV0IH9OPoyVfwciw3DpVBhUkR7XOIUVN4RLS-m9oieJDc9X2WWlc9nv6JSaR94NXM7md368c03oK6yYFqji5OLOGCVZrr6AAHUdtIju1aJfEEFWng7-7UEZ8D_GnxQV-OTccgdvN2lIBK_xtqFCBvLyvh61kvQ2lxwwDbh7PjIrek7AFdRc34ZlN3H_f_1iLuBoSKNhmjBeQos7JYRjUtFgRGxxoTyB_bgvX81Rk1XslMwNjUwwuInzJmm6eEAXT0I8vGWp6Ii9DmOXiUTszYIa6DSkaVHyMTJVr0ANLWOrCkzwcSGZBszs_KgPt-Ih9jZI46A.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/pok3c8duWuYoGj9Nqrj0aqxkS6Cam3K9n2UX6efHTpG8N3yHp14sOoP_eJ-iKUK7RhHX_hND45MJwjVMgayAvK6-a1vuXOhWRSYrZlfm1A0L_dYUkQC9vYAkeHPRpuuys6LYw-tcC_DgVYOyBwsye6Yv1PBssVH6CJzSFQM1prn-hkZJaQ_7euX6_xrRdWzjFtnWG-T3Wr_003yMuEBz_yPilK7tv7y5bb97utU09F7_A-NkQaOoXBpr8CoOzks2DwHA91-WWXpYtIuj8Xx4jYUFYlkUbXNJtJGeNcmf7X9J_TJb25w15D0JXyDU5vUtRQFpl6AzAkHXxWCj13miew.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/AVwSAD6hj98fljwxDkxvzL0ZaHCHIgMLwlc0jgqAqsLbKg9rtLY163E5aRua8OdelYLo8FdwKFc3ov4mjWGhCG6iBUyPhMWy3fbojKRpoXzgyHCrB4nAdLLIjO0f_oHHqI-CdauvFBP3OafMrQVvS8K0JxrlyOdc5kjtWFL8VG06XYrlAelBVfboLKLUG484PPy1Ygbwii7L3j7enVRiU1NHgiN7MscXlOJJ7-Jy9W3s1lfYxEfKRt1TopngMEM5GD68UVXgQOI4QwFHgZ3XNY2-tdDhxQ14Jdcicrtay3zuYGXE6pNozTVLKL9fpNYKoU1rDDQIQ9MAkDkpPV5wcg.jpg" /></p>
+Прошло более двух месяцев со дня вступления в силу приказа Минцифры от 05.11.2025 № 1001 об изменениях единых требований к формам МЧД, необходимых для использования квалифицированной электронной подписи. Единый формат версии 003 и схема ещё не актуализированы.…]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5366</guid>
+      <pubDate>Thu, 13 Aug 2026 05:00:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Один ключ, чтобы править всеми: как "упрощение" в API привело к нарушению конфиденциальности</title>
+      <link>https://telegram.me/ep_uc/5365</link>
+      <description>Один ключ, чтобы править всеми: как "упрощение" в API привело к нарушению конфиденциальности
+
+Представьте, что у всех квартир в огромном небоскрёбе - один и тот же замок. И ключ от вашей двери подходит к двери вашего соседа, к двери президента компании и даже к двери в подсобку. Звучит как безумие, правда?
+
+Но именно так, по сути, работают системы "зашифрованных рассуждений" в современных LLM.
+
+Недавнее исследование (июль 2026)
+ вскрыло архитектурную уязвимость у Anthropic, OpenAI и Google. Чтобы сэкономить на серверном хранении, провайдеры прячут "цепочки мыслей" (Chain of Thought) своих флагманских моделей в зашифрованные блоки и отдают их клиенту на хранение. Эти блоки должны были защищать интеллектуальную собственность. Но инженеры допустили ошибку: они использовали глобальный ключ для всех.
+
+Исследователи пишут:
+
+Чтобы обеспечить переносимость трасс рассуждений между вызовами моделей, наши эксперименты показывают, что провайдеры, по-видимому, используют один глобальный ключ для шифрования и аутентификации каждого блока рассуждений.
+
+Что это значит на практике:
+
+🔹
+Кросс-модельный джейлбрейк - то есть блок мыслей от защищённой модели Opus 4.8 можно отдать слабой модели Haiku 4.5. Поскольку ключ общий, Haiku без проблем расшифровывает и выдаёт все секретные размышления Opus дословно.
+
+🔹
+Извлечение данных других пользователей, т.к. один ключ означает, что блок из вашей сессии можно расшифровать в чужой сессии. Исследователи просканировали GitHub, нашли 315 320 таких блоков и извлекли оттуда 62 реальных ключа API, 33 пароля и личные данные.
+
+🔹
+Используя один ключ, можно внедрить в общий блок вредоносную инструкцию. Пользователь, подхвативший такой "отравленный" блок, невольно выполнит её, думая, что это его собственные мысли.
+
+Найденная уязвимость - не ошибка в алгоритме шифрования, а ошибка архитектуры. Разработчики пожертвовали изоляцией ради удобства (бесшовное переключение моделей и отсутствие серверной памяти), сделав всю экосистему уязвимой через самое слабое звено.
+
+Провайдеры уже получили отчёт и закрыли брешь. Но этот случай - суровое напоминание: в криптографии "один ключ на всех" - никакое не упрощение, а настоящая проблема.
+
+@ep_uc</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/n_xlxbAOBnzDkWWYfIxmsITWDABfhnvG_r-H6UImZCkA3cpfOl8f9vwA_7pKGCDRiC5TEsuPzrGEa_qZlM4QPct0Cr_LXQivuGcNRASsIxZffpMaYtIqkFZqbtM5z2O0N4CObpoIiGZGKT7XYEp8uWfdAaud_sK7fywXilSYEi-iF9fAaw11V64YHRvu5uiPa4EIe2kzTY_5RCQOr5LypgqoihrH_Uj9oqrsYN50yEOQL3cjKdRYSFL0SM7VCNFlLIExC8ilzM7Bnocw9ENK5U-bN_GEkdgvVKg2S1frKilfnYkTU2OawLVCqumPzMy1XvcTbWf-CGKB9reJ2AYgDQ.jpg" /></p>
+<b>Один ключ, чтобы править всеми: как "упрощение" в API привело к нарушению конфиденциальности<br/></b><br/>Представьте, что у всех квартир в огромном небоскрёбе - один и тот же замок. И ключ от вашей двери подходит к двери вашего соседа, к двери президента компании и даже к двери в подсобку. Звучит как безумие, правда?<br/>Но именно так, по сути, работают системы "зашифрованных рассуждений" в современных LLM.<br/><br/><a href="https://arxiv.org/abs/2608.09867" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Недавнее исследование (июль 2026)</a> вскрыло архитектурную уязвимость у Anthropic, OpenAI и Google. Чтобы сэкономить на серверном хранении, провайдеры прячут "цепочки мыслей" (Chain of Thought) своих флагманских моделей в зашифрованные блоки и отдают их клиенту на хранение. Эти блоки должны были защищать интеллектуальную собственность. Но инженеры допустили ошибку: они использовали глобальный ключ для всех.<br/><br/><b>Исследователи пишут:</b><br/><blockquote>Чтобы обеспечить переносимость трасс рассуждений между вызовами моделей, наши эксперименты показывают, что провайдеры, по-видимому, используют один глобальный ключ для шифрования и аутентификации каждого блока рассуждений.<br/><br/></blockquote>Что это значит на практике:<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>Кросс-модельный джейлбрейк - то есть блок мыслей от защищённой модели Opus 4.8 можно отдать слабой модели Haiku 4.5. Поскольку ключ общий, Haiku без проблем расшифровывает и выдаёт все секретные размышления Opus дословно.<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>Извлечение данных других пользователей, т.к. один ключ означает, что блок из вашей сессии можно расшифровать в чужой сессии. Исследователи просканировали GitHub, нашли 315 320 таких блоков и извлекли оттуда 62 реальных ключа API, 33 пароля и личные данные.<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>Используя один ключ, можно внедрить в общий блок вредоносную инструкцию. Пользователь, подхвативший такой "отравленный" блок, невольно выполнит её, думая, что это его собственные мысли.<br/><br/>Найденная уязвимость - не ошибка в алгоритме шифрования, а ошибка архитектуры. Разработчики пожертвовали изоляцией ради удобства (бесшовное переключение моделей и отсутствие серверной памяти), сделав всю экосистему уязвимой через самое слабое звено.<br/><br/><b>Провайдеры уже получили отчёт и закрыли брешь. Но этот случай - суровое напоминание: в криптографии "один ключ на всех" - никакое не упрощение, а настоящая проблема.</b><br/><br/><a href="https://telegram.me/ep_uc" target="_blank">@ep_uc</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5365</guid>
+      <pubDate>Thu, 13 Aug 2026 04:41:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>❌</title>
       <link>https://telegram.me/ep_uc/5358</link>
-      <description>Со вчерашнего дня недоступны CRL двух УЦ (по факту конечно это один УЦ для тахографов):
+      <description>❌
+Со вчерашнего дня недоступны CRL двух УЦ (по факту конечно это один УЦ для тахографов):
 
 🔹
 Модум - 
@@ -20,10 +69,13 @@ https://e-trust.gosuslugi.ru/registry/accreditation/1177746857045
 
 🔹
 Атлас Карт - 
-https://e-trust.gosuslugi.ru/registry/accreditation/1037714042596</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/SXcF7d6ZkABSrWSzEh74eWwdaQH02PSmL0tznituDiIsqlMaG8egfxG7of4mNizt1822G-jz8xCifiHjm7P_2aMZRDPhm1drgAM18qd6g8cQnr_kz41bLNdV_5nNIXv_3VBvcYNS5rPm8NM9LEizWKnIvIGkqObtZRAsGYo3F4VxBobKeh2j05eGow3iO9o96ofnrKnWGNmWMW3wy07xy9HpKUvuJqjJ_ItfwVyLl__P61XqEzCwvmQkKtqlF0C1raE39tTYYQjqYH9xAm25-mFVKaa8mThMsu-KtZWxlRNAUAccPf8vNazpmGo9cKYa8bPPecaZE5IwFFUvGKPlkA.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/tBEsuOWYTQxhq3a-eIzDDnG7EQkmupwqkKjvnkXlIKVssNOfOj5GpfQ1ksX_Y8BsFPdyTpQfu_BDyl3RNGbAGUM0V-omGDOqwJvd-XZk6pBcJcqUKwsgVD4Mg_oGd86t3xBV6Po2rUGFpurHs-j1wVbKdvo0KQ-DiwNW0M535AVSCIOvy5mGUspAxTGov3EfJyDpAOluD5xzaO1vU3hO4wMUbDWKCMoTZJIwfEyyX7vmXuZ0o7IW5WfJJlZXwQxxQoeLfJA8Laj71Mufq2yc17BVajLvP-IUoC691iSSm1rebdva9NVSmD3dnu2oMMpBqIzgEhtmKZtdI7RGkKsVwQ.jpg" /></p>
-<div class="tgme_widget_message_text js-message_text" dir="auto">Со вчерашнего дня недоступны CRL двух УЦ (по факту конечно это один УЦ для тахографов):<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>Модум - <a href="https://e-trust.gosuslugi.ru/registry/accreditation/1177746857045" rel="noopener" target="_blank">https://e-trust.gosuslugi.ru/registry/accreditation/1177746857045</a><br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>Атлас Карт - <a href="https://e-trust.gosuslugi.ru/registry/accreditation/1037714042596" rel="noopener" target="_blank">https://e-trust.gosuslugi.ru/registry/accreditation/1037714042596</a></div>]]></content:encoded>
+https://e-trust.gosuslugi.ru/registry/accreditation/1037714042596
+
+✅
+Up. Доступны с 15.00, недоступность наблюдалась 28 часов.</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/HCAN0L4ZPnlEKl3IvvOuuSCJrmHqMb31uQhuiZzjwoODgg2IyJasdr_h5pw_JlKOZxu3t0GQj1b5crV1pvCkuAovCpvY5FRgslgRV0zdu_ckMnAQqaZaKO4Gc8-WetJ7A8_8gwf2pS3OjY7UOnmzTtZNXYUZDO-fUQ4RSB1fZXIew5pXhA5pk2gfvG65SclJE1gKch7h7bf6O7U4NCmlDE_WF1x5hrsbWeAmUceTOX2imkPbARfCDtp3VW_h-NuBJuAYTPhEqtoLejvl620Dn6dHmNuY3fIc-a1KPUREQv3Z5wlcvUotuB3uwuHZCJ-4KU-H1fl9IbnPzXH1zW-u_Q.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/I1XoGgEaTKXg9pvNwdfgJl-eCgjVFeEWvA5ELX9Q3U82JXuUMOvbiqS2UjSb7mvs6SePzsVD8uScZQcfheS1qSjWd_424sJKgkQU0p4VZLiBDAGowNv4Fm7k4PFH7A95xJ9kFMaOEPWlTd65tw0sZmehTageJ3rTtc-XAtZQEqFYLS1nBPmW8kaYBBcAP6XsyYpQhPfepHDUG_eDVfSjxlL7kPDzBNSv9_G--mShIH-Ys86yWun0cCgWVCe8p8fPI22DJPQ6UYOsRMUDe0C0Yjax9NbpFim873JDlRIfrQVpZw3YREhKZgP6VcjEf0fR-jF_PGLjO3nkHuaCumNLRw.jpg" /></p>
+<div class="tgme_widget_message_text js-message_text" dir="auto"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29D8C.png')"><b>❌</b></i>Со вчерашнего дня недоступны CRL двух УЦ (по факту конечно это один УЦ для тахографов):<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>Модум - <a href="https://e-trust.gosuslugi.ru/registry/accreditation/1177746857045" rel="noopener" target="_blank">https://e-trust.gosuslugi.ru/registry/accreditation/1177746857045</a><br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>Атлас Карт - <a href="https://e-trust.gosuslugi.ru/registry/accreditation/1037714042596" rel="noopener" target="_blank">https://e-trust.gosuslugi.ru/registry/accreditation/1037714042596</a><br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C85.png')"><b>✅</b></i>Up. Доступны с 15.00, недоступность наблюдалась 28 часов.</div>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5358</guid>
       <pubDate>Wed, 12 Aug 2026 05:45:39 +0000</pubDate>
     </item>
@@ -31,7 +83,7 @@ https://e-trust.gosuslugi.ru/registry/accreditation/1037714042596</description>
       <title>Июнь 2013 - С 2015 года электронная карта заменит российский паспорт (образец 2013 года на фото)…</title>
       <link>https://telegram.me/ep_uc/5357</link>
       <description>Июнь 2013 - С 2015 года электронная карта заменит российский паспорт (образец 2013 года на фото)  Декабрь 2021 - МВД планирует начать выдавать россиянам электронные паспорта в январе 2023 года  "Электронные паспорта будут содержать отпечатки пальцев двух рук…</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/Bt4_JOAm9emHs9p_2lQXS26qh67LU0rkholUnBsf5aoI-KKpef2_CuD8ncuLQwq1pbw3AL_hvX8Ee0c-J-XiboW7q2jfSUKen5oZGpVV1_6jgrtVqnBdAoCqzNMDmlqFqsRFY0rDvBgDQji9SvkvolgZjytqV5K4B3YlvfrwpF9XGzIgMyv0oeYlOBSn9k_BfSij7O97fidppICQobmtBbZWHjQNldoucpkqQeXc398LIPP3IhzSAeUhY6Uosk6nZk0YALTyFh9Wib0dW3NcvlzLF57CAuIjfI6livujfbFgOu-x2jIBHYkfU7ztAWhGIbGayUFltb_YKqGMd8lwNQ.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/PDhIMBhk1F-QsPK-nLKrRcj-OIUFKC-2Zq_MA4T2QEq8TEfXtV1GdqmEXHg6Rfm_0zBIpdqJUMwL19lUvbFyiDy1nwqWEHLfzutTyqIHnItlaOuiZ3zG_m8OVdT5kN6X8gaMi2ZTnSHBSsf3e4at6eHzpj78QjWXOm26GDpm3cBf4dOzD2GPHf1aD_fRiQWfVkqD4WwjsmKfrwuxACgaGvfMamCSkd4L4lbo3SUw6t-SzV5JNWWq2EE8TtP_rdPQznf98DYVzgH1V0NXXQRi1OkqJNxfMK5neYifiSYaa2TUhaLePfPmHO8FsB7IiGJkcJ42UsThfJKxxrv8x6vFMg.jpg" /></p>
 Июнь 2013 - С 2015 года электронная карта заменит российский паспорт (образец 2013 года на фото)  Декабрь 2021 - МВД планирует начать выдавать россиянам электронные паспорта в январе 2023 года  "Электронные паспорта будут содержать отпечатки пальцев двух рук…]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5357</guid>
       <pubDate>Wed, 12 Aug 2026 03:35:05 +0000</pubDate>
@@ -45,7 +97,7 @@ https://e-trust.gosuslugi.ru/registry/accreditation/1037714042596</description>
  - он не про Госуслуги 
 (там тоже 210-ФЗ, от 2010 года, вступил в силу пятнадцать лет назад)
 , он про Антифрод 2.0. Названия законов можно было и прочитать. Хватит позорить нашу сферу.</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/k66yfoiN_6XTZNSwIgg-cdu_X9ZA24LndQSvBUsxB9hgmygIxAPeeM2pL-NXEIML_T74V6-i2P0Bn0ceSpabqFJpTtLRszqM2jlJPHmpcm5Hg9Oe_z-1pEI2AMZw0fLKBnwFLqz9NtQ83M_iIdtpuiCjlcvxfBJdfBY-rz6_BzmLCx3KfqDcDDWg43Ngls1Ad1gHy6uHWiTm3kJaRQAScbK7mY5rA1unDPcZ-RnJv-eTH298F3KwpmIab4umh_i7RUOGXC7aRUmCYg9R0S4Kdl0edqAyEK7ACH2_aMlkqfz-h99Xp6_AU1dAZp-L0D3OEzt76XRjAf9SByoexpgHjQ.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/TIPwT5gwj9_rOKRvdjJNNcgLjuOx2Qn_yb4GMHvRYc2OllJ_uVH58yvuztDTxrCU4jS8k8pKiM2uQmrdAHh-u_KWZ9Mubl_oZzsPWBKtN70BL0uhoHi55O5clhj30tdOq59kXL0wMX5WnXV8TM514BIszdqh3Q1BYFlp68V3nI_DIOMkJQHTSJd1GYUn6Bz_b1fy7EivQIFopMWRocZ55Hy2p5jizUgRt0nYxRjbbBekLzclkZFtDvqNvuYsS_eB2UMSPVoIJ9BMEyld1u3hr-iERHuW0HZ6OQbwUoJWWy3PRA_3XedALwBn8arI8NniNppOK9ILlzsr9nQyYEpZDg.jpg" /></p>
 <a href="https://www.kommersant.ru/doc/8876728" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Минцифры</a>, <a href="http://publication.pravo.gov.ru/document/0001202606260070?index=18" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">вот это другой 210-ФЗ</a> - он не про Госуслуги <a href="https://digital.gov.ru/documents/ob-organizaczii-predostavleniya-gosudarstvennyh-i-municzipalnyh-uslug" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">(там тоже 210-ФЗ, от 2010 года, вступил в силу пятнадцать лет назад)</a>, он про Антифрод 2.0. Названия законов можно было и прочитать. Хватит позорить нашу сферу.]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5356</guid>
       <pubDate>Tue, 11 Aug 2026 20:10:56 +0000</pubDate>
@@ -91,7 +143,7 @@ https://e-trust.gosuslugi.ru/registry/accreditation/1037714042596</description>
 Зарегистрироваться
 
 Реклама. erid: 2SDnjdrDJFD</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/S9yYiau5SEGrygetRuMysjdXA3_XwsoKG-khkIr9BVCwpHW2w_K1-aN4Ud27xuKYGgzq-U7pDgknV09kKwyZ4YF07RAcESsjCD99tQectv6miikdakZb4SKccaev6iiN5DTvzWbaNRAoM1MvpKpzJVBc_oLhUfvgD-SFS8thzsLBWPaV41zZa7TQZ4-sAso0nT4MVtLNpQyZg93xm6tHLextUoAfnsgqwKQnz8Vy8P6bWLBq5OR3Gl9lmPKXU39moDLWgLc2jhVqDEk4g1SVuln2kj0adLIrytZ1PdRjOzKYCj16CLxRZB5UUa0Ll6yh71uXYbCHjv5RYCg3SwEcTg.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/my9ZCOgz6EO9ckVOLlWdjbX3fWbBzBo-39WTEjb0M__CEgpU8O1-1TZyBNRbqSQygWqh6UWA8CN_yr6uT-QEqiROWKa3AtRNn6OS9ODZdmamiTzv5FY3NLAbc8AhinguTiG0PBrIWN8u9xKqgxP2ihyI0je9v-GKXnEX73DWXGVcxwntm-_uxVL9Xjm3atJC-1hWBmqua2C1-4yTNjEGvW-TB4OrRUf7iTpjDR0Bl0FjExIIQb2N6tXwwbPglZajnvaDa8_uvwdd5Ed2yuyiBUUPtQZTKMY4lupJCDJI2cC2Pd7KVAZjkl2Y7BgR8dZN6B26Q6lyX2Crf_pbbUbM9w.jpg" /></p>
 <b>13 августа в 11:00</b> приглашаем на вебинар компании ELMA <a href="https://elma365.com/ru/webinars/zakupki-logistika-epd/?utm_source=tg&amp;amp;utm_medium=ep-uc&amp;amp;utm_campaign=webinar130826" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b>«Управление перевозочной документацией в сквозном процессе закупок»</b></a>.<br/><br/>Заказ поставщику находится в одной системе, перевозка — в другой, ЭПД — у оператора, а информация о фактической поставке собирается вручную.<br/><br/>Чем больше поставщиков, объектов и перевозок, тем дороже становится такая «сшивка».<br/><br/><a href="https://elma365.com/ru/webinars/zakupki-logistika-epd/?utm_source=tg&amp;amp;utm_medium=ep-uc&amp;amp;utm_campaign=webinar130826" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">На вебинаре</a> покажем, как крупным компаниям связать закупки, логистику и ЭПД в единый цифровой контур:<br/>— автоматически создавать заявки на перевозку из заказа поставщику;<br/>— передавать данные между системами без ручного ввода;<br/>— организовать сквозной процесс работы с ЭПД;<br/>— контролировать статус поставки и документов;<br/>— рассчитывать KPI поставщиков на основе фактических данных.<br/><br/>Если у вас десятки поставщиков, несколько систем и большой объем перевозочных документов — этот кейс точно для вас.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C94.png')"><b>✔️</b></i> 13 августа (чт) в 11:00<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C94.png')"><b>✔️</b></i> онлайн<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C94.png')"><b>✔️</b></i>Раис Ахкямов — Руководитель практики ELMA365 CSP<br/>Андрей Брындин — Product Owner ELMA365 Закупки<br/><br/><a href="https://elma365.com/ru/webinars/zakupki-logistika-epd/?utm_source=tg&amp;amp;utm_medium=ep-uc&amp;amp;utm_campaign=webinar130826" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Зарегистрироваться</a><br/><br/><i>Реклама. erid: 2SDnjdrDJFD</i>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5354</guid>
       <pubDate>Tue, 11 Aug 2026 11:03:49 +0000</pubDate>
@@ -113,7 +165,7 @@ https://e-trust.gosuslugi.ru/registry/accreditation/1037714042596</description>
 
 ✍️
 "Об ЭП и УЦ"</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/gl1BpqEbMIHnhFLZc-JiDbTEd1CtWcQZNuNsps632wZZXyMj8q537pYBZBeewsMtzyAT6oKYD6yIcDHfGLuZOOrRjqN1vjaom2KwBXhs7B_96g-wcRk_io6K-I_JGaVPlKhcWiSVWQGMr2zxCnTWbjqCnxiym80zi3zwIhJclwSGUBatuPjEHVg9qdsVWADBm39z7c9od1cw1mrnwNm5crS6YN-slk8hRHuS5fMPcJQlJva6bM7wcidVBlf4R0Dm0Xf8kJKoMuGsoBSlVW4SJoovROk2aquMfzatfdAnpAFsF73YrRj6EDmkLs8Za2KsW_HTgj3qNu1KxhrerhuRFQ.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/pKzUDK9Zn_o295xRxMswjM1Kt1aMDN3xDi2s1ww6UF_4o50tIAT956hbsg4oGOj13x6bDj8bOY465COsGiXIXimurS-DBDO7_48G25eRVtKCn4BF1qOfOQlFwOUEWBNsQJHIw_1N9qANAyPcO-e0mRf3kgjXaJENbJHZfPXcY_PZcOppkA8SxngTKT5yIrZ4r_JjpH-ppNqtXwCNzQy1z3_Jc9nMG3KttXHyxO4ZRH4qCxYerGTJ8d2zxJqNJHFeRWqWN1Flk9lHa3LCoidd3hqvKZsQx-oLWeVKhTVeZt6v19OCppOkH3BZBk6v9HAKgZ3GOz5l1X6f1xpCL1UXjA.jpg" /></p>
 Неожиданное от <a href="https://fparf.ru/news/fpa/edinye-metodicheskie-rekomendatsii-stali-by-estestvennym-shagom-v-tsifrovizatsii-yuridicheskoy-pomoshch/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">адвокатов</a>, отстав лет на 10 они всё-таки <a href="https://fparf.ru/news/fpa/edinye-metodicheskie-rekomendatsii-stali-by-estestvennym-shagom-v-tsifrovizatsii-yuridicheskoy-pomoshch/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">постигают</a> самые основы нашей сферы и выясняют, что «открепленный файл электронной цифровой подписи ЕСИА» сам по себе не позволяет определить вид подписи:<br/><blockquote>АПМО разъясняет, что в соответствии с ч. 1 ст. 6 Федерального закона «Об электронной подписи» (далее – Закон об электронной подписи) информация в электронной форме, подписанная действительной усиленной квалифицированной электронной подписью (УКЭП), по общему правилу признается электронным документом, равнозначным документу на бумажном носителе, подписанному собственноручной подписью. Поэтому для соглашения, подписанного каждой стороной действительной УКЭП, отдельное соглашение о признании такой подписи не требуется, если федеральным законом или принятым в соответствии с ним нормативным правовым актом не установлена исключительно бумажная форма документа. <br/></blockquote><br/><blockquote>Согласно ч. 2 ст. 6 Закона об электронной подписи документ, подписанный простой электронной подписью (ПЭП) или усиленной неквалифицированной электронной подписью (УНЭП), признается равнозначным бумажному документу в случаях, установленных федеральным законом, принятым в соответствии с ним нормативным правовым актом, нормативным актом Банка России либо соглашением участников электронного взаимодействия. Для УНЭП должны быть предусмотрены правила проверки подписи, для ПЭП — выполнены требования ст. 9 Закона об электронной подписи, включая правила определения подписанта и обязанность сохранять конфиденциальность ключа ПЭП. Закон прямо не требует, чтобы такое соглашение всегда было отдельным, предварительным и заключенным только на бумаге либо с применением УКЭП. <b>Однако использование ПЭП или УНЭП при заключении первого соглашения, когда правила идентификации и проверки подписи содержатся в нем же, может повлечь спор о соблюдении письменной формы и принадлежности волеизъявления.</b> Для снижения этого риска целесообразно использовать УКЭП либо заранее согласовать порядок электронного взаимодействия способом, позволяющим надежно подтвердить волю сторон<br/></blockquote><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5352</guid>
       <pubDate>Tue, 11 Aug 2026 03:30:38 +0000</pubDate>
@@ -133,80 +185,10 @@ https://e-trust.gosuslugi.ru/registry/accreditation/1037714042596</description>
 
 ✍️
 "Об ЭП и УЦ"</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/ezZVPkT5AN-94NyRhvcbX4oqHzjNrarax9kMT4RQ5RBSrG8zVL68TaGkcyi2QdGqBHU6zrb0B-i2J51pTccIcy9VaJ1SAy53SRIe6waVdpuOBk5QhTgBivpp2Y5zyU12Ao_WJPMBKFZWBz5DeVl1DMBt2u-eVEH1deX74xcqEM7j4jGNgaLOUkSQfAFlEH1ihQ0ObqPiDMhPWOdMWLcg7MPWh3j__0Ow1UJRe4XK52fKXFj1xt3tSFk9-q_JK7LjRTcurNI6mbb-QYv7MEj0-FNGMne-sgJdkHCKni1o1_ifAdRayvVCLF9xeIi79xclYiJG_RO9LhVyezHyh2rolA.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/H8ikxLr_b7o04qA6G4SrwyTlIxKKt7YsJX7vpIZ7KZd37AvtdbhuLJdhjlga3bIhIdCbljh23VLMhMJUwOZHEnzwIToteCenbY3TYISjX1zbUamX1zSRdoXgJj1W9IVIHoYWcYFxL1g0sgYGDAeJ8a8ZqP6DrGYA2N6_QCzOIMAjYjCoe0ub4n7mqUEUx-HaM6_3BcK6oX_psH6C9aqZVFs4UEoDQEbq-KU5B_Kx30ghYWd_-qzSaORTrCx_CcZ5mnqlGC-MMjsdRENcPSQTXsIZ0qDMfZnZ_fZSxfbxas8qJ3fR6NV14cr8R_rUVCsUthdxPLEuy70W5K_p9K9krw.jpg" /></p>
 <tg-emoji emoji-id="5470060791883374114"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><b>Первый проект НПА, связанный с Национальным УЦ </b><br/><br/>Во исполнение пункта 9 плана-графика (есть всё-таки план-график!) подготовки нормативных правовых актов, необходимых для реализации норм <a href="https://telegram.me/ep_uc/5197" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Федерального закона от 26 июня 2026 г. № 210-ФЗ</a> «О внесении изменений в Федеральный закон «О связи» и отдельные законодательные акты Российской Федерации», утвержденного Заместителем Председателя Правительства Российской Федерации - Руководителям Аппарата Правительства Российской Федерации Д.Ю. Григоренко от 3 июля 2026 г. № ДГ-П10-24879, <a href="https://regulation.gov.ru/projects/170134/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Минцифры России сегодня размещен проект постановления Правительства </a>«О случаях, при которых сертификат безопасности национального удостоверяющего центра прекращает свое действие» - дополнительные 4 случая. Думал, что первым проектом НПА будет <a href="https://telegram.me/ep_uc/5197" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">другой документ.</a><br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5351</guid>
       <pubDate>Mon, 10 Aug 2026 18:05:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Пост — Об ЭП и УЦ</title>
-      <link>https://telegram.me/ep_uc/5350</link>
-      <description>Пост — Об ЭП и УЦ</description>
-      <content:encoded><![CDATA[(нет текста)]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5350</guid>
-      <pubDate>Mon, 10 Aug 2026 11:13:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Противоречивое решение УФАС - на поставку СКЗИ лицензия не требуется</title>
-      <link>https://telegram.me/ep_uc/5349</link>
-      <description>Противоречивое решение УФАС - на поставку СКЗИ лицензия не требуется 
-
-По обращению одного участника 
-закупки
- из документации на поставку ключевого носителя Рутокен ЭЦП 3.0 3220 (
-сертифицированного ФСБ
-) было исключено требование к участникам о наличии лицензии ФСБ России на распространение шифровальных (криптографических) средств.
-
-Вроде бы куда проще - передача (распространение) СКЗИ, 21 пункт перечня работ и услуг лицензии ФСБ, но региональное УФАС решает по-своему.
-
-На заседании Комиссии представитель Заказчика сообщил, что в закупке отсутствуют требования о выполнении работ по установке, настройке, разработке, распространению, техническому обслуживанию или иному использованию средств криптографической защиты информации, а также отсутствуют указания на необходимость осуществления деятельности, подлежащей лицензированию в соответствии с законодательством Российской Федерации о лицензировании отдельных видов деятельности.
-
-Какой-то непонятный представитель ООО «Ресурс» пояснил, что 
-
-Рутокен 3.0 не несет в себе функции шифрования файлов или текстов, это можно сделать в результате использования отдельных программ на компьютере, а сам Рутокен 3.0 служит для генерации ключа и его хранения с целью защиты от несанкционированного доступа, аутентификации пользователя и электронной подписи документов. Следовательно требование о лицензировании, согласно п.п. в) п. 3 Положения о лицензировании Постановления № 313, на деятельность с использованием товаров, содержащих шифровальные (криптографические) средства, в рассматриваемом случае, не применяется.
-
-Комиссия УФАС
-, изучив описание объекта закупки, установила, что из описания объекта закупки не следует, что исполнение контракта предполагает выполнение работ или оказание услуг в области разработки, производства, распространения, технического обслуживания либо использования шифровальных (криптографических) средств, подлежащих лицензированию ФСБ России.
-
-Само по себе включение в состав поставляемого товара защищенного носителя ключевой информации не свидетельствует о том, что поставщик должен обладать лицензией на деятельность в области шифровальных средств, поскольку поставка такого устройства не тождественна осуществлению лицензируемой деятельности и не предполагает выполнения работ, требующих специального разрешения.
-
-Решение УФАС логике не поддается и может быть легко обжаловано в суде.
-
-✍️
-"Об ЭП и УЦ"</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/BbelgqZog0WZDu78gSMybQfpgkG6pVBPPLs-fE7NtrGIoSn9K_-BgMod6tL8KGIPpZUKCiTFX1Fz-J4K1rBxTShOK9skUdaAOzTphzUfGWdgzaNM85MDg52-Ge7BD9onjOiYBXplF51KOAszxaeCR5yttDmFFKWTpkuzDeZv778Mb3Xiq9Ctv1L13VW9G4tdJRfAJP9TzmF5Uimsj4laP2Cf6Ex79PPGf1BykJBCv6QJczeDLR4G3QX7KA-RnhkY30gg94qs6iJ4jRDDwlfqeVaZh05lzfwPyD1eySohl29T1M0vDv41DltewLXufsdh-0ZvWAPbpF695cXU15dLXg.jpg" /></p>
-<b>Противоречивое решение УФАС - на поставку СКЗИ лицензия не требуется </b><br/><br/>По обращению одного участника <a href="https://zakupki.gov.ru/epz/order/notice/ea20/view/common-info.html?regNumber=0190200000326008272" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">закупки</a> из документации на поставку ключевого носителя Рутокен ЭЦП 3.0 3220 (<a href="https://www.rutoken.ru/products/all/rutoken-ecp-3/#certify" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">сертифицированного ФСБ</a>) было исключено требование к участникам о наличии лицензии ФСБ России на распространение шифровальных (криптографических) средств.<br/><br/>Вроде бы куда проще - передача (распространение) СКЗИ, 21 пункт перечня работ и услуг лицензии ФСБ, но региональное УФАС решает по-своему.<br/><br/>На заседании Комиссии представитель Заказчика сообщил, что в закупке отсутствуют требования о выполнении работ по установке, настройке, разработке, распространению, техническому обслуживанию или иному использованию средств криптографической защиты информации, а также отсутствуют указания на необходимость осуществления деятельности, подлежащей лицензированию в соответствии с законодательством Российской Федерации о лицензировании отдельных видов деятельности.<br/><br/>Какой-то непонятный представитель ООО «Ресурс» пояснил, что <br/><blockquote>Рутокен 3.0 не несет в себе функции шифрования файлов или текстов, это можно сделать в результате использования отдельных программ на компьютере, а сам Рутокен 3.0 служит для генерации ключа и его хранения с целью защиты от несанкционированного доступа, аутентификации пользователя и электронной подписи документов. Следовательно требование о лицензировании, согласно п.п. в) п. 3 Положения о лицензировании Постановления № 313, на деятельность с использованием товаров, содержащих шифровальные (криптографические) средства, в рассматриваемом случае, не применяется.</blockquote><br/><br/><a href="https://zakupki.gov.ru/epz/complaint/card/documents.html?complaintNumber=202600149809000678&amp;amp;backUrl=" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Комиссия УФАС</a>, изучив описание объекта закупки, установила, что из описания объекта закупки не следует, что исполнение контракта предполагает выполнение работ или оказание услуг в области разработки, производства, распространения, технического обслуживания либо использования шифровальных (криптографических) средств, подлежащих лицензированию ФСБ России.<br/><br/><blockquote>Само по себе включение в состав поставляемого товара защищенного носителя ключевой информации не свидетельствует о том, что поставщик должен обладать лицензией на деятельность в области шифровальных средств, поскольку поставка такого устройства не тождественна осуществлению лицензируемой деятельности и не предполагает выполнения работ, требующих специального разрешения.<br/></blockquote><br/>Решение УФАС логике не поддается и может быть легко обжаловано в суде.<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5349</guid>
-      <pubDate>Mon, 10 Aug 2026 03:30:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>✍️</title>
-      <link>https://telegram.me/ep_uc/5348</link>
-      <description>✍️
-Исторический пост - план подготовки правовых актов 2011
-
-15 лет назад распоряжением Правительства 1214-р был утвержден 
-План подготовки
- правовых актов в целях реализации федеральных законов «Об электронной подписи» и «О внесении изменений в отдельные законодательные акты Российской Федерации в связи с принятием Федерального закона «Об электронной подписи». Это был единственный случай, когда разработка подзаконных актов получила утверждение на таком высоком уровне. Началась формироваться текущая 
-система нормативных правовых актов
- в сфере электронной подписи.
-
-Следующий 
-План-график
- подготовки проектов нормативных правовых актов Правительства, ФОИВ и Банка России, необходимых для реализации норм Федерального закона от 27 декабря 2019 г. № 476-ФЗ, был утвержден Заместителем Председателя Правительства 11.09.2020 № 8376п-П10.
-
-Разработка новых подзаконных актов связана с принятием изменений 
-210-ФЗ в части НУЦ
-, а также 
-6 приказов
- в рамках 315-ФЗ. Планы-графики их разработки не утверждались.
-
-✍️
-"Об ЭП и УЦ"</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/iZJeLTL69VFuqELSSs4rxAg9fQwMMK0xWRYpkKHiJ5feLGzr3k4TaX2ag7SRqz20ERCXDkfLVec9J_vSFx4HsAdYeP_6khuP7liTkl_JCq0TJ3wo6_tggGe3JuYOsSSw-d3FYJaEUtBTWS5YpDrdQGu1gKd13cQnKHi5erHkvGxzWOe30B6DcLggASJN5IOmAh0uadxyniHluyQkq-lSzHNpWKW2Ayjs66xr-CEJkY2bFM5gYm8TULaDzpps1V7n7A7DTbRp1H0SRtrA_V_7E-uZ9vQ990viPIUK9fH1QTSB-ZRY3QD_kceADOCS1SYh1B9MXRSkykZsfiOsouFLIQ.jpg" /></p>
-<tg-emoji emoji-id="5470060791883374114"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><b>Исторический пост - план подготовки правовых актов 2011</b><br/><br/>15 лет назад распоряжением Правительства 1214-р был утвержден <a href="https://digital.gov.ru/documents/ob-utverzhdenii-prilagaemogo-plana-podgotovki-pravovyh-aktov-v-czelyah-realizaczii-federalnyh-zakonov-ob-elektronnoj-podpisi-i-o-vnesenii-izmenenij-v-otdelnye-zakonodatelnye-akty-ros" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">План подготовки</a> правовых актов в целях реализации федеральных законов «Об электронной подписи» и «О внесении изменений в отдельные законодательные акты Российской Федерации в связи с принятием Федерального закона «Об электронной подписи». Это был единственный случай, когда разработка подзаконных актов получила утверждение на таком высоком уровне. Началась формироваться текущая <a href="https://telegram.me/ep_uc/2386" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">система нормативных правовых актов</a> в сфере электронной подписи.<br/><br/>Следующий <a href="https://telegram.me/ep_uc/541" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">План-график</a> подготовки проектов нормативных правовых актов Правительства, ФОИВ и Банка России, необходимых для реализации норм Федерального закона от 27 декабря 2019 г. № 476-ФЗ, был утвержден Заместителем Председателя Правительства 11.09.2020 № 8376п-П10.<br/><br/>Разработка новых подзаконных актов связана с принятием изменений <a href="https://telegram.me/ep_uc/5197" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">210-ФЗ в части НУЦ</a>, а также <a href="https://telegram.me/ep_uc/5263" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">6 приказов</a> в рамках 315-ФЗ. Планы-графики их разработки не утверждались.<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5348</guid>
-      <pubDate>Sun, 09 Aug 2026 18:38:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
