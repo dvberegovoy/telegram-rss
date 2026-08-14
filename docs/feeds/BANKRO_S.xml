@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 13 Aug 2026 06:56:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 06:53:19 +0000</lastBuildDate>
     <item>
       <title>Пост — Банкротные шутейки</title>
       <link>https://telegram.me/BANKRO_S/1555</link>
@@ -16,14 +16,6 @@
       <content:encoded><![CDATA[(нет текста)]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/BANKRO_S/1555</guid>
       <pubDate>Wed, 12 Aug 2026 06:27:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>🖼 Фото — Банкротные шутейки</title>
-      <link>https://telegram.me/BANKRO_S/1554</link>
-      <description>🖼 Фото — Банкротные шутейки</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/Ez3ZheZ5eDfhikauUoY6fyI_-L4H5La29lVQ2jGs77Uw5MbYvrcgqTLux7mMLZKn44AJxgSXhWw84VpQ8VehI9g6ZkIqR1-6Z_lXJgxBZ7Kxj2rQ9FuJV45fNAfrEvHJQJFKg2ci2sDxxPOdG92TtkFDL1bvJAF_HBLoC_iICI2F8s7N1AIpixs59SKa3Z43DDnNNtfMHePxYdiv7JMDA8d16gwDAQpokP377doxXsTJwoEXNLWMB8na8semmiySAa4rjTh5WoUirQ0cq1i4qvOi11VsZGvO2HxTVgLYvKTtsVhuz6T1dvlMzqCH83wDm0ogoYQHNRme9047lHrguw.jpg" /></p>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/BANKRO_S/1554</guid>
-      <pubDate>Mon, 10 Aug 2026 17:25:33 +0000</pubDate>
     </item>
   </channel>
 </rss>

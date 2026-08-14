@@ -8,23 +8,6 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 13 Aug 2026 06:54:26 +0000</lastBuildDate>
-    <item>
-      <title>Уважаемые пользователи!</title>
-      <link>https://telegram.me/remd_egisz/884</link>
-      <description>Уважаемые пользователи!
-
-🔹
-Сообщаем, что 10.08.2026 в тестовой среде РЭМД применены доработанные пакеты XSD-схем, в промышленной среде они начнут действовать с 09.09.2026 для следующих СЭМД.
-
-Перечень изменений приведен в файле "Список изменений.docx" документации СЭМД на портале оперативного взаимодействия участников ЕГИСЗ.
-
-СЭМД (164) Экстренное извещение об инфекционном заболевании, пищевом, остром профессиональном отравлении, необычной реакции на прививку (CDA) Редакция 2
-
-https://portal.egisz.rosminzdrav.ru/materials/4425</description>
-      <content:encoded><![CDATA[Уважаемые пользователи!<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>Сообщаем, что 10.08.2026 в тестовой среде РЭМД применены доработанные пакеты XSD-схем, в промышленной среде они начнут действовать с 09.09.2026 для следующих СЭМД.<br/>Перечень изменений приведен в файле "Список изменений.docx" документации СЭМД на портале оперативного взаимодействия участников ЕГИСЗ.<br/><br/>СЭМД (164) Экстренное извещение об инфекционном заболевании, пищевом, остром профессиональном отравлении, необычной реакции на прививку (CDA) Редакция 2<br/><a href="https://portal.egisz.rosminzdrav.ru/materials/4425" rel="noopener" target="_blank">https://portal.egisz.rosminzdrav.ru/materials/4425</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/remd_egisz/884</guid>
-      <pubDate>Mon, 10 Aug 2026 14:22:03 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 14 Aug 2026 06:51:45 +0000</lastBuildDate>
   </channel>
 </rss>
