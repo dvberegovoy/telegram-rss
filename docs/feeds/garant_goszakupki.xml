@@ -8,30 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 17 Aug 2026 05:59:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 05:53:22 +0000</lastBuildDate>
     <item>
-      <title>Минстрой России получил доступ к содержащейся в ЕИС информации о ряде закупок</title>
-      <link>https://telegram.me/garant_goszakupki/1045</link>
-      <description>Минстрой России получил доступ к содержащейся в ЕИС информации о ряде закупок
+      <title>ГИС ЕИС автоматически формирует данные о статусе контракта при ликвидации юрлица</title>
+      <link>https://telegram.me/garant_goszakupki/1046</link>
+      <description>ГИС ЕИС автоматически формирует данные о статусе контракта при ликвидации юрлица
 
-https://www.garant.ru/news/2201768/
+https://www.garant.ru/news/2201769/
 
-В их числе те, информация об источнике финансирования которых включает код объекта капитального строительства или недвижимого имущества.</description>
-      <content:encoded><![CDATA[Минстрой России получил доступ к содержащейся в ЕИС информации о ряде закупок<br/><a href="https://www.garant.ru/news/2201768/" rel="noopener" target="_blank">https://www.garant.ru/news/2201768/</a><br/><br/>В их числе те, информация об источнике финансирования которых включает код объекта капитального строительства или недвижимого имущества.]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/garant_goszakupki/1045</guid>
-      <pubDate>Fri, 14 Aug 2026 14:28:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Нужно ли соблюдать нацрежим при закупке услуг обязательного аудита бухотчетности</title>
-      <link>https://telegram.me/garant_goszakupki/1044</link>
-      <description>Нужно ли соблюдать нацрежим при закупке услуг обязательного аудита бухотчетности
-
-https://www.garant.ru/news/2200907/
-
-Минфин России пояснил нюансы.</description>
-      <content:encoded><![CDATA[Нужно ли соблюдать нацрежим при закупке услуг обязательного аудита бухотчетности<br/><a href="https://www.garant.ru/news/2200907/" rel="noopener" target="_blank">https://www.garant.ru/news/2200907/</a><br/><br/>Минфин России пояснил нюансы.]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/garant_goszakupki/1044</guid>
-      <pubDate>Fri, 14 Aug 2026 10:32:16 +0000</pubDate>
+В случае реорганизации обеспечивается перенос реестровой записи со статусом "Исполнение" в личный кабинет заказчика-правопреемника.</description>
+      <content:encoded><![CDATA[ГИС ЕИС автоматически формирует данные о статусе контракта при ликвидации юрлица<br/><a href="https://www.garant.ru/news/2201769/" rel="noopener" target="_blank">https://www.garant.ru/news/2201769/</a><br/><br/>В случае реорганизации обеспечивается перенос реестровой записи со статусом "Исполнение" в личный кабинет заказчика-правопреемника.]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/garant_goszakupki/1046</guid>
+      <pubDate>Mon, 17 Aug 2026 08:10:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
