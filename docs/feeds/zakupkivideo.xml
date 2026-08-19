@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 18 Aug 2026 05:52:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 05:53:50 +0000</lastBuildDate>
     <item>
       <title>Вебинар от 28 июля 2026 года по Федеральному закону № 223-ФЗ</title>
       <link>https://telegram.me/zakupkivideo/4773</link>
@@ -58,14 +58,6 @@ https://vkvideo.ru/video-67070649_456239317
       <content:encoded><![CDATA[<b>44-ФЗ СНОВА МЕНЯЮТ | ПЛАТНАЯ ПОЧТА на ГОСУСЛУГАХ | Новости госзакупок 2026</b><br/><a href="https://vkvideo.ru/video-67070649_456239317" rel="noopener" target="_blank">https://vkvideo.ru/video-67070649_456239317</a><br/><br/><a href="https://vkvideo.ru/video-67070649_456239317?t=0h0m0s" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">00:00</a> Вступление<br/><a href="https://vkvideo.ru/video-67070649_456239317?t=0h0m47s" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">00:47</a> Расчёт НМЦК на топливо<br/><a href="https://vkvideo.ru/video-67070649_456239317?t=0h2m11s" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">02:11</a> Изменения в 44-ФЗ<br/><a href="https://vkvideo.ru/video-67070649_456239317?t=0h4m41s" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">04:41</a> Оплата малых закупок<br/><a href="https://vkvideo.ru/video-67070649_456239317?t=0h6m13s" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">06:13</a> Почта на Госуслуги<br/><a href="https://vkvideo.ru/video-67070649_456239317?t=0h8m29s" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">08:29</a> Подписывайтесь!]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/zakupkivideo/4771</guid>
       <pubDate>Mon, 17 Aug 2026 07:37:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Пост — zakupki Video</title>
-      <link>https://telegram.me/zakupkivideo/4770</link>
-      <description>Пост — zakupki Video</description>
-      <content:encoded><![CDATA[(нет текста)]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/zakupkivideo/4770</guid>
-      <pubDate>Mon, 17 Aug 2026 06:17:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
