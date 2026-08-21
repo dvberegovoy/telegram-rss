@@ -8,7 +8,55 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 20 Aug 2026 05:54:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 05:55:41 +0000</lastBuildDate>
+    <item>
+      <title>Переписка с госорганами забавное явление, будто</title>
+      <link>https://telegram.me/ep_uc/5404</link>
+      <description>Переписка с госорганами забавное явление, будто 
+59-ФЗ
+ и не существует совсем:
+
+1. Государственный орган, орган местного самоуправления или должностное лицо:
+
+1) обеспечивает объективное, всестороннее и своевременное рассмотрение обращения, в случае необходимости - с участием гражданина, направившего обращение
+
+Ни одного ответа от Минцифры по существу заданных вопросов.
+
+А потом неожиданно выяснится, что сертификат службы меток доверенного времени Госключа, который используется и с КЭП и с НЭП Госключа, вообще не мог быть выдан:
+
+🔹
+на четвертый год
+ закрытого ключа ГУ
+Ц он не мог использоваться для подписания подчиненных сертификатов - только для CRL
+
+т.к. срок ЗК сертификат
+а не может быть больше срока действия ЗК УЦ.
+
+При этом Минцифры России не
+
+уполномочено рекомендовать конкретные технологии и средства для применения участниками электронного взаимодействия
+
+Эту фразу нужно отдельно запомнить
+
+✍️
+"Об ЭП и УЦ"</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/D-PX5k47yCAIVRJWVC8f0q3siIt8k6XMhV_Kt8xzzpP2N7MVsU-PIalqIPvH4T1tQftIlCUZP2GH_yAH90tWVxhB5iV5msbc3c3e9rpVWpnP1t9Wui26jUEi0lJ4Y89Nk7Zv7H8z8HHJK-oLRBk3f3doIEKrZKJgsWvoRH2Fmvo1pyLYs7StFM4UYQssF4047kZ2a9vDRzQZY2_lLKbykvaB3iyvdDFvZzvL20w2gi3r6siOfg_RY80gk7Rlt5lnxnL2dALZF1W2PhuDk6z4m56tMzBCJxHYPn6YMQILdkDLp6nLck8svDpt0O77cuWcX_aKxU_oyVvIDPI4gV3sKg.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/Nbi_Rv4vOJ7BzwJcnMFdyorC8NlBVw_hOe1PNTFL-rpWizMjwBUsz7kfGL34j1IrSjTboDw62gizvesvfhiSs1iie1R3dpuDktP-_AOuXsy6NgHZHZZoYAUDf467FNgcKxT-S4jnJm0Jk6ugjmFtuhPdWsbO-N_hpyH1c6MvNk69iUpmtn-HcFoPRgfTgOgCQdXXh8PX-nW4QnX8OFOqvlAvz7aCEIbBCmTv1ZKEdX8YT6KTHiu36-K0NBe6c9VHzZN_r2DkPol4iyT6_Yr6EJyYPyn-R4Z98mx5PYv1ZiFNvwBcrtAORnmycime3TfRtI9_Dr3ev9Ml6upTOgsDNQ.jpg" /></p>
+Переписка с госорганами забавное явление, будто <a href="https://www.consultant.ru/document/cons_doc_LAW_59999/ca24c3b3a2032a1f727146f988f406723bf9ea1a/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">59-ФЗ</a> и не существует совсем:<br/><blockquote>1. Государственный орган, орган местного самоуправления или должностное лицо:<br/><br/>1) обеспечивает объективное, всестороннее и своевременное рассмотрение обращения, в случае необходимости - с участием гражданина, направившего обращение<br/></blockquote><br/>Ни одного ответа от Минцифры по существу заданных вопросов.<br/>А потом неожиданно выяснится, что сертификат службы меток доверенного времени Госключа, который используется и с КЭП и с НЭП Госключа, вообще не мог быть выдан:<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>на четвертый год<a href="https://telegram.me/ep_uc/4361?single" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"> закрытого ключа ГУ</a>Ц он не мог использоваться для подписания подчиненных сертификатов - только для CRL<br/><a href="https://telegram.me/ep_uc/4773?comment=223932" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">т.к. срок ЗК сертификат</a>а не может быть больше срока действия ЗК УЦ.<br/><br/><blockquote>При этом Минцифры России не<br/>уполномочено рекомендовать конкретные технологии и средства для применения участниками электронного взаимодействия</blockquote><br/>Эту фразу нужно отдельно запомнить<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5404</guid>
+      <pubDate>Fri, 21 Aug 2026 05:31:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>📣</title>
+      <link>https://telegram.me/ep_uc/5397</link>
+      <description>📣
+Плановая смена мастер‑ключей  СМЭВ 2026  Размещено уведомление о проведении ежегодной плановой  смены мастер‑ключей в сетях СМЭВ, построенных на базе ViPNet.   
+✍️
+В прошлом году смена происходила в октябре, но в этом году пройдёт с 3 по 21 августа 2026 года…</description>
+      <content:encoded><![CDATA[<tg-emoji emoji-id="5470094069289984325"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93A3.png')"><b>📣</b></i></tg-emoji>Плановая смена мастер‑ключей  СМЭВ 2026  Размещено уведомление о проведении ежегодной плановой  смены мастер‑ключей в сетях СМЭВ, построенных на базе ViPNet.   <tg-emoji emoji-id="5470060791883374114"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji>В прошлом году смена происходила в октябре, но в этом году пройдёт с 3 по 21 августа 2026 года…]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5397</guid>
+      <pubDate>Thu, 20 Aug 2026 10:54:38 +0000</pubDate>
+    </item>
     <item>
       <title>❓</title>
       <link>https://telegram.me/ep_uc/5396</link>
@@ -29,7 +77,7 @@
 
 ✍️
 "Об ЭП и УЦ"</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/cY4CWvk9Or1Atrd3rpi0icvjPO7kKS5SK5BHqjG2P8u6rOTwD3BGbL25yhFQdz3D1g6_GNvKDJ8JIkJdyV-_AgLGBy17ARNDni-A-OHXICxKwTJr2x_7NPr4AfJZxB1cznoC2jB-Txk1-HtnFJRHWlSzc6ArFY-dBQu2gg_gnFC0_I1we3Dy-pAGqMmr74qkHsuTWBtPSXi7eiZp8iLixJyLuDnBWNIA2F3R50Fth7wcxdvIWrGxtcI2XfQI6UdxlrXYXtT79EXG2KZCHJU7dCvxIrCpM2ysuostr-MoJ6t8z_ow4fAMsm36AoUU_SKKJVc8jgzqT2vHG03nBjOYfA.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/Lgdy7C_e91T5EuMaDCIkVf2e3GOa8gETXKzm_BWK-YQgvNl1QlYxxOWhNvkgKxn5yUPZUB5tbmSPQbz5GLSw28QCHfX9WdhSpzm98JIo_cUPlAhdA3bCa-AU3_MUarev6zVlQQz1nHoD8TCzOol8Un1pzkKuqspshe3QaxT41MjvWeDerIdqyCWPZ48TrBxiSJugyhIYvkePUY7PeIV4ajAUCC8ay8lal5HrLOII88brMHuy4M1BrPrG4UTcJ9GPKMRuXKBAMbtaBWvYj53S6-XNVCHDC0AzhQm52v4WA6Fo08cIx8pi4jxvGUFeaTaU_A386HEVwGjB0vcReg5XtQ.jpg" /></p>
 <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29D93.png')"><b>❓</b></i><b>Почему сайт Минцифры до сих пор не перешёл на сертификат безопасности от Минцифры?<br/></b><br/>Ответ следующий:<br/><blockquote>С учетом изменений, принятых Федеральным законом от 26 июня 2026 года № 210-ФЗ «О внесении изменений в Федеральный закон О связи и отдельные законодательные акты Российской Федерации», Правительство Российской Федерации вправе установить случаи, при которых использование сертификатов Национального удостоверяющего центра будет являться обязательным. В текущий момент в действующем законодательстве не установлены требования по обязательному использованию сертификатов безопасности какого-либо удостоверяющего центра. Выбор сертификата остается на усмотрения владельца ресурса.<br/><br/>Использование сертификата международного удостоверяющего центра связанно с необходимостью сохранения беспрепятственного доступа к ресурсу возможно широкого круга пользователей.<br/></blockquote><br/><br/>Не только <a href="https://telegram.me/ep_uc/5265" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Минцифры</a>, но и владелец любого другого ресурса до последнего будет стараться оставаться на сертификатах международных УЦ. Только отсутствие всех альтернатив вынуждает переходить на сертификаты НУЦ (на RSA конечно, ГОСТ - слишком экзотичен), у которого <a href="https://precert.ru/stat/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">количество</a> действующих сертификатов превысило 13,5 тыс,  общее количество выданных приближается к 31 тыс.<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5396</guid>
       <pubDate>Thu, 20 Aug 2026 04:06:45 +0000</pubDate>
@@ -52,7 +100,7 @@
 
 ✍️
 "Об ЭП и УЦ"</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/ZHEyVXsPbMP5IbKQUKMM1WFUEoyUdjDtqg5QELQjquurWbjE0g6aulaX6oOsh2j6D_FEL2X2eKZuq4Emy-AGCzSj-9cSCSE2MeaM_VtwdFfWIIP8Uc0ZqtkVecCqFPiz80XlIyYal9XUbBkswT2_8-H3RGOWDdERsv01ABUKPRFt85No2kExVIJtjyARZJbUHbuN-5fBfHxtWvuXeR3jPOldpmx_v9-4AwT_0h_kp54u5fiXdFDUgOW8Wl59TXOGNN1rsCQNDPnP3nTJqa0O_9XRQ1WNu-YDEmPKJO9pWVqkfwo_ewXw_870dVIlPmuC6ELJX-xnsTnP_OfxLyfvmA.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/PrNcwq8ppqKsJrhDUJrb-0ABlI5Y77uM5VL59m_RqlnnRxD7SFmuc1K9d2F3iSUDqcVPa6ePi74HlV0zsEKi5LFbYjMb4ZTCw5eSEn4wPECNhG8EoFDHjIthCCyOkWz7CMI8FAUCZBP2rOj0AHJ6u0h5titSkuHjOXovWlimhcW5gtQUSFNlVDjRzJ1ny49iGmZXA5OUKCYIjlrOTVStEDSZWVbnIOkhgynWX4T93sGzQGoW0GC319nuRL5pYjeJz7Drk_vtP6wkGkU2CScwxRAkJKrqovN5YtuDZoJ2JxOysOvdkJCWsz2_pJtA1HZJg9P_pu8ZCZ8z18gglgLMQg.jpg" /></p>
 <tg-emoji emoji-id="5470060791883374114"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><b>Госуслуги продолжат использование ГОСТ 28147‑89<br/></b><br/>В продолжение <a href="https://telegram.me/ep_uc/5307" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">темы использования ГОСТ 28147-89</a> получен ответ Минцифры о сроках окончания <a href="https://telegram.me/ep_uc/4846" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">использования данного ГОСТ</a> в рамках портала Госуслуг:<br/><blockquote>Модернизация криптографической инфраструктуры Портала госуслуг проводится в плановом порядке с учетом требований законодательства в области информационной безопасности, технических возможностей интеграционных решений и необходимости сохранения непрерывности предоставления государственных услуг.<br/><br/>Конкретные сроки полного вывода из эксплуатации ГОСТ 28147‑89 в настоящее время не определены: они будут установлены по итогам завершения комплекса работ по тестированию, адаптации компонентов системы и обеспечению совместимости со всеми клиентскими платформами<br/></blockquote><br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5393</guid>
       <pubDate>Wed, 19 Aug 2026 05:30:09 +0000</pubDate>
@@ -72,7 +120,7 @@
 
 ✍️
 "Об ЭП и УЦ"</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/KRYMpu4J7jLFPjJmuvIH0qHLBStFoini8o8K4lQxsj7QSn_7bTcTG-bl6gsPIa_4eg2vfkhmSFVqhmngN2ycpGsOB3GdNMaM7WWeGM3AGoseCIucZd61mvSTfrLy7BxKC3EusdHu64Eew2tIJ2AAG-Ps7cbh1zE4GSXCKqUPQYBcHnBhXdd3oQd82lmWnm0hBfpqlFFHAQi6K3CuKQ_WXLw_xpiyPCY4N3FnMhkBh6bMzLweZIOFZQMiuAIxA5IHVI5AbAHTbOsg4kJ8bGp1WjL4mIEN8jwfj91KGBf4a0KTVw_mpG1N2U4xBfASOm8f8bMP3Aop5WE6co_P9P0j7Q.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/v7HgWTJEwKNWc0OMCa0MbocQZr-hi15vr8E3y59ZBpnh0va6si3mUnaylXS8azpDO8w0ITEqrn2G7kllXN_cQVA89NwY4Ln7dhJkpOWw1VYzpW0oOVeJQIKlXIq3YWQT4JsI9FayaVhIYb_m4AD8xXnPN1twckik80R03a1owNSwBJUpat5q18sVivF4yr8boSgeFG9FisZXL9lvBn9ooBH9R4IPHx7KXAJyxmZgUL_RtNh2l6QADo8TUwBUM225JPBhBQ8WdPsQq48xGp5vwbCQba9vQpmfuLBOX8QStNiybFAsPFvY5QMA3F-Rx2UmgOtPMQK0LPwmmHEl-a97jQ.jpg" /></p>
 <tg-emoji emoji-id="5470060791883374114"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc/5339?single" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Поднятая волна</a> со сдачей отчётностью в СФР не могла не сказаться на динамике перевыпуска сертификатов УЦ ФНС России, которую можно изучить по отзывам сертификатов. В августе 2026 истекают сертификаты, выданные в мае 2025 - и в <a href="https://telegram.me/ep_uc/3529" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">мае</a> прошлого года сертификатов было выдано меньше, чем в <a href="https://telegram.me/ep_uc/3457" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">апреле</a>.<br/><br/>Если же посмотреть на динамику отзыва, то в рабочие дни июля отзыв стабильно держался на уровне 15-18 тыс., а в августе взлетел до 25 тыс, а с января отзыв вырос в 2,6 раза. Вот и последствия от перехода СФР - разница в 10 тыс., которая видна на графике. За 18 дней было отозвано 313 тыс. сертификатов (многие из них конечно истекали сами по себе), по итогу августа цифра приблизится к 500 тыс.<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5392</guid>
       <pubDate>Wed, 19 Aug 2026 05:01:06 +0000</pubDate>
@@ -104,46 +152,10 @@ PKI-Карнавал
 Телеграм-канал 
 "Об ЭП и УЦ"
  уже четвертый раз выступает информационным партнёром форума</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/chqZKW0wTyfrjq4FA2qQkp9SwCtCJDU3kGbElLeq9Woh8TIcrPeRcio_bdLTQceKklXakHPhr6Lbb3sKkFtvKhzdz1Gs8vwTdCpyvuLA0R99PrAKfFLbrAC7iFILEhDY4KETqITqI-FQOmPYACFBs-wQG7ToILOMAlN0g287Uo6kjaoOzYnqt55T0AyhbGeu2xPSMuZZZpFqw2_Twxzd2zxI9t06P32X5I-8MrWvK9eaRQv_bHqkhx6WzgmmxL8JN4JjHCO5MhfjOXuUp907vQsuvbIs5PymbzxeR-T7xrCl83DKQdV9LnhsHMVwPM3rEnMiy3zMjixZyMTtGQZwDw.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/GvevszST8W94uagbiDAK8DIwyHCFiAzG0KTBsD7OAV5eRxufZoe-ITnCTjAfW0c6O-usIOcQtVChtRmHBCxGYjQ59xAALlQg19udiMavW3bv4WjovZbodn2_-Fsh9jmfUTbffwyYgNK4DBydKAToWaD4Qs6dSSeyepSelYFzgfWhWAdH9Xth-2n4AVJMY1jOkJX4yI8ipS--u5jMDTNR2H8NAQZnC8arR88e06aIFdd-PCtiIBgGhow_Hy3UQA-14duCaFhOYmX8jJwJ4FLBcGl-sMotOp1GImWrl1w6TuiL-Uivx1FWRx3huzEXRW8BvXFEzLLoMvlIslBqsylm0A.jpg" /></p>
 <tg-emoji emoji-id="5327952221118164589"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9490.png')"><b>🔐</b></i></tg-emoji> <b>PKI-Карнавал на Каменном острове</b><br/><br/><blockquote>Я в маске рыжей обезьяны<br/>На форум к вам попасть мечтал<br/>Но мой доклад про Головной УЦ<br/>Комом вам в горле встал<br/></blockquote><br/><br/>Санкт-Петербург заслуженно сравнивают с Венецией — схожесть двум городам придают загадочная атмосфера, многочисленные каналы, переплетения истории и выдающаяся архитектура. PKI-Форум 2026 сделает эту связь предельно наглядной, устроив для участников мероприятия пышный <a href="https://pki-forum.ru/carnival" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">PKI-Карнавал</a>.<br/><br/>Вычурные костюмы, барочные украшения и зрелищные представления помогут погрузиться в карнавальную атмосферу и получить свежие впечатления после интенсивной работы в первый день конференции 15 сентября. <br/><br/>Местом событий станет Государственная резиденция К-2 на набережной реки Малой Невки.<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji>Телеграм-канал <a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a> уже четвертый раз выступает информационным партнёром форума]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5389</guid>
       <pubDate>Tue, 18 Aug 2026 18:32:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>О проблемах с CRL НУЦ</title>
-      <link>https://telegram.me/ep_uc/5387</link>
-      <description>О проблемах с CRL НУЦ
-
-13 августа точки распространения CRL НУЦ стали работать нестабильно. Проверка отзыва части сертификатов завершалась с ошибкой. Недоступны стали адреса:
-
-http://nuc-cdp.voskhod.ru/cdp/subca_ssl_rsa2024_ov.crl
- - сейчас восстановлен
-✅
- (была спрятана за 
-каптчу
-).
-
-http://nuc-cdp.digital.gov.ru/cdp/subca_ssl_rsa2024_ov.crl
- - по настоящее время недоступен 
-❌
-
-Что же случилось с НУЦ?
-
-13 августа количество действующих сертификатов превысило 13 тыс., общее число выданных - 30 тыс. Это не являетесь какой-то нагрузкой, кроме того, кто хотел - давно получили сертификаты НУЦ. Сам процесс получения сертификата безопасности - ручник, 
-acme
- из разряда экзотики.
-
-DDOS с которым решили бороться каптчей из трёх цифр? Несерьёзно.
-
-Произошло изменение инфраструктуры, по итогу 
-одна точку распространения CRL
- до сих пор недоступна, а другая спрятана за WAF.
-
-@ep_uc</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/dY1TITCYxwyOg0Y3nxFruK2Xv0tLEX6ocCLBpdcSnz22JR-VTubgsymxficJZdXrIIBdb5NsmYZLDOH2tAa0XJQpdjQERtKhjFMiEfXI89H2kk6-KTSHGe0f2o67GV4LbCiDUABZe4zhTsW_ig-7s7F1BdcbQ0486QfxnFykjEueNcWoUG8-KBtrh9S2tRO7t59kYWuaz18fkUfzq2xF0zkmyGkljIdnomU53oNES-n4x9VDgLVgU0oZTTMv9jtsa_E18p8mgaKlOe1pQjq2voZnJg9uE8WKo8Tx_s1GATE7EJhou5BRaVesUYMDd0R2ENNhCQxS0mDvF17GWt-d1A.jpg" /></p>
-О проблемах с CRL НУЦ<br/><br/>13 августа точки распространения CRL НУЦ стали работать нестабильно. Проверка отзыва части сертификатов завершалась с ошибкой. Недоступны стали адреса:<br/><a href="http://nuc-cdp.voskhod.ru/cdp/subca_ssl_rsa2024_ov.crl" rel="noopener" target="_blank">http://nuc-cdp.voskhod.ru/cdp/subca_ssl_rsa2024_ov.crl</a> - сейчас восстановлен<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C85.png')"><b>✅</b></i> (была спрятана за <a href="https://telegram.me/c/1691316533/225270" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">каптчу</a>).<br/><a href="http://nuc-cdp.digital.gov.ru/cdp/subca_ssl_rsa2024_ov.crl" rel="noopener" target="_blank">http://nuc-cdp.digital.gov.ru/cdp/subca_ssl_rsa2024_ov.crl</a> - по настоящее время недоступен <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29D8C.png')"><b>❌</b></i><br/><br/><b>Что же случилось с НУЦ?</b><br/>13 августа количество действующих сертификатов превысило 13 тыс., общее число выданных - 30 тыс. Это не являетесь какой-то нагрузкой, кроме того, кто хотел - давно получили сертификаты НУЦ. Сам процесс получения сертификата безопасности - ручник, <a href="https://telegram.me/RussianTLS/14744" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">acme</a> из разряда экзотики.<br/><br/>DDOS с которым решили бороться каптчей из трёх цифр? Несерьёзно.<br/><br/>Произошло изменение инфраструктуры, по итогу <a href="http://nuc-cdp.digital.gov.ru/cdp/subca_ssl_rsa2024_ov.crl" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">одна точку распространения CRL</a> до сих пор недоступна, а другая спрятана за WAF.<br/><br/><a href="https://telegram.me/ep_uc" target="_blank">@ep_uc</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5387</guid>
-      <pubDate>Tue, 18 Aug 2026 04:00:50 +0000</pubDate>
     </item>
   </channel>
 </rss>

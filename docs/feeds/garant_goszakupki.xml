@@ -8,18 +8,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 20 Aug 2026 05:55:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 05:56:52 +0000</lastBuildDate>
     <item>
-      <title>ГИС ЕИС автоматически формирует данные о статусе контракта при ликвидации юрлица</title>
-      <link>https://telegram.me/garant_goszakupki/1046</link>
-      <description>ГИС ЕИС автоматически формирует данные о статусе контракта при ликвидации юрлица
+      <title>Расширенное казначейское сопровождение по ряду контрактов в рамках ГОЗ отменят</title>
+      <link>https://telegram.me/garant_goszakupki/1048</link>
+      <description>Расширенное казначейское сопровождение по ряду контрактов в рамках ГОЗ отменят
 
-https://www.garant.ru/news/2201769/
+https://www.garant.ru/news/2207567/
 
-В случае реорганизации обеспечивается перенос реестровой записи со статусом "Исполнение" в личный кабинет заказчика-правопреемника.</description>
-      <content:encoded><![CDATA[ГИС ЕИС автоматически формирует данные о статусе контракта при ликвидации юрлица<br/><a href="https://www.garant.ru/news/2201769/" rel="noopener" target="_blank">https://www.garant.ru/news/2201769/</a><br/><br/>В случае реорганизации обеспечивается перенос реестровой записи со статусом "Исполнение" в личный кабинет заказчика-правопреемника.]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/garant_goszakupki/1046</guid>
-      <pubDate>Mon, 17 Aug 2026 08:10:23 +0000</pubDate>
+С 1 сентября его не будут проводить в отношении средств по договорам с единственным поставщиком на поставку ГСМ и продовольственных товаров.</description>
+      <content:encoded><![CDATA[Расширенное казначейское сопровождение по ряду контрактов в рамках ГОЗ отменят<br/><a href="https://www.garant.ru/news/2207567/" rel="noopener" target="_blank">https://www.garant.ru/news/2207567/</a><br/><br/>С 1 сентября его не будут проводить в отношении средств по договорам с единственным поставщиком на поставку ГСМ и продовольственных товаров.]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/garant_goszakupki/1048</guid>
+      <pubDate>Thu, 20 Aug 2026 10:13:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Срок подписания допсоглашения для направления экономии от закупок уточнили</title>
+      <link>https://telegram.me/garant_goszakupki/1047</link>
+      <description>Срок подписания допсоглашения для направления экономии от закупок уточнили
+
+https://www.garant.ru/news/2203896/
+
+Если источником обеспечения муниципального контракта является федеральный бюджет, то его нужно заключить не позднее 15-го рабочего дня.</description>
+      <content:encoded><![CDATA[Срок подписания допсоглашения для направления экономии от закупок уточнили<br/><a href="https://www.garant.ru/news/2203896/" rel="noopener" target="_blank">https://www.garant.ru/news/2203896/</a><br/><br/>Если источником обеспечения муниципального контракта является федеральный бюджет, то его нужно заключить не позднее 15-го рабочего дня.]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/garant_goszakupki/1047</guid>
+      <pubDate>Thu, 20 Aug 2026 10:12:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
