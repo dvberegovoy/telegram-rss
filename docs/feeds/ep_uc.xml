@@ -8,154 +8,101 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 21 Aug 2026 05:55:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 06:00:42 +0000</lastBuildDate>
     <item>
-      <title>Переписка с госорганами забавное явление, будто</title>
-      <link>https://telegram.me/ep_uc/5404</link>
-      <description>Переписка с госорганами забавное явление, будто 
-59-ФЗ
- и не существует совсем:
-
-1. Государственный орган, орган местного самоуправления или должностное лицо:
-
-1) обеспечивает объективное, всестороннее и своевременное рассмотрение обращения, в случае необходимости - с участием гражданина, направившего обращение
-
-Ни одного ответа от Минцифры по существу заданных вопросов.
-
-А потом неожиданно выяснится, что сертификат службы меток доверенного времени Госключа, который используется и с КЭП и с НЭП Госключа, вообще не мог быть выдан:
-
-🔹
-на четвертый год
- закрытого ключа ГУ
-Ц он не мог использоваться для подписания подчиненных сертификатов - только для CRL
-
-т.к. срок ЗК сертификат
-а не может быть больше срока действия ЗК УЦ.
-
-При этом Минцифры России не
-
-уполномочено рекомендовать конкретные технологии и средства для применения участниками электронного взаимодействия
-
-Эту фразу нужно отдельно запомнить
-
-✍️
-"Об ЭП и УЦ"</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/D-PX5k47yCAIVRJWVC8f0q3siIt8k6XMhV_Kt8xzzpP2N7MVsU-PIalqIPvH4T1tQftIlCUZP2GH_yAH90tWVxhB5iV5msbc3c3e9rpVWpnP1t9Wui26jUEi0lJ4Y89Nk7Zv7H8z8HHJK-oLRBk3f3doIEKrZKJgsWvoRH2Fmvo1pyLYs7StFM4UYQssF4047kZ2a9vDRzQZY2_lLKbykvaB3iyvdDFvZzvL20w2gi3r6siOfg_RY80gk7Rlt5lnxnL2dALZF1W2PhuDk6z4m56tMzBCJxHYPn6YMQILdkDLp6nLck8svDpt0O77cuWcX_aKxU_oyVvIDPI4gV3sKg.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/Nbi_Rv4vOJ7BzwJcnMFdyorC8NlBVw_hOe1PNTFL-rpWizMjwBUsz7kfGL34j1IrSjTboDw62gizvesvfhiSs1iie1R3dpuDktP-_AOuXsy6NgHZHZZoYAUDf467FNgcKxT-S4jnJm0Jk6ugjmFtuhPdWsbO-N_hpyH1c6MvNk69iUpmtn-HcFoPRgfTgOgCQdXXh8PX-nW4QnX8OFOqvlAvz7aCEIbBCmTv1ZKEdX8YT6KTHiu36-K0NBe6c9VHzZN_r2DkPol4iyT6_Yr6EJyYPyn-R4Z98mx5PYv1ZiFNvwBcrtAORnmycime3TfRtI9_Dr3ev9Ml6upTOgsDNQ.jpg" /></p>
-Переписка с госорганами забавное явление, будто <a href="https://www.consultant.ru/document/cons_doc_LAW_59999/ca24c3b3a2032a1f727146f988f406723bf9ea1a/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">59-ФЗ</a> и не существует совсем:<br/><blockquote>1. Государственный орган, орган местного самоуправления или должностное лицо:<br/><br/>1) обеспечивает объективное, всестороннее и своевременное рассмотрение обращения, в случае необходимости - с участием гражданина, направившего обращение<br/></blockquote><br/>Ни одного ответа от Минцифры по существу заданных вопросов.<br/>А потом неожиданно выяснится, что сертификат службы меток доверенного времени Госключа, который используется и с КЭП и с НЭП Госключа, вообще не мог быть выдан:<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>на четвертый год<a href="https://telegram.me/ep_uc/4361?single" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"> закрытого ключа ГУ</a>Ц он не мог использоваться для подписания подчиненных сертификатов - только для CRL<br/><a href="https://telegram.me/ep_uc/4773?comment=223932" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">т.к. срок ЗК сертификат</a>а не может быть больше срока действия ЗК УЦ.<br/><br/><blockquote>При этом Минцифры России не<br/>уполномочено рекомендовать конкретные технологии и средства для применения участниками электронного взаимодействия</blockquote><br/>Эту фразу нужно отдельно запомнить<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5404</guid>
-      <pubDate>Fri, 21 Aug 2026 05:31:44 +0000</pubDate>
+      <title>Пост — Об ЭП и УЦ</title>
+      <link>https://telegram.me/ep_uc/5419</link>
+      <description>Пост — Об ЭП и УЦ</description>
+      <content:encoded><![CDATA[(нет текста)]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5419</guid>
+      <pubDate>Mon, 24 Aug 2026 05:05:06 +0000</pubDate>
     </item>
     <item>
       <title>📣</title>
-      <link>https://telegram.me/ep_uc/5397</link>
+      <link>https://telegram.me/ep_uc/5418</link>
       <description>📣
-Плановая смена мастер‑ключей  СМЭВ 2026  Размещено уведомление о проведении ежегодной плановой  смены мастер‑ключей в сетях СМЭВ, построенных на базе ViPNet.   
-✍️
-В прошлом году смена происходила в октябре, но в этом году пройдёт с 3 по 21 августа 2026 года…</description>
-      <content:encoded><![CDATA[<tg-emoji emoji-id="5470094069289984325"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93A3.png')"><b>📣</b></i></tg-emoji>Плановая смена мастер‑ключей  СМЭВ 2026  Размещено уведомление о проведении ежегодной плановой  смены мастер‑ключей в сетях СМЭВ, построенных на базе ViPNet.   <tg-emoji emoji-id="5470060791883374114"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji>В прошлом году смена происходила в октябре, но в этом году пройдёт с 3 по 21 августа 2026 года…]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5397</guid>
-      <pubDate>Thu, 20 Aug 2026 10:54:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>❓</title>
-      <link>https://telegram.me/ep_uc/5396</link>
-      <description>❓
-Почему сайт Минцифры до сих пор не перешёл на сертификат безопасности от Минцифры?
+ИнфоТеКС - 35 лет!
 
-Ответ следующий:
+Поздравляю компанию "ИнфоТеКС" с 
+35-летним юбилеем
+, ваш путь - это история становления целой отрасли!
 
-С учетом изменений, принятых Федеральным законом от 26 июня 2026 года № 210-ФЗ «О внесении изменений в Федеральный закон О связи и отдельные законодательные акты Российской Федерации», Правительство Российской Федерации вправе установить случаи, при которых использование сертификатов Национального удостоверяющего центра будет являться обязательным. В текущий момент в действующем законодательстве не установлены требования по обязательному использованию сертификатов безопасности какого-либо удостоверяющего центра. Выбор сертификата остается на усмотрения владельца ресурса.
+Ваши решения линейки ViPNet являются технологической основой для ключевых инфраструктур, без которых цифровой мир России сегодня немыслим.
 
-Использование сертификата международного удостоверяющего центра связанно с необходимостью сохранения беспрепятственного доступа к ресурсу возможно широкого круга пользователей.
+Передача защищенных запросов СМЭВ между ведомствами базируется на ваших комплексах, мобильная технология квалифицированной и неквалифицированной подписи использует ваши средства удостоверяющего центра. Ваша 
 
-Не только 
-Минцифры
-, но и владелец любого другого ресурса до последнего будет стараться оставаться на сертификатах международных УЦ. Только отсутствие всех альтернатив вынуждает переходить на сертификаты НУЦ (на RSA конечно, ГОСТ - слишком экзотичен), у которого 
-количество
- действующих сертификатов превысило 13,5 тыс,  общее количество выданных приближается к 31 тыс.
+экспертиза проявилась в полной мере при создании ифраструктуры цифрового рубля, ПАК использованные при создании PKI-решений,  автоматизирующие выдачу TLS-сертификатов и неквалифицированной подписи для пользователей платформы цифрового рубля полностью соответствуя требованиям Банка России.
 
-✍️
-"Об ЭП и УЦ"</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/Lgdy7C_e91T5EuMaDCIkVf2e3GOa8gETXKzm_BWK-YQgvNl1QlYxxOWhNvkgKxn5yUPZUB5tbmSPQbz5GLSw28QCHfX9WdhSpzm98JIo_cUPlAhdA3bCa-AU3_MUarev6zVlQQz1nHoD8TCzOol8Un1pzkKuqspshe3QaxT41MjvWeDerIdqyCWPZ48TrBxiSJugyhIYvkePUY7PeIV4ajAUCC8ay8lal5HrLOII88brMHuy4M1BrPrG4UTcJ9GPKMRuXKBAMbtaBWvYj53S6-XNVCHDC0AzhQm52v4WA6Fo08cIx8pi4jxvGUFeaTaU_A386HEVwGjB0vcReg5XtQ.jpg" /></p>
-<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29D93.png')"><b>❓</b></i><b>Почему сайт Минцифры до сих пор не перешёл на сертификат безопасности от Минцифры?<br/></b><br/>Ответ следующий:<br/><blockquote>С учетом изменений, принятых Федеральным законом от 26 июня 2026 года № 210-ФЗ «О внесении изменений в Федеральный закон О связи и отдельные законодательные акты Российской Федерации», Правительство Российской Федерации вправе установить случаи, при которых использование сертификатов Национального удостоверяющего центра будет являться обязательным. В текущий момент в действующем законодательстве не установлены требования по обязательному использованию сертификатов безопасности какого-либо удостоверяющего центра. Выбор сертификата остается на усмотрения владельца ресурса.<br/><br/>Использование сертификата международного удостоверяющего центра связанно с необходимостью сохранения беспрепятственного доступа к ресурсу возможно широкого круга пользователей.<br/></blockquote><br/><br/>Не только <a href="https://telegram.me/ep_uc/5265" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Минцифры</a>, но и владелец любого другого ресурса до последнего будет стараться оставаться на сертификатах международных УЦ. Только отсутствие всех альтернатив вынуждает переходить на сертификаты НУЦ (на RSA конечно, ГОСТ - слишком экзотичен), у которого <a href="https://precert.ru/stat/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">количество</a> действующих сертификатов превысило 13,5 тыс,  общее количество выданных приближается к 31 тыс.<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5396</guid>
-      <pubDate>Thu, 20 Aug 2026 04:06:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>✍️</title>
-      <link>https://telegram.me/ep_uc/5393</link>
-      <description>✍️
-Госуслуги продолжат использование ГОСТ 28147‑89
+Что мне лично особо дорого - ваш ViPNet HSM в основе УЦ Федерального казначейства, обеспечивает хранение закрытого ключа УЦ.
 
-В продолжение 
-темы использования ГОСТ 28147-89
- получен ответ Минцифры о сроках окончания 
-использования данного ГОСТ
- в рамках портала Госуслуг:
+Спасибо, что 35 лет вы создаете фундамент доверия - от рядового пользователя до государственных и финансовых систем национального масштаба! 
 
-Модернизация криптографической инфраструктуры Портала госуслуг проводится в плановом порядке с учетом требований законодательства в области информационной безопасности, технических возможностей интеграционных решений и необходимости сохранения непрерывности предоставления государственных услуг.
+С праздником, "ИнфоТеКС! Желаю , чтобы ваша работа оставалась надежным щитом для новых рубежей цифровой экономики
+🏆
 
-Конкретные сроки полного вывода из эксплуатации ГОСТ 28147‑89 в настоящее время не определены: они будут установлены по итогам завершения комплекса работ по тестированию, адаптации компонентов системы и обеспечению совместимости со всеми клиентскими платформами
-
-✍️
-"Об ЭП и УЦ"</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/PrNcwq8ppqKsJrhDUJrb-0ABlI5Y77uM5VL59m_RqlnnRxD7SFmuc1K9d2F3iSUDqcVPa6ePi74HlV0zsEKi5LFbYjMb4ZTCw5eSEn4wPECNhG8EoFDHjIthCCyOkWz7CMI8FAUCZBP2rOj0AHJ6u0h5titSkuHjOXovWlimhcW5gtQUSFNlVDjRzJ1ny49iGmZXA5OUKCYIjlrOTVStEDSZWVbnIOkhgynWX4T93sGzQGoW0GC319nuRL5pYjeJz7Drk_vtP6wkGkU2CScwxRAkJKrqovN5YtuDZoJ2JxOysOvdkJCWsz2_pJtA1HZJg9P_pu8ZCZ8z18gglgLMQg.jpg" /></p>
-<tg-emoji emoji-id="5470060791883374114"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><b>Госуслуги продолжат использование ГОСТ 28147‑89<br/></b><br/>В продолжение <a href="https://telegram.me/ep_uc/5307" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">темы использования ГОСТ 28147-89</a> получен ответ Минцифры о сроках окончания <a href="https://telegram.me/ep_uc/4846" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">использования данного ГОСТ</a> в рамках портала Госуслуг:<br/><blockquote>Модернизация криптографической инфраструктуры Портала госуслуг проводится в плановом порядке с учетом требований законодательства в области информационной безопасности, технических возможностей интеграционных решений и необходимости сохранения непрерывности предоставления государственных услуг.<br/><br/>Конкретные сроки полного вывода из эксплуатации ГОСТ 28147‑89 в настоящее время не определены: они будут установлены по итогам завершения комплекса работ по тестированию, адаптации компонентов системы и обеспечению совместимости со всеми клиентскими платформами<br/></blockquote><br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5393</guid>
-      <pubDate>Wed, 19 Aug 2026 05:30:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>✍️</title>
-      <link>https://telegram.me/ep_uc/5392</link>
-      <description>✍️
-Поднятая волна
- со сдачей отчётностью в СФР не могла не сказаться на динамике перевыпуска сертификатов УЦ ФНС России, которую можно изучить по отзывам сертификатов. В августе 2026 истекают сертификаты, выданные в мае 2025 - и в 
-мае
- прошлого года сертификатов было выдано меньше, чем в 
-апреле
-.
-
-Если же посмотреть на динамику отзыва, то в рабочие дни июля отзыв стабильно держался на уровне 15-18 тыс., а в августе взлетел до 25 тыс, а с января отзыв вырос в 2,6 раза. Вот и последствия от перехода СФР - разница в 10 тыс., которая видна на графике. За 18 дней было отозвано 313 тыс. сертификатов (многие из них конечно истекали сами по себе), по итогу августа цифра приблизится к 500 тыс.
-
-✍️
-"Об ЭП и УЦ"</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/v7HgWTJEwKNWc0OMCa0MbocQZr-hi15vr8E3y59ZBpnh0va6si3mUnaylXS8azpDO8w0ITEqrn2G7kllXN_cQVA89NwY4Ln7dhJkpOWw1VYzpW0oOVeJQIKlXIq3YWQT4JsI9FayaVhIYb_m4AD8xXnPN1twckik80R03a1owNSwBJUpat5q18sVivF4yr8boSgeFG9FisZXL9lvBn9ooBH9R4IPHx7KXAJyxmZgUL_RtNh2l6QADo8TUwBUM225JPBhBQ8WdPsQq48xGp5vwbCQba9vQpmfuLBOX8QStNiybFAsPFvY5QMA3F-Rx2UmgOtPMQK0LPwmmHEl-a97jQ.jpg" /></p>
-<tg-emoji emoji-id="5470060791883374114"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc/5339?single" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Поднятая волна</a> со сдачей отчётностью в СФР не могла не сказаться на динамике перевыпуска сертификатов УЦ ФНС России, которую можно изучить по отзывам сертификатов. В августе 2026 истекают сертификаты, выданные в мае 2025 - и в <a href="https://telegram.me/ep_uc/3529" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">мае</a> прошлого года сертификатов было выдано меньше, чем в <a href="https://telegram.me/ep_uc/3457" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">апреле</a>.<br/><br/>Если же посмотреть на динамику отзыва, то в рабочие дни июля отзыв стабильно держался на уровне 15-18 тыс., а в августе взлетел до 25 тыс, а с января отзыв вырос в 2,6 раза. Вот и последствия от перехода СФР - разница в 10 тыс., которая видна на графике. За 18 дней было отозвано 313 тыс. сертификатов (многие из них конечно истекали сами по себе), по итогу августа цифра приблизится к 500 тыс.<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5392</guid>
-      <pubDate>Wed, 19 Aug 2026 05:01:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔐</title>
-      <link>https://telegram.me/ep_uc/5389</link>
-      <description>🔐
- 
-PKI-Карнавал на Каменном острове
-
-Я в маске рыжей обезьяны
-
-На форум к вам попасть мечтал
-
-Но мой доклад про Головной УЦ
-
-Комом вам в горле встал
-
-Санкт-Петербург заслуженно сравнивают с Венецией — схожесть двум городам придают загадочная атмосфера, многочисленные каналы, переплетения истории и выдающаяся архитектура. PKI-Форум 2026 сделает эту связь предельно наглядной, устроив для участников мероприятия пышный 
-PKI-Карнавал
-.
-
-Вычурные костюмы, барочные украшения и зрелищные представления помогут погрузиться в карнавальную атмосферу и получить свежие впечатления после интенсивной работы в первый день конференции 15 сентября. 
-
-Местом событий станет Государственная резиденция К-2 на набережной реки Малой Невки.
-
-✍️
 Телеграм-канал 
-"Об ЭП и УЦ"
- уже четвертый раз выступает информационным партнёром форума</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/GvevszST8W94uagbiDAK8DIwyHCFiAzG0KTBsD7OAV5eRxufZoe-ITnCTjAfW0c6O-usIOcQtVChtRmHBCxGYjQ59xAALlQg19udiMavW3bv4WjovZbodn2_-Fsh9jmfUTbffwyYgNK4DBydKAToWaD4Qs6dSSeyepSelYFzgfWhWAdH9Xth-2n4AVJMY1jOkJX4yI8ipS--u5jMDTNR2H8NAQZnC8arR88e06aIFdd-PCtiIBgGhow_Hy3UQA-14duCaFhOYmX8jJwJ4FLBcGl-sMotOp1GImWrl1w6TuiL-Uivx1FWRx3huzEXRW8BvXFEzLLoMvlIslBqsylm0A.jpg" /></p>
-<tg-emoji emoji-id="5327952221118164589"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9490.png')"><b>🔐</b></i></tg-emoji> <b>PKI-Карнавал на Каменном острове</b><br/><br/><blockquote>Я в маске рыжей обезьяны<br/>На форум к вам попасть мечтал<br/>Но мой доклад про Головной УЦ<br/>Комом вам в горле встал<br/></blockquote><br/><br/>Санкт-Петербург заслуженно сравнивают с Венецией — схожесть двум городам придают загадочная атмосфера, многочисленные каналы, переплетения истории и выдающаяся архитектура. PKI-Форум 2026 сделает эту связь предельно наглядной, устроив для участников мероприятия пышный <a href="https://pki-forum.ru/carnival" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">PKI-Карнавал</a>.<br/><br/>Вычурные костюмы, барочные украшения и зрелищные представления помогут погрузиться в карнавальную атмосферу и получить свежие впечатления после интенсивной работы в первый день конференции 15 сентября. <br/><br/>Местом событий станет Государственная резиденция К-2 на набережной реки Малой Невки.<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji>Телеграм-канал <a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a> уже четвертый раз выступает информационным партнёром форума]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5389</guid>
-      <pubDate>Tue, 18 Aug 2026 18:32:07 +0000</pubDate>
+✍️
+"Об ЭП и УЦ"</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/hqXBSfSVT2fp2ygmzva0Jlzw6lBWYDfifwROb6BNudTVUdI77NjoMv0tgqgK7hoRVfm1f51QeIz9gkzc93RX-gOJ8ZwuY8XVwcmt2dp31wNfCoruMRxHrPwy5ooGGzfIYQs6SPPEnL50kg64qQYcNLRbrL5K6BKRXeSr94PZ49vnu0iPvhsJdUvrajHJfb9ePisl_6SZJpu76lizSNEZA4qabk8UbaBhdzVqfDCEG4o1uQ6BCBRCryYzPoCytOZermSzch0YbZvj7vKzt3forcaCPcLM33hP8z0q8-Ae-SWn7Gfgnh2EWtw67Jf1R-jAC_zdrp1J6ytqXH_XTbUdZQ.jpg" /></p>
+<tg-emoji emoji-id="5470094069289984325"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93A3.png')"><b>📣</b></i></tg-emoji>ИнфоТеКС - 35 лет!<br/><br/>Поздравляю компанию "ИнфоТеКС" с <a href="https://telegram.me/infotecs_official/2739" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">35-летним юбилеем</a>, ваш путь - это история становления целой отрасли!<br/><br/>Ваши решения линейки ViPNet являются технологической основой для ключевых инфраструктур, без которых цифровой мир России сегодня немыслим.<br/><br/>Передача защищенных запросов СМЭВ между ведомствами базируется на ваших комплексах, мобильная технология квалифицированной и неквалифицированной подписи использует ваши средства удостоверяющего центра. Ваша <br/>экспертиза проявилась в полной мере при создании ифраструктуры цифрового рубля, ПАК использованные при создании PKI-решений,  автоматизирующие выдачу TLS-сертификатов и неквалифицированной подписи для пользователей платформы цифрового рубля полностью соответствуя требованиям Банка России.<br/><br/>Что мне лично особо дорого - ваш ViPNet HSM в основе УЦ Федерального казначейства, обеспечивает хранение закрытого ключа УЦ.<br/><br/>Спасибо, что 35 лет вы создаете фундамент доверия - от рядового пользователя до государственных и финансовых систем национального масштаба! <br/><br/>С праздником, "ИнфоТеКС! Желаю , чтобы ваша работа оставалась надежным щитом для новых рубежей цифровой экономики<tg-emoji emoji-id="5409008750893734809"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8F86.png')"><b>🏆</b></i></tg-emoji><br/><br/>Телеграм-канал <tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5418</guid>
+      <pubDate>Mon, 24 Aug 2026 04:35:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔘</title>
+      <link>https://telegram.me/ep_uc/5417</link>
+      <description>🔘
+ 
+Интервью 
+Дмитрия Гусева
+, заместителя генерального директора, для журнала NBJ в рамках конференции «Криптография и Цифровой рубль»
+
+Дмитрий рассказал, почему в последнее время в финтехе уделяется повышенное внимание использованию СКЗИ, будут ли востребованы в других финтех-проектах решения по защите информации, внедряемые в проекте по цифровому рублю, началось ли массовое внедрение отечественной криптографии для защиты информации во всех банковских процессах, а также о роли компании в этих процессах.
+
+🔗
+ Смотреть 
+RuTube
+ / 
+ВК
+
+⚪
+️
+Мы в МАХ</description>
+      <content:encoded><![CDATA[<tg-emoji emoji-id="5226821619791449399"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9498.png')"><b>🔘</b></i></tg-emoji> <i>Интервью <b>Дмитрия Гусева</b>, заместителя генерального директора, для журнала NBJ в рамках конференции «Криптография и Цифровой рубль»</i><br/><br/>Дмитрий рассказал, почему в последнее время в финтехе уделяется повышенное внимание использованию СКЗИ, будут ли востребованы в других финтех-проектах решения по защите информации, внедряемые в проекте по цифровому рублю, началось ли массовое внедрение отечественной криптографии для защиты информации во всех банковских процессах, а также о роли компании в этих процессах.<br/><br/><tg-emoji emoji-id="5300878680019470359"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9497.png')"><b>🔗</b></i></tg-emoji> Смотреть <a href="https://rutube.ru/video/0ef9c55a43fd18c05b365882a0d4dbad/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">RuTube</a> / <a href="https://vk.ru/video-212252821_456239105" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">ВК</a><br/><br/><tg-emoji emoji-id="5301061121640268019"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29AAA.png')"><b>⚪</b></i></tg-emoji>️<a href="https://max.ru/channel_secure_fintech" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b>Мы в МАХ</b></a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5417</guid>
+      <pubDate>Sun, 23 Aug 2026 15:25:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Пост — Об ЭП и УЦ</title>
+      <link>https://telegram.me/ep_uc/5415</link>
+      <description>Пост — Об ЭП и УЦ</description>
+      <content:encoded><![CDATA[(нет текста)]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5415</guid>
+      <pubDate>Sun, 23 Aug 2026 05:20:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Тяжело Росархиву разбираться в вопросах нашей сферы - в</title>
+      <link>https://telegram.me/ep_uc/5407</link>
+      <description>Тяжело Росархиву разбираться в вопросах нашей сферы - в 
+приказе от 09.07.2026 № 91
+ (завтра вступает в силу) о внесении изменений в Правила делопроизводства в госорганах говорится про 
+наделение сотрудников полномочиями по подписанию электронной подписью госоргана
+, т.е. автоподпись.
+
+Но ещё четыре года назад в 63-ФЗ 
+339-ФЗ были внесены
+ изменения, что распорядительным актом госоргана определяется ни один сотрудник, а сразу два, первый - ответственный за автоматическое создание/проверку электронной подписи в информационной системе, а второй - за содержание информации, подписываемой такой автоподписью.
+
+Консервативным сотрудникам Росархива можно рекомендовать не игнорировать посещение 
+профильных конференций
+. Например, в программу PKI-Форума включен доклад "О предложениях профессионального сообщества по совершенствованию нормативного регулирования в сфере управления документами по итогам Всероссийского профессионального форума АРХИВЫ–2026", доклад Росархива "Криптографическая консервация: обеспечение легитимности электронных документов в архивном хранении" в стадии согласования.
+
+✍️
+"Об ЭП и УЦ"</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/ZHyQJK45NGv1lmIgz3kYLBl1qwSFLfAgqttD10iakABDOntWKTMGb_nnHih8OJLI1XkZT_PiXO0Qfk4RJUaYsasQ7ZtRIuIapR3SboUsr09Ihzq5Lx0LXJBgSr-U5m3RP4027ikSGcjl0UG_6iH3X9YvgHTYRTfp4YiCeZO1Y_7QNK8S3t3cr5PWEAANkWx5qCgWIojhqKbfuFmKH7c0BXmtie8uFi2E5e9sBVia7iRNmJDfvj8vB9audDp38u8xCXASHKIJBSSwPXwzOpv33-N6rwqhSbWK1PMXxgK5rnN1b5HzrPW28T8tYO4uy2CC7LOcA-TSjid1X8mtQfPCFA.jpg" /></p>
+Тяжело Росархиву разбираться в вопросах нашей сферы - в <a href="https://rg.ru/documents/2026/08/13/rosarhiv-prikaz91-site-dok.html" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">приказе от 09.07.2026 № 91</a> (завтра вступает в силу) о внесении изменений в Правила делопроизводства в госорганах говорится про <a href="http://publication.pravo.gov.ru/document/0001202608120013?index=3" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">наделение сотрудников полномочиями по подписанию электронной подписью госоргана</a>, т.е. автоподпись.<br/><br/>Но ещё четыре года назад в 63-ФЗ <a href="http://publication.pravo.gov.ru/document/view/0001202207140102?index=24" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">339-ФЗ были внесены</a> изменения, что распорядительным актом госоргана определяется ни один сотрудник, а сразу два, первый - ответственный за автоматическое создание/проверку электронной подписи в информационной системе, а второй - за содержание информации, подписываемой такой автоподписью.<br/><br/>Консервативным сотрудникам Росархива можно рекомендовать не игнорировать посещение <a href="https://telegram.me/ep_uc/5062" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">профильных конференций</a>. Например, в программу PKI-Форума включен доклад "О предложениях профессионального сообщества по совершенствованию нормативного регулирования в сфере управления документами по итогам Всероссийского профессионального форума АРХИВЫ–2026", доклад Росархива "Криптографическая консервация: обеспечение легитимности электронных документов в архивном хранении" в стадии согласования.<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5407</guid>
+      <pubDate>Sat, 22 Aug 2026 06:43:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
