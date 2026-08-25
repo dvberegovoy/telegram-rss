@@ -8,7 +8,56 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 24 Aug 2026 06:00:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 05:55:56 +0000</lastBuildDate>
+    <item>
+      <title>🪙</title>
+      <link>https://telegram.me/ep_uc/5421</link>
+      <description>🪙
+Цифровой рубль - новый этап внедрения массовой отечественной криптографии
+
+Через неделю мобильные приложения самых крупных банков должны получить апгрейд, по итогу которого каждый телефон получит своё СКЗИ (
+год назад
+ таким образом в приложение Госуслуг был интегрирован 
+TrustCryptoBase
+ Госключ). 
+
+Как вы узнаете про это? Будут знаки. 
+ЦБ сообщает
+, что на главной странице приложений появится специальная кнопка с логотипом цифрового рубля. 
+
+Но я про другое - сбор энтропии. Это такой механизм выработки последовательности случайных чисел для генерации пары криптографических ключей с использованием биометрического датчика случайных чисел, проще говоря - нужно будет поводить пальцем по экрану (один раз минимум). БиоДСЧ обязательно должен вызываться перед началом работы с криптографией на мобильном устройстве, это требует класс КС1 .
+
+🔐
+ PKI - 
+основа инфраструктуры
+ Цифрового рубля:
+
+🔹
+Два Головных УЦ в Банке России для НЭП и 
+TLS
+.
+
+🔹
+в самих банках два УЦ, уже подчиненных - аналогично для НЭП и 
+TLS
+ (в 2027 году - переход на НУЦ), а также TLS-шлюзы и СКЗИ класса КС3, 
+
+🔹
+в мобильных приложениях граждан - средства ЭП КС1, на рабочих местах корпоративных CSP, криптоплагины и браузеры с ГОСТ-TLS.
+
+Согласно 
+программе PKI-Форума
+ заместитель Председателя Банка России приглашена к участию в стратегической сессии "Куда и как развивается отрасль" по вопросу "PKI в цифровом рубле".
+
+✍️
+Телеграм-канал 
+"Об ЭП и УЦ"
+ четвертый раз выступает информационным партнёром форума.</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/TbsGVXnqBh-OtCaxtjZ1Uzljp3GwF_Zq9TipqeAWEnmdGIp3F98xA-rk0aIWyh4ZQd6s8NUAsJ2RL3ThIhpt-Vnh1S6OyfciT-5u_cRRbZ6kSaqRFmCXfpfJb6OpSmwufc2CxaBL1RO1ITUc9USY5LJ4CMg9-oOaj82gmnSXHgsLBvBf4t9feh5dIQNYs6tyY-iWjbpmv2TdiLS09SJxKCqeF3JV57sPh6UeHcj6L38ih_Pj6ADhhv1f4fgkAClWuPKHgjyv1stkUVlZH2TEqit2bEW1s5LZalHMv9BANEdhUR0qDGAZQ44gJUjhqm12Jy1tgkWeeoWAqRPASUDL1w.jpg" /></p>
+<tg-emoji emoji-id="5330296508757591686"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FAA99.png')"><b>🪙</b></i></tg-emoji><b>Цифровой рубль - новый этап внедрения массовой отечественной криптографии</b><br/><br/>Через неделю мобильные приложения самых крупных банков должны получить апгрейд, по итогу которого каждый телефон получит своё СКЗИ (<a href="https://telegram.me/ep_uc/3847?single" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">год назад</a> таким образом в приложение Госуслуг был интегрирован <s>TrustCryptoBase</s> Госключ). <br/><br/>Как вы узнаете про это? Будут знаки. <a href="https://telegram.me/ruble_digital2023/370" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">ЦБ сообщает</a>, что на главной странице приложений появится специальная кнопка с логотипом цифрового рубля. <br/><br/>Но я про другое - сбор энтропии. Это такой механизм выработки последовательности случайных чисел для генерации пары криптографических ключей с использованием биометрического датчика случайных чисел, проще говоря - нужно будет поводить пальцем по экрану (один раз минимум). БиоДСЧ обязательно должен вызываться перед началом работы с криптографией на мобильном устройстве, это требует класс КС1 .<br/><br/><tg-emoji emoji-id="5327952221118164589"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9490.png')"><b>🔐</b></i></tg-emoji> PKI - <a href="https://telegram.me/ep_uc/4140" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">основа инфраструктуры</a> Цифрового рубля:<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>Два Головных УЦ в Банке России для НЭП и <a href="https://telegram.me/ep_uc/5075" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">TLS</a>.<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>в самих банках два УЦ, уже подчиненных - аналогично для НЭП и <a href="https://telegram.me/ep_uc/5075" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">TLS</a> (в 2027 году - переход на НУЦ), а также TLS-шлюзы и СКЗИ класса КС3, <br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>в мобильных приложениях граждан - средства ЭП КС1, на рабочих местах корпоративных CSP, криптоплагины и браузеры с ГОСТ-TLS.<br/><br/>Согласно <a href="https://pki-forum.ru/program" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">программе PKI-Форума</a> заместитель Председателя Банка России приглашена к участию в стратегической сессии "Куда и как развивается отрасль" по вопросу "PKI в цифровом рубле".<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji>Телеграм-канал <a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a> четвертый раз выступает информационным партнёром форума.]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5421</guid>
+      <pubDate>Tue, 25 Aug 2026 05:15:45 +0000</pubDate>
+    </item>
     <item>
       <title>Пост — Об ЭП и УЦ</title>
       <link>https://telegram.me/ep_uc/5419</link>
@@ -43,7 +92,7 @@
 Телеграм-канал 
 ✍️
 "Об ЭП и УЦ"</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/hqXBSfSVT2fp2ygmzva0Jlzw6lBWYDfifwROb6BNudTVUdI77NjoMv0tgqgK7hoRVfm1f51QeIz9gkzc93RX-gOJ8ZwuY8XVwcmt2dp31wNfCoruMRxHrPwy5ooGGzfIYQs6SPPEnL50kg64qQYcNLRbrL5K6BKRXeSr94PZ49vnu0iPvhsJdUvrajHJfb9ePisl_6SZJpu76lizSNEZA4qabk8UbaBhdzVqfDCEG4o1uQ6BCBRCryYzPoCytOZermSzch0YbZvj7vKzt3forcaCPcLM33hP8z0q8-Ae-SWn7Gfgnh2EWtw67Jf1R-jAC_zdrp1J6ytqXH_XTbUdZQ.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/FffQs602cDAtsDQEsm-4GUstKwQOV7pnLebTDCWyhYY78Iaok_W0XWdqfjgd0JPENBjzL5GZkLIqEp0UYCmmgd5nAJ_G92u-IqQUDtcRyfKbBSpwqhWGGM-Zn6dQ5Yc9htTexSxqxmmSCB3KT9rHz9MlJr4YL39ZnlZ3AUq0TuZfMdufvDEnHJ8FPvd8UVqmnR--CIgYQ3zmN64V4yfjVtGZQq3vcjum9TDe2H3HKs5rSwOo0zlvkbpQ-FSOBbPvNNZoNmqx1TRgiZwi7b2DMhfo-PhNdU5TZeBSuCVUf9cKBwUyeX3cTucKpWh-3D2PgZNbes6TaWFWLi6GziOVhA.jpg" /></p>
 <tg-emoji emoji-id="5470094069289984325"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93A3.png')"><b>📣</b></i></tg-emoji>ИнфоТеКС - 35 лет!<br/><br/>Поздравляю компанию "ИнфоТеКС" с <a href="https://telegram.me/infotecs_official/2739" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">35-летним юбилеем</a>, ваш путь - это история становления целой отрасли!<br/><br/>Ваши решения линейки ViPNet являются технологической основой для ключевых инфраструктур, без которых цифровой мир России сегодня немыслим.<br/><br/>Передача защищенных запросов СМЭВ между ведомствами базируется на ваших комплексах, мобильная технология квалифицированной и неквалифицированной подписи использует ваши средства удостоверяющего центра. Ваша <br/>экспертиза проявилась в полной мере при создании ифраструктуры цифрового рубля, ПАК использованные при создании PKI-решений,  автоматизирующие выдачу TLS-сертификатов и неквалифицированной подписи для пользователей платформы цифрового рубля полностью соответствуя требованиям Банка России.<br/><br/>Что мне лично особо дорого - ваш ViPNet HSM в основе УЦ Федерального казначейства, обеспечивает хранение закрытого ключа УЦ.<br/><br/>Спасибо, что 35 лет вы создаете фундамент доверия - от рядового пользователя до государственных и финансовых систем национального масштаба! <br/><br/>С праздником, "ИнфоТеКС! Желаю , чтобы ваша работа оставалась надежным щитом для новых рубежей цифровой экономики<tg-emoji emoji-id="5409008750893734809"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8F86.png')"><b>🏆</b></i></tg-emoji><br/><br/>Телеграм-канал <tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5418</guid>
       <pubDate>Mon, 24 Aug 2026 04:35:34 +0000</pubDate>
@@ -99,7 +148,7 @@ RuTube
 
 ✍️
 "Об ЭП и УЦ"</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/ZHyQJK45NGv1lmIgz3kYLBl1qwSFLfAgqttD10iakABDOntWKTMGb_nnHih8OJLI1XkZT_PiXO0Qfk4RJUaYsasQ7ZtRIuIapR3SboUsr09Ihzq5Lx0LXJBgSr-U5m3RP4027ikSGcjl0UG_6iH3X9YvgHTYRTfp4YiCeZO1Y_7QNK8S3t3cr5PWEAANkWx5qCgWIojhqKbfuFmKH7c0BXmtie8uFi2E5e9sBVia7iRNmJDfvj8vB9audDp38u8xCXASHKIJBSSwPXwzOpv33-N6rwqhSbWK1PMXxgK5rnN1b5HzrPW28T8tYO4uy2CC7LOcA-TSjid1X8mtQfPCFA.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/psUU33eDmYWUh4qD3khlyg8anSX-jkwrLXEsL3peUF4WciI46NsVvL33CVhytcU9EE-l7VGLZZWs8c_u1ka5cxdmXLAPrNkX5dY2YfAmxSk9Eeuuct3qaKQ4ZxBRURvTVuo8AConj4s6dbpxbDR24CV1AEG9tJ4mpiI5ChdvyHMRUFoM0Fj3vb9OE8pss0nkqmK7wnanqQg0IImWKXjfP4aQTPvbjnZvfrAhabpQ7tIQND5PcTIWacVkJt_zF0gkNelhJ6r9hFbB2LbZXdrKCQjUgrofOLh53H7p-ddxIGSQJXB4wORdX_S1ekkY5oS8GELXoijPaHIhUG5Lk-8JTQ.jpg" /></p>
 Тяжело Росархиву разбираться в вопросах нашей сферы - в <a href="https://rg.ru/documents/2026/08/13/rosarhiv-prikaz91-site-dok.html" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">приказе от 09.07.2026 № 91</a> (завтра вступает в силу) о внесении изменений в Правила делопроизводства в госорганах говорится про <a href="http://publication.pravo.gov.ru/document/0001202608120013?index=3" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">наделение сотрудников полномочиями по подписанию электронной подписью госоргана</a>, т.е. автоподпись.<br/><br/>Но ещё четыре года назад в 63-ФЗ <a href="http://publication.pravo.gov.ru/document/view/0001202207140102?index=24" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">339-ФЗ были внесены</a> изменения, что распорядительным актом госоргана определяется ни один сотрудник, а сразу два, первый - ответственный за автоматическое создание/проверку электронной подписи в информационной системе, а второй - за содержание информации, подписываемой такой автоподписью.<br/><br/>Консервативным сотрудникам Росархива можно рекомендовать не игнорировать посещение <a href="https://telegram.me/ep_uc/5062" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">профильных конференций</a>. Например, в программу PKI-Форума включен доклад "О предложениях профессионального сообщества по совершенствованию нормативного регулирования в сфере управления документами по итогам Всероссийского профессионального форума АРХИВЫ–2026", доклад Росархива "Криптографическая консервация: обеспечение легитимности электронных документов в архивном хранении" в стадии согласования.<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5407</guid>
       <pubDate>Sat, 22 Aug 2026 06:43:35 +0000</pubDate>

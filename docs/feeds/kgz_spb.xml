@@ -8,7 +8,35 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 24 Aug 2026 06:01:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 05:56:44 +0000</lastBuildDate>
+    <item>
+      <title>🛜</title>
+      <link>https://telegram.me/kgz_spb/3331</link>
+      <description>🛜
+ 
+Для удобства пользователей АИС ГЗ добавлен функционал копирования характеристик для закупок малого объема в реестре «Планирование» -&gt; «Реестр закупок малого объема».
+
+🛜
+ При создании новой закупки путём копирования аналогичной закупки происходит копирование характеристик вместе с перечнем позиций.
+
+⚡️
+ В случае если КТРУ был установлен и характеристика КТРУ актуальна, то она копируется. Если какая-то из характеристик КТРУ не актуальна, то она не копируется.
+
+📌
+ Если признак «Указать ККН» был установлен и характеристика ККН применяется, то копируется характеристика. Если характеристика ККН не применяется, то не копируется.
+
+✅
+ Все дополнительные характеристики для КТРУ и для ККН копируются в любом случае.
+
+👀
+ Перечень позиций копируется в любом случае, при наличии не актуальной характеристики не копируется только такая характеристика.</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/Yl6zMSnNhku_pNo8yGxTtYrvbXIYbWk77uJcQFNGa86NJT9JSWmG_66lCJbx7D7q1NklXczBxB5pYRaAMGBLd1Qek9yKDHYURqrhKjmmeAy5-0AzDdsct9fP9_gN_dyAFaWFgLnOVCoMLCLgrKoIEjMHjTRLMIVt0uMYd1EBohtN4VvLqM0xWHg6KzViBNFBc_MBYP0unqt4w2AF0cmxGSiePa4S55FGYgipOgF_G4egVV9MaYcAA4nNTX4GIJEooM1-aVntA6D0xnRUO5Sti18ON2ghtnxEsON_P47yObFvr9Akpv2TlmmvasTeZeGdRk6dfAdIK5j7KgIdRa0R3A.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/LEWSoVf33PBhLC07Hwn-TGS93_GjWMEJCYN81LfR80qPKe7rPfYfysBo-1bsdKvkCvR0PbQmWNC1Iu4dGad-cJ6cHVXErYg7yb856pXkX_J9Su4JkiudhVv8yYP91rKaogCmNFUrpl1IlQb3Wdwz0blPUCjq3yH9XnrfKDEYYqvvmBidzMTyfLVbzo8HwlrZ7vyoslOEuEPExhKl-yZcqsbgiRMb64VTvdDz3_HBjIpfvhNHdgaIVTgozqd8TN3WVjWWugypqFtylnh9mSwMsWzd5tZLqFON6XtVdqjtX5wWIcHScEeLUjJfr7xHxwQfF2I5M9aJT1P1pDGIqP7v7w.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/P6N_UhcAhYmjH0QdfjUdpUKhkLghPcq-iwvvCoTANOyQaazPVQWV7ly6595LyMAU-w8xTOyVmqWZK_081_h5iUFnwu9AU90kd-dOrtrxc0_yoVVg81lIzZSzqMGVMUlRaafjnXlaJXzTP5Qvyh7q3PS91YHMOWj6LELSO2V_mlQZlXYdD_CifVAkTJchMrU2-IFq5B-oAPqacvPdaiy_U3qByCvU2Atvp4GUApGeVKsabrioRIM-D_0LGt_IXbGFoE9KL16KYBv8JnNs4bK90jgdBazd_pHWRXjI5f6k4W5gm80T4GxgoIPFz_onoYBuhcn1e0xkE3SA2f_kjtW2pw.jpg" /></p>
+<tg-emoji emoji-id="5296281600428900666"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9B9C.png')"><b>🛜</b></i></tg-emoji> <b>Для удобства пользователей АИС ГЗ добавлен функционал копирования характеристик для закупок малого объема в реестре «Планирование» -&gt; «Реестр закупок малого объема».</b><br/><br/><tg-emoji emoji-id="5301169496550046363"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9B9C.png')"><b>🛜</b></i></tg-emoji> При создании новой закупки путём копирования аналогичной закупки происходит копирование характеристик вместе с перечнем позиций.<br/><br/><tg-emoji emoji-id="5467404595128970177"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29AA1.png')"><b>⚡️</b></i></tg-emoji> В случае если КТРУ был установлен и характеристика КТРУ актуальна, то она копируется. Если какая-то из характеристик КТРУ не актуальна, то она не копируется.<br/><br/><tg-emoji emoji-id="5296702391259792940"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938C.png')"><b>📌</b></i></tg-emoji> Если признак «Указать ККН» был установлен и характеристика ККН применяется, то копируется характеристика. Если характеристика ККН не применяется, то не копируется.<br/><br/><tg-emoji emoji-id="5296689811300580903"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C85.png')"><b>✅</b></i></tg-emoji> Все дополнительные характеристики для КТРУ и для ККН копируются в любом случае.<br/><br/><tg-emoji emoji-id="5260341314095947411"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9180.png')"><b>👀</b></i></tg-emoji> Перечень позиций копируется в любом случае, при наличии не актуальной характеристики не копируется только такая характеристика.]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/kgz_spb/3331</guid>
+      <pubDate>Mon, 24 Aug 2026 12:30:55 +0000</pubDate>
+    </item>
     <item>
       <title>🇷🇺</title>
       <link>https://telegram.me/kgz_spb/3330</link>
@@ -21,34 +49,10 @@
 
 С праздником! 
 🇷🇺</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/WVbpt37J1Cb02OdF5b00Q5OFmVSTlYuH0bj9CA2b_8Ueekv7xwBROqL8P81ni_NaoOVowoTsK7OEFcxXv49MPHMmyBJuZbgpPa3wCqtC6xl16f9TSBJHPxJtz4Y-RP1UKBSLOmpGr1QLuTvuIf9YEls37Wq2Wi4-OAbSUGqgpqn-koXAINYWkrGSAvyIlNytibC_E8VIrOlAvB6A9z43b4aedCxj9ng2znXcdHndZMAZ9t2PJLZS1x2OhycrCLX3hCsKFB93Isw9CYmnRgQivV1F5OQXdQeYou5Z4pW5REIbAodcqA9GQ-o6MwD5MrjyppOoPceSVv9e3Od6xugcsg.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/KxgfYst9I2Zq2q9D7kZQ66WTSzW3IPMFRLFW6Rhi5mhr-0nt4daEmx0--FWV03yAgfXkBb7kQzIODxainsFehILzgo2H3hMo-qAvDy-rKZWtNj4TYqxTEGy0fGXYPB2lVlWu-axCPn3VboTdA-jCrwJKtUYBJ4hHzNWEr4GycbNXkjHhbb_ZfEfMQv3ndETMvvCP-AWGQH8axVcBZx3xe7yNGdJXgpd2RCY1Rqf4vZSyGfcQ2Aya7AXst7CTKeDH34dr2mZakRbmAaPbPDVRaPe7C50S5wBHGsMgtLIwBwnk8UjtFOoJ3yaTYXIBnTE5pRJEjuHlfmd_X_9_6ginUw.jpg" /></p>
 <tg-emoji emoji-id="5190924072678085128"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F87B7F09F87BA.png')"><b>🇷🇺</b></i></tg-emoji> <b>22 августа — День Государственного флага Российской Федерации. </b><br/><br/><tg-emoji emoji-id="5296281600428900666"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9B9C.png')"><b>🛜</b></i></tg-emoji> Флаг России — знак сплочённости многонационального народа страны. Он близок каждому, кто испытывает чувство гордости за Родину и стремится сохранять её самобытные традиции и духовные ценности<br/><br/>С праздником! <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F87B7F09F87BA.png')"><b>🇷🇺</b></i>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/kgz_spb/3330</guid>
       <pubDate>Sat, 22 Aug 2026 12:08:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️</title>
-      <link>https://telegram.me/kgz_spb/3329</link>
-      <description>⚡️
- 
-20.08.2026
- на официальном интернет-портале опубликовано постановление Правительства Российской Федерации от 10.08.2026 №
- 1035
- «О внесении изменений в постановление Правительства Российской Федерации от 17 июля 2015 г. № 719».
-
-📝
- Изменения затронули раздел «VII. Медицинские изделия». Ключевые изменения:
-
-– скорректированы условия (критерии), при выполнении которых медицинский товар получает баллы за локализацию производства в России;
-
-– обновлён перечень медицинских изделий, подпадающих под эти правила.
-
-📆
- Новые требования начнут действовать с 01.01.2027.</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/bJFuTAZAIMTPnhtcvxvigfdgbQBez58bejsccMQ43xKK5aC0UA488QR9KnB1rFsrvAdwk4_60JNQz42sRdXsYv_Or1Q4U7Gh5NiQzmduA6OynS7lZpYG-AQSbecr8mCLy9alEPHGFXdntlwuNMC_xa4weTXCs1zAW2HAzrvNkOP2b49gOO9BK8juG5wyB93FoWaVM50yjfHDXYysA-CyAJ6LlCf-D1fa1eDlk_MxFnV1kbhCzTD4QavleKrtgPCEy46ZO_oBvPdGHSLG6QBkXo0ur6768niuuG5rwTo89t1OuNNamHpcCj67yt0rAPV1S9lmQ8azANQrJ_4jE-7myw.jpg" /></p>
-<tg-emoji emoji-id="5445196435932848598"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29AA1.png')"><b>⚡️</b></i></tg-emoji> <b>20.08.2026</b> на официальном интернет-портале опубликовано постановление Правительства Российской Федерации от 10.08.2026 №<a href="https://disk.yandex.ru/i/hSYpdgnSKRtcCw" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"> 1035</a> «О внесении изменений в постановление Правительства Российской Федерации от 17 июля 2015 г. № 719».<br/><br/><tg-emoji emoji-id="5257965174979042426"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F939D.png')"><b>📝</b></i></tg-emoji> Изменения затронули раздел «VII. Медицинские изделия». Ключевые изменения:<br/>– скорректированы условия (критерии), при выполнении которых медицинский товар получает баллы за локализацию производства в России;<br/>– обновлён перечень медицинских изделий, подпадающих под эти правила.<br/><br/><tg-emoji emoji-id="5233442324763145131"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9386.png')"><b>📆</b></i></tg-emoji> Новые требования начнут действовать с 01.01.2027.]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/kgz_spb/3329</guid>
-      <pubDate>Fri, 21 Aug 2026 12:07:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
