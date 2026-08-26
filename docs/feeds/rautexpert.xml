@@ -8,22 +8,6 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 25 Aug 2026 05:56:52 +0000</lastBuildDate>
-    <item>
-      <title>Пост — РАУТ</title>
-      <link>https://telegram.me/rautexpert/1101</link>
-      <description>Пост — РАУТ</description>
-      <content:encoded><![CDATA[(нет текста)]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/rautexpert/1101</guid>
-      <pubDate>Sat, 22 Aug 2026 14:05:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Пост — РАУТ</title>
-      <link>https://telegram.me/rautexpert/1100</link>
-      <description>Пост — РАУТ</description>
-      <content:encoded><![CDATA[(нет текста)]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/rautexpert/1100</guid>
-      <pubDate>Sat, 22 Aug 2026 14:05:12 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 26 Aug 2026 05:58:44 +0000</lastBuildDate>
   </channel>
 </rss>
