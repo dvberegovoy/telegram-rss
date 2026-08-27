@@ -8,7 +8,97 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 26 Aug 2026 05:59:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 16:38:49 +0000</lastBuildDate>
+    <item>
+      <title>Выбор кода ОКПД 2: право заказчика или поле для жалоб?</title>
+      <link>https://telegram.me/daggoszakupki/3013</link>
+      <description>Выбор кода ОКПД 2: право заказчика или поле для жалоб?
+
+Разбираем свежую практику Бурятского УФАС: заказчик самостоятельно определяет код ОКПД 2, исходя из специфики объекта закупки.
+
+Суть спора:
+ Заказчик закупал картриджи для лазерных МФУ и выбрал код 28.23.25.000. Заявитель настаивал на коде 
+26.20.40.120
+
+, утверждая, что выбор заказчика неверный и влияет на применение нацрежима.
+
+Итог: 
+УФАС встало на сторону заказчика. Контролеры подтвердили:
+
+Заказчик сам определяет код, исходя из потребностей.
+
+Код 
+26.20.40.120
+
+ предназначен для струйных и сублимационных устройств, а значит, для лазерных картриджей он не подходит.
+
+Выбор кода обоснован техническими характеристиками товара.
+
+💡
+ 
+Важный нюанс:
+ Несмотря на позицию УФАС, помните, что Минпромторг часто придерживается иной точки зрения. Будьте внимательны при обосновании выбора кода в документации.
+
+Подробности в решении Бурятского УФАС от 03.08.2026 № 003/06/105-582/2026
+.</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/E8-qdLtf1IMr8mkhbJoql9ZMwy3z39OVAn2ERmcHsaqzOpGeB-ojN-R1kJh-44KarRgdy0dFus3oe2pr03nw3lTyr_nisYXjkE1bwWhB2ithauAI-LuLd3nP-C5YqKiXFmbn9lINUvPZHrqfJOU__pldnQDmtX4aH7Pf1gpaX4YvSQCPoRNpoF-ylcxjWrrkF4GQZoP-5p6p5RQFQSGeQ0dDM27Cp1NL0Zy_0CWjNb7_UklgBi2sO0Kj518g8aXBLQaSxhQS86M7JLmtC5OSD-kc1hYC_zbGaBIxAkbkbGsId39wi62WNJfJi7bPF-kR7q2Zpg_unHn0L2h9S6-NpA.jpg" /></p>
+<b>Выбор кода ОКПД 2: право заказчика или поле для жалоб?</b><br/>Разбираем свежую практику Бурятского УФАС: заказчик самостоятельно определяет код ОКПД 2, исходя из специфики объекта закупки.<br/><br/><b>Суть спора:</b> Заказчик закупал картриджи для лазерных МФУ и выбрал код 28.23.25.000. Заявитель настаивал на коде <a href="http://26.20.40.120/" rel="noopener" target="_blank">26.20.40.120</a><br/>, утверждая, что выбор заказчика неверный и влияет на применение нацрежима.<br/><br/><b>Итог: </b>УФАС встало на сторону заказчика. Контролеры подтвердили:<br/>Заказчик сам определяет код, исходя из потребностей.<br/>Код <a href="http://26.20.40.120/" rel="noopener" target="_blank">26.20.40.120</a><br/> предназначен для струйных и сублимационных устройств, а значит, для лазерных картриджей он не подходит.<br/>Выбор кода обоснован техническими характеристиками товара.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')"><b>💡</b></i> <b>Важный нюанс:</b> Несмотря на позицию УФАС, помните, что Минпромторг часто придерживается иной точки зрения. Будьте внимательны при обосновании выбора кода в документации.<br/><br/><a href="https://www.consultant.ru/legalnews/32365/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Подробности в решении Бурятского УФАС от 03.08.2026 № 003/06/105-582/2026</a>.]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/daggoszakupki/3013</guid>
+      <pubDate>Thu, 27 Aug 2026 07:18:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Модульные здания в госзакупках: УФАС напоминает о доптребованиях по позиции 9</title>
+      <link>https://telegram.me/daggoszakupki/3011</link>
+      <description>Модульные здания в госзакупках: УФАС напоминает о доптребованиях по позиции 9
+
+Коллеги, важный прецедент для заказчиков, закупающих модульные конструкции.
+
+Красноярское УФАС разобрало жалобу участника закупки на поставку и монтаж модульного здания. Суть спора: заказчик не установил дополнительные требования по позиции 9 Постановления № 2571, посчитав, что объект не является капитальным.
+
+Что решил антимонопольный орган?
+
+Даже если здание является некапитальным (нет прочной связи с землей, возможность перемещения без ущерба), это не освобождает от применения ПП РФ № 2571.
+
+Если НМЦК превышает 5 млн рублей, установление доптребований по позиции 9 — обязанность заказчика, а не право.
+
+Этот подход уже поддержали УФАС по Воронежской и Адыгейской областям. Будьте внимательны при формировании извещений, чтобы избежать жалоб и предписаний.
+
+📄
+ Источник: 
+Решение Красноярского УФАС России от 07.08.2026 N 024/06/105-2487/2026
+
+#госзакупки
+ 
+#44ФЗ
+ 
+#УФАС
+ 
+#практика
+ 
+#закупки
+
+🛡
+ Даггосзакупки
+
+📶
+ Мы в Телеграм 
+
+📶
+ 
+Мы в ВКонтакте 
+
+📶
+ 
+Мы в Одноклассниках
+
+📲
+ 
+Мы в МАХ</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/rpv_TRjJRXPdgQOmYhjaRixmGC-aSSBuxzCEiZb_dTC2G-_rObg9M116b5_B7zhBC5SOyncPC_U0WsanyXcOVzHjyabS1Z5mgjsuLhm8tj2U_fNwloRMKS8jTsoPyE_BDzDNVM1dnGxVH1tK3LUEe1aqaZpsUr9x2zjJYoJTis4cuciBhcTUdn49TrZ6lwKkw2m6b3Y8YGvJU385J5pZojLhHqc2IW_IxFHMZFFOl8JfqkgoXZ3XfMC0fTHrsWJv54Eb52vnf6R4p1soN97_CWm4YoSSSWs2MZGS4dlGOOzD562I6Z7wAHe3qxju87CNKnBTGQg1K4Nt48y7I8yjlg.jpg" /></p>
+<b>Модульные здания в госзакупках: УФАС напоминает о доптребованиях по позиции 9</b><br/><br/>Коллеги, важный прецедент для заказчиков, закупающих модульные конструкции.<br/><br/>Красноярское УФАС разобрало жалобу участника закупки на поставку и монтаж модульного здания. Суть спора: заказчик не установил дополнительные требования по позиции 9 Постановления № 2571, посчитав, что объект не является капитальным.<br/><br/><b>Что решил антимонопольный орган?</b><br/>Даже если здание является некапитальным (нет прочной связи с землей, возможность перемещения без ущерба), это не освобождает от применения ПП РФ № 2571.<br/><br/>Если НМЦК превышает 5 млн рублей, установление доптребований по позиции 9 — обязанность заказчика, а не право.<br/><br/>Этот подход уже поддержали УФАС по Воронежской и Адыгейской областям. Будьте внимательны при формировании извещений, чтобы избежать жалоб и предписаний.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9384.png')"><b>📄</b></i> Источник: <a href="https://www.consultant.ru/legalnews/32385/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Решение Красноярского УФАС России от 07.08.2026 N 024/06/105-2487/2026</a><br/><br/><a href="?q=%23%D0%B3%D0%BE%D1%81%D0%B7%D0%B0%D0%BA%D1%83%D0%BF%D0%BA%D0%B8">#госзакупки</a> <a href="?q=%2344%D0%A4%D0%97">#44ФЗ</a> <a href="?q=%23%D0%A3%D0%A4%D0%90%D0%A1">#УФАС</a> <a href="?q=%23%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0">#практика</a> <a href="?q=%23%D0%B7%D0%B0%D0%BA%D1%83%D0%BF%D0%BA%D0%B8">#закупки</a><br/><br/><tg-emoji emoji-id="5305460065799512351"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9BA1.png')"><b>🛡</b></i></tg-emoji><a href="https://goszakazrd.e-dag.ru/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"> Даггосзакупки</a><br/><tg-emoji emoji-id="5292231016772024553"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')"><b>📶</b></i></tg-emoji><a href="https://telegram.me/daggoszakupki" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"> Мы в Телеграм </a><br/><tg-emoji emoji-id="5294208655938303846"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')"><b>📶</b></i></tg-emoji> <a href="https://vk.com/club215539205" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Мы в ВКонтакте </a><br/><tg-emoji emoji-id="5292123629704722000"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')"><b>📶</b></i></tg-emoji> <a href="https://ok.ru/profile/591682700681" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Мы в Одноклассниках</a><br/><tg-emoji emoji-id="5449407131675558756"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93B2.png')"><b>📲</b></i></tg-emoji> <a href="https://max.ru/id572005870_gos" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Мы в МАХ</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/daggoszakupki/3011</guid>
+      <pubDate>Wed, 26 Aug 2026 06:07:00 +0000</pubDate>
+    </item>
     <item>
       <title>Банк отказывает в выплате по гарантии? Разбираемся в свежей практике 2026 года!</title>
       <link>https://telegram.me/daggoszakupki/3010</link>
@@ -29,97 +119,10 @@
 
 Читайте подробности
 , чтобы защитить свои интересы в закупках</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/Ljx4xTNYhhulAcV-GZi_65NNirX4Zaa1Z7zsH1IH2XZY_26RR5gwEMHMru1plFYecMe0mHk6GsRDDCwyuQb5mNosUQogoLJFcCTjO3tqdyZSm_-wL_ypT_dOKfSN4PZ0D7yWbhT7xqyAFrhd0k6yZK2u3WKoRhV0UgUd2DUHuzEHX8WZQmKUlAL55ONhLJ-_s0RNwHqCS6Ngl62CD1K2w_rBxtkkqmkWtMrQedJsM8d0qQ--LoMPfrOWJGwfa3_1moCwzLgdm64cWhHHZZC_HeoxqZge2Tqw1QHT_9fyMPL89ma7H_RYtIJMVO2CBP8r-Ha4vK4kkrzlOz_OwJwn-w.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/mqG48-qAKVV_hcxanG1CLey-5XXCwB8Q1vEcgg_rmjzWmA_PvmTZiixqo_B8ZytP7jZpqIw6IeSFq2ADTTSjpIbxv8Klam8ot34yVyOjKdZ68BRfcgFouJDqJsiKeeeftgtIVJHpgaIbyd2G_52UdvbZc6uq5h0EHNrNoxZbG_Dee1Dy5nbYy-j0BujUpG7D8LjNhQRFQAH4bTVaH_RoN9a-ju62TAY3Q43tpLgeOGS3YKSWnc5WalYLIWRkO8zyY7-pkjVuXP6Y-1liSp2dI5lD3uykO8nsi33FjBqjZ-ytu3iS382Osw9OkFG6dP0N-fjVMregqB-UymZtfxOokA.jpg" /></p>
 <b>Банк отказывает в выплате по гарантии? Разбираемся в свежей практике 2026 года!</b><br/><br/>Часто банки пытаются отказать заказчикам в выплате, ссылаясь на «отсутствие убытков» или «недобросовестное обогащение». Но суды встают на сторону госзаказчиков.<br/><br/><b>В новом обзоре ответили на три главных вопроса:</b><br/><tg-emoji emoji-id="5235463798365642362"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"><b>👉</b></i></tg-emoji>Обязательно ли доказывать убытки? (Спойлер: нет!)<br/><br/><tg-emoji emoji-id="5235463798365642362"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"><b>👉</b></i></tg-emoji>Можно ли предоставить две гарантии вместо одной? (Спойлер: это риск уклонения!)<br/><br/><tg-emoji emoji-id="5235463798365642362"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"><b>👉</b></i></tg-emoji>Имеет ли право заказчик забрать всю сумму обеспечения? (да, если контракт сорван полностью).<br/><br/><a href="https://www.consultant.ru/legalnews/32372/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b>Читайте подробности</b></a><b>, чтобы защитить свои интересы в закупках</b>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/daggoszakupki/3010</guid>
       <pubDate>Tue, 25 Aug 2026 08:10:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>📢</title>
-      <link>https://telegram.me/daggoszakupki/3009</link>
-      <description>📢
- 
-Вниманию контрактных управляющих в сфере здравоохранения!
-
-Комитет по государственным закупкам Республики Дагестан приглашает вас принять участие в вебинаре на тему:
- «Применение законодательства о контрактной системе в сфере здравоохранения в 2026 году: актуальные вопросы».
-
-Это отличная возможность обсудить изменения в законодательстве, разобрать сложные кейсы и получить ответы на актуальные вопросы закупочной деятельности.
-
-🗓
- 
-Дата:
- 28 августа 2026 года
-
-🕙
- 
-Время:
- 10:00
-
-📍
- 
-Место:
- учебная платформа АО «Сбербанк-АСТ»
-
-🔗
- 
-Регистрация:
- 
-https://astuniver.ru/mkc-sber/s/YluVZJ</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/byBWt70Oh236jXG1VwYJVBl_VJk__WNq0QwycD5TFtLV5tFxJ3066Ru8Qzz8YW-0bJpjoLVAD6WL39LccpACxwpAiif5jkt59YHTia_6vUpyC4DG8NJgeC0RvgZmV-t4jLtbBdbHzG5Nn2wa8c0-TmMb0I9QnZP4koOVvA14wfgUwG2AcP35EDOau-F0nVDQybx3afNDeLxt59dVkE1Bg4MX-5r18ZvBgj0N6SrJcXKDS4DKrGmw6N_Zhea_tqQHAiF_z13ENVq7XtVzM_qbaSNZNnm5zcXCVGn1L-ERj_0GIIpDYQAiu92TMenvmgs9wxwbgzTo9XbtUhOAGKdaNw.jpg" /></p>
-<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93A2.png')"><b>📢</b></i> <b>Вниманию контрактных управляющих в сфере здравоохранения!</b><br/><br/>Комитет по государственным закупкам Республики Дагестан приглашает вас принять участие в вебинаре на тему:<b> «Применение законодательства о контрактной системе в сфере здравоохранения в 2026 году: актуальные вопросы».</b><br/><br/>Это отличная возможность обсудить изменения в законодательстве, разобрать сложные кейсы и получить ответы на актуальные вопросы закупочной деятельности.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9793.png')"><b>🗓</b></i> <b>Дата:</b> 28 августа 2026 года<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9599.png')"><b>🕙</b></i> <b>Время:</b> 10:00<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938D.png')"><b>📍</b></i> <b>Место:</b> учебная платформа АО «Сбербанк-АСТ»<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9497.png')"><b>🔗</b></i> <b>Регистрация:</b> <a href="https://astuniver.ru/mkc-sber/s/YluVZJ" rel="noopener" target="_blank">https://astuniver.ru/mkc-sber/s/YluVZJ</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/daggoszakupki/3009</guid>
-      <pubDate>Mon, 24 Aug 2026 08:32:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>📢</title>
-      <link>https://telegram.me/daggoszakupki/3008</link>
-      <description>📢
- 
-Важные изменения в закупках IT-сервисов: что ждет заказчиков с 1 сентября 2026 года
-?
-
-С 1 сентября 2026 года вступают в силу новые правила закупок электронных сервисов для государственных и иных информационных систем (Постановление Правительства РФ от 18.08.2026 № 1024).
-
-Изменения коснутся как госзакупок (44-ФЗ), так и закупок по 223-ФЗ. Теперь заказчики обязаны включать в документацию и проекты контрактов более жесткие требования к поставщикам.
-
-Что именно изменится?
-
-✅
- Регламент взаимодействия — обязателен.
-
-Теперь в контракте должен быть четко прописан порядок действий при сбоях. Это не просто формальность, а конкретные правила:
-
-Кто и как реагирует на аварии.
-
-Предельные сроки восстановления работы сервиса.
-
-Четкое разграничение ответственности за защиту информации.
-
-✅
- 
-Новые требования к поставщикам.
-
-Исполнители услуг теперь обязаны:
-
-Обеспечивать надежное хранение и резервирование данных.
-
-Гарантировать пользователю доступ к его данным в течение всего срока действия контракта.
-
-Оперативно уведомлять заказчика о любых сбоях или инцидентах, связанных с защитой информации.
-
-Почему это важно?
-
-Эти нововведения направлены на повышение стабильности работы информационных систем и защиту данных. Заказчики получают больше рычагов контроля, а поставщики — четкие стандарты качества и ответственности.
-
-💡
- 
-Совет:
- Заказчикам стоит заранее пересмотреть шаблоны закупочной документации и проектов контрактов, чтобы с 1 сентября 2026 года быть полностью готовыми к новым требованиям.</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/N4NJNH1AKJ8I_CBjvBOrj1yl7VsbzULE0WpUQZUPxdr4NWOnmcXybVVJcdUaenJWY6TyLJwo98EDoudvO5-XYPVBPZ64VL8vSJuer2Bg0SCE-Kjz994D4qmXOqHar9GWDlAcNTnLCAKmSLCKpaJ0wDbxIz9CIAtmJzPguQBWgWd0SsLDe-iHQpQpMs9ww_XwMW04kmZu4h4hrts6FvbZeT2ei7HWmdysyth5Bc9iuA_ChOex7Rntfrf9Ea3TbNmci3Aw90cQIpfAbIBtiSD_ud7zjsaKOdnzh3g_zyQzvoVQtzQkYjp_c2gr2wZLF8rB6RWgkefoQBDss5MO3WwzxA.jpg" /></p>
-<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93A2.png')"><b>📢</b></i> <a href="https://www.consultant.ru/legalnews/32380/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Важные изменения в закупках IT-сервисов: что ждет заказчиков с 1 сентября 2026 года</a>?<br/><br/>С 1 сентября 2026 года вступают в силу новые правила закупок электронных сервисов для государственных и иных информационных систем (Постановление Правительства РФ от 18.08.2026 № 1024).<br/>Изменения коснутся как госзакупок (44-ФЗ), так и закупок по 223-ФЗ. Теперь заказчики обязаны включать в документацию и проекты контрактов более жесткие требования к поставщикам.<br/><br/><b>Что именно изменится?</b><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C85.png')"><b>✅</b></i> Регламент взаимодействия — обязателен.<br/>Теперь в контракте должен быть четко прописан порядок действий при сбоях. Это не просто формальность, а конкретные правила:<br/>Кто и как реагирует на аварии.<br/>Предельные сроки восстановления работы сервиса.<br/>Четкое разграничение ответственности за защиту информации.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C85.png')"><b>✅</b></i> <b>Новые требования к поставщикам.</b><br/>Исполнители услуг теперь обязаны:<br/>Обеспечивать надежное хранение и резервирование данных.<br/>Гарантировать пользователю доступ к его данным в течение всего срока действия контракта.<br/>Оперативно уведомлять заказчика о любых сбоях или инцидентах, связанных с защитой информации.<br/><br/><b>Почему это важно?</b><br/>Эти нововведения направлены на повышение стабильности работы информационных систем и защиту данных. Заказчики получают больше рычагов контроля, а поставщики — четкие стандарты качества и ответственности.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')"><b>💡</b></i> <b>Совет:</b> Заказчикам стоит заранее пересмотреть шаблоны закупочной документации и проектов контрактов, чтобы с 1 сентября 2026 года быть полностью готовыми к новым требованиям.]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/daggoszakupki/3008</guid>
-      <pubDate>Mon, 24 Aug 2026 06:23:46 +0000</pubDate>
     </item>
   </channel>
 </rss>

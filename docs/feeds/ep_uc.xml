@@ -8,7 +8,131 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 26 Aug 2026 05:57:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 16:37:09 +0000</lastBuildDate>
+    <item>
+      <title>Российские УЦ: появилась полноценная альтернатива Microsoft CA</title>
+      <link>https://telegram.me/ep_uc/5445</link>
+      <description>Российские УЦ: появилась полноценная альтернатива Microsoft CA
+
+Российский рынок корпоративных центров сертификации ещё молодой, но уже предлагает несколько решений для построения PKI-инфраструктуры.
+
+В 
+сравнении
+ Anti-Malware рассмотрены:
+
+• Aladdin Enterprise CA;
+
+• Avanpost CA;
+
+• Clearway CA;
+
+• SafeTech CA;
+
+• Microsoft CA как базовый ориентир.
+
+Отечественные УЦ уже закрывают основные задачи: выпуск, продление, отзыв и проверку сертификатов пользователей, устройств и сетевого оборудования. Уже есть записи в РОПО, сертификация ФСТЭК и референсные внедрения.
+
+Универсального победителя нет: выбор продукта зависит от требований к масштабу, комплаенсу, ОС, поддержке ГОСТа и политики лицензирования.</description>
+      <content:encoded><![CDATA[<b>Российские УЦ: появилась полноценная альтернатива Microsoft CA</b><br/><br/>Российский рынок корпоративных центров сертификации ещё молодой, но уже предлагает несколько решений для построения PKI-инфраструктуры.<br/><br/>В <a href="https://www.anti-malware.ru/compare/Certificate-Authority-2026" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">сравнении</a> Anti-Malware рассмотрены:<br/>• Aladdin Enterprise CA;<br/>• Avanpost CA;<br/>• Clearway CA;<br/>• SafeTech CA;<br/>• Microsoft CA как базовый ориентир.<br/><br/>Отечественные УЦ уже закрывают основные задачи: выпуск, продление, отзыв и проверку сертификатов пользователей, устройств и сетевого оборудования. Уже есть записи в РОПО, сертификация ФСТЭК и референсные внедрения.<br/><br/>Универсального победителя нет: выбор продукта зависит от требований к масштабу, комплаенсу, ОС, поддержке ГОСТа и политики лицензирования.]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5445</guid>
+      <pubDate>Thu, 27 Aug 2026 09:33:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Пост — Об ЭП и УЦ</title>
+      <link>https://telegram.me/ep_uc/5444</link>
+      <description>Пост — Об ЭП и УЦ</description>
+      <content:encoded><![CDATA[(нет текста)]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5444</guid>
+      <pubDate>Thu, 27 Aug 2026 05:15:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>❌</title>
+      <link>https://telegram.me/ep_uc/5443</link>
+      <description>❌
+Новые отзывы сертификатов безопасности 
+
+УЦ HARICA 26 августа отозваны сертификаты у доменов Газпрома и банков Реалист, Объединенный капитал и Юнистрим. 
+
+Текущий статус по доменам:
+
+*.
+realistbank.ru
+ - перешли на 
+SSL.com
+
+*.
+gazprom.ru
+ - до сих пор на HARICA 
+
+*.
+okbank.ru
+ - перешли на НУЦ
+
+*.
+unistream.ru
+ - LiteSSL (TrustAsia)
+
+Да, "Национальное достояние" ещё не использует сертификаты 
+Национального УЦ.
+
+✍️
+"Об ЭП и УЦ"</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/V_DyG4Jf7e-hBfZKtyGSKtKuk_1rm3-ed6rO-eBEyVulc5alHwKH0TxDRuIey-ox241yi5k9jSCzjxXISsvJ0ygW0kK6KEtTCWEmvFi3SiHJHYG66uHSnVI8mWYtjh2P5BFHA_R-NMhfaaXYkwlMyBMysmxFvF4oc1Kinq6yCUsktXxKCFOBBvjSG4H67LqFvTP-eDzQ8uh_8IRWpdGOiX4X0KNRW5KjMQ-tpq2s0voHL8uHFzeZKlWsXZIBUcoUgI0qsJrWO4Hh3nPKmg4k8Z34wMruSNnYVD9q2TTeMZCH5fFzEUsAxh4Jgrj7DSkMzqdyzNmfJqGYr4nN9JElcQ.jpg" /></p>
+<tg-emoji emoji-id="5465665476971471368"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29D8C.png')"><b>❌</b></i></tg-emoji><b>Новые отзывы сертификатов безопасности <br/></b><br/>УЦ HARICA 26 августа отозваны сертификаты у доменов Газпрома и банков Реалист, Объединенный капитал и Юнистрим. <br/><br/><b>Текущий статус по доменам:</b><br/>*.<a href="http://realistbank.ru/" rel="noopener" target="_blank">realistbank.ru</a> - перешли на <a href="http://SSL.com/" rel="noopener" target="_blank">SSL.com</a><br/>*.<a href="http://gazprom.ru/" rel="noopener" target="_blank">gazprom.ru</a> - до сих пор на HARICA <br/>*.<a href="http://okbank.ru/" rel="noopener" target="_blank">okbank.ru</a> - перешли на НУЦ<br/>*.<a href="http://unistream.ru/" rel="noopener" target="_blank">unistream.ru</a> - LiteSSL (TrustAsia)<br/><br/>Да, "Национальное достояние" ещё не использует сертификаты <a href="https://telegram.me/ep_uc/5396" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Национального УЦ.</a><br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5443</guid>
+      <pubDate>Thu, 27 Aug 2026 04:33:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Я сохраню секрет, чего мне это стоило. Это было жарко, но чек вышел. Кое-как оплатил, даже расска…</title>
+      <link>https://telegram.me/ep_uc/5440</link>
+      <description>Я сохраню секрет, чего мне это стоило. Это было жарко, но чек вышел. Кое-как оплатил, даже рассказывать не буду.</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/BZ8u1YDH8TfpoKWpI_9lma5-v7OG-czip8JjCRalU30yJKIEQJNZTJKfofd12ETnnS6M4PExvGkANdxpIfVMRlHx2sEchcTNu8Q9eLaj_dmkOo7EGx13o0kvccAJk26gOoU8HaMPygN_c0cVtbQsTmT-kVvxSCYP8SZNBBq18wmZzzcinKmxugp0Gcjh5CobYsSv38nB82BEkCMMWZsVhzcVdVlj3nwZxo9g_r35jp-X45dHR5Cws19o1_VSbQnqQd-qzyUfk_hfonzE1uHlsAuZRr_2-nxASRpBJwwwan9XE-OzytQlmTxkwNJQlAj_zGOgMKdZEZVzDLvV5Lu2Uw.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/r_-GeEBGJ_GiyvNjr3HkVDGXhrz88mdl5b2i4ae7R66k_rON3zcGLDS7xI1-H-sR-GSNSEq9IOh75Ny3DfWKogMHCrVAdmndtyJgm9SZvtq_mT5jdF-x8Whu7cldqF4LmF6iw0ctdZ7LySl6R2H3o37LGlcyFkygvaIsvtEHkimXTjv76fGl0dtM7um1CHSaLrM6_93l4-c7tm6qy1cX8ciTW37q6PG2-ajTbjOnd55tbLII1GK1S2Nc01fq30Pg9EPT6rNnq3E3IxRWJaxGbljWbLuXItyVALZ5k4Vm3s0OiAEeH8dI9-Q92MokCtCJzLdH6qxWjgUz4gnCdNtCKg.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/tJP2cf0zt1f-2S2FfIbeZpVS4f07760rOsWepr1HWa8W1toE7P0vKqd9w3i4CymZegRWSN6GaXeQXxpG7LUYbCw5V13DiVOtXjtnJXGFSgbQq4hzhtRFrtzMKTeTDSe-Loy-_CbPZduiFOlmckito8JRfhzNFoN5AAxFoEXwPvqkVALeTXodugEfxh5XOyWZUeo_dz3S6L1ES4VZg6OgTvpw9fhVCDoLs5H7AbJndFn7zq2p0PAuZVCHxjBUXwYQCpY_j2MOmCu1UZi-Nw_SaIMw_RP1u7rDAPUAGVaS4Yz10ebSF9HXKaoAYWORVNsIfX6e52tZhfQPmA7oeOzL4Q.jpg" /></p>
+<div class="tgme_widget_message_text js-message_text" dir="auto">Я сохраню секрет, чего мне это стоило. Это было жарко, но чек вышел. Кое-как оплатил, даже рассказывать не буду.</div>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5440</guid>
+      <pubDate>Wed, 26 Aug 2026 17:50:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Пост — Об ЭП и УЦ</title>
+      <link>https://telegram.me/ep_uc/5439</link>
+      <description>Пост — Об ЭП и УЦ</description>
+      <content:encoded><![CDATA[(нет текста)]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5439</guid>
+      <pubDate>Wed, 26 Aug 2026 11:45:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>🪙</title>
+      <link>https://telegram.me/ep_uc/5435</link>
+      <description>🪙
+Цифровой рубль - новый этап внедрения массовой отечественной криптографии  Через неделю мобильные приложения самых крупных банков должны получить апгрейд, по итогу которого каждый телефон получит своё СКЗИ (год назад таким образом в приложение Госуслуг был…</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/EyWY9XO1kJBwxObLLc0F9DjPGBaVO-h6cLfFvCFCSyb93EcctN6Hz49DX_k7ycu2Db1VTNYCNZZF5N8wkxLKEF20vb273OUZpPQwN8BUwcKu2lvurXippYZ-73V1FxuXGRON_PTYi5t8uu43JvbLAKaxRIsB0Nq0CJF2ntOXALzQsLDqPY8Qd4mq5wCG66fXjgAg_3Ecl_1ReSnOJU9X8sYAkVsrhJOLqTrtpYxOBiZHM5uwLl_906LnpA-5MDYrMpZF8HD8CEEOSy4d21yI7onPdrixSSyVlgDfY_pPV9aN5QvJJ8yT3WlxKdMni-EkzoQH034Wjk7iEDX0TfyuzQ.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/GfDhdMbTRC5dFx32gzAUrixH3fxi4VjM1ZQPoCHZqfhUNeDLgB2e_pG9X3u4jZVaAkpndNbZDQxlz7Sc6b046_lFTQsDGrArqzJv8HsKpwf-nOmH_pHhlR75ho1YAs5ZvM9q_1TKbnVJ6836yXrHwvYqXqsrobhESdT3NdbI3Ic-knzqqg9SWT9yk64xwMByjfL7RQou8oaFFKBNaTj5t4gcoEEaTtz8aPNAcjMxmI4f_fRocPNmo1MUURqY1hA7Aq8BCizbaM-hYZHveayaUVTr_dtzPCEvC0gKWnBiJ-B6Ba1ujwyQFn0NpEA7ON6m_qNp3rF2-5nffA6lIMzuhw.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/hr1B7vzcGvUTL1ruOj1Jfovte8neW_8slUbDov_QoTFf9Wu706vPNWwfJlLar3z0tIe9AbQekfJWzh4o0MxeEwBkee8XbVMjld77otgm1LrAZAJjVV56O3_WrbOGLiqdWIXQFdjg4i8oPjaLWpmfELVCpn43wCmyr5lYA1-jjTr8AsI79eZ8MD9dxRrkx1W2r6rJaQOPTiljVC60aPwGLtWY9q3uT57djED0M-P9rA85ByybKPDO3oiqKPJ-yfj9oJA3jfRJzDr1LxP_FO9w5uzdAkAJzSBdSotgLnF4wF8boVF1gEHVvs1n7W9VGtipJCqn_0pDUXWJMol3mx1fMw.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/OAUDOjFb9vNtCz9ESVB7nrNB7eVveYumuPFrOniN4V7-ldLJP9bNtR2Nv6JCMvtQEr-MphUTVlBh6-eoFxpDamestP4T5sbRLBQffnEYNoEnWk1faMBco1mqdj-oMdI9X9PVlLeWi55lM1uB_rzCAbcp4MIMrxzN2Wlor5IEFfUzl33CpSuhKgeBkluBpcPUo6WOUeheS_jwS5LUmyeGFtrHWP5L5_nMc81AJTG7fh6QrGdf4eiViogZtvUUDO57NC0QliVywfFbdsXvZeRvGHRURZN3aIxZEgneLBY-tjw5dLCRnvsE7kAl-SeRzOEupEo3vlaFtKDVI2XqiB6Wng.jpg" /></p>
+<tg-emoji emoji-id="5330296508757591686"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FAA99.png')"><b>🪙</b></i></tg-emoji>Цифровой рубль - новый этап внедрения массовой отечественной криптографии  Через неделю мобильные приложения самых крупных банков должны получить апгрейд, по итогу которого каждый телефон получит своё СКЗИ (год назад таким образом в приложение Госуслуг был…]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5435</guid>
+      <pubDate>Wed, 26 Aug 2026 11:11:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>🪙</title>
+      <link>https://telegram.me/ep_uc/5425</link>
+      <description>🪙
+Цифровой рубль - новый этап внедрения массовой отечественной криптографии  Через неделю мобильные приложения самых крупных банков должны получить апгрейд, по итогу которого каждый телефон получит своё СКЗИ (год назад таким образом в приложение Госуслуг был…</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/p2JGslFW7b57r22J28GaOF0YHlWucyBYU9UUvWLkIWxbb0Pvu4FpytU2-SFa6CPwFzo1GKRmQTq-Ryhiro2qzk2oamMGcp_di8w0dOt4ekgYOIV5l_WHKwEwHF0XWieI8ILRWyfgR-oKpCBmVlq9vH_y6iMbayrUEvRnAkeAy_r86CwL5v0qc-3bDFj5Xn8tfJmCRPncCOu5s34rGveanwR7o4k-J8UXXY2201CBs1DK92gWDn44TUrC1SoHMlAq_OD39gSC7MwkOc8NrqljzDY3LOqXmWS5zPTp1fiiGZ1-vJM36pldhi3klm89mY9p37efMW-mXHnXbtRgwoMJTg.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/KZP_bCil2gcZHvVaiam81njpsVoUWtZZhcuxi9axiGCOVDe8cbwg4M6z5WjSz5O6M3cNqhFq4Su8hmI2Rj4b36sB1iYWTkEwccl_fcULtRUUpbcFxq9tcwVy9crs_5gKcKw7X6GmZqutupxg-avw5Tgr0RZCPLdx4zo3JAfhItw7CZ1Kgi6b1F2M17ylN2dMd0SjS-Rh6BpTSvZG5y58mWjnY5Rwoeqs0u8e61iHuscImwMalKhxrxXs-6hYr99TvEdfvQAVUcG9llUnJniEa8DS4JHtWT5cdX97q-dE14H1kQ30YLQUPErFXXD_1tTEOdBAig2oK88irEG7d5EqdQ.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/H2yLYq8dSdBDQi8pi7fgA4VRHuu-vu4XCRWIq01x3fGIdPu_OYuGaP2wN8exWB0vRtVdakwTnRoWF7F6NxnxT4fSFtdo8lCVe84fi9ftA1IWEs9jEqVt7VWseOLkijruoM4TfO5tyU_wyyPTPaOZm5l67HyYNYHYcBzqgMgOgzfsf1whxfVO44YSl9AjftRefSqmDO9n_uH9JwuPl1hz8qjl3IOMIjusTqhNNdzVetgZqG_3nQLfD-SbfhBhcxh4bX0fnoIL9VBcghoiTcPUETge1QzFfpFmR3VGRph3V1uz6hKwMGd4wo7esR-n70nY3fG0sxROfPBYLqHoWPVkVQ.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/Lz9x3MKPiimmYww_oAHBKArX-YrivEPKtTx5WyVdimUJmWvxDrUgEqgTtQug1dV4TL43IirrJ3X68xYrVV5SDd5ZSUeuidd308lbW2EWPMXg3qTcNfIhwfygFkkEdWyuwU4o-3L8ZjxI3B0misvZFMYMTQsSs1juaKqSl0Dzw9QfmG4qmkwUDsSPdu_m48F60Im3EG86MRF6wRKU9tDZsSl0P5VJY8jg5DY7WaWcbK0cNbc-TeuMtoP44XTISBF041MBHENI-E2_smdX53Ir9kb3L3Jrcw5kgaJJaLDHpYsfvPdtirb7W-Uoh5KA_nM45UwawymTXVtMZH9-eHV5Kg.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/Fz6gOzfU8xPtCY0nwZqMvTNZEiQeaMa_geogt1B6l-iCakISfbOvlU1b40dHQm3MwG8pgmIRSW7S-UTPfRuhNi85Tb0FLTleFoJx7JR8QVzeYvHwfHF0Ew5x-tP2XWnU9Bq3kjTsII0L3CpYM-TXKuivL4FETXgevMREFmXf4iIPvfHnxGC088bEIVUMhSAJMdskmkkGKLSWMOuDFekBpNZpMJhE6d91M4nZyOW2DdXU2dPA4nUkAPcDXDTv7lomFD5ONPc0A1OSQ5VsmAzMSFg0rCk8n7codwsk1ZTnnpvuJ1owIs_dbYUlXWZxkJW6FH-BDGnarXgALaO777r_lg.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/VHple8KQ_eDGVJMvvB3bTV-mWlAoo1Z_n8RNODSLJJ_MAlOdfYErnsZ_AekjUzAcDdKy-NEK2S4TGjQH2AkTYTf1OvL7Ih9vzIX73Bq2kZr8u5Ld7mnFnWmkqFKFCl4OziSRc9PHoUCTMLBeDsE-RWrNmcrwndVsLeUI0k1IwpP9P946rfP8W5TN3eA1Wzi8StuNOdJcsmnxOoGilbVNkBAtYwXNYK5m5zzYhyCKUxC5CKaZ3cIHYDroL7hQuk8qqHdi1h6Ja1V8FHqLjZQLVGf1giME51zIeRdk4x2WeCdS0VgqjxeCTM31tFUFaIaI005arMGJ_Qg_B2KEcRkrdQ.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/bFjUrPjuV3nQ1AfJJZ5_qcesuTlMZgy3Dm01EjZMkUQA6rQKmlwV4VT5m8V5k-rjjJ1yHz2bWzTBpcC8ySBtIs6_xsem6iILuYzfSbXG5jK6GIbF8EXhGIPAVuCj9QDAcK40kRPsfNRT8OongplmpCAypvwZfIuM8TqKXtjDnCaotVnF97zEHCO_YHyhvL-G-ZPPzNFzWbdRnoaCzeYOXb2Z2YBRBQAnmJupvaDExCqdNbv3ZuXIoEGEjlXYJ4nrL0T7iUavXJ1AS43e8wfx8EvJ47-ZO_S2OF9e0EvYFYZYP6F2hZL2ibKdBmQaPyQq1mrTgt4bzB3IGMtJ_D166w.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/LNYxesV01L73410r9lkuKKv4XiIguF4aUCd5ZfVCMiyqf0Td6GyhyFs58mNtEtNHDmpSjutDD1dI_AhWqTjy6YjWZn_cC_zb2uskMZmX4DJ1tE0aWvO5UG1gC4IFZkWsqWvtd5eaYwzuGHu-VgeMPQ6l8jQpOm5jtdG6h9Iev6AJJ-gPgv050tqOI1PvDGQb--cn8iKGW82NGlYYpupTAWAxu_-SVLBn5ESLvk9I65Pv-nIUiYkQC-TU6y_7AhpBYwQ49wTyhlHtbyI2BO7fxOhl_ahunGa2FEWCNOEfI-aFh8aCQFKoZDt--ky9Da8xWZMkHYaWL_HjODs0vPkOlw.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/Rgrqza2Cwv_znjXLsUgE04Tbv2oiljxdd15ZCGrCQGfx41kfTkCwCrK6wtBxffv_glfS1xeU1gz3eVNlXHgMMKi7hg7XmAaCul8xyV9nznvTCNqlnH5ki_wL2L1Y61vTxa87s27cuiTgcOUztpX_2Zq02qhP6sY6iPtpKG90pJgUTaL-43MJ08shhdND9L-1ZZP6Lv9b69Bnae7UGlr1nkDrZno770HySPu3F-_LRIq18BJFoEvt8cKAtWAe2898M9pCAAOaDswPUFSxvQC-_T-6BpDD2QpMoCTAuV-32Epr4UVCsx_9mFfNa-Rca1AwGQ_BomHkqRq-QmEhzWC0XA.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/IyfkZOv6QJcOqM-YBCDKU-9kRuhH_3s6Iiva81CNpM2A5JvW02X-K1E3Db8VOvFEZZRvu0jFeLPrtc_RHE2VMINJB-o9w4L0GaCFp58wnvgeyXU2mOzGGXn3MIllJy_Uw5p9n1rvPBooe5s7oUi3GAZtnTSuAaDMDJEiDQmXt0yS8-8cucEzuapkEFiDTxWUsCWJFltxeR2VO6u641hCUFT3E11quof9yQo7_04-LrvGopGCyL2iJ-DXc30LwXbDzf9lFQklNWj20f3d6_3XdZXbJK4WBNRyxjTOVMJW2P2OFr171Uo97J4gseBJviiWS_wmVPG_wkVGqI-AkhKlVw.jpg" /></p>
+<tg-emoji emoji-id="5330296508757591686"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FAA99.png')"><b>🪙</b></i></tg-emoji>Цифровой рубль - новый этап внедрения массовой отечественной криптографии  Через неделю мобильные приложения самых крупных банков должны получить апгрейд, по итогу которого каждый телефон получит своё СКЗИ (год назад таким образом в приложение Госуслуг был…]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5425</guid>
+      <pubDate>Wed, 26 Aug 2026 11:11:44 +0000</pubDate>
+    </item>
     <item>
       <title>✍️</title>
       <link>https://telegram.me/ep_uc/5424</link>
@@ -94,7 +218,7 @@ RFC 5280
 
 ✍️
 "Об ЭП и УЦ"</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/mX3pPC7zHhXq0XedUqWFEXiaVd5qyVlYErRGNghc_ub3Jhk1RKMZO4dXDOea6iY_HW29_px0IvYBf9n2qSyBnSnNToh0oK0gDWI7A9Cyc1mpIVWpSeKW4lRQ6R6GCUQL6pf-XlHX_iqAEYK-4hd5sBervT4m-tNK_fKmwkDqjh-X6GLIq1i3zTa_jGF8aPN-DMrGkBZe8Up8Uwj8rk0T2eKIT055gL-0gkBlPKys0BMK2qh-h3bJ2Ob1WdJuOZt7sO_wPyPycMDdQO5723CMd3uTRVKvYyagu1hdEXLEzJD1Mb5YvzT0eu3XsEgN_2wzm4Pgoq6W70RLC5-4_5b6tw.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/K6hvImBRmk8GxdrI7uD74nJ8XYMl4RmrXgTL3KIAlXItHtIRpXQ-dRnhaqbmLanVVEVyoKPM4BANjhNRkE_YpM361dFec1Arp_wWfKiS08FN6OpaIqftuCnlLIQqvVTkORUy-gEo59ttq2wzr06R-RQFLSlL03Nslxg9klgX6ooq4hDu0uTJVvwp9GF-KpRbJbljPcNsSvFJuZ95qylV54tN1fWf-vuLTOPgPg2KjhKiyt4jXB9iQaQih4gjQvbLdr4mqVGum6T0LHg7_ZyGdWfpqO_ZTI1q5ZuE32qHVXmJsWY-ZmOnEk2Eh8pzAQM0qCvF5dKJd3WBcW0VIsRrgQ.jpg" /></p>
 <tg-emoji emoji-id="5470060791883374114"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><b>CA/Browser Forum: корректировка причин отзыва сертификатов</b><br/><br/><a href="https://groups.google.com/a/groups.cabforum.org/g/servercert-wg/c/WGr2ieTR92U" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Mozilla предлагает</a> пересмотреть существующие <a href="https://dss.cryptopro.ru/docs3284/articles/rest/signserver/structs/revreason.html" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">причины отзывов</a> сертификатов. Причина понятна, УЦ по-разному трактуют, браузеры по-разному интерпретирует одни и те же коды причин отзывов.<br/><br/><a href="https://telegram.me/c/1691316533/226632" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Статистика</a> <a href="https://finiterealities.net/revocation-stats/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">показывает</a> большой разброс: одни УЦ массово используют код "unspecified", другие "superseded", третьи "cessationOfOperation", что и говорит о разной трактовке одного и того же стандарта.<br/><br/><b>Ключевое предложение - код должен показывать причину отзыва, а не административное действие.</b> Если ключ был скомпрометирован - код должен быть keyCompromise, даже если сертификат в итоге был заменен. <br/><br/>Представитель TWCA сообщил, что Chrome, публично заявил - отзывы сертификатов добавляются в CRLSet на основе указанного кода причины (keyCompromise или privilegeWithdrawn). Однако, согласно официальной документации, в <a href="https://chromium.googlesource.com/playground/chromium-org-site/+/55bf8b3e62e8109baf1e778bd9c8d811b6109070/Home/chromium-security/crlsets.md#1" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">CRLSet</a> сейчас попадают только keyCompromise, но не privilegeWithdrawn. <br/><br/>В любом случае это означает, что неправильный выбор УЦ кода отщыва влияет на пользователей, т.к. браузер может продолжать принимать скомпрометированный сертификат, если УЦ поставил не тот код. Firefox через механизм CRLite также пытается разделять причины отзывов, но когда семантика кодов размыта - эффективность таких механизмов падает.<br/><br/><b>Предлагается поэтапный план:</b><br/><b>Этап 1</b> - пересмотр раздела <a href="http://4.9.1.1/" rel="noopener" target="_blank">4.9.1.1</a> (обстоятельства, требующие отзыва):<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>установить иерархию, чтобы конкретная причина имеет приоритет над общей<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>убрать дублирования и пересекающиеся формулировки <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>чётко разграничить: ключевая безопасность, валидация, авторизация, техническое соответствие<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>ввести дерево решений для аудиторов и операторов УЦ<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>пересмотреть, вписываются ли 24-часовые и 5-дневные сроки в новую семантику<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>определить, как быть с требованиями CP/CPS, которые строже BR - считать ли их нарушением BR или выделять отдельно.<br/><br/><b>Этап 2</b> - пересмотр <a href="https://cabforum.org/working-groups/server/baseline-requirements/requirements/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">раздела 7.2.2</a><a href="https://www.rfc-editor.org/info/rfc5280/#section-5.3.1" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"> <br/>/RFC 5280</a> (сопоставление с кодами CRL):<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>сделать использование кодов единообразным для всех УЦ<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>пересмотреть устаревшие коды (holdInstruction, removeFromCRL)<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>чётко определить, когда использовать superseded (только для плановой замены, а не для компрометации)<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>обсудить возможность изменения RFC 5280 (это более масштабная задача ведь текущие определения не работают)<br/><br/><b>Как обычно, вопросов много:</b><br/>1. Как быть с выбором кода неопытным оператором, если он выбирает "на глаз"?<br/>2. Должен ли УЦ проверять обстоятельства или достаточно заявления пользователя?<br/>3. Как УЦ должен проверять причины, заявленные пользователем? Как независимо подтвердить прекращение деятельности? <br/>4. Должен ли УЦ изменить код, если его анализ показывает другую причину?<br/>5. Не пора ли менять <a href="https://telegram.me/ep_uc/64" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">RFC 5280</a>, если существующие коды не соответствуют современным реалиям?<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5424</guid>
       <pubDate>Wed, 26 Aug 2026 05:30:44 +0000</pubDate>
@@ -151,73 +275,10 @@ TLS
 Телеграм-канал 
 "Об ЭП и УЦ"
  четвертый раз выступает информационным партнёром форума.</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/NFUdnw4Kw4ihXm314cFLEkMr6ZOyD8k4l0ccDmk_WQPEFeJ63akwIH0_YyPhuLjb3cVMwPAHW2SdweAmY7JIRNUG6C5ajk99xICLDxFsM7fzhBLzR1vEmxiBYUS12bYLJOHAInY2pXWuxDquHpe82leqNZ91-YI1GH-XT1SH860zYCu6iS7e0pIg8Fg-9WAopjT0vfNITHz4KZS6GSQdig7pGF_ljrfd1WnW1gnDBxuhganLwb6jyeF8oE-poaMbA4NcEJLDo2LXBswRW8PG2sRZdHrO0QjAc5CaKedxqU6OMfUaKgKtvgXahsWsbeA0ScOdDiokaVFFtj_In_JB0w.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/Q9HsQbBpluaQUHRWJPAxj23YwnPi7jQdMdqzgBKrzqggATB6Ci9xijXuPI_vyIkENgna8_0nJlLz0F1RzNlhhJckNO15Xgo1Et5_xu_tbA25pwtBNT6uX0wOuS7_CQqmYL98ukiKSb54Th8kqGcOqRkRrb4N0eglfYUMHb2RQE7meRKAK5lvlMhWzggpTsxNXDejO-uhOpuopAqLzpAikc2lo_mWb-GMZd-jtOFF6MRmM5NVun6MDMB0Nxpab9EeM8lqTlc53OX55ULLz8GcmXEwagyIKOQPOsuBwfwEVBoD5CPEITOn6Ck_1bRR-f5LGzis8gO1I4TzoQblRZDRdQ.jpg" /></p>
 <tg-emoji emoji-id="5330296508757591686"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FAA99.png')"><b>🪙</b></i></tg-emoji><b>Цифровой рубль - новый этап внедрения массовой отечественной криптографии</b><br/><br/>Через неделю мобильные приложения самых крупных банков должны получить апгрейд, по итогу которого каждый телефон получит своё СКЗИ (<a href="https://telegram.me/ep_uc/3847?single" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">год назад</a> таким образом в приложение Госуслуг был интегрирован <s>TrustCryptoBase</s> Госключ). <br/><br/>Как вы узнаете про это? Будут знаки. <a href="https://telegram.me/ruble_digital2023/370" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">ЦБ сообщает</a>, что на главной странице приложений появится специальная кнопка с логотипом цифрового рубля. <br/><br/>Но я про другое - сбор энтропии. Это такой механизм выработки последовательности случайных чисел для генерации пары криптографических ключей с использованием биометрического датчика случайных чисел, проще говоря - нужно будет поводить пальцем по экрану (один раз минимум). БиоДСЧ обязательно должен вызываться перед началом работы с криптографией на мобильном устройстве, это требует класс КС1 .<br/><br/><tg-emoji emoji-id="5327952221118164589"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9490.png')"><b>🔐</b></i></tg-emoji> PKI - <a href="https://telegram.me/ep_uc/4140" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">основа инфраструктуры</a> Цифрового рубля:<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>Два Головных УЦ в Банке России для НЭП и <a href="https://telegram.me/ep_uc/5075" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">TLS</a>.<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>в самих банках два УЦ, уже подчиненных - аналогично для НЭП и <a href="https://telegram.me/ep_uc/5075" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">TLS</a> (в 2027 году - переход на НУЦ), а также TLS-шлюзы и СКЗИ класса КС3, <br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>в мобильных приложениях граждан - средства ЭП КС1, на рабочих местах корпоративных CSP, криптоплагины и браузеры с ГОСТ-TLS.<br/><br/>Согласно <a href="https://pki-forum.ru/program" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">программе PKI-Форума</a> заместитель Председателя Банка России приглашена к участию в стратегической сессии "Куда и как развивается отрасль" по вопросу "PKI в цифровом рубле".<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji>Телеграм-канал <a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a> четвертый раз выступает информационным партнёром форума.]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5421</guid>
       <pubDate>Tue, 25 Aug 2026 05:15:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Пост — Об ЭП и УЦ</title>
-      <link>https://telegram.me/ep_uc/5419</link>
-      <description>Пост — Об ЭП и УЦ</description>
-      <content:encoded><![CDATA[(нет текста)]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5419</guid>
-      <pubDate>Mon, 24 Aug 2026 05:05:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>📣</title>
-      <link>https://telegram.me/ep_uc/5418</link>
-      <description>📣
-ИнфоТеКС - 35 лет!
-
-Поздравляю компанию "ИнфоТеКС" с 
-35-летним юбилеем
-, ваш путь - это история становления целой отрасли!
-
-Ваши решения линейки ViPNet являются технологической основой для ключевых инфраструктур, без которых цифровой мир России сегодня немыслим.
-
-Передача защищенных запросов СМЭВ между ведомствами базируется на ваших комплексах, мобильная технология квалифицированной и неквалифицированной подписи использует ваши средства удостоверяющего центра. Ваша 
-
-экспертиза проявилась в полной мере при создании ифраструктуры цифрового рубля, ПАК использованные при создании PKI-решений,  автоматизирующие выдачу TLS-сертификатов и неквалифицированной подписи для пользователей платформы цифрового рубля полностью соответствуя требованиям Банка России.
-
-Что мне лично особо дорого - ваш ViPNet HSM в основе УЦ Федерального казначейства, обеспечивает хранение закрытого ключа УЦ.
-
-Спасибо, что 35 лет вы создаете фундамент доверия - от рядового пользователя до государственных и финансовых систем национального масштаба! 
-
-С праздником, "ИнфоТеКС! Желаю , чтобы ваша работа оставалась надежным щитом для новых рубежей цифровой экономики
-🏆
-
-Телеграм-канал 
-✍️
-"Об ЭП и УЦ"</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/K4JVjbhUITgZBajZA5P0A1kNl-AtoJ-oozOEsQRQOT746dSBeIVoPj9FqXjg9m0_EcjRXG6XiZrAxu-hO4_UznF4f-grO2OkjPZkAhDMgbd4kgSoiD81k5epeyQ_EVOFHHHDXEIPvWb5MsMe4UbF-3TtR-2y3PqfM67biAnAEQEwS1HJhyRB3RUzWd66d9b0owFtuzvM-MUDm9AKCK765_ebNUNxvV0zZ-FEwsw3nfmlMPKIZ3oYCpRHxdcdicS7QnQOAkw19Hge_V68sh1418wMYdfzV_nAY8dDyJqxTLwk_Xm2wYQsaHNKOK6FfCMxT_obPj-8vloUWpvC3-NwWg.jpg" /></p>
-<tg-emoji emoji-id="5470094069289984325"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93A3.png')"><b>📣</b></i></tg-emoji>ИнфоТеКС - 35 лет!<br/><br/>Поздравляю компанию "ИнфоТеКС" с <a href="https://telegram.me/infotecs_official/2739" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">35-летним юбилеем</a>, ваш путь - это история становления целой отрасли!<br/><br/>Ваши решения линейки ViPNet являются технологической основой для ключевых инфраструктур, без которых цифровой мир России сегодня немыслим.<br/><br/>Передача защищенных запросов СМЭВ между ведомствами базируется на ваших комплексах, мобильная технология квалифицированной и неквалифицированной подписи использует ваши средства удостоверяющего центра. Ваша <br/>экспертиза проявилась в полной мере при создании ифраструктуры цифрового рубля, ПАК использованные при создании PKI-решений,  автоматизирующие выдачу TLS-сертификатов и неквалифицированной подписи для пользователей платформы цифрового рубля полностью соответствуя требованиям Банка России.<br/><br/>Что мне лично особо дорого - ваш ViPNet HSM в основе УЦ Федерального казначейства, обеспечивает хранение закрытого ключа УЦ.<br/><br/>Спасибо, что 35 лет вы создаете фундамент доверия - от рядового пользователя до государственных и финансовых систем национального масштаба! <br/><br/>С праздником, "ИнфоТеКС! Желаю , чтобы ваша работа оставалась надежным щитом для новых рубежей цифровой экономики<tg-emoji emoji-id="5409008750893734809"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8F86.png')"><b>🏆</b></i></tg-emoji><br/><br/>Телеграм-канал <tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5418</guid>
-      <pubDate>Mon, 24 Aug 2026 04:35:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔘</title>
-      <link>https://telegram.me/ep_uc/5417</link>
-      <description>🔘
- 
-Интервью 
-Дмитрия Гусева
-, заместителя генерального директора, для журнала NBJ в рамках конференции «Криптография и Цифровой рубль»
-
-Дмитрий рассказал, почему в последнее время в финтехе уделяется повышенное внимание использованию СКЗИ, будут ли востребованы в других финтех-проектах решения по защите информации, внедряемые в проекте по цифровому рублю, началось ли массовое внедрение отечественной криптографии для защиты информации во всех банковских процессах, а также о роли компании в этих процессах.
-
-🔗
- Смотреть 
-RuTube
- / 
-ВК
-
-⚪
-️
-Мы в МАХ</description>
-      <content:encoded><![CDATA[<tg-emoji emoji-id="5226821619791449399"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9498.png')"><b>🔘</b></i></tg-emoji> <i>Интервью <b>Дмитрия Гусева</b>, заместителя генерального директора, для журнала NBJ в рамках конференции «Криптография и Цифровой рубль»</i><br/><br/>Дмитрий рассказал, почему в последнее время в финтехе уделяется повышенное внимание использованию СКЗИ, будут ли востребованы в других финтех-проектах решения по защите информации, внедряемые в проекте по цифровому рублю, началось ли массовое внедрение отечественной криптографии для защиты информации во всех банковских процессах, а также о роли компании в этих процессах.<br/><br/><tg-emoji emoji-id="5300878680019470359"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9497.png')"><b>🔗</b></i></tg-emoji> Смотреть <a href="https://rutube.ru/video/0ef9c55a43fd18c05b365882a0d4dbad/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">RuTube</a> / <a href="https://vk.ru/video-212252821_456239105" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">ВК</a><br/><br/><tg-emoji emoji-id="5301061121640268019"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29AAA.png')"><b>⚪</b></i></tg-emoji>️<a href="https://max.ru/channel_secure_fintech" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b>Мы в МАХ</b></a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5417</guid>
-      <pubDate>Sun, 23 Aug 2026 15:25:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
