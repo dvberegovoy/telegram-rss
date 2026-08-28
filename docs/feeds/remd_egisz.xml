@@ -8,16 +8,6 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 27 Aug 2026 16:37:33 +0000</lastBuildDate>
-    <item>
-      <title>Уважаемые пользователи!</title>
-      <link>https://telegram.me/remd_egisz/887</link>
-      <description>Уважаемые пользователи!  
-🔹
-Сообщаем, что 25.08.2026 в тестовой среде РЭМД будут применены доработанные схематроны, в промышленной среде они начнут действовать с 24.09.2026 для следующих СЭМД.  Перечень изменений приведен в файле "Список изменений.docx" документации…</description>
-      <content:encoded><![CDATA[Уважаемые пользователи!  <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>Сообщаем, что 25.08.2026 в тестовой среде РЭМД будут применены доработанные схематроны, в промышленной среде они начнут действовать с 24.09.2026 для следующих СЭМД.  Перечень изменений приведен в файле "Список изменений.docx" документации…]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/remd_egisz/887</guid>
-      <pubDate>Tue, 25 Aug 2026 07:44:24 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 28 Aug 2026 17:32:58 +0000</lastBuildDate>
   </channel>
 </rss>

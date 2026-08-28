@@ -8,7 +8,49 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 27 Aug 2026 16:36:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 17:32:31 +0000</lastBuildDate>
+    <item>
+      <title>⁉</title>
+      <link>https://telegram.me/gis_eiszakupki/3205</link>
+      <description>⁉
+ВОПРОС
+
+Почему контракты не отображаются в личном кабинете поставщика?
+
+✔
+ОТВЕТ
+
+Контракты в личном кабинете поставщика могут не отображаться 
+по следующим причинам:
+
+🔹
+информация о заключенном контракте не размещена заказчиком в реестре контрактов
+
+🔹
+по контракту не предусмотрено обязательное формирование документов о приемке в электронной форме или заказчиком вручную не был установлен признак «Предусмотреть формирование документов о приемке в электронной форме» 
+
+🔹
+ИНН, КПП и (или) тип поставщика в информации о контракте не совпадают с регистрационными данными в Едином реестре участников закупок
+
+❕
+Рекомендуем проверить выполнение вышеуказанных условий и при необходимости обратиться к заказчику с целью внесения им изменений в информацию о контракте в реестре контрактов. 
+
+📖
+ Подробнее с материалами по работе функционала можно ознакомиться в Базе знаний личного кабинета пользователя ГИС ЕИС ЗАКУПКИ.
+
+#ЧЗВ
+ 
+
+#ЭЛАКТ
+
+📱
+ 
+Следите за новостями ГИС ЕИС ЗАКУПКИ в MAX</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/Wtv_Z-xpmIPS0ZZ5_df2ELnwbTI1O1kKOiZQPm2x92vJqd_hE4_RMnWCLdPT5G_xUMxFJOtn-l_cRcSIKVyMo8EtJ5BT1Xu23EsNO65q1xxQbfH_DggQu-Ie8c4LoVsVDTfPsIrlYaFys4WHh5T1_Jt3IMW4MecIvQ2v6uQCZvjCrFcli3VotYYOCEZ8rRIJona3UmYYQIY6YxqYrK5afoi1QVTPOEkf6MH4xoegYCw5qbrgSXaFRXRggKJImgPGTPQ4ozoZ8B2f2kZ8IAoyFY4CPUrcIYW_B0LXaP4JgwNIeRhq9tsnEVhfj_yNaPwdJRJcpP4yFMijMJrsNcN6ag.jpg" /></p>
+<tg-emoji emoji-id="5435994300997443130"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E28189.png')"><b>⁉</b></i></tg-emoji><b>ВОПРОС</b><br/>Почему контракты не отображаются в личном кабинете поставщика?<br/><br/><b><tg-emoji emoji-id="5435862449796423200"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C94.png')"><b>✔</b></i></tg-emoji></b><b>ОТВЕТ</b><br/>Контракты в личном кабинете поставщика могут не отображаться <b>по следующим причинам:</b><br/><br/><tg-emoji emoji-id="5296283477329587350"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji>информация о заключенном контракте не размещена заказчиком в реестре контрактов<br/><tg-emoji emoji-id="5296283477329587350"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji>по контракту не предусмотрено обязательное формирование документов о приемке в электронной форме или заказчиком вручную не был установлен признак «Предусмотреть формирование документов о приемке в электронной форме» <br/><tg-emoji emoji-id="5296283477329587350"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji>ИНН, КПП и (или) тип поставщика в информации о контракте не совпадают с регистрационными данными в Едином реестре участников закупок<br/><br/><tg-emoji emoji-id="5436322999139574951"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29D95.png')"><b>❕</b></i></tg-emoji>Рекомендуем проверить выполнение вышеуказанных условий и при необходимости обратиться к заказчику с целью внесения им изменений в информацию о контракте в реестре контрактов. <br/><br/><tg-emoji emoji-id="5435982738945483816"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9396.png')"><b>📖</b></i></tg-emoji> Подробнее с материалами по работе функционала можно ознакомиться в Базе знаний личного кабинета пользователя ГИС ЕИС ЗАКУПКИ.<br/><br/><a href="?q=%23%D0%A7%D0%97%D0%92">#ЧЗВ</a> <br/><a href="?q=%23%D0%AD%D0%9B%D0%90%D0%9A%D0%A2">#ЭЛАКТ</a><br/><br/><tg-emoji emoji-id="5294059873976200999"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93B1.png')"><b>📱</b></i></tg-emoji> <a href="https://max.ru/gis_eiszakupki" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Следите за новостями ГИС ЕИС ЗАКУПКИ в MAX</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/gis_eiszakupki/3205</guid>
+      <pubDate>Fri, 28 Aug 2026 10:33:28 +0000</pubDate>
+    </item>
     <item>
       <title>Глава Федерального казначейства рассказал о цифровизации бюджетных процессов</title>
       <link>https://telegram.me/gis_eiszakupki/3204</link>
@@ -35,7 +77,7 @@
 🇷🇺
  
 Подписаться на Правительство России в MAКС</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/HF6S4tWwMf0CLDs3XcAbFdDuothsHNVnfJRPEZGjolsCECkhgBYSdPkpxmYiINfvQwDqr6x89tNKQ3WiISog5HNYFrr678GIlwWE1Hdodp5Mq6lxC4uFhGRVg4krz9kyx7MpwdgJHt-iVH3s4l1dJ0LqQARS0IhzVHICOnAox2YWLAmzn0T7boDI-TawrnWkJTBqA1fSi0YR9g9ZVeq4rk2thQlZ02g4S5KmIqzgZ0kFHaX-j-t6DBSN12ThlrnvNS7a0mJ86Q-pDMcsZLuMsuOxJSD_1tWS4eeXpWOM5Y4Lp_Ta3y-TSy7pUZmY7gc3kvGSL60qbusk6chQzC-W2Q" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/AFnhkmh8G67fTyvsoNpE3d1v3J3DFRrwcKN7Oc1_35o54lXPYC4AJXQxJQotrjF5sX1MGE7bdo1Wdcfmy3r7YxnYHu8Q9tyLRjGfhCC80bRZhmBBb8VsanjCRqnrogND-M8d-jJxrJjy_nkSewI5AwEeIqLV_t0PZZYTN_QZ9E4q2ZCbFfwl5Xp8WiDUJAJ7Pi3M1MCjms1FZ4ZCKKTjL1STwS_hISm5NtdBzEStK3ieHoEQvDobWkCtP4jk7c7botCQnfTwD4SC6YtO6_71qWEz4BmFmlNppHaYBMYBxCTo-OmSj2UgQS-98D4DHP9Ioy5BmMxK46ROgt0eyPqI7w" /></p>
 <b>Глава Федерального казначейства рассказал о цифровизации бюджетных процессов</b><br/><b> </b><br/>Федеральное казначейство работает над созданием единой бюджетной платформы, которая свяжет в едином контуре все уровни бюджетной системы: бюджеты регионов, муниципалитетов, а также государственных внебюджетных фондов.<br/> <br/>Платформа позволяет прослеживать бюджетные расходы на всех уровнях и повышать скорость проведения платежей. Документооборот становится безопасным и полностью прозрачным для финансовых органов.<br/> <br/>Ожидается, что все участники бюджетного процесса перейдут на единую платформу к 2028 году.<br/><br/>Михаил Мишустин поручил усилить контроль за движением бюджетных средств и своевременностью исполнения государственных обязательств: <tg-emoji emoji-id="5202081293906504795"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92AC.png')"><b>💬</b></i></tg-emoji><i>Нужно обеспечить планомерное исполнение федерального бюджета за счет четкого кассового планирования, бесперебойной проходимости платежей. Важно продолжать совершенствование инструментов управления ликвидностью, наполнение доходной части. Это приоритетная задача, которую ставит Президент перед Правительством, службами финансово-экономического блока</i><i><tg-emoji emoji-id="5202130754749885748"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92AC.png')"><b>💬</b></i></tg-emoji></i><i>.</i><br/><br/><tg-emoji emoji-id="5377788255662012298"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F87B7F09F87BA.png')"><b>🇷🇺</b></i></tg-emoji> <a href="http://max.ru/government_rus" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Подписаться на Правительство России в MAКС</a>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/gis_eiszakupki/3204</guid>
       <pubDate>Wed, 26 Aug 2026 10:29:47 +0000</pubDate>
@@ -62,7 +104,7 @@
 🇷🇺
  
 Подписаться на Правительство России в MAКС</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/vRWx4aQfkuWmM1pxy2GOCzumtb585pZgVhBwXYV07IbZ8_lINfJOw1Sojb77296YBV5ZTq9BdIXdvmVXQ0I7OXRU45WxXje3FDc1WJzn8QHgVjnekNHrlLPV4clOKuk-GxJSjZ1PS-bWO17sLaoRZeVdBLKWjaYfGyn6puM4NBplN5ZqgSMUBksxTDs03SFF53FJjS-nPHlLs09TFdJ21SNqLpA4456eQQeINDoi3kxGj5IElOT3Nmv5E-GdaPP1Dh274cQCW1HTifsrE_5UVm5qtNqUAlWgt_e6K7lBZXkTZWdjkbVtlNV1W1uw6dX208DxQlDEp7L2OcaXt9-P0Q" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/CXOYN6xKLxJc03OnFkULgCYACz4SnRdDBov3kr_0U6042mFrRO-L9XPcmt8IgvnhExtME4n4DafAHv1Z6lR2bZPteN0rnPVNCkUWiHdZfOby1Ecq-tPkY2m5UxER4Q-sbVk0H2ro3HfVeIxjtO_YqQvBdeoaBsoGL7lH49eg6HGhc1KOM13Im9Wg74O-lz9w7VgQproNHHKj_Os8JBjck36Fq_hIk1hXiuhTInTSrTpQOFp7DwiZ41XEHUzJRENh0y8YkGZN39ds6GPJp4FMA60QKP7buT5TbLOGNZGItgGEwQ4r7mVkBcS5VE2sohvrKWmpKqyvbxRrp2rYUmIwfg" /></p>
 <b>Глава Федерального казначейства: Закупки малого объема переходят в цифровой формат</b><br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E284B9.png')"><b>ℹ️</b></i>В 2024 году Правительство утвердило концепцию по цифровизации закупок малого объема – до 600 тыс. рублей. Совокупный объем таких закупок составляет более 1 трлн рублей и 20 млн контрактов ежегодно.<br/><b> </b><br/>Федеральное казначейство создает систему, которая позволяет при таких закупках заключать цифровой контракт с полным электронным документооборотом и автоматическим формированием бюджетных документов. Это не только ускоряет процедуру, но и обеспечивает автоматическое перечисление оплаты за поставки, а также делает прозрачным движение бюджетных средств.<br/><br/>В систему встроена функция автоматической проверки товаров на соответствие требованиям маркировки. Она гарантирует строгое соблюдение законодательства на всех этапах закупки.<br/><br/><tg-emoji emoji-id="5202081293906504795"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92AC.png')"><b>💬</b></i></tg-emoji><i>Поддержка малого среднего предпринимательства является важнейшим направлением работы Правительства. Мы уделяем значительное внимание его развитию. Этот сектор помогает в целом укрепить экономику регионов, обеспечить занятость, зачастую именно в нем рождаются очень важные для страны инновации, решения, которые способствуют промышленному, технологическому развитию страны</i><i><tg-emoji emoji-id="5202130754749885748"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92AC.png')"><b>💬</b></i></tg-emoji></i>, – заявил Михаил Мишустин и поручил держать эту работу на особом контроле.<br/><br/><tg-emoji emoji-id="5377788255662012298"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F87B7F09F87BA.png')"><b>🇷🇺</b></i></tg-emoji> <a href="http://max.ru/government_rus" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Подписаться на Правительство России в MAКС</a>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/gis_eiszakupki/3203</guid>
       <pubDate>Wed, 26 Aug 2026 10:27:50 +0000</pubDate>
@@ -90,60 +132,10 @@
 📱
  
 Следите за новостями ГИС ЕИС ЗАКУПКИ в MAX</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/EqE5bWpsTdPAdGlNWB7VuDZZpalJrkBeJftsn_kc6YqfislGP3HokjBTSOYI-zPF3vaSQVYLj-PnntMSlqcEHyyWlathB05jfgTLEXdxp4PZDqihe5u4JABSVDr9v1YIMt5Wbmex8FM3Ax9DiPOhC_LcBBy2HCFIxySVrFR9L6qUuDRU8T71JHK-vmz4Fbf8P4sTvzjGVC4cQKH3p4FnZTfCrkSoZTN8eUAxAMGbnL7DqgoV56Ak4DWT4dx_vBpY92ZzBCSP-qIa6jSz4RynnLFuaEVfQndX-XcrSFuQrIIE13hufZ8yc4mIghQGMXPKnrbunY5HIDf_TnB3V7KvCw.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/l-kAjsTo_4Q4Eq72ciSegI-3Ek7GJCqPgtySUYuex1yX0C6EhLR_9cRJqy6-7vOkJc5t-9MLGc-buVMLRLZRPZPxJYz7cy973N-oXPbPvJ4B88oKMhVDGcTj1YWf7zDTJUHljAoDGa_kUDFTMkq7qjKxl7Dm6yCDNohtmqDLX3KKh_e1r8L2Ren81S3OhLCWxPP37KAcgQiVDRrMBI6Z_vGWvpkRBrnG8DXend3KHDKCBcHqWmfyDGoOtbK4l9vN0XsGg2E0b6XSElEJKZWTGpl5clyE-glw4wwDp2DWNvPwkpyWwJPa9lJcXWMl-IgKjhj-LS7fBHja0DCAYK_mFQ.jpg" /></p>
 <tg-emoji emoji-id="5296518734163228990"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9383.png')"><b>📃</b></i></tg-emoji><b>Обновлен регламент функционирования единого агрегатора торговли </b><tg-emoji emoji-id="5296518734163228990"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9383.png')"><b>📃</b></i></tg-emoji><b><br/></b><br/>В ГИС ЕИС ЗАКУПКИ размещена новая версия регламента функционирования единого агрегатора торговли (далее — ЕАТ).<br/><br/><tg-emoji emoji-id="5438355721261425042"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E284B9.png')"><b>ℹ️</b></i></tg-emoji> Документ доступен на официальном сайте ЕИС в разделе «Дополнительная информация» по <a href="https://zakupki.gov.ru/epz/main/public/download/downloadDocument.html?id=44306" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">ссылке</a>, а также на <a href="http://agregatoreat.ru/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">официальном сайте ЕАТ</a> <tg-emoji emoji-id="5436118790624518351"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E286A9.png')"><b>↩️</b></i></tg-emoji><br/><br/><a href="?q=%23%D0%9D%D0%9E%D0%92%D0%9E%D0%A1%D0%A2%D0%98">#НОВОСТИ</a> <br/><br/><tg-emoji emoji-id="5294059873976200999"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93B1.png')"><b>📱</b></i></tg-emoji> <a href="https://max.ru/gis_eiszakupki" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Следите за новостями ГИС ЕИС ЗАКУПКИ в MAX</a>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/gis_eiszakupki/3202</guid>
       <pubDate>Wed, 26 Aug 2026 06:03:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>⁉️</title>
-      <link>https://telegram.me/gis_eiszakupki/3201</link>
-      <description>⁉️
- 
-ВОПРОС
-
-Как сформировать и разместить пост-отчет о заключенных контрактах по закупкам малого объема?
-
-✔️
- ОТВЕТ
-
-Если контракт по закупке малого объема был заключен
- 
-без использования ГИС ЕИС ЗАКУПКИ с 01.07.2026 по 31.01.2028, то заказчик вправе 
-не включать
- такой контракт в реестр контрактов малых закупок, а 
-включить
- его в сводный пост-отчет.
-
-Форма сводного пост-отчета и рекомендации по ее 
-самостоятельному
- ведению 
-размещены
- в Базе знаний. Рекомендуем заполнять форму постепенно при каждой закупке.
-
-Функционал по загрузке сводного пост-отчета в ГИС ЕИС ЗАКУПКИ появится 
-01.02.2028
- и будет доступен пользователям для размещения ранее заполненной формы 
-до 01.05.2028
-. 
-
-❕
-Обращаем внимание, что включать в пост-отчет информацию о контрактах, сведения о которых включены в реестр контрактов малых закупок, не требуется. 
-
-📖
- Подробности работы функционала смотрите в Базе знаний → «Руководства пользователя и видеоролики» → «Закупки малого объема».
-
-#ЧЗВ
-
-#МАЛЫЕ_ЗАКУПКИ
-
-📱
- 
-Следите за новостями ГИС ЕИС ЗАКУПКИ в MAX</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/XX7ItAQLcQ_R913YhCEbADHbhzveg6X3UiXXx4-gBzeNpBMauKQKq44VycNNwv5TiCf3tl-Bunnis8dmM4Y7XziVpDgvxYj4u6KMMSnQMR_epZi-TxuHeT9Pn2EuDcagnlnsevSdmiS13SYLIXn_sdxbkLqqPuQpKNwaUxSdm9XY2UJG8-0OMgLj8gwXTH0PThtgiI3gGfveFMmWTQd37c8kWWWwVfIurHQOnqySzzy5vU7XjAI8oNQvjWEEnwBlJ6U2i0pnyT6E2CSgqE30nPMdYEJaYIWQ84MuQ6X6l9F2psSOBlVpZsM2q4GWGi5W8ag_MmUJ0hnoBzKRGhJqKA.jpg" /></p>
-<tg-emoji emoji-id="5435994300997443130"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E28189.png')"><b>⁉️</b></i></tg-emoji> <b>ВОПРОС</b><br/>Как сформировать и разместить пост-отчет о заключенных контрактах по закупкам малого объема?<br/><br/><tg-emoji emoji-id="5435862449796423200"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C94.png')"><b>✔️</b></i></tg-emoji><b> ОТВЕТ</b><br/>Если контракт по закупке малого объема был заключен<b> </b>без использования ГИС ЕИС ЗАКУПКИ с 01.07.2026 по 31.01.2028, то заказчик вправе <b>не включать</b> такой контракт в реестр контрактов малых закупок, а <b>включить</b> его в сводный пост-отчет.<br/><br/>Форма сводного пост-отчета и рекомендации по ее <b>самостоятельному</b> ведению <a href="https://zakupki.gov.ru/epz/main/public/download/downloadDocument.html?id=43936" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">размещены</a> в Базе знаний. Рекомендуем заполнять форму постепенно при каждой закупке.<br/><br/>Функционал по загрузке сводного пост-отчета в ГИС ЕИС ЗАКУПКИ появится <b>01.02.2028</b> и будет доступен пользователям для размещения ранее заполненной формы <b>до 01.05.2028</b>. <br/><br/><tg-emoji emoji-id="5436322999139574951"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29D95.png')"><b>❕</b></i></tg-emoji>Обращаем внимание, что включать в пост-отчет информацию о контрактах, сведения о которых включены в реестр контрактов малых закупок, не требуется. <br/><br/><tg-emoji emoji-id="5435982738945483816"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9396.png')"><b>📖</b></i></tg-emoji> Подробности работы функционала смотрите в Базе знаний → «Руководства пользователя и видеоролики» → «Закупки малого объема».<br/><br/><a href="?q=%23%D0%A7%D0%97%D0%92">#ЧЗВ</a><br/><a href="?q=%23%D0%9C%D0%90%D0%9B%D0%AB%D0%95_%D0%97%D0%90%D0%9A%D0%A3%D0%9F%D0%9A%D0%98">#МАЛЫЕ_ЗАКУПКИ</a><br/><br/><tg-emoji emoji-id="5294059873976200999"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93B1.png')"><b>📱</b></i></tg-emoji> <a href="https://max.ru/gis_eiszakupki" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Следите за новостями ГИС ЕИС ЗАКУПКИ в MAX</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/gis_eiszakupki/3201</guid>
-      <pubDate>Tue, 25 Aug 2026 10:59:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
