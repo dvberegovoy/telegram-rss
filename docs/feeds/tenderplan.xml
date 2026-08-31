@@ -8,52 +8,42 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 28 Aug 2026 17:33:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 11:43:43 +0000</lastBuildDate>
     <item>
-      <title>🔐</title>
-      <link>https://telegram.me/tenderplan/1446</link>
-      <description>🔐
- Закрытые закупки по 44-ФЗ и 223-ФЗ: как участвовать
- 
+      <title>📰</title>
+      <link>https://telegram.me/tenderplan/1447</link>
+      <description>📰
+📰
+📰
+📰
+📰
+Дайджест августа: тематический гид по горячим новостям месяца
 
-Закупки, которые не публикуют в ЕИС — для участия надо получить персональное приглашение. Что это за закупки, почему они засекречены, что там разыгрывается?
+Август выдался жарким не только по погоде — новые законодательные инициативы и свежая статистика задали тон всей осени. Собрали главное за месяц по сферам, чтобы вы ничего не пропустили.
 
-Закрытые закупки используются в сферах, связанных с государственной тайной, специальными условиями поставок и прочими обстоятельствами, установленными законом. Правила проведения сходны с обычными госзакупками, но есть некоторые нюансы. 
+Фармацевтика
 
-📍
-Рассказали, на каком основании проводятся закрытые закупки, по каким правилам работают, и главное — как поставщику туда попасть. Читайте в новой статье: 
-https://tenderplan.ru/blog/zakrytye-zakupki-po-44fz-i-223fz/</description>
-      <content:encoded><![CDATA[<b><tg-emoji emoji-id="5472308992514464048"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9490.png')"><b>🔐</b></i></tg-emoji></b><b> Закрытые закупки по 44-ФЗ и 223-ФЗ: как участвовать</b> <br/><br/>Закупки, которые не публикуют в ЕИС — для участия надо получить персональное приглашение. Что это за закупки, почему они засекречены, что там разыгрывается?<br/><br/>Закрытые закупки используются в сферах, связанных с государственной тайной, специальными условиями поставок и прочими обстоятельствами, установленными законом. Правила проведения сходны с обычными госзакупками, но есть некоторые нюансы. <br/><br/><tg-emoji emoji-id="5199610875962480300"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938D.png')"><b>📍</b></i></tg-emoji>Рассказали, на каком основании проводятся закрытые закупки, по каким правилам работают, и главное — как поставщику туда попасть. Читайте в новой статье: <a href="https://tenderplan.ru/blog/zakrytye-zakupki-po-44fz-i-223fz/" rel="noopener" target="_blank">https://tenderplan.ru/blog/zakrytye-zakupki-po-44fz-i-223fz/</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/tenderplan/1446</guid>
-      <pubDate>Fri, 28 Aug 2026 09:02:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>💊</title>
-      <link>https://telegram.me/tenderplan/1445</link>
-      <description>💊
- 
-Минпромторг предложил ужесточить контроль за поставками лекарств
+Минпромторг готовит серьезный разворот
+: переход на реестровый механизм подтверждения локализации может изменить правила игры для поставщиков, работающих с системой маркировки.
 
-Минпромторг разработал 
-проект изменений
- в систему мониторинга движения лекарственных препаратов. 
+Антимонопольное регулирование
 
-Суть — передавать в систему маркировки сведения, которые подтверждают, что производство полностью локализовано на территории ЕАЭС. 
+ФАС подвела
+ итоги полугодия
+ — и цифры говорят сами за себя: доля нарушений, которые ловит автоматика через ГИС «Антикартель», продолжает расти.
 
-Что планируют фиксировать:
+Статистика госзакупок
 
-⏺
-номер серии, для которой подтверждено выполнение всех стадий технологического процесса в ЕАЭС;
+Отчет Минфина за II квартал
+ обнажил два противоположных тренда: дробление лотов и бум электронных магазинов в 44-ФЗ — против укрупнения закупок в 223-ФЗ.
 
-⏺
-реквизиты документа о стадиях производства (реестровая запись);
+Закупки ГСМ
 
-⏺
-данные для обмена системы маркировки с другими государственным информационными системами.
+ФАС предложила
+ временно заморозить спецправила расчета НМЦК, чтобы торги не срывались из-за расхождений с рынком.
 
-В основе изменений — переход на реестровый механизм подтверждения локализации.
-
-Для поставщиков это означает, что данные нужно будет проверять по-новому. Работа с реестром и системой маркировки потребует более тщательной подготовки и внимания к деталям. Проект пока проходит общественное обсуждение до 3 сентября, но уже сейчас понятно, что требования к подтверждению локализации на фармрынке становятся более четкими и строгими.
+Новостей много, важных — единицы. Мы находим вторые. Следите за дайджестами 
+✅
 
  
 #новости_тендеров
@@ -66,9 +56,10 @@ VК
  |
  
 MAX</description>
-      <content:encoded><![CDATA[<tg-emoji emoji-id="5953903619580366413"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F928A.png')"><b>💊</b></i></tg-emoji> <b>Минпромторг предложил ужесточить контроль за поставками лекарств</b><br/><br/>Минпромторг разработал <a href="https://regulation.gov.ru/projects/170407/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><u>проект изменений</u></a> в систему мониторинга движения лекарственных препаратов. <br/><br/>Суть — передавать в систему маркировки сведения, которые подтверждают, что производство полностью локализовано на территории ЕАЭС. <br/><br/>Что планируют фиксировать:<b><br/></b><b><tg-emoji emoji-id="5389016644498501462"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E28FBA.png')"><b>⏺</b></i></tg-emoji></b>номер серии, для которой подтверждено выполнение всех стадий технологического процесса в ЕАЭС;<br/><tg-emoji emoji-id="5389016644498501462"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E28FBA.png')"><b>⏺</b></i></tg-emoji>реквизиты документа о стадиях производства (реестровая запись);<br/><tg-emoji emoji-id="5389016644498501462"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E28FBA.png')"><b>⏺</b></i></tg-emoji>данные для обмена системы маркировки с другими государственным информационными системами.<br/>В основе изменений — переход на реестровый механизм подтверждения локализации.<br/><br/>Для поставщиков это означает, что данные нужно будет проверять по-новому. Работа с реестром и системой маркировки потребует более тщательной подготовки и внимания к деталям. Проект пока проходит общественное обсуждение до 3 сентября, но уже сейчас понятно, что требования к подтверждению локализации на фармрынке становятся более четкими и строгими.<br/><br/> <a href="?q=%23%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_%D1%82%D0%B5%D0%BD%D0%B4%D0%B5%D1%80%D0%BE%D0%B2">#новости_тендеров</a> <br/><br/><tg-emoji emoji-id="5357171364669187802"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E298BA.png')"><b>☺️</b></i></tg-emoji><a href="https://telegram.me/tenderplan" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"> Telegram</a> | <a href="https://vk.com/tenderplan" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">VК</a> |<a href="https://max.ru/id7325121949_biz" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b> </b>MAX</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/tenderplan/1445</guid>
-      <pubDate>Wed, 26 Aug 2026 09:16:01 +0000</pubDate>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/dUWyLgK6u4CLsQVbfmSRY8FwyfVqwDIjiOeT1EkUJoOn2-SkoKZKsExvC2tVnZ2jsmFLDFMjmDLji103utwH_ij5YDaEQm1wyOqWOHdyhQa9MDAz8oo_Yd73-OPOolu6k27bSUFNXJyL9R_6exeo-DubKcBX1zZALlD8k8NCpYNbNUftygPuWkEwn2hJLi4FfmMcrjVpiPGCk3Ge8UA9eHv81sFqAX2aPYQ59MMrOBx5nsHYaGbgaWbQW6bAbnw5OgfnNbS35-Aav0e8yBVdbvy3KLbeanlMFx3cp18ImrpZ3n_EQ0JMAfMdnSXDc4oDVTEw0tADsDz9Vs6Ttc7ysg.jpg" /></p>
+<tg-emoji emoji-id="5332604113081357145"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93B0.png')"><b>📰</b></i></tg-emoji><tg-emoji emoji-id="5330241756514504771"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93B0.png')"><b>📰</b></i></tg-emoji><tg-emoji emoji-id="5330353674772304226"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93B0.png')"><b>📰</b></i></tg-emoji><tg-emoji emoji-id="5330563724442880807"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93B0.png')"><b>📰</b></i></tg-emoji><tg-emoji emoji-id="5330165765658138400"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93B0.png')"><b>📰</b></i></tg-emoji><b>Дайджест августа: тематический гид по горячим новостям месяца</b><br/><br/>Август выдался жарким не только по погоде — новые законодательные инициативы и свежая статистика задали тон всей осени. Собрали главное за месяц по сферам, чтобы вы ничего не пропустили.<br/><br/><b>Фармацевтика</b><br/><a href="https://telegram.me/tenderplan/1445" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Минпромторг готовит серьезный разворот</a>: переход на реестровый механизм подтверждения локализации может изменить правила игры для поставщиков, работающих с системой маркировки.<br/><br/><b>Антимонопольное регулирование</b><br/>ФАС подвела<a href="https://telegram.me/tenderplan/1435" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"> итоги полугодия</a> — и цифры говорят сами за себя: доля нарушений, которые ловит автоматика через ГИС «Антикартель», продолжает расти.<br/><br/><b>Статистика госзакупок</b><br/><a href="https://telegram.me/tenderplan/1427" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Отчет Минфина за II квартал</a> обнажил два противоположных тренда: дробление лотов и бум электронных магазинов в 44-ФЗ — против укрупнения закупок в 223-ФЗ.<br/><br/><b>Закупки ГСМ</b><br/><a href="https://telegram.me/tenderplan/1419" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">ФАС предложила</a> временно заморозить спецправила расчета НМЦК, чтобы торги не срывались из-за расхождений с рынком.<br/><br/>Новостей много, важных — единицы. Мы находим вторые. Следите за дайджестами <tg-emoji emoji-id="5409178238893184830"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C85.png')"><b>✅</b></i></tg-emoji><br/><br/> <a href="?q=%23%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_%D1%82%D0%B5%D0%BD%D0%B4%D0%B5%D1%80%D0%BE%D0%B2">#новости_тендеров</a> <br/><br/><tg-emoji emoji-id="5357171364669187802"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E298BA.png')"><b>☺️</b></i></tg-emoji><a href="https://telegram.me/tenderplan" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"> Telegram</a> | <a href="https://vk.com/tenderplan" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">VК</a> |<a href="https://max.ru/id7325121949_biz" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b> </b>MAX</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/tenderplan/1447</guid>
+      <pubDate>Mon, 31 Aug 2026 09:12:01 +0000</pubDate>
     </item>
   </channel>
 </rss>

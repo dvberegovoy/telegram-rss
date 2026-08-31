@@ -8,108 +8,40 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 28 Aug 2026 17:33:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 11:43:20 +0000</lastBuildDate>
     <item>
-      <title>Проверьте КЭП перед сдачей отчётности в СФР</title>
-      <link>https://telegram.me/roseltorg_tg/2520</link>
-      <description>Проверьте КЭП перед сдачей отчётности в СФР
+      <title>Не пов, а рил: сегодня 31 августа, а ты даже не открывал список литературы на лето...</title>
+      <link>https://telegram.me/roseltorg_tg/2521</link>
+      <description>Не пов, а рил: сегодня 31 августа, а ты даже не открывал список литературы на лето...
 
-С 1 сентября 2026 года для подачи отчётности в Социальный фонд России в квалифицированном сертификате должны присутствовать 
-три обязательных атрибута:
+Знакомо? К счастью, это всё в прошлом, но освежить знания и войти в новый деловой сезон подготовленными не будет лишним.
 
-🔵
- «Согласование ключей» (keyAgreement);
+Собрали три вебинара Росэлторг, которые стоит посмотреть или пересмотреть:
 
-🔵
- «Шифрование данных» (Data encipherment);
-
-🔵
- «Шифрование ключа» (Key encipherment).
-
-Если хотя бы одного из них нет, использовать такой сертификат для сдачи отчётности в СФР не получится.
-
-Особенно важно проверить КЭП организациям и ИП, сертификаты которых были выпущены 
-до 28 августа 2025 года
-. Сертификаты, выданные после этой даты, уже содержат необходимые атрибуты и не требуют перевыпуска.
-
-☑️
- При проверке ориентируйтесь не на срок действия КЭП, а на состав сертификата: даже действующая до 2027 года подпись может не соответствовать новым требованиям.
-
-Если необходимых атрибутов нет, сертификат потребуется перевыпустить до 1 сентября. Это можно сделать с помощью 
-УЦ Росэлторг
-.</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/fdmPzOkiuiGqo9W687-RMbCMburu3zzPm3143ZNLFxMuPFRgTesjvtm6ty2mpfY_PXGj3OjprdHEnoK-oKXAvtO8DDvJQ3foQ1e0AzZ23O1y5SxWyiwCbmzKPsHfBOAk9Ss0IcpekMp9pTb8Xvr0xuGzTsLs6becY3KJwhsPfa-onCjOnuXJj-5GnYDVxfQmyIUNr0yuWMz_gAHs1wa5lUGCq793lcXSFY3MsMyE8UYqq2MlDrPVbz99fPDuEB4EHg2ABXDkbjlHmUqbFmuvL7vOcHA7ioROWLDAeuPxZqd1H9_JFHHICBWJ2UNFN_eIXgXmq6ipp-ALWgXQv9jZeg.jpg" /></p>
-<b>Проверьте КЭП перед сдачей отчётности в СФР</b><br/><br/>С 1 сентября 2026 года для подачи отчётности в Социальный фонд России в квалифицированном сертификате должны присутствовать <b>три обязательных атрибута:</b><br/><br/><tg-emoji emoji-id="5433797408045687424"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B5.png')"><b>🔵</b></i></tg-emoji> «Согласование ключей» (keyAgreement);<br/><tg-emoji emoji-id="5433797408045687424"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B5.png')"><b>🔵</b></i></tg-emoji> «Шифрование данных» (Data encipherment);<br/><tg-emoji emoji-id="5433797408045687424"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B5.png')"><b>🔵</b></i></tg-emoji> «Шифрование ключа» (Key encipherment).<br/><br/>Если хотя бы одного из них нет, использовать такой сертификат для сдачи отчётности в СФР не получится.<br/><br/>Особенно важно проверить КЭП организациям и ИП, сертификаты которых были выпущены <b>до 28 августа 2025 года</b>. Сертификаты, выданные после этой даты, уже содержат необходимые атрибуты и не требуют перевыпуска.<br/><br/><tg-emoji emoji-id="5431494794473923994"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29891.png')"><b>☑️</b></i></tg-emoji> При проверке ориентируйтесь не на срок действия КЭП, а на состав сертификата: даже действующая до 2027 года подпись может не соответствовать новым требованиям.<br/><br/>Если необходимых атрибутов нет, сертификат потребуется перевыпустить до 1 сентября. Это можно сделать с помощью <a href="https://www.roseltorg.ru/uc?utm_source=tg&amp;amp;utm_medium=post&amp;amp;utm_campaign=kep" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">УЦ Росэлторг</a>.]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/roseltorg_tg/2520</guid>
-      <pubDate>Fri, 28 Aug 2026 11:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Как оценивать заявки и не ошибиться с победителем</title>
-      <link>https://telegram.me/roseltorg_tg/2519</link>
-      <description>Как оценивать заявки и не ошибиться с победителем
+1️⃣
  
-🎓
+Технические аспекты цифровизации контрактов с единственным поставщиком с 1 июля 2026 года
 
-Кирилл Кузнецов подробно разобрал, как заказчику выбрать подходящий метод оценки, настроить критерии и их значимость и при этом не исказить результат закупки.
+Разбираемся в новых требованиях и особенностях работы с цифровыми контрактами.
 
-Ключевые темы:
-
-🔹
- ценовой и многокритериальный подходы к оценке;
-
-🔹
- минимальная и приведённая цена, совокупная стоимость владения и балльная оценка;
-
-🔹
- формулы, шкалы и нестоимостные критерии;
-
-🔹
- влияние демпинга и возможные манипуляции;
-
-🔹
- практика ФАС и судов по вопросам выбора победителя.
-
-🔜
+2️⃣
  
-Презентация
- по итогам встречи доступны в 
-журнале Росэлторг.Кандидаты
-.
+Закупки лекарственных препаратов и медицинских изделий: обзор изменений и позиции правоприменительной практики
 
-Смотрите запись вебинара 
-на 
-📺
- платформе 
-VK Видео
-, 
-📺
- 
-Rutube
- и 
-📝
- 
-Дзене</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/N9Mi6MmROCjHHtBFbR_LzYu9rMFV3PGN08gI4uaN-oF3eVG7WLW0BRq1CuicE-TvxqF_6PLxDetibtbOPb7yo5tKiqvrE6g5EwP9wqSC-7aEG5Ji-aZzagEbyn3vLQ8AQ_o9F8ndFBKG8ThOzZk5ojmw6F4VeR3hsa4oyKE8QxzGQy8Rrb4Sh5-MlIRNSwgWNLW2vnR81kvsHt7oQuE0ufHj4adzasD-OSs9YwYw28tgvnayflw3oMQBrDOoAWmjHbstDS0SPTjQLGcQd-TXXSfRMAz8E3scc2qCdYg0_S8RYl50j2IMF6BuJTzUehi_3RjE9x6lxVvQvY6VH8YXuQ.jpg" /></p>
-<b>Как оценивать заявки и не ошибиться с победителем</b> <tg-emoji emoji-id="5431534870813763020"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8E93.png')"><b>🎓</b></i></tg-emoji><br/><br/>Кирилл Кузнецов подробно разобрал, как заказчику выбрать подходящий метод оценки, настроить критерии и их значимость и при этом не исказить результат закупки.<br/><br/>Ключевые темы:<br/><tg-emoji emoji-id="5431677644116616601"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji> ценовой и многокритериальный подходы к оценке;<br/><tg-emoji emoji-id="5431677644116616601"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji> минимальная и приведённая цена, совокупная стоимость владения и балльная оценка;<br/><tg-emoji emoji-id="5431677644116616601"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji> формулы, шкалы и нестоимостные критерии;<br/><tg-emoji emoji-id="5431677644116616601"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji> влияние демпинга и возможные манипуляции;<br/><tg-emoji emoji-id="5431677644116616601"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji> практика ФАС и судов по вопросам выбора победителя.<br/><br/><tg-emoji emoji-id="5431812720838076103"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F949C.png')"><b>🔜</b></i></tg-emoji> <b>Презентация</b> по итогам встречи доступны в <a href="https://cv.roseltorg.ru/journal/article/otsenka-zayavok-po-223-fz-i-44-fz-kriterii-metody-i-oshibki-zakazchika#" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">журнале Росэлторг.Кандидаты</a>.<br/><br/><b>Смотрите запись вебинара </b>на <tg-emoji emoji-id="5422413713191744617"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93BA.png')"><b>📺</b></i></tg-emoji> платформе <a href="https://vkvideo.ru/video-175203258_456239769" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">VK Видео</a>, <tg-emoji emoji-id="5298747646096187189"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93BA.png')"><b>📺</b></i></tg-emoji> <a href="https://rutube.ru/video/e4b89f06cc6477683123e619d83d8142/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Rutube</a> и <tg-emoji emoji-id="5305260190906471236"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F939D.png')"><b>📝</b></i></tg-emoji> <a href="https://dzen.ru/video/watch/6a8ef3653d4e4b4660c6c704" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Дзене</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/roseltorg_tg/2519</guid>
-      <pubDate>Thu, 27 Aug 2026 07:15:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Минпромторг России</title>
-      <link>https://telegram.me/roseltorg_tg/2518</link>
-      <description>Минпромторг России 
-предложил распространить
- нацрежим на промышленные услуги и работы
- 
-⚡️
+Актуальные изменения в закупках и подходы, которые складываются на практике.
 
-Эта мера направлена на увеличение загрузки производственных мощностей, заявил министр Антон Алиханов на встрече с президентом Владимиром Путиным. Инициатива уже прорабатывается с Минфином и Минэкономразвития.
+3️⃣
+ 
+Новые и перспективные нормы законодательства об имущественных торгах
 
-«Мы предлагаем распространить национальный режим в государственных закупках и закупках госкомпаний не только на конечные товары, когда приобретается что-то материальное, но и на работы и услуги, чтобы при их оказании в том числе использовался российский продукт», — сказал министр.</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/PMYwRqESLztsXb5KuShSbcN_m293TjEoNCcQtZS1UKYfkE4kJ0znf1OJj0xNgoLORIrvAyGsyfN5dgcPZug95C2Qq6-cnrJN6BQFc5ISAu4p-MTY1g3nW9Scl8OpOS2iTEM1B63ZqlxiDG3clrG9hdUynpkvSPNiHjWEjUtdJgTxTzOUeDR2Dp2aiDcaj5eN8IqUJBSfFDfhsPHyJ7Gsdoc5P2AnCRyQDYrg6YvUV8bWZR-94HTVlzC5Q7vLQmI-qsViNQq7oc94ye_MMjUqk13wqFvQZqcbHzoJEnhTt3Q3Odf0qJrSLuYoV_ke6YnA2CrUwB-U8SPXZSWEWOAW7g" /></p>
-<b>Минпромторг России </b><a href="https://tass.ru/ekonomika/28046491" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b>предложил распространить</b></a><b> нацрежим на промышленные услуги и работы</b> <tg-emoji emoji-id="5431743241152130566"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29AA1.png')"><b>⚡️</b></i></tg-emoji><br/><br/>Эта мера направлена на увеличение загрузки производственных мощностей, заявил министр Антон Алиханов на встрече с президентом Владимиром Путиным. Инициатива уже прорабатывается с Минфином и Минэкономразвития.<br/><br/><blockquote>«Мы предлагаем распространить национальный режим в государственных закупках и закупках госкомпаний не только на конечные товары, когда приобретается что-то материальное, но и на работы и услуги, чтобы при их оказании в том числе использовался российский продукт», — сказал министр.</blockquote>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/roseltorg_tg/2518</guid>
-      <pubDate>Wed, 26 Aug 2026 11:10:09 +0000</pubDate>
+Что меняется в регулировании имущественных торгов и какие нововведения важно учитывать в работе.
+
+Сохраняйте подборку, чтобы важное осталось под рукой, и начинайте осень с актуальными знаниями 
+💡</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/FgXqgVlOdcxpCcWZxSJMPl25N1tbVFVd2d-ZCOD6QUWRFwLhxZdTn7MJJVrgL3Bxc6-D1WSm-N7RI0lRfRPyZDuTM1KLHwtZl95xa9TgDibLKxOIdVg_788IAQ5axrmKJKnutbHb57Q-XOdvem1xVLSz3XpfMWLOYwhCg0Ipsh_b1VB_uiVeT-TO8SMThdchRsEf8MsaV0jXsH9anTEhVVwRC5EQApaBNp2HVaYm2VzA5WMouYXZF9_tkSmIlBTXuMOC6hj1H86kkB6_Kwlnis60bJDimXl9rfmj99yQWpNqQSbfQkyQJdQDWBE6kLxRfEnzxAS-fIo_FlNB1qL6og.jpg" /></p>
+<b>Не пов, а рил: сегодня 31 августа, а ты даже не открывал список литературы на лето...</b><br/><br/>Знакомо? К счастью, это всё в прошлом, но освежить знания и войти в новый деловой сезон подготовленными не будет лишним.<br/><br/>Собрали три вебинара Росэлторг, которые стоит посмотреть или пересмотреть:<br/><br/><tg-emoji emoji-id="5431576261413593703"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/31E283A3.png')"><b>1️⃣</b></i></tg-emoji> <a href="https://vkvideo.ru/video-175203258_456239749?pl=-175203258_2" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b>Технические аспекты цифровизации контрактов с единственным поставщиком с 1 июля 2026 года</b></a><br/>Разбираемся в новых требованиях и особенностях работы с цифровыми контрактами.<br/><br/><tg-emoji emoji-id="5431576231348822894"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/32E283A3.png')"><b>2️⃣</b></i></tg-emoji> <a href="https://vkvideo.ru/video-175203258_456239747?pl=-175203258_2" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b>Закупки лекарственных препаратов и медицинских изделий: обзор изменений и позиции правоприменительной практики</b></a><br/>Актуальные изменения в закупках и подходы, которые складываются на практике.<br/><br/><tg-emoji emoji-id="5431477159338205255"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/33E283A3.png')"><b>3️⃣</b></i></tg-emoji> <a href="https://vkvideo.ru/video-175203258_456239752?pl=-175203258_3" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b>Новые и перспективные нормы законодательства об имущественных торгах</b></a><br/>Что меняется в регулировании имущественных торгов и какие нововведения важно учитывать в работе.<br/><br/>Сохраняйте подборку, чтобы важное осталось под рукой, и начинайте осень с актуальными знаниями <tg-emoji emoji-id="5431719958134417946"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')"><b>💡</b></i></tg-emoji>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/roseltorg_tg/2521</guid>
+      <pubDate>Mon, 31 Aug 2026 11:10:56 +0000</pubDate>
     </item>
   </channel>
 </rss>

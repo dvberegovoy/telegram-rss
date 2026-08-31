@@ -8,15 +8,224 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 28 Aug 2026 17:32:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 11:42:53 +0000</lastBuildDate>
+    <item>
+      <title>Шаг в эру постквантовой криптографии</title>
+      <link>https://telegram.me/ep_uc/5474</link>
+      <description>Шаг в эру постквантовой криптографии
+
+ФСБ России согласовано 
+техническое задание
+ на СКЗИ «КриптоПро CSP» версии 6.0.
+
+Новое поколение криптопровайдера развивает линейку СКЗИ «КриптоПро CSP», выводя её на качественно новый уровень. Ключевой инновацией является поддержка постквантовой криптографии, в числе наиболее значимых нововведений:
+
+🔹
+Постквантовые преобразования – реализация алгоритмов постквантовой подписи и постквантовой инкапсуляции ключа.
+
+🔹
+Защита канала – реализация протокола защиты канала на основе TLS с использованием постквантового механизма инкапсуляции ключа.
+
+Почему это критически важно? Надежность большинства современных криптографических систем с открытым ключом базируется на вычислительной сложности решения задачи дискретного логарифмирования. На классических компьютерах решение этой задачи требует недостижимых на практике временных и вычислительных затрат, что обеспечивает защиту банковских платежей, электронного документооборота и критической инфраструктуры. Однако потенциально возможное в будущем появление полномасштабного квантового компьютера способно принципиально сократить время решения подобных задач и поставить под угрозу все сферы, использующие асимметричную криптографию.
+
+В мировом научном сообществе сегодня сформировались два основных направления защиты от квантовой угрозы: 
+
+🔹
+Квантовое распределение ключей (КРК) – технология, основанная на принципах физики и позволяющая безопасно обмениваться ключами шифрования.
+
+🔹
+Постквантовая криптография – новые криптографические алгоритмы, устойчивые к квантовым атакам. 
+
+Особый фокус сегодня на гибридных схемах, где проверенные классические алгоритмы работают в связке с новыми постквантовыми. Это обеспечивает плавную миграцию и дополнительный уровень надежности: даже при компрометации одного из методов защита сохраняется.
+
+Именно такую гибридную схему позволяет реализовать «КриптоПро CSP» версии 6.0. Это открывает возможность для поэтапного перевода отечественных информационных систем на алгоритмы, устойчивые к атакам с применением квантового компьютера.</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/GDAN1UCkX0nBCeFrvyg0-N_EPEFj_XRcUuePsMTkgvYxzKON8cP1bWSTKv_NEMDK7WevrDRIl0s4HqU9AVs-anshhBv0cRjdTmUSBYYYrnx0gEItpl67arN0cV3n0OaQ8-PSxbhf0FQFjT82x9mDm1FD8rAkcsD1G-L3G6mJ4cdHB5D1gN0i3NeTVaMqRWn2S9b9k0N0PyHGYG1ii52HxSUXF30nf-5upmJTfT_RKFMm3h1hk7IywcbgrWhdfvvCaj2U814ojZ68R6SiMPTqvsPhV3FeKw-7Rz_2bwmk80It1vszcUfxxoTn4VVh9Ni9ZGZKG5C8Byk9mok0zaPrfw.jpg" /></p>
+<b>Шаг в эру постквантовой криптографии</b><br/><br/>ФСБ России согласовано <a href="https://cryptopro.ru/sites/default/files/docs/letter_csp6_0.pdf" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">техническое задание</a> на СКЗИ «КриптоПро CSP» версии 6.0.<br/><br/>Новое поколение криптопровайдера развивает линейку СКЗИ «КриптоПро CSP», выводя её на качественно новый уровень. Ключевой инновацией является поддержка постквантовой криптографии, в числе наиболее значимых нововведений:<br/><tg-emoji emoji-id="5318799461126807802"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji>Постквантовые преобразования – реализация алгоритмов постквантовой подписи и постквантовой инкапсуляции ключа.<br/><tg-emoji emoji-id="5318799461126807802"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji>Защита канала – реализация протокола защиты канала на основе TLS с использованием постквантового механизма инкапсуляции ключа.<br/><br/>Почему это критически важно? Надежность большинства современных криптографических систем с открытым ключом базируется на вычислительной сложности решения задачи дискретного логарифмирования. На классических компьютерах решение этой задачи требует недостижимых на практике временных и вычислительных затрат, что обеспечивает защиту банковских платежей, электронного документооборота и критической инфраструктуры. Однако потенциально возможное в будущем появление полномасштабного квантового компьютера способно принципиально сократить время решения подобных задач и поставить под угрозу все сферы, использующие асимметричную криптографию.<br/><br/>В мировом научном сообществе сегодня сформировались два основных направления защиты от квантовой угрозы: <br/><tg-emoji emoji-id="5318799461126807802"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji>Квантовое распределение ключей (КРК) – технология, основанная на принципах физики и позволяющая безопасно обмениваться ключами шифрования.<br/><tg-emoji emoji-id="5318799461126807802"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji>Постквантовая криптография – новые криптографические алгоритмы, устойчивые к квантовым атакам. <br/><br/>Особый фокус сегодня на гибридных схемах, где проверенные классические алгоритмы работают в связке с новыми постквантовыми. Это обеспечивает плавную миграцию и дополнительный уровень надежности: даже при компрометации одного из методов защита сохраняется.<br/><br/>Именно такую гибридную схему позволяет реализовать «КриптоПро CSP» версии 6.0. Это открывает возможность для поэтапного перевода отечественных информационных систем на алгоритмы, устойчивые к атакам с применением квантового компьютера.]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5474</guid>
+      <pubDate>Mon, 31 Aug 2026 07:02:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏆</title>
+      <link>https://telegram.me/ep_uc/5472</link>
+      <description>🏆
+Самое чистосердечное признание 
+о компрометации
+ чужого ключа ЭП
+
+Бухгалтеры
+ - 
+главная причина
+ компрометации ключей электронной подписи. Пора их учитывать в модели угроз, как нарушителей уровня Б1.
+
+Только 
+жизненные кейсы
+ с проблемами для бизнеса заставляют руководителей задуматься о 
+последствиях
+, когда уже поздно.
+
+ИП Уолкер М.Г. - ваш ключ электронной подписи скомпрометирован, кстати сертификат получен всего месяц назад. "Спасибо" можете сказать своему бухгалтеру на аутсорсе.
+
+6.1. Удостоверяющий центр аннулирует сертификат ключа проверки электронной подписи в следующих случаях:
+
+1) не подтверждено, что владелец сертификата ключа проверки электронной подписи владеет ключом электронной подписи, соответствующим ключу проверки электронной подписи, указанному в таком сертификате;</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/hI_25_EeuQeHtfszPtLh-Mo0B8dMpctJdjnDIREbxKhn7rIxmmAuy9yS0_rpc9Xlwxkjv08C7ABrCqJNXOYEJsMr_1nN7xx1cHk_4i79HrS9Od1jpRQ9_Cx9itZfDwn_ugR6F7UvUlS0NQ0BG-O7i2QToFLyhnHg0D8Mcja1BN6oFt_cNGG506yXMXBMJRDEc3n0OdA0fc04zjICfbhJpvWjxzKSCPJazn7Fg_s-WRPT0q8fn-BIcJpVqeUOGjGw6pL4c0DgJtvn5dyMehjm9r-TZPgJiTSQxbISi2WLcRo8c8j4HSM_CD8QEx-CZ7JC_Qegdii89a2JRC0jwXNwGw.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/RjIdxAus4SOQ7MCu82s46MWxSWrf03G7A0sXGp8mmfTdxX7n3bdJCzk1Q0JsqOIFOhxqKIckRpzAtAhdfHzrt8gMPq8iFH_6jdvilNVInJ2pcb4_AlbyJ-LvqhuF6BY0BJKZg--w-WFspGeOtFS0eosA66v7L0vwadGUsHGv7deOxTVn2kjdMqkifgNPDR98Ts8Spg7Xy2b3IRzr63GWUdCA_onlcNiZ3llQGAAQKCrHDpS8LWhsORxaP5A2C1VDB-WBCIW6NmNd38k0vTyg0K33bonKyUKCgT84ddxL9A9oLBS5mUC37x_LjFYnn_bsyIqcXCAVMak69V-2zm_hmA.jpg" /></p>
+<tg-emoji emoji-id="5316746252010921452"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8F86.png')"><b>🏆</b></i></tg-emoji><b>Самое чистосердечное признание </b><a href="https://telegram.me/c/1691316533/227565" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b>о компрометации</b></a><b> чужого ключа ЭП</b><br/><br/><a href="https://telegram.me/ep_uc/3864" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Бухгалтеры</a> - <a href="https://www.klerk.ru/buh/news/703359/?srsltid=AfmBOoojd3SjKaYZjZsMuSxPaU0HB0OXakhrXU8d-qPJ7osCCH791dCH" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">главная причина</a> компрометации ключей электронной подписи. Пора их учитывать в модели угроз, как нарушителей уровня Б1.<br/><br/>Только <a href="https://telegram.me/ep_uc/5341" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">жизненные кейсы</a> с проблемами для бизнеса заставляют руководителей задуматься о <a href="https://telegram.me/ep_uc/4908?single" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">последствиях</a>, когда уже поздно.<br/><br/><b>ИП Уолкер М.Г. - ваш ключ электронной подписи скомпрометирован, кстати сертификат получен всего месяц назад. "Спасибо" можете сказать своему бухгалтеру на аутсорсе.</b><br/><br/><blockquote>6.1. Удостоверяющий центр аннулирует сертификат ключа проверки электронной подписи в следующих случаях:<br/>1) не подтверждено, что владелец сертификата ключа проверки электронной подписи владеет ключом электронной подписи, соответствующим ключу проверки электронной подписи, указанному в таком сертификате;</blockquote>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5472</guid>
+      <pubDate>Mon, 31 Aug 2026 05:28:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>📣</title>
+      <link>https://telegram.me/ep_uc/5471</link>
+      <description>📣
+Подборка самых важных новостей о сфере электронной подписи от нашего канала по итогам августа 2026 года
+ 
+
+1⃣
+Подписан 
+Федеральный закон от 04.08.2026 № 315-ФЗ
+ "О внесении 
+изменений
+ в Федеральный закон "Об электронной подписи"
+
+2️⃣
+Для общественного обсуждения опубликован 
+проект приказа Минцифры
+ о внесении изменений в некоторые НПА в области использования электронной подписи, 
+проект постановления Правительства
+ в части размера финансовой ответственности ДТС, 
+проект приказа
+ Минцифры и ФСО
+
+3⃣
+Первые проекты НПА по НУЦ - 
+проект постановления
+ "О случаях, при которых сертификат безопасности национального удостоверяющего центра прекращает свое действие", 
+проект приказа
+ "Об утверждении требований к сертификатам безопасности национального удостоверяющего центра, порядку создания, выдачи, использования и прекращения действия таких сертификатов"
+
+4⃣
+Продолжающийся массовый отзыв сертификатов безопасности российских организаций международными УЦ (
+1
+, 
+2
+)
+
+5⃣
+Минцифры 
+спустя
+ полгода 
+актуализирована
+ Единая форма МЧД (формат 003)
+
+6⃣
+Волна 
+перевыпуска
+ сертификатов УЦ ФНС России из-за
+ требований Соцфонда
+
+7⃣
+Изменение сроков
+ проведения работ по смене мастер-ключей в СМЭВ на базе СКЗИ ViPNet
+
+8⃣
+О 
+проблемах с CRL
+ Национального УЦ
+
+9⃣
+Планы-график подготовки нормативных правовых актов, необходимых для реализации норм 
+210-ФЗ
+ ("Антифрод", НУЦ), 
+315-ФЗ
+ (Об ЭП и УЦ)
+
+🔟
+PKI-Форум Россия 2026
+ 
+🔐
+ 
+15-17 сентября в Санкт-Петербурге
+
+1⃣
+1⃣
+Компании 
+ИнфоТеКС 
+исполнилось 35 лет
+
+1⃣
+2⃣
+🏛
+Судебная практика - 
+суд признал
+ кредитный договор незаключенным в связи с мошенническими действиями с использованием простой ЭП.
+
+✍️
+"Об ЭП и УЦ"</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/ovH2zCasZI1HkFuig9oOWbp_4abzDwycPr6fE-vEM2hJvcvx0TSl-Z2l77H5Hm-oF2V7G6eigVwnR2g3Sjb5zmhVijpgswMh_U5snBlrv1g7q5Ex7fIPj6hxoQWsGY_W8qI79NP3zXALfcMQ0I-8qyITddkkboC6ofLTp5D1Eh5QldV2w6mkJ_gzuXXc7zxtg9T0wDvBakn3LdX6Nlxnfb4c1nfKN-7RQ-xw21Q9Sa_dD7qOWauQisgttq-MefPycJxltI3tWsAOStsyL8QwA4kQrnB3f6DfvPAsfnHL9AHVHIy8hskK5s-vhXVVHF1gdjEL011-dPIx5UGn0Uj4-A.jpg" /></p>
+<b><tg-emoji emoji-id="5469903029144657419"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93A3.png')"><b>📣</b></i></tg-emoji></b><b>Подборка самых важных новостей о сфере электронной подписи от нашего канала по итогам августа 2026 года</b> <br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/31E283A3.png')"><b>1⃣</b></i>Подписан <a href="https://telegram.me/ep_uc/5334" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Федеральный закон от 04.08.2026 № 315-ФЗ</a> "О внесении <a href="https://telegram.me/ep_uc/5336" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">изменений</a> в Федеральный закон "Об электронной подписи"<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/32E283A3.png')"><b>2️⃣</b></i>Для общественного обсуждения опубликован <a href="https://telegram.me/ep_uc/5328" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">проект приказа Минцифры</a> о внесении изменений в некоторые НПА в области использования электронной подписи, <a href="https://regulation.gov.ru/projects/169825/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">проект постановления Правительства</a> в части размера финансовой ответственности ДТС, <a href="https://regulation.gov.ru/projects/170289/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">проект приказа</a> Минцифры и ФСО<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/33E283A3.png')"><b>3⃣</b></i>Первые проекты НПА по НУЦ - <a href="https://telegram.me/ep_uc/5351" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">проект постановления</a> "О случаях, при которых сертификат безопасности национального удостоверяющего центра прекращает свое действие", <a href="https://telegram.me/ep_uc/5455" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">проект приказа</a> "Об утверждении требований к сертификатам безопасности национального удостоверяющего центра, порядку создания, выдачи, использования и прекращения действия таких сертификатов"<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/34E283A3.png')"><b>4⃣</b></i>Продолжающийся массовый отзыв сертификатов безопасности российских организаций международными УЦ (<a href="https://telegram.me/ep_uc/5332" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">1</a>, <a href="https://telegram.me/ep_uc/5443" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">2</a>)<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/35E283A3.png')"><b>5⃣</b></i>Минцифры <a href="https://telegram.me/ep_uc/4557" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">спустя</a> полгода <a href="https://telegram.me/ep_uc/5366" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">актуализирована</a> Единая форма МЧД (формат 003)<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/36E283A3.png')"><b>6⃣</b></i>Волна <a href="https://telegram.me/ep_uc/5392" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">перевыпуска</a> сертификатов УЦ ФНС России из-за<a href="https://telegram.me/ep_uc/5337" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"> требований Соцфонда</a><br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/37E283A3.png')"><b>7⃣</b></i><a href="https://telegram.me/ep_uc/5397" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Изменение сроков</a> проведения работ по смене мастер-ключей в СМЭВ на базе СКЗИ ViPNet<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/38E283A3.png')"><b>8⃣</b></i>О <a href="https://telegram.me/ep_uc/5387" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">проблемах с CRL</a> Национального УЦ<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/39E283A3.png')"><b>9⃣</b></i>Планы-график подготовки нормативных правовых актов, необходимых для реализации норм <a href="https://telegram.me/ep_uc/5419" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">210-ФЗ</a> ("Антифрод", НУЦ), <a href="https://telegram.me/ep_uc/5444" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">315-ФЗ</a> (Об ЭП и УЦ)<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F949F.png')"><b>🔟</b></i><a href="https://telegram.me/ep_uc/5389" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">PKI-Форум Россия 2026</a> <tg-emoji emoji-id="5327952221118164589"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9490.png')"><b>🔐</b></i></tg-emoji><a href="https://telegram.me/ep_uc/5202" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"> </a>15-17 сентября в Санкт-Петербурге<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/31E283A3.png')"><b>1⃣</b></i><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/31E283A3.png')"><b>1⃣</b></i>Компании <a href="https://telegram.me/ep_uc/5418" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">ИнфоТеКС </a>исполнилось 35 лет<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/31E283A3.png')"><b>1⃣</b></i><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/32E283A3.png')"><b>2⃣</b></i><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8F9B.png')"><b>🏛</b></i>Судебная практика - <a href="https://telegram.me/ep_uc/5342" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">суд признал</a> кредитный договор незаключенным в связи с мошенническими действиями с использованием простой ЭП.<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5471</guid>
+      <pubDate>Mon, 31 Aug 2026 04:50:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🚛</title>
+      <link>https://telegram.me/ep_uc/5469</link>
+      <description>🚛
+ 
+1 из 10 или про цифровизацию грузоперевозок
+
+С 1 сентября электронные накладные становятся обязательными, но рынок к этому оказался не готов. По данным "Ассоциации перевозчиков" и 
+ATI.SU
+, квалифицированные сертификаты получили только 9,8 % перевозчиков (менее 12 тыс. из 119 тыс.), из них:
+
+🔹
+Самозанятые - 0,5%
+
+🔹
+ИП - 11,3%
+
+🔹
+Юрлица - 22,6%
+
+Я не понимаю, откуда берут 
+такие цифры
+. Около 4 млн ИП, а это 85 % от общего количества ИП в стране, получили квалифицированные сертификаты, откуда речь про какие-то 11,3 %? 
+
+До марта 2027 года 
+установлен
+ нештрафуемый период (только устные замечания от МВД и Ространснадзора), что собственно не отменяет оформление электронных перевозочных документов, поэтому неготовность переводчиков повлечет задержки и сбои.
+
+Крупные грузоперевозчики откажутся загружать транспорт без ЭПД, ЭТрН, что снизит предложение на отдельных направлениях, схемы с оплатой наличными станут невозможны - часть недобросовестных игроков уйдет с рынка, а мелкие перевозчики сконцентрируются на коротких рейсах, чтобы избежать проверок.
+
+Возникающие 
+вопросы
+ напомнили переход на 
+МЧД
+, крупный бизнес готов, но малый и средний сегменты только начинают разбираться в процессаз, при этом часть компаний ошибочно думают, что до весны 2027 действует "переходный период" и можно работать по-старому. И совершенно неожиданно обнаруживается нехватка технических специалистов...
+
+✍️
+"Об ЭП и УЦ"</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/j5vEtcqd62Qn3Mv2CiyFp4eKEeC3oN4a77RuRzjXDTrk3T6YG47RWG-puV8GrYr3HJ1yNlk1Egr6c8ojmWzDZZ7LBdxc0TD4bsCgij4G1VqarS4ae7chrBpzQn4kJGvTfs-vveBD_KG3g5YN4CPZC7MLBZK5cjTnV-EZevIiN_qK60jbgZyfniG01-lU-qT3F6NhxZMVGLNnWesPhXI_WS0HioHzGh1zidTt3pfvZpYa3FzEEpfoBAfIER2RRcNPTzmSYur0jcoxjg6M58SpwVWiMcTOeUf6bU57Th23E3P-TwDykGFlE-Wq2MBQ4r3Co7IlpiKzigQaQn01l_X7Jw.jpg" /></p>
+<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9A9B.png')"><b>🚛</b></i> <b>1 из 10 или про цифровизацию грузоперевозок</b><br/><br/>С 1 сентября электронные накладные становятся обязательными, но рынок к этому оказался не готов. По данным "Ассоциации перевозчиков" и <a href="https://news.ati.su/article/2026/08/27/bolshoj-elektronnyj-perehod-predprinimateli-obespokoeny-novymi-pravilami-perevozochnyh-dokumentov-132519/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">ATI.SU</a>, квалифицированные сертификаты получили только 9,8 % перевозчиков (менее 12 тыс. из 119 тыс.), из них:<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>Самозанятые - 0,5%<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>ИП - 11,3%<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>Юрлица - 22,6%<br/><br/>Я не понимаю, откуда берут <a href="https://iz.ru/2156968/kirill-sazonov-iana-shturma/magiia-chisel-perevozchiki-okazalis-ne-gotovy-k-tcifrovym-dokumentam" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">такие цифры</a>. Около 4 млн ИП, а это 85 % от общего количества ИП в стране, получили квалифицированные сертификаты, откуда речь про какие-то 11,3 %? <br/><br/>До марта 2027 года <a href="https://mintrans.gov.ru/press-center/news/12925" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">установлен</a> нештрафуемый период (только устные замечания от МВД и Ространснадзора), что собственно не отменяет оформление электронных перевозочных документов, поэтому неготовность переводчиков повлечет задержки и сбои.<br/><br/>Крупные грузоперевозчики откажутся загружать транспорт без ЭПД, ЭТрН, что снизит предложение на отдельных направлениях, схемы с оплатой наличными станут невозможны - часть недобросовестных игроков уйдет с рынка, а мелкие перевозчики сконцентрируются на коротких рейсах, чтобы избежать проверок.<br/><br/>Возникающие <a href="https://aktlog.ru/blog/rur9vx0jr1-etrn-kep-i-mchd-otvechaem-na-voprosi-s-v" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">вопросы</a> напомнили переход на <a href="https://telegram.me/ep_uc/2783" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">МЧД</a>, крупный бизнес готов, но малый и средний сегменты только начинают разбираться в процессаз, при этом часть компаний ошибочно думают, что до весны 2027 действует "переходный период" и можно работать по-старому. И совершенно неожиданно обнаруживается нехватка технических специалистов...<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5469</guid>
+      <pubDate>Sun, 30 Aug 2026 14:15:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Пост — Об ЭП и УЦ</title>
+      <link>https://telegram.me/ep_uc/5459</link>
+      <description>Пост — Об ЭП и УЦ</description>
+      <content:encoded><![CDATA[(нет текста)]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5459</guid>
+      <pubDate>Sat, 29 Aug 2026 06:05:06 +0000</pubDate>
+    </item>
     <item>
       <title>Гидротехнические сооружения отменяются, пока, в проекте подзаконного акта используется корректная…</title>
       <link>https://telegram.me/ep_uc/5456</link>
       <description>Гидротехнические сооружения отменяются, пока, в проекте подзаконного акта используется корректная терминология в части открытых и закрытых ключей (почему сразу нельзя было так написать - непонятно), на неё мы с вами 
 обращали внимание
 , кто-то прочитал и понял, что нужно правильно писать?</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/BtH6o09mqcQAjEtTrFYE93PckwxDetPfa8HlT5XkBBmEzLdHGziGR1nw8DBHL6YX38EJJTj3nZUiDyQb0JLkhnonFfxR_q59gTTgfZMMhBUFPZcgmP-bB2jXV6EokNtU4BuPepM6XCFmHAD1qf2HWOEmBGAsbIUXaMqyN6k6GGjlGT_hvOfDtbPmt7Cw94Pbh9c8cFmA8DoczodGSuDbzFDDwSb-lxoWlTKBzpPFrSc6N_MK-FvTb3FWFnh6eKVzXwNNZZ1q0yp0U7h11xEjb2W_ZndbuIkXOu5yNnXuT7aqQD2YnJ9q8-aQfTcnnMAdB8bdru_ahSeO8TGTMuV3kQ.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/r-K-wc2FdouYzk_gylZHSx71tVMgs1AIVyip4l9oHEVeGHIvWrJc0Ip79xIdN5Fcs4jCD53XS-U5gKKTXqcIiQDFFvzJbsqU_RQtp-MYndfXjWXtHEWnEMsKw3dtlHuSo_RNc9X-t9XZ0G0gTPB5XRLsmdFlBierxvSnxEGTPfgKZZualacmgfs2CVQbAZ9tYDJg_GhxV8xil_DkLsxFWhsfcdIrTBc7hZhq-ehDm_LSzo03S3rKG7bBFhV0ehUxZDGNADSNBeQNhJL34YIZy9WFpLLxNQrDrcY9LE1SX1FBkkKroggd-VlA86kWEe3Tbk5ETY_u-3QzRb0rfoCysA.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/BltuYO9HlYbSyZdJMptmRjBI0bJWzSlxWoEDEbOMvpr-vBtVP2QQoTERuwAi_rgmeuZrW61qaLYWB2C9oZ1tX-TAkZQaO7zEi6A-nEaV4Jf0fy3xs8gtZAUBikMbZE1ZfoRi9fF_RXyIN9JC2widNwsRMF5532-xowFZI8fLDaiAcnl9KPy82wG7SaUtbcaJ5ekY2jVb_xttBgROmS9XCPrzELA6ig7TzSN87CxWAF8PoeC1F5K8RZnYuSs5mOqrakfbYdK4o-pCpJeW4HdcCmGsH7DjNTHa52JT4X641GGUCK8UTZ05mhbPBNFaVZWIcji8asIOVs39jWB0QHYLUA.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/MDBe9kQu65i31pUZn-wgkdvSiJZMj6yb8v4BbtL_2N3pCaG9B13oUhSNjkHf6gKgsO6-sXWhcPwSW5_OtZkUtjy9UBi-tt125gkl2Oe_e-kc_8iUjgyjkTHduKm4qnvacatjAkpirMRHvhODJvIYh8kwsADlLrr8Xa4XG1XLfGwP0o1upOPJczmgZXtdatxMb5GpBGIL-GnMy9pWuylfrbYLHpesBLm5Z_KX0YPnrOoNE1USQ_rbj2aRWPoLrFd8wsIoAxeDW8gc8HIq-ATqn-UmW44Nnpkxfhe-HGpK7SgFs7Bc_hNc7lQe810NmZS8mL5TIYm1BRFoRxnmEozspA.jpg" /></p>
 <div class="tgme_widget_message_text js-message_text" dir="auto">Гидротехнические сооружения отменяются, пока, в проекте подзаконного акта используется корректная терминология в части открытых и закрытых ключей (почему сразу нельзя было так написать - непонятно), на неё мы с вами <a href="https://telegram.me/ep_uc/5297?comment=223513" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">обращали внимание</a>, кто-то прочитал и понял, что нужно правильно писать?</div>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5456</guid>
       <pubDate>Fri, 28 Aug 2026 17:03:06 +0000</pubDate>
@@ -37,295 +246,10 @@
 
 ✍️
 "Об ЭП и УЦ"</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/SbfNRF-K80tuazAnk_q00-quCnygrYz8y39ZboafVMqOKGrz5W0xrEEbvkNT2bKe0ycs1Xyb1x1rkjm43lyeapwGygTRrpvlmyjIm5P7j4fLS7G44_DfmOPyjxjLe78dX2MDLCmQ3I88pQ5hGvUR0-dQvYtJjZoN-sT42xZ9_7sHI6UNiJBIbRewwT38q0pcIkMOcV0PJvcS_ZoOO2orVEpAQF4OZ1nuehErWs8G8u1gB0c3ymqemA4l1QqnjXFQwp2K_wiZFoMFzlFmLfkGAgdlLj6anmLA_jOZFmM2g44Bd0dYd3vk1wcn3kRr6AU1VizNxiKniRoWR67eYSNtLA.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/bsyEZQUnDSFFE91Xx3vwHTmubG2LhCk8xvo4fSIR2QKlBMxl4l8F-xunOORQ2FI-B1zXJjmskJTDmLmZy6xVH5jbTd2dy-PatiZU6Vi2wqodlSReFH3Gjs8OkbfbknWR3XPIylA9DYY-u8fYcx3Ev3cN57UXi4j7cJkcd7EmDjUq6pGQ5q3HGAe0KISIpd14iIXzWopJPrKqoeubB4z8y3-NoH-Hb1t2THviYq2sOulxrF0g7T6HMOPeX6dS15Fg7NwWK1CRQL0MMM68cUnxTPLYtejIOF-Gm9alj7L6LGz1GaFRBKnzmB_0zuFxf8shFmTmXz2BBwRWB6OxioV3rQ.jpg" /></p>
 <tg-emoji emoji-id="5470060791883374114"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><b>Второй проект НПА о НУЦ</b> <br/><br/>Минцифры России во исполнение пункта 18 плана-графика подготовки нормативных правовых актов, необходимых для реализации норм 210-ФЗ, сегодня размещён проект приказа <br/><a href="https://regulation.gov.ru/projects/170667" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об утверждении требований к сертификатам безопасности национального удостоверяющего центра, порядку создания, выдачи, использования <br/>и прекращения действия таких сертификатов"</a>. Обсуждение продлится до 25 сентября 2026 года.<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5455</guid>
       <pubDate>Fri, 28 Aug 2026 16:47:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ни секундой больше! Гайд: как ИИ сокращает время работы с договорами</title>
-      <link>https://telegram.me/ep_uc/5449</link>
-      <description>Ни секундой больше! Гайд: как ИИ сокращает время работы с договорами
-
-Заполнение карточек, поиск правок и анализ документов — необходимые, но трудоемкие задачи. Сегодня значительную часть такой работы можно ускорить.
-
-В гайде разобрали практические сценарии работы с ИИ и показали, как современные инструменты помогают:
-
-🔹
- распознавать договоры и заполнять карточки;
-
-🔹
- делать краткую аннотацию документов;
-
-🔹
- проверять договоры на соответствие требованиям компании;
-
-🔹
- сравнивать версии, даже если они в разных форматах;
-
-🔹
- искать ответы в длинных регламентах.
-
-❗
- ИИ не заменит юриста, но поможет быстрее находить риски и выполнять рутинные операции.
-
-Забирайте гайд по ссылке.</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/WiYuClf9Goftv_xGCoGTuxiFy4c1_--OT-5ILRvk33AHpCEOW509hyRT79sUHKgwe-YdDv5BTO1ijOGsscnLWyO6dLzY00XW3iJsTk4YYSy26NaJnLVzGWOHd0FqdetsReInEoV1jFUyMMPDVEQgWbnq5vlf7JT50fA2Ng_YaPlxSDM9O9EjG6Cv7c1B5xQZ62-KpDtEzsVdX6X2miqb04nsf0vDD4b7zt_YDNwBlEeP2nQ_V3fDaXlMDDBLn4TdjHInY_u2_fzZUetCFwhVc9QgZpG--atL1Vu8GJZnCYOZtgRQ8QWO4gHiifcoD6YQn2uT-_xL-ENjeNx48ONm5A.jpg" /></p>
-<b>Ни секундой больше! Гайд: как ИИ сокращает время работы с договорами</b><br/><br/>Заполнение карточек, поиск правок и анализ документов — необходимые, но трудоемкие задачи. Сегодня значительную часть такой работы можно ускорить.<br/><br/>В гайде разобрали практические сценарии работы с ИИ и показали, как современные инструменты помогают:<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> распознавать договоры и заполнять карточки;<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> делать краткую аннотацию документов;<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> проверять договоры на соответствие требованиям компании;<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> сравнивать версии, даже если они в разных форматах;<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> искать ответы в длинных регламентах.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29D97.png')"><b>❗</b></i> ИИ не заменит юриста, но поможет быстрее находить риски и выполнять рутинные операции.<br/><br/><a href="https://tglink.io/0f71cac65d10f4?erid=2W5zFGzQYcq" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b>Забирайте гайд по ссылке.</b></a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5449</guid>
-      <pubDate>Fri, 28 Aug 2026 05:38:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Пока в Москве</title>
-      <link>https://telegram.me/ep_uc/5448</link>
-      <description>Пока в Москве 
-проводится эксперимент
- по использованию 
-электронной графической подписи
- для подписания информированного добровольного согласия на медицинское вмешательство или отказа от него, 
-Правительством внесён в Госдуму законопроект
-, которым предлагается добавить к КЭП и ПЭП ЕСИА еще один способ такого согласия через НЭП Госключа, при этом запланирован постепенный отказ от использования ПЭП ЕСИА до 1 января 2028 года.
-
-В пояснительной записке:
-
-В настоящее время УНЭП ИЭП с реализованной технологией "Госключ" доступна в мобильном приложении "Госуслуги" и установлена уже более чем на 100 млн. устройств.
-
-пропущено важное слово - доступна 
-к получению
-, установлено же, а точнее интегрировано в приложение Госуслуг СКЗИ TrustCryptoBase версия 2. 
-
-Интеграция произошла 
-год назад
- и данный материал законопроекта можно считать первым, когда об этом сообщается на государственном ресурсе. 
-Год назад
- на PKI-Форуме это было заявлено, как новость, хотя об интеграции уже было известно. Ни в одной официальной новости Минцифры об интеграции почему-то не сообщалось.
-
-УНЭП ИЭП в отличие от простой электронной подписи (далее - ПЭП ЕСИА) создается с использованием сертифицированных ФСБ России средств электронной подписи
-
-Особенности 
-сертификации
- в пояснительной записке законопроекта Минздрава конечно же не раскрываются.
-
-✍️
-"Об ЭП и УЦ"</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/ucQvxgUhlarpdRt-1l_VxHBkH3mqm_GugbmftA737YY2vbz-C2j0PVgTcC6JtXwE2JE6nmlZT0l5rZdRTZJyZdu4OCouk5CxyeRvhrse7uF9myDV_qmQmzPgFYHLjmT_AjRGF8ZbN-gOU8RRfJEzzgWtl3brafD1U1Ps9-yzk7B5fOsr8jbYVv8UUIR7F89QcYQFc4R3r_3PvuYMACSjNJL3e1I-kU6zoAxUaFLBtiICo4ILUy7ekc7IjAgePF1kjxum7Oc9PVoGNh5inlOpaoKKH2jURYBT6bUVjJqQroLq9iIQH_z_qmvuoKeZvKZKGKYCOJ_a8vgy3obs-WBB2w.jpg" /></p>
-Пока в Москве <a href="https://telegram.me/ep_uc/4221" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">проводится эксперимент</a> по использованию <b>электронной графической подписи</b> для подписания информированного добровольного согласия на медицинское вмешательство или отказа от него, <a href="https://sozd.duma.gov.ru/bill/1327132-8" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Правительством внесён в Госдуму законопроект</a>, которым предлагается добавить к КЭП и ПЭП ЕСИА еще один способ такого согласия через НЭП Госключа, при этом запланирован постепенный отказ от использования ПЭП ЕСИА до 1 января 2028 года.<br/><br/>В пояснительной записке:<br/><blockquote>В настоящее время УНЭП ИЭП с реализованной технологией "Госключ" доступна в мобильном приложении "Госуслуги" и установлена уже более чем на 100 млн. устройств.<br/><br/></blockquote>пропущено важное слово - доступна <b>к получению</b>, установлено же, а точнее интегрировано в приложение Госуслуг СКЗИ TrustCryptoBase версия 2. <br/><br/>Интеграция произошла <a href="https://telegram.me/ep_uc/3847?single" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">год назад</a> и данный материал законопроекта можно считать первым, когда об этом сообщается на государственном ресурсе. <a href="https://telegram.me/ep_uc/4005" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Год назад</a> на PKI-Форуме это было заявлено, как новость, хотя об интеграции уже было известно. Ни в одной официальной новости Минцифры об интеграции почему-то не сообщалось.<br/><br/><blockquote>УНЭП ИЭП в отличие от простой электронной подписи (далее - ПЭП ЕСИА) создается с использованием сертифицированных ФСБ России средств электронной подписи<br/></blockquote><br/>Особенности <a href="https://telegram.me/ep_uc/5423" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">сертификации</a> в пояснительной записке законопроекта Минздрава конечно же не раскрываются.<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5448</guid>
-      <pubDate>Fri, 28 Aug 2026 05:23:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Российские УЦ: появилась полноценная альтернатива Microsoft CA</title>
-      <link>https://telegram.me/ep_uc/5445</link>
-      <description>Российские УЦ: появилась полноценная альтернатива Microsoft CA
-
-Российский рынок корпоративных центров сертификации ещё молодой, но уже предлагает несколько решений для построения PKI-инфраструктуры.
-
-В 
-сравнении
- Anti-Malware рассмотрены:
-
-• Aladdin Enterprise CA;
-
-• Avanpost CA;
-
-• Clearway CA;
-
-• SafeTech CA;
-
-• Microsoft CA как базовый ориентир.
-
-Отечественные УЦ уже закрывают основные задачи: выпуск, продление, отзыв и проверку сертификатов пользователей, устройств и сетевого оборудования. Уже есть записи в РОПО, сертификация ФСТЭК и референсные внедрения.
-
-Универсального победителя нет: выбор продукта зависит от требований к масштабу, комплаенсу, ОС, поддержке ГОСТа и политики лицензирования.</description>
-      <content:encoded><![CDATA[<b>Российские УЦ: появилась полноценная альтернатива Microsoft CA</b><br/><br/>Российский рынок корпоративных центров сертификации ещё молодой, но уже предлагает несколько решений для построения PKI-инфраструктуры.<br/><br/>В <a href="https://www.anti-malware.ru/compare/Certificate-Authority-2026" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">сравнении</a> Anti-Malware рассмотрены:<br/>• Aladdin Enterprise CA;<br/>• Avanpost CA;<br/>• Clearway CA;<br/>• SafeTech CA;<br/>• Microsoft CA как базовый ориентир.<br/><br/>Отечественные УЦ уже закрывают основные задачи: выпуск, продление, отзыв и проверку сертификатов пользователей, устройств и сетевого оборудования. Уже есть записи в РОПО, сертификация ФСТЭК и референсные внедрения.<br/><br/>Универсального победителя нет: выбор продукта зависит от требований к масштабу, комплаенсу, ОС, поддержке ГОСТа и политики лицензирования.]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5445</guid>
-      <pubDate>Thu, 27 Aug 2026 09:33:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Пост — Об ЭП и УЦ</title>
-      <link>https://telegram.me/ep_uc/5444</link>
-      <description>Пост — Об ЭП и УЦ</description>
-      <content:encoded><![CDATA[(нет текста)]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5444</guid>
-      <pubDate>Thu, 27 Aug 2026 05:15:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>❌</title>
-      <link>https://telegram.me/ep_uc/5443</link>
-      <description>❌
-Новые отзывы сертификатов безопасности 
-
-УЦ HARICA 26 августа отозваны сертификаты у доменов Газпрома и банков Реалист, Объединенный капитал и Юнистрим. 
-
-Текущий статус по доменам:
-
-*.
-realistbank.ru
- - перешли на 
-SSL.com
-
-*.
-gazprom.ru
- - до сих пор на HARICA 
-
-*.
-okbank.ru
- - перешли на НУЦ
-
-*.
-unistream.ru
- - LiteSSL (TrustAsia)
-
-Да, "Национальное достояние" ещё не использует сертификаты 
-Национального УЦ.
-
-✍️
-"Об ЭП и УЦ"</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/COhaUUP3Ismbs1d775LtDfpchb18YHS7hQg9_aGwUD0jFOWJ3zrVEtRMicIHMTxojm2cXkSGzLgELlW0nrTpwkt-XYgahnn57A3dAn5jEnEHw9WwsMkIrwZhErvr8nUIxa2YEMVC_xZ145tqNrCWPrzao4VINM7uX7Fql59tFZK_tPeLwJdeBm7f_C-6sT9sjKEYT7zcvBWHId7CwvEi_pPA9IATqh0x81GNhzo6habORByBQwqtf86ryAdh4a3As2V_PGvDpWaCPNObFzCM0GHI_qKnrDJ97uvssnt2qS4hK7-3Teb16eDqRVbsbXL5AjEu0yqHxFMOAgzvXT5clw.jpg" /></p>
-<tg-emoji emoji-id="5465665476971471368"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29D8C.png')"><b>❌</b></i></tg-emoji><b>Новые отзывы сертификатов безопасности <br/></b><br/>УЦ HARICA 26 августа отозваны сертификаты у доменов Газпрома и банков Реалист, Объединенный капитал и Юнистрим. <br/><br/><b>Текущий статус по доменам:</b><br/>*.<a href="http://realistbank.ru/" rel="noopener" target="_blank">realistbank.ru</a> - перешли на <a href="http://SSL.com/" rel="noopener" target="_blank">SSL.com</a><br/>*.<a href="http://gazprom.ru/" rel="noopener" target="_blank">gazprom.ru</a> - до сих пор на HARICA <br/>*.<a href="http://okbank.ru/" rel="noopener" target="_blank">okbank.ru</a> - перешли на НУЦ<br/>*.<a href="http://unistream.ru/" rel="noopener" target="_blank">unistream.ru</a> - LiteSSL (TrustAsia)<br/><br/>Да, "Национальное достояние" ещё не использует сертификаты <a href="https://telegram.me/ep_uc/5396" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Национального УЦ.</a><br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5443</guid>
-      <pubDate>Thu, 27 Aug 2026 04:33:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Я сохраню секрет, чего мне это стоило. Это было жарко, но чек вышел. Кое-как оплатил, даже расска…</title>
-      <link>https://telegram.me/ep_uc/5440</link>
-      <description>Я сохраню секрет, чего мне это стоило. Это было жарко, но чек вышел. Кое-как оплатил, даже рассказывать не буду.</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/HLM8bA1-Rfcy10V0Te5s2zbOpyQVBynIlb3_3bG5fH3i6gsdFwznwh3P9r1CaM7zl7QWkVEWv0OIwV_1cjVm6AN7fWdGUpkOycZPDCXWbY1gWjn5bo1o3FmATjUF95rMk9xenQDWgT6cySm8Dkv6r_EpxPF-YnKNsn87mwVC03xHbs_wrU1f8-KnhdMNe28CuuA9nRtXp2aI_ul5NCpHhKDXrqY6PihVdC9OgsENR-f7dd4grDXuVxlNJqjC8siKvNjdUfvorj_47JJxYvG48kODFzHIjPmbJUEIeRZcMNozDnl8nd1H1STGRCdQyBBv4c-VQ_VNoPDfSB3kfvUhsA.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/BvL-yksmiPRB1ydBZe488jSXJMqKgJk9zCMlkahRxwsUNa2ckRjMdHAPzjMJEL0FZunVqGYmfwCtpDn02ruxYrJjnvtc5lJjsN53MCS_szXO0uSy5AqjdFQ3cAn-5s6VbPYjLNuCzHu0lEFcrPbGs6KKudQmPZOZ5Fxu1g4gKNI-Pv7FvZViK28MEBaVY15q-5_XLEQqJ3wFpkF6XpTdSZ33XeJ1cwVvpE5GBpFQfGappIEl7YtfzXnwn28H2c_emHtxESMhQ1U7li3IAaMzPWs0suzQA1f0LbleQH42QSQ5tzQCmr6BEaudec5sRiseoilfgZ0N3eDOR-VbXEF0jA.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/STRdR3IXEWh0__MH1isWuAAa6GxvFYdya3jy-kw-h9lbxiWSGLllaveSOu4DakMFyJjEEZgCS2fb2Fz9VJC0jWwrOHf05kaadm6LZSVyw2iVyLQEnZd5FV6DxDe6bWR8xagawQS58CDx4ZoeeySQNw0EZd267n4jFkXUKozvuUhCa_7BA-d4b31VPVShkfOP4qSjevoRqHAD94lkURDS4Z-VO7qTQZZOs2qubntaAyXh1AQ269jiWkHXtnXpUq4NEVOBVkqqhNxsAXa3szTyn1qghsZ8E2FJIayqXquwGItx7EKZaAihj47f96vuI2-JEnpfQ12ifcIhcO2-eqvCKg.jpg" /></p>
-<div class="tgme_widget_message_text js-message_text" dir="auto">Я сохраню секрет, чего мне это стоило. Это было жарко, но чек вышел. Кое-как оплатил, даже рассказывать не буду.</div>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5440</guid>
-      <pubDate>Wed, 26 Aug 2026 17:50:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>🪙</title>
-      <link>https://telegram.me/ep_uc/5435</link>
-      <description>🪙
-Цифровой рубль - новый этап внедрения массовой отечественной криптографии  Через неделю мобильные приложения самых крупных банков должны получить апгрейд, по итогу которого каждый телефон получит своё СКЗИ (год назад таким образом в приложение Госуслуг был…</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/B24tpLS7y874uUwP53M49eviuiSfq-EHjbc8lY_50K7LcSNQkQuE4VCS2O5sMw4jHYYWPWEGV7IXw2Nb116ZzoeS-WYpHCu_gQK3LT4Xm5DaQuVFmoGaV6lx-yHwstH4xZXhoML4Im-arHFvJoRHKD28Ivdh69X6Ho0ZEBOitPMjfRBjgCZ37vCZsPnA4hNkfE7NWzhhNWUphsKIVyGuZ13pZomgs6BC1hlhVb3qQ81v8KmGkWGILqjYDNxC_-uvGiB8yvACxrHoeekaQHGKXjD9ARB7JjroL6KX6JpFvS3sS7x9x--4bW8qAqVek0wu41W1q1wwg2sqUHZgqc3hAw.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/CXShUGgXjyZ8UF1atOYRCvW4kPz4LQKnOr0wAF825LR7TvPQS1d_lxiaD4v4RvQSN0e86NLGNsejA8GR-SFRSv7Zp4OjS8bdL131pSoAmhzP_zwiuk4tl3ZundgI1EdovfMYg7vfJ893gUwa0KIM-prVjrHO1364F1GKJcaEDfMOEqRIHpJ3I9LT-OyyF4DLXWBlhAIcmndRx44cxErMJYl91TOTTmHiStO47AKs_kSR3ejvm016NpX456YO3_DJLCHgPEGeVE3yDueknsZUOeD-baz3XbeI1n3KgdcRhfxsz1trEh4043VDRKeXsT_2PboeYdF59y9pAc_ur2Zpeg.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/r2McRcHtBiBK98zrFCAMGn5sKugWcJQ7Q-kDg9eqNCgdsAMytDT84f1inKs0uejpurtzgg5LmrAzVBhDOB6gemtqYVM9lAxU_9zAKOMK8RB3LFW7aheX9_3aVxYkyg48pdgNyVDu5LnHSFgXR7h-SOxvjD9tnIMkz37h7steiIJtFW0MHa8nCLSk46-kWDfpClYz0K5VcP2zt_h8y46Hizz1KS69yqzOoSlgdkNgymoFe105IenEk1CwHepCYMloFJ_jSOKewfnM3RRoPhzSKGQecvTtZgDCleIJvy7LttqHeRFGC4iEmvRH77Gnqqix7GMDAfWScWeLkIQI1EbQJA.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/UH9VUCxm_ceg5VfZbBv_zA7V4ksJ9wOPxFmO0CUahA2FuHQfSjZarEj25pUssMvE-PFZaCoQD2asu17MyewdgAyhwXRr1G8ZA7yLGHb1eKFb6wHs2ejSaBBG5WyXRivb8v0pFhCoT6461FZnt5BrZ0W6Ul83teADNBQtEtCxjXgN9fLK-ZD69L-S-mQJUa4BN6VPnXJEnbHvnG2YV1pYtvwoqzEyPdFXAUzvLwarP3D1okgN8LSvt8RFtZG5yzc6_zJJVCx84nD6FqLM2f7E42gMc3y84WiU6CjkSNTlReZ-3uhxGzXMGR0Dtgw0k-vuaAfkjE7BZCN3BU3WnnTLDg.jpg" /></p>
-<tg-emoji emoji-id="5330296508757591686"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FAA99.png')"><b>🪙</b></i></tg-emoji>Цифровой рубль - новый этап внедрения массовой отечественной криптографии  Через неделю мобильные приложения самых крупных банков должны получить апгрейд, по итогу которого каждый телефон получит своё СКЗИ (год назад таким образом в приложение Госуслуг был…]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5435</guid>
-      <pubDate>Wed, 26 Aug 2026 11:11:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>🪙</title>
-      <link>https://telegram.me/ep_uc/5425</link>
-      <description>🪙
-Цифровой рубль - новый этап внедрения массовой отечественной криптографии  Через неделю мобильные приложения самых крупных банков должны получить апгрейд, по итогу которого каждый телефон получит своё СКЗИ (год назад таким образом в приложение Госуслуг был…</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/HCkZjtGsw_PadX8qubDdzop5RBF2b2QUIzqZHuGTuEPKDvBqf63_1WSb7KC8SFS-X0QMPEoYZ6ASWf6IYgCTT5sdydg-bHN8Z_CgGIrrrXjBe-ux7J1Cbvbr7QGCVekSjPEtyZTcOV-vM6fdJPJ6Z2tHy80NVDPL2HEG7Z24YD3H00kSQxtYi88mcpaq-MYZBe8T6pbGEnmqnplJ6zbIfCn48pa4nlfl4wcp9CfoqsHJMFLqAOr1_f0W-1TOZ0aeqnJTKoWu6QjkrOYishA6gpBQGVhHINUc64yxg7NLpmZPmZ9R472kMRSw-yaXvJvbVpCEaWQYlv8sMI_ryyRLnw.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/qemvpAvlCopIGdBx2jl4C4KyJ4QNsEG2lxIMfAPX-rbWu6Nmtt-kyfsExuKR5LYrRgnQuuFA3fDPttDJ-KuHy8dNQvSI1SBTyXYkOxjmUHyt8x_GIPPz7mwfnI0FghW93IwmZcF2aoG9BfT6ardsnxeJ3A9CrxzyNdbIU2Vh57p6k5blMZlPPcxreuFDqJCDm1roj80aUhbREAx0JdzmuRB-1jvdGTUAnnpOEaL3_DnafP394C7RcfmbFWRJfBuo5E_xxR4HAupNUdcH5GGEBcQhQANlBj0DDw4KNPCa8wG2O2_-T1apJz3JMssqXn-9YUeiRyTVgSx2MYJyv8W3kw.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/G2oWcoH7KV6Pr76lHvUImuwucTSbsXnzacpBpPk3d4GUEFEFlEIEn3QG1xKlGaJAJyhl01poY_LbaZd5gdy4VO7dC-FgoOKqrz81QIbxwHhyY7TZg0ygCfWoGdUJz2zktroeXeclQ_ZEGva9MR8e-2Enl5ZysCAEtnK1f_3-MKqlxl8JNdPPaums13neJ7fMl63hB0wveDj9qzXzYtB9AO0MwIx3Qo1RUtdlCXQLH-NWTkyJHN4cRv5mTWDD59b5kTy8fazd4XydeVvHkqpsyHu_sUAuQnq26upsIyTy6OqpKBEiALB_Z1k4vSdG32gbxNFF04M4bb2GYDTSpv65KQ.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/H9iyqPdhTFWNOEDRoaMNdNGzA9aI8ee0ubbInL4jTMGRm6Du-9kiRWhGb6MeUTdKh_jykXrTzIIhqcbtLdV6_WHt9SydYezTuBuyuhLr2WMZ2IDP7cX5ERkuoZte8-ZYEs-MSZgpI8Bi03c6GAWvWj8fCIGna9V-F00NEtUzlGUh8ivApfUqjuqiLVgKC04q1AACtykPYrFKrblzcJ8V_HzgTrOxcG-bVhXAWz3fms4uKuKrVMhmU4s5XFkBeXWn0q2kx-iznAS5fbKR6IKj89A4_JMjHr5qloCBhFBeDfp5jTDsqieF_w96PqJDCqKEbGea5q4vXRqHLL04wm5Lrw.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/lSqUPwYNaHi25QSN6cJiGlYKlOTPzx6EJ7miyf_r_SBUQDS7noC2fbEM1322SJuYolznDOEC6njfWsyKNzuHxDhGbYk_pOBfRMNI4nENrW2KiJvO2G4cfOhmUpi58LSMskuoxo6Jhjwg8OWNhkc73khFn-vx3vU84iyL5mt2bY-PJuNsOIJcoUrKuaOOlyFY32K-PZAe2VMlFYxxqEEgbAImE1W96XRdHanS1SlnR927E0zlJsJcFYJp0KWSj78eMhI_Fh6-dVY6IX8muz-hreIp5Td9vqYhzYczNOhxedJdE_D_9WX0QK3sqKMJFVtRLznsLwRhU9yOxHLgzhIPmQ.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/FojIWgPRjGkrqMbplg9Ui1zIzkKgUtFXKoa8Uh0FK9u2sC-lNVZuWdtO_fMkp27zVOKsd9kummoOWYKjW2qEPHVFxVWHVc4YG96tHWohn14w38gWFrmtgag8BpLhuQOsAPgFeB_mvgrFwsJE9zjydYjJvqgIIj-uriCKb2bBmgCtNM3odkSmMV_tXoj0OWixWmnKu98RpzAzEL-Ue8vkMeaiQ5vEAy6nSp_LK6N0oS_eO8Kpi3CM1m8TZSVQW4qZOY0mf_FrxqYga4eojPVQZ03N7yJ6fFCN3ZaxNl-EL_L3au1BSSGh-3Cpmervy2IyQywYG7PKwdQdxL4n09YV2A.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/otZ_1s1CIp8wwVH_a2_N9dC3pcZqh9BTREDGFkSmDEO4NRnYI4bqrk4gzxS759g01gvtKY8ZMdFPECmLadhLGS81jls4POKGxjpuIIaYeI1tOuzDi-hkTBn2xO5NDbjmtJDlO9sl3hLbFtnC8ZvMBcu0XL4w-U5mb7z-2s3NaMvysOgeXFqShoUWYVVM09nw8oaNgm_rvYvIfkjm1_zJe1Uxky3yoHYAdpPgWxt54uFjCD2x0n4w0XdZdvwKRH4s3m6jeykDT82WwyNXL4hvEiFkuS9sewU9UAJNhHmqUckJgKnL-GtE0L40uzDZOt-JhV4XsNvj0zqyyYnMmgVQXA.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/HdennGwMdofOIjtegfNoC1-K4kvgr7eukw49POo7sEux6igO1u10fnXvFOykWItFX-Yh0UtUtxigu3K9gODHEKggCBmTMKxCo9hjYbPYJQ85Av99t8AzUn0Q-YrYBgRe6HAOzF5IrsAcWHJWxdY-YEKOYH1Nhf58ECP-KrqQ6nLLrM7fOlKaDJ7Y27mNrMMqeAiUZGiIocuXeYTq7vDJqAU0xEGz4wF84fi-hWlm0zKuCunRCnzYgk2JIcQPkIJahj2AWNWxN4hfe5xLmIBcrCg4n7uBX8wYUH_WtCzm540ib2bZazXVByXn2wLnR2sFF7udyc5mYP6UTFEUtQl3DA.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/I4muh-kYltBoOOo6cqUuvDurSQ1ObjjIvyKeW4H16NyEAwGxRQ3CGFadLjHzoegtfuhMZYobSpR-3n2Lf_SMtsPVFawFpFYBIfp4fd48YD4hfxqig7LdgX699bXhS0gk_Xi4qOweZa5qBXW-wTol9svkEhrbm3ky1sHVj2XzSJCAzeAi4LgeWuUv89-cq9mu23-4wqsmpL3Vn2WtIHRP0Z12PFGPLOjIc57ACQaCibYHVFnE3QDlliunFHkpWQDBJsX_6kTbCvCl_KsYdq5YlZQLneO7Rl8ZrRL6c8K0AbwxgVLAgLQIP7bCAmaX88il6e4x_nnGFM3jRTWzUBVi-Q.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/Y9sjmpQltebrQ912QC8eU84LQnUkXP4q4xaji7Y3VKwu_jneWm90lXh7utFX5y4PjmnF_bAX2cWdKENuUNJ7VPpUp8imkEw4y6DFjdrXIO15uQL2K_Ugypheyd1uYXp_UJGEWL3zKf3ZJS-gEMkOk6s0EU4bRitToIz9Ddii2M9EaHABVXJrUt0CPXJlO01DXmkusBUxZQwilKsw_B5B_76WmF6G_x7XszMS7LH7J1ZzASbThqXS5Q2tVlBDdHoFbU4S-D-X3Pjmyr19mRRKkvHxsP5SCmpceWHoWSxA4zD6Cb1PP8gvJjiHNPCcIwT2-__6R05jq54sbv9A3PmPjA.jpg" /></p>
-<tg-emoji emoji-id="5330296508757591686"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FAA99.png')"><b>🪙</b></i></tg-emoji>Цифровой рубль - новый этап внедрения массовой отечественной криптографии  Через неделю мобильные приложения самых крупных банков должны получить апгрейд, по итогу которого каждый телефон получит своё СКЗИ (год назад таким образом в приложение Госуслуг был…]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5425</guid>
-      <pubDate>Wed, 26 Aug 2026 11:11:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>✍️</title>
-      <link>https://telegram.me/ep_uc/5424</link>
-      <description>✍️
-CA/Browser Forum: корректировка причин отзыва сертификатов
-
-Mozilla предлагает
- пересмотреть существующие 
-причины отзывов
- сертификатов. Причина понятна, УЦ по-разному трактуют, браузеры по-разному интерпретирует одни и те же коды причин отзывов.
-
-Статистика
- 
-показывает
- большой разброс: одни УЦ массово используют код "unspecified", другие "superseded", третьи "cessationOfOperation", что и говорит о разной трактовке одного и того же стандарта.
-
-Ключевое предложение - код должен показывать причину отзыва, а не административное действие.
- Если ключ был скомпрометирован - код должен быть keyCompromise, даже если сертификат в итоге был заменен. 
-
-Представитель TWCA сообщил, что Chrome, публично заявил - отзывы сертификатов добавляются в CRLSet на основе указанного кода причины (keyCompromise или privilegeWithdrawn). Однако, согласно официальной документации, в 
-CRLSet
- сейчас попадают только keyCompromise, но не privilegeWithdrawn. 
-
-В любом случае это означает, что неправильный выбор УЦ кода отщыва влияет на пользователей, т.к. браузер может продолжать принимать скомпрометированный сертификат, если УЦ поставил не тот код. Firefox через механизм CRLite также пытается разделять причины отзывов, но когда семантика кодов размыта - эффективность таких механизмов падает.
-
-Предлагается поэтапный план:
-
-Этап 1
- - пересмотр раздела 
-4.9.1.1
- (обстоятельства, требующие отзыва):
-
-🔹
-установить иерархию, чтобы конкретная причина имеет приоритет над общей
-
-🔹
-убрать дублирования и пересекающиеся формулировки 
-🔹
-чётко разграничить: ключевая безопасность, валидация, авторизация, техническое соответствие
-
-🔹
-ввести дерево решений для аудиторов и операторов УЦ
-
-🔹
-пересмотреть, вписываются ли 24-часовые и 5-дневные сроки в новую семантику
-
-🔹
-определить, как быть с требованиями CP/CPS, которые строже BR - считать ли их нарушением BR или выделять отдельно.
-
-Этап 2
- - пересмотр 
-раздела 7.2.2
- 
-
-/RFC 5280
- (сопоставление с кодами CRL):
-
-🔹
-сделать использование кодов единообразным для всех УЦ
-
-🔹
-пересмотреть устаревшие коды (holdInstruction, removeFromCRL)
-
-🔹
-чётко определить, когда использовать superseded (только для плановой замены, а не для компрометации)
-
-🔹
-обсудить возможность изменения RFC 5280 (это более масштабная задача ведь текущие определения не работают)
-
-Как обычно, вопросов много:
-
-1. Как быть с выбором кода неопытным оператором, если он выбирает "на глаз"?
-
-2. Должен ли УЦ проверять обстоятельства или достаточно заявления пользователя?
-
-3. Как УЦ должен проверять причины, заявленные пользователем? Как независимо подтвердить прекращение деятельности? 
-
-4. Должен ли УЦ изменить код, если его анализ показывает другую причину?
-
-5. Не пора ли менять 
-RFC 5280
-, если существующие коды не соответствуют современным реалиям?
-
-✍️
-"Об ЭП и УЦ"</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/cMtp4OwmOJOkmyE669M11G6bmf-PqQcMtHlQYBRMCkw9YMJbEfuvjB1OILvbaxRPLuI2mSA6dmm1XWr33DlodO_xBxXxaxaDOZZfoB1nOkdDbs4gL99TtGOx22fS3cgKQy4TD7tG2HTRTx5ULZ4viR1HLxaCPmbxNObDfhWFd7jCFHv_7ygvf0MWPr5Dz8NynHNzGNmBlvxXxBQYbvOx-oSylE8cME7Ced_oAw9fBSCTZDe9uOX-HUF4FtgcCQSwG8nVn-4smKAjeOEBaYZhAG4VeCo7l8PevWefq-YTnGUwbbhouypyCHE4rnZONI45cXxSJLGVlCGNmizgcYlvwg.jpg" /></p>
-<tg-emoji emoji-id="5470060791883374114"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><b>CA/Browser Forum: корректировка причин отзыва сертификатов</b><br/><br/><a href="https://groups.google.com/a/groups.cabforum.org/g/servercert-wg/c/WGr2ieTR92U" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Mozilla предлагает</a> пересмотреть существующие <a href="https://dss.cryptopro.ru/docs3284/articles/rest/signserver/structs/revreason.html" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">причины отзывов</a> сертификатов. Причина понятна, УЦ по-разному трактуют, браузеры по-разному интерпретирует одни и те же коды причин отзывов.<br/><br/><a href="https://telegram.me/c/1691316533/226632" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Статистика</a> <a href="https://finiterealities.net/revocation-stats/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">показывает</a> большой разброс: одни УЦ массово используют код "unspecified", другие "superseded", третьи "cessationOfOperation", что и говорит о разной трактовке одного и того же стандарта.<br/><br/><b>Ключевое предложение - код должен показывать причину отзыва, а не административное действие.</b> Если ключ был скомпрометирован - код должен быть keyCompromise, даже если сертификат в итоге был заменен. <br/><br/>Представитель TWCA сообщил, что Chrome, публично заявил - отзывы сертификатов добавляются в CRLSet на основе указанного кода причины (keyCompromise или privilegeWithdrawn). Однако, согласно официальной документации, в <a href="https://chromium.googlesource.com/playground/chromium-org-site/+/55bf8b3e62e8109baf1e778bd9c8d811b6109070/Home/chromium-security/crlsets.md#1" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">CRLSet</a> сейчас попадают только keyCompromise, но не privilegeWithdrawn. <br/><br/>В любом случае это означает, что неправильный выбор УЦ кода отщыва влияет на пользователей, т.к. браузер может продолжать принимать скомпрометированный сертификат, если УЦ поставил не тот код. Firefox через механизм CRLite также пытается разделять причины отзывов, но когда семантика кодов размыта - эффективность таких механизмов падает.<br/><br/><b>Предлагается поэтапный план:</b><br/><b>Этап 1</b> - пересмотр раздела <a href="http://4.9.1.1/" rel="noopener" target="_blank">4.9.1.1</a> (обстоятельства, требующие отзыва):<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>установить иерархию, чтобы конкретная причина имеет приоритет над общей<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>убрать дублирования и пересекающиеся формулировки <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>чётко разграничить: ключевая безопасность, валидация, авторизация, техническое соответствие<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>ввести дерево решений для аудиторов и операторов УЦ<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>пересмотреть, вписываются ли 24-часовые и 5-дневные сроки в новую семантику<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>определить, как быть с требованиями CP/CPS, которые строже BR - считать ли их нарушением BR или выделять отдельно.<br/><br/><b>Этап 2</b> - пересмотр <a href="https://cabforum.org/working-groups/server/baseline-requirements/requirements/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">раздела 7.2.2</a><a href="https://www.rfc-editor.org/info/rfc5280/#section-5.3.1" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"> <br/>/RFC 5280</a> (сопоставление с кодами CRL):<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>сделать использование кодов единообразным для всех УЦ<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>пересмотреть устаревшие коды (holdInstruction, removeFromCRL)<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>чётко определить, когда использовать superseded (только для плановой замены, а не для компрометации)<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>обсудить возможность изменения RFC 5280 (это более масштабная задача ведь текущие определения не работают)<br/><br/><b>Как обычно, вопросов много:</b><br/>1. Как быть с выбором кода неопытным оператором, если он выбирает "на глаз"?<br/>2. Должен ли УЦ проверять обстоятельства или достаточно заявления пользователя?<br/>3. Как УЦ должен проверять причины, заявленные пользователем? Как независимо подтвердить прекращение деятельности? <br/>4. Должен ли УЦ изменить код, если его анализ показывает другую причину?<br/>5. Не пора ли менять <a href="https://telegram.me/ep_uc/64" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">RFC 5280</a>, если существующие коды не соответствуют современным реалиям?<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5424</guid>
-      <pubDate>Wed, 26 Aug 2026 05:30:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Пост — Об ЭП и УЦ</title>
-      <link>https://telegram.me/ep_uc/5423</link>
-      <description>Пост — Об ЭП и УЦ</description>
-      <content:encoded><![CDATA[(нет текста)]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5423</guid>
-      <pubDate>Wed, 26 Aug 2026 04:35:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
