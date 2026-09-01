@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 31 Aug 2026 11:43:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 10:17:04 +0000</lastBuildDate>
+    <item>
+      <title>Пост — zakupki Video</title>
+      <link>https://telegram.me/zakupkivideo/4787</link>
+      <description>Пост — zakupki Video</description>
+      <content:encoded><![CDATA[(нет текста)]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/zakupkivideo/4787</guid>
+      <pubDate>Tue, 01 Sep 2026 09:33:59 +0000</pubDate>
+    </item>
     <item>
       <title>Тендерный отдел с нуля в 2026: цифры и факты. Полный разбор</title>
       <link>https://telegram.me/zakupkivideo/4786</link>
