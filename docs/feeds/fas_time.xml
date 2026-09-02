@@ -8,7 +8,48 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 01 Sep 2026 10:16:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 09:46:57 +0000</lastBuildDate>
+    <item>
+      <title>Пост — Новости ФАС России</title>
+      <link>https://telegram.me/fas_time/13027</link>
+      <description>Пост — Новости ФАС России</description>
+      <content:encoded><![CDATA[(нет текста)]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/fas_time/13027</guid>
+      <pubDate>Wed, 02 Sep 2026 09:41:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚖️</title>
+      <link>https://telegram.me/fas_time/13026</link>
+      <description>⚖️
+ 
+ФАС: застройщик может подтвердить свой опыт сметой и разрешением на ввод объекта в эксплуатацию
+
+Суды трех инстанций подтвердили позицию службы о том, что такому участнику закупок не требуется предоставлять договор подряда 
+
+Заказчик проводил открытый конкурс на проектирование и строительство школы*. В соответствии с установленным им порядком, по критерию «Квалификация участников закупки» к оценке принимались исключительно исполненные контракты (договоры) со всеми приложениями, акты приемки выполненных работ и разрешения на ввод объекта в эксплуатацию. 
+
+Одна из организаций, участвующих в конкурсе, представила в подтверждение несколько договоров. Но комиссия заказчика по закупкам приняла к оценке только три из представленных. Четыре договора на строительство многоквартирных жилых домов, по которым участник сам выступал застройщиком, не были приняты к оценке. 
+
+Компания обратилась с жалобой в ФАС России. Служба признала жалобу обоснованной и предписала заказчику устранить нарушение Закона о контрактной системе. 
+
+Суды трех инстанций согласились с позицией ФАС России о недопустимости формального подхода к перечню документов участников закупок, подтверждающих опыт, и их необоснованному исключению из конкурентной борьбы**. Участник, который построил объект капитального строительства в статусе застройщика, договором подряда может не располагать. 
+
+* В настоящее время школа находится на стадии строительства, запланированный срок окончания работ остается неизменным даже после рассмотрения ФАС России жалобы и судебных разбирательств. 
+
+** дело 
+№ А40-171255/2025</description>
+      <content:encoded><![CDATA[<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29A96.png')"><b>⚖️</b></i> <a href="https://fas.gov.ru/news/34819" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">ФАС: застройщик может подтвердить свой опыт сметой и разрешением на ввод объекта в эксплуатацию</a><br/><br/><i>Суды трех инстанций подтвердили позицию службы о том, что такому участнику закупок не требуется предоставлять договор подряда </i><br/><br/>Заказчик проводил открытый конкурс на проектирование и строительство школы*. В соответствии с установленным им порядком, по критерию «Квалификация участников закупки» к оценке принимались исключительно исполненные контракты (договоры) со всеми приложениями, акты приемки выполненных работ и разрешения на ввод объекта в эксплуатацию. <br/><br/>Одна из организаций, участвующих в конкурсе, представила в подтверждение несколько договоров. Но комиссия заказчика по закупкам приняла к оценке только три из представленных. Четыре договора на строительство многоквартирных жилых домов, по которым участник сам выступал застройщиком, не были приняты к оценке. <br/><br/>Компания обратилась с жалобой в ФАС России. Служба признала жалобу обоснованной и предписала заказчику устранить нарушение Закона о контрактной системе. <br/><br/>Суды трех инстанций согласились с позицией ФАС России о недопустимости формального подхода к перечню документов участников закупок, подтверждающих опыт, и их необоснованному исключению из конкурентной борьбы**. Участник, который построил объект капитального строительства в статусе застройщика, договором подряда может не располагать. <br/><br/><i>* В настоящее время школа находится на стадии строительства, запланированный срок окончания работ остается неизменным даже после рассмотрения ФАС России жалобы и судебных разбирательств. <br/><br/>** дело </i><a href="https://kad.arbitr.ru/Card/61819b45-4b07-4707-92f7-dbb200914171" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><i>№ А40-171255/2025</i></a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/fas_time/13026</guid>
+      <pubDate>Wed, 02 Sep 2026 07:37:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Пост — Новости ФАС России</title>
+      <link>https://telegram.me/fas_time/13025</link>
+      <description>Пост — Новости ФАС России</description>
+      <content:encoded><![CDATA[(нет текста)]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/fas_time/13025</guid>
+      <pubDate>Tue, 01 Sep 2026 11:01:59 +0000</pubDate>
+    </item>
     <item>
       <title>ФАС возбудила дело в отношении производителей оконных конструкций</title>
       <link>https://telegram.me/fas_time/13024</link>
@@ -121,10 +162,10 @@ fas.gov.ru/pages/abou...
 
 fas.gov.ru/pages/staj...
 .</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/Ij8F0EhrFApW_FqfGu7vVGyKmkkbVyItTLYmmukSfIZxzVoasgPEA3ikBD3vKB1akoiIBr7-wiRvMeoIFSAc5Hfs6hAt1qQRflBR-DVG1HWN45gsTRY-zREU5u8cT6pt8GOVftXylEjmiuF0AdSiOtg5FB75Rm1x82CbHDRWXrDZGq2IgJYZSGx872tnbRvdZSW4QxLyyXxnnyvPq2YwYAsanpN25dl4OslJDh2Eb2TKo8cm_QTKJuYlpIR_iBMY2gtysoKG6jnsu0vJf3VHprWzUR0M388akLvfv_F0uLvtaIh8EGDBpdtYkQjKWunIHw0eVFVC1naMEnLsfWGKVA.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/SF8bJv_F_AOVSVDbHsbJkdbr64Coi90zoiQVE2Iju4C9zAmv0y108YWXBBDa4qcDbiloI9P0pTBNszxDSZn9Iz04cnkmuax-riyjQ4RxK9hxSj7c4B_segsorFciG6EDRDz0gAIAFPn7NBf-_7i6OdcofZGEvVuPX6WbYhEAwoU6oM_GLAmI1nxtRBtYZXe4DQhlyoHVDJrjm8C5-JrwVIfXLOJSurLw8bD-UOw6fl5PtPeIyGUou-u6BhsPRmy_8Hey47u34LDVvZ9ZPQQ69Aa0cVDoAM6ofA5hHOE_cTw1ZlaUNShpvvmne8d_jG0DIMnNl_Gy8WUzSn3Iy4tiVQ.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/h2SZqPLADQQl3900O3gP7BP4sg1irfm2R_Enqg75PM3i51PL7LBseMUu1NkuYw0Av4SVepZpkJOvUGZMEiO5kpAFgK5Jt-EzLRdEmbNq5pweXM2G8Rn5p8hET3vlF5VCc_-b1-PnM6A1YlCvHr9eDgW978l1STVdliMMTvgKXwXLViMewTdiZdcWtW-Uibwxwc-YxYUFYx2nytv-bKojeJbR_52j_ySd0O2fOGtiJfg8vgpZV8Ggt3nMPaz8Zjcvp9uGE6-sKoxfD0zGqImqKdr1XXgHOVzEO1xeGmldDCpesQgWIoyt40GaKorChCgT5gvdher3djn-E6mjody--w.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/rGjnSU70o4Fj9fhg2dtjaD57lK0kQwoyH8iGYRdI0ML_EayA_EE-NO5yBgPnu2Tltlr5UIKKZRASZcluWamVZGk7G0cVbtVYzKZG0y7jfc06y9Y42TBc6mQEMZMIgutKLVN-sIlyMa2xXY9GrAbaX8wzUcyZl7amqMq7oEeIxqBoDZCFeKgsuvwr_gmwol3UFT6hDl1TACuAbkPKsygO8uv3QFMvX9r_Fp_KfRGvtodzaW4iBU_NDMsc1EgsG737_9GwuOeQTQ-fTayiCwDhaBlagh0jB5IbNuRjtxF3hcHd6R3Dw9PpxdbcrCqr27u2d9XZNtTNKjC0i2LXoDz0xg.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/bkXmz4W1uvzEj6oqxC89Qi63ItjYTRJJX_7JBn7rZitNE32Ea0NSr28fB_yXTJlIeMEsX3TSMea_w-C_waF2LSZQJOislF5yxId8_TnscpZTt8RJs8Ra_wvtlMPVxWSjDVzXEQ-XcWZqhqA43J4MYPiV7BeCh5a_6tuRa2-7vf2aGizMPpvz6Z_rm_TkNUlMJ0E9efUjfpRAHHn-Dd5XrPRZOuPNUSY6N6vhApisC8b6NEk1lAXBNbeonI9_7VsS7JKz0Ypy9OIch_8NpV4kpyh2urBJVs8NYy_Lv_wa8QOqDZ_69EZwfm8D_bJZj_uIibTHx3nIPHpTfnrcxGsaHA.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/p2THU4AIMODask3mXL0R6SUc8aXHCAocOgO4zy-WTlhTy_jjHU3NUfJg3Q_2NNxzXv6-zLH1HWR5Ax-ecdO6LIl2WgEu0q5cP51HUt1KLVT0mOG-wuwyP__Wi3anbfoAxYC1zb4UavkMzhxyToOV_LO1kNS0tkGCf2NdG5g2-tXt5kO7vIR3aeIOK3HXbbifOY9V0sMKvMYxLAS__qODL00DphCPlNezLuiFPymm2hZliRqpMHESerL7uutYrV2apOLUALr7UK_uc8ghpmmkmwTJzgTG-d_TfU44ntGwX8oYxKKNm62_y7TX3rs47zgShrqeas3JIv7Q0E2kzU9_-w.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/Sz0Pw9tY6q7s7z-qLS62kn-fCrh98EsWqqYt3APIMBHgB0Lo-9NZ-m7IxDzS-hrd4ZtHv31dYM8cHFMoNCvOeDVk39xbXpdIy99MvM8ACSPISMyArFFTBwHCK1UFBXiHdOno88IFPgiZD0qIqHmPzf2R7IFZ78GeyZ_LFxE2TOgvu_OKDGUkTiFnr22UenIt0xDFy_j-fkMCGWwyZFWKL88P2GZ8t_fV67QtXjWJz4gJ54ljF8z7z-iduxlYY7L2ziA5Oe1PJS3mwJNSRuI26PHkpF019Cw7iB12sh5qhbrXoHMX9jvWImq8_br-OZG4u4pT4ErgAQ_y9G-6pFNC5g.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/JeJJB74muHkRomRrc6nGXs4OpcyRLtfzNa798izpmDqrtu5nAZ3pHg-jZWymi0WPAHvpDaF4Ree_As5aKd72NzNzAZoO1lKl_nD6MbUO4cdtSKDYPNjcY2GtnD15o4-mHCCQQfnc7RXfokCkveimofB9bFeh94S24aoYsdqVp2nSkH6DSiBsGintRWmXz-winFTf8gsLT5SiZjPaD1zjl1vlCJLy8geAJG1t_VuXkgTjPQzfHDSEhrD_CQgh_WbXnI2sFPaZ4fecOh-Tryc_Nrm4r1939bom5oKt8DglWkEXLAWYqGbw4duN8-wtdyNbjfqcSCIyf0gFSecIIvhTNg.jpg" /></p>
 <div class="tgme_widget_message_text js-message_text" dir="auto"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8C90.png')"><b>🌐</b></i> <a href="https://vk.com/wall-54814053_80721" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Федеральная антимонопольная служба (ФАС России)</a><br/><br/>От практики до работы в ФАС <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA493.png')"><b>🤓</b></i>  <br/><br/>Для кого-то практика и стажировка в ФАС — это несколько недель опыта. А для кого-то — первый шаг к будущей профессии.<br/><br/>Ежегодно ФАС принимает больше 200 студентов. Они знакомятся с работой ведомства и решают реальные задачи.<br/><br/>ФАС сотрудничает со многими вузами России. <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C85.png')"><b>✅</b></i><br/>Финансовый университет.<br/>МГЮА им. О.Е. Кутафина.<br/>Всероссийский государственный университет юстиции (РПА Минюста России).<br/>РЭУ им. Г.В. Плеханова.<br/>МГУ имени М.В. Ломоносова.<br/>Высшая школа экономики.<br/>РАНХиГС.<br/>МАИ.<br/>МГИМО МИД России.<br/>ГУУ.<br/><br/>Многие сотрудники ведомства тоже начинали свой путь, будучи студентами. Нам стало интересно, в какой момент практики они осознали, что хотят работать в ФАС. Ответы читайте в карточках.<br/><br/>Напомним, что ФАС всегда готова принять талантливых молодых студентов.<br/>1. Как попасть на практику:<br/><a href="https://fas.gov.ru/pages/about/civil-service/prohozhdenie-praktiki-v-fas.html" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">fas.gov.ru/pages/abou...</a>.<br/>2. Как попасть на стажировку:<br/><a href="https://fas.gov.ru/pages/stajirovka-v-fas" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">fas.gov.ru/pages/staj...</a>.</div>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/fas_time/13018</guid>
       <pubDate>Tue, 01 Sep 2026 07:16:53 +0000</pubDate>
@@ -179,22 +220,6 @@ fas.gov.ru/pages/staj...
       <content:encoded><![CDATA[<a href="https://fas.gov.ru/news/34815" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">ФАС исключила 3,3 млрд рублей необоснованных средств из тарифов в сфере транспорта с начала 2026 года</a><br/><b>Новости ФАС RSS</b><br/><br/><i>Расходы исключены при рассмотрении тарифных предложений на регулируемые услуги в аэропортах и портах Российской Федерации</i><br/><br/>В сфере воздушного транспорта ФАС России с начала года приняла 15 тарифных решений в аэропортах Архангельска, Краснодара, Махачкалы, Новосибирска, Новокузнецка, Нижневартовска, Омска, Санкт-Петербурга и Симферополя. При установлении тарифов из необходимой валовой выручки аэропортов было исключено 1,92 млрд рублей экономически необоснованных расходов.<br/><br/>Также утверждены тарифы для ФКП «Аэропорты Севера», объединяющего более 30 удаленных аэродромов. Это позволит обеспечить функционирование аэродромов и транспортное обеспечение в условиях Крайнего Севера.<br/><br/>Помимо этого, утверждены долгосрочные тарифы для операторов аэропортов Мурманска, Благовещенска, Барнаула и Петропавловска-Камчатского. Долгосрочные тарифы установлены в связи с реализацией инвестиционных проектов по строительству новых аэровокзалов. Это позволит авиакомпаниям расширить маршрутную сеть и улучшить качество обслуживания пассажиров.<br/><br/>В сфере водного транспорта утверждена 381 ставка корабельных сборов в российских морских портах, 42 ставки портовых сборов, 7 тарифов на услуги единого морского оператора северного завоза.<br/><br/>По результатам принятых решений из тарифов исключено 1,4 млрд рублей необоснованных расходов.]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/fas_time/13015</guid>
       <pubDate>Mon, 31 Aug 2026 10:07:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Пост — Новости ФАС России</title>
-      <link>https://telegram.me/fas_time/13014</link>
-      <description>Пост — Новости ФАС России</description>
-      <content:encoded><![CDATA[(нет текста)]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/fas_time/13014</guid>
-      <pubDate>Mon, 31 Aug 2026 09:34:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Пост — Новости ФАС России</title>
-      <link>https://telegram.me/fas_time/13013</link>
-      <description>Пост — Новости ФАС России</description>
-      <content:encoded><![CDATA[(нет текста)]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/fas_time/13013</guid>
-      <pubDate>Sun, 30 Aug 2026 09:00:37 +0000</pubDate>
     </item>
   </channel>
 </rss>

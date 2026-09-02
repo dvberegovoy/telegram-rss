@@ -8,7 +8,64 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 01 Sep 2026 10:16:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 09:46:37 +0000</lastBuildDate>
+    <item>
+      <title>🟦</title>
+      <link>https://telegram.me/gis_eiszakupki/3207</link>
+      <description>🟦
+ 
+Информация о доработках ГИС ЕИС ЗАКУПКИ при работе с распоряжениями о совершении казначейского платежа
+
+🗓️
+ Начиная с 01.09.2026 в ГИС ЕИС ЗАКУПКИ обеспечена возможность направления распоряжений о совершении казначейского платежа (далее — РСКП) в компонент бюджетного мониторинга и контроля (далее — КБМК) государственной интегрированной информационной системы «Электронный бюджет» (далее — ГИИС ЭБ).
+
+📘
+ Доработка реализована в соответствии со статьей 242.13-1 Бюджетного кодекса Российской Федерации в целях недопущения финансовых нарушений и проверки контрагентов, указанных в РСКП в качестве получателя платежа. Проверке подлежат РСКП федеральных заказчиков, за исключением заказчиков, работающих в закрытом контуре, и органов управления государственными внебюджетными фондами.
+
+ℹ️
+ 
+После направления РСКП в КБМК результаты проверки доступны в ГИС ЕИС ЗАКУПКИ.
+ Для просмотра результатов необходимо перейти на вкладку
+ «Документы» 
+реестра РСКП и нажать на кнопку 
+«Результат проверки контрагента в казначейском мониторинге»
+.
+
+Предусмотрены следующие результаты проверки:
+
+🔹
+положительный
+ — РСКП автоматически направляется для дальнейшего санкционирования в ГИИС ЭБ
+
+🔹
+предупреждение
+ — РСКП автоматически направляется для дальнейшего санкционирования в ГИИС ЭБ. В ЕИС отображается уведомление с текстом выявленного предупреждения
+
+🔹
+отрицательный 
+— РСКП переходит в статус «Отказан», повторное направление РСКП невозможно
+
+🔹
+приостановление
+ — РСКП переходит в статус «Требуется подтверждение операции», при котором доступны действия «Подтвердить операцию» или «Отказаться от операции»
+
+❕
+При приостановлении операции заказчик должен в течение 2 рабочих дней со дня получения результата проверки принять решение о подтверждении операции либо об отказе от нее.
+
+📖
+ Подробности работы функционала смотрите в Базе знаний → «Руководства пользователя и видеоролики» → «Распоряжения о совершении казначейского платежа».
+
+#НОВОСТИ
+
+#ОБНОВЛЕНИЕ
+
+📱
+Следите за новостями ГИС ЕИС ЗАКУПКИ в MAX</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/Wa3t5mM0-uZohqesmfBVJvBsz1tX5MtjQr8_nxXCprGc2wBccrDy-049xYtuDlqjA8B7fwFbUxjBYkelNBZ5Id4SUxxXvjTFqP6ihto-yM0fOPSWIKlHA5zuR-ZO7Mw-iKcxUfWUDD5eNzklZb0vOpVTtQ2LtkPkMOKwFd90s5AsAmIfmjlhZKkcyOwbZezPnxlqJjSdA8mx_87wZKKnje3d1niuDOm7d_68MFcahCYdaqnbc4k6qmC4v2Dsw5i8xzbHNu0XE2bKxmsrSeZoVf_0u6uXAOy2pjhwmgSxobE8z-zuQ1AIgoaKsGu3P_1BiN4Co1E2cP17gRJuqVMiOQ.jpg" /></p>
+<tg-emoji emoji-id="5438328856240989389"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9FA6.png')"><b>🟦</b></i></tg-emoji> <b>Информация о доработках ГИС ЕИС ЗАКУПКИ при работе с распоряжениями о совершении казначейского платежа</b><br/><br/><tg-emoji emoji-id="5296526512348999459"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9793.png')"><b>🗓️</b></i></tg-emoji> Начиная с 01.09.2026 в ГИС ЕИС ЗАКУПКИ обеспечена возможность направления распоряжений о совершении казначейского платежа (далее — РСКП) в компонент бюджетного мониторинга и контроля (далее — КБМК) государственной интегрированной информационной системы «Электронный бюджет» (далее — ГИИС ЭБ).<br/><br/><tg-emoji emoji-id="5436361331722690558"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9398.png')"><b>📘</b></i></tg-emoji> Доработка реализована в соответствии со статьей 242.13-1 Бюджетного кодекса Российской Федерации в целях недопущения финансовых нарушений и проверки контрагентов, указанных в РСКП в качестве получателя платежа. Проверке подлежат РСКП федеральных заказчиков, за исключением заказчиков, работающих в закрытом контуре, и органов управления государственными внебюджетными фондами.<br/><br/><tg-emoji emoji-id="5438355721261425042"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E284B9.png')"><b>ℹ️</b></i></tg-emoji> <b>После направления РСКП в КБМК результаты проверки доступны в ГИС ЕИС ЗАКУПКИ.</b> Для просмотра результатов необходимо перейти на вкладку<b> «Документы» </b>реестра РСКП и нажать на кнопку <b>«Результат проверки контрагента в казначейском мониторинге»</b>.<br/><b><br/>Предусмотрены следующие результаты проверки:</b><br/><br/><tg-emoji emoji-id="5296283477329587350"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji><b>положительный</b> — РСКП автоматически направляется для дальнейшего санкционирования в ГИИС ЭБ<br/><tg-emoji emoji-id="5296283477329587350"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji><b>предупреждение</b> — РСКП автоматически направляется для дальнейшего санкционирования в ГИИС ЭБ. В ЕИС отображается уведомление с текстом выявленного предупреждения<br/><tg-emoji emoji-id="5296283477329587350"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji><b>отрицательный </b>— РСКП переходит в статус «Отказан», повторное направление РСКП невозможно<br/><tg-emoji emoji-id="5296283477329587350"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji><b>приостановление</b> — РСКП переходит в статус «Требуется подтверждение операции», при котором доступны действия «Подтвердить операцию» или «Отказаться от операции»<br/><br/><tg-emoji emoji-id="5436081424409044286"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29D95.png')"><b>❕</b></i></tg-emoji><b>При приостановлении операции заказчик должен в течение 2 рабочих дней со дня получения результата проверки принять решение о подтверждении операции либо об отказе от нее.</b><br/><br/><tg-emoji emoji-id="5435982738945483816"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9396.png')"><b>📖</b></i></tg-emoji> Подробности работы функционала смотрите в Базе знаний → «Руководства пользователя и видеоролики» → «Распоряжения о совершении казначейского платежа».<br/><br/><a href="?q=%23%D0%9D%D0%9E%D0%92%D0%9E%D0%A1%D0%A2%D0%98">#НОВОСТИ</a><br/><a href="?q=%23%D0%9E%D0%91%D0%9D%D0%9E%D0%92%D0%9B%D0%95%D0%9D%D0%98%D0%95">#ОБНОВЛЕНИЕ</a><a href="https://max.ru/join/1XTsDcpsNsmv-5N-sd-xmiw3JBS1EZUjehTMIedC5vM" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><br/><br/></a><tg-emoji emoji-id="5294059873976200999"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93B1.png')"><b>📱</b></i></tg-emoji><a href="https://max.ru/gis_eiszakupki" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Следите за новостями ГИС ЕИС ЗАКУПКИ в MAX</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/gis_eiszakupki/3207</guid>
+      <pubDate>Tue, 01 Sep 2026 14:25:22 +0000</pubDate>
+    </item>
     <item>
       <title>📃</title>
       <link>https://telegram.me/gis_eiszakupki/3206</link>
@@ -37,7 +94,7 @@
 
 📱
 Следите за новостями ГИС ЕИС ЗАКУПКИ в MAX</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/GLc6n-DZvJ-971sQqaeYZ2PkMidjtC1YT_x-t_ZPl0UG8SaZTWe_JFz-2uxFxpeWCC7egj6kyRF2TkTav9rb8775HgKB55DXAD3m4L4Jgw124dqACmWVXp4mZ7K4OyI7kiCn-rcJ-wVIoprlaSdlkbKjrHoHts_AAfuhA5BV-CD7woDIHGQlmDfzmjwPoSTk_93F868EZkJfHkkr3VfOyxKA7gid03w1cTVvkncw2VeAo0dz24w6q9S-BKzRb2RmQRxQTfqtFXoz6RtNEDwCn82ut4MaJMAXrDQRGxBR_KqxOH5M0tEpc9hfH8W0FfDAkJCtnv-ScFE9oFh23jCo0g.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/SE6fstV_fdoSQxh5cW2C0e8usJlLFmxNiFuuxWK5UOnVuo0XNs67oFj4H5CVTpegqSujQZBBYOKi_G34HTonwaMFYWvkM2J98b8lP1ZyCrUSAhUDYnOladbE60V6EGHbc7QDnopfsD6YBw6N_x8N9eOxShllWYR9qCxXD84KcARL8Yew2JIBKWXFl9SilbDz9Z6w7J1aaU2bmEInm_V3-qKw1_8t2KxK54PcO1dOYlHSMOa3R_xd8eU05sIQ3aAcfo7_fWff-l1uZ_hDnmAuGXqLWuIDPYD0Ge9pdWGAhpjb8PzwYDBeWQs_a2J2JUzLVhuCLyH-7CQxzJYskuaHBQ.jpg" /></p>
 <tg-emoji emoji-id="5296518734163228990"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9383.png')"><b>📃</b></i></tg-emoji> <b>Внесены изменения в постановление Правительства Российской Федерации от 17.07.2015 № 719</b> <tg-emoji emoji-id="5296518734163228990"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9383.png')"><b>📃</b></i></tg-emoji><br/><br/>31.08.2026 опубликовано постановление Правительства Российской Федерации от 29.08.2026 № 1109 (далее — постановление), которое вносит изменения в требования к промышленной продукции, предъявляемые в целях ее отнесения к российской промышленной продукции, утвержденные постановлением Правительства Российской Федерации от 17.07.2015 № 719 «О подтверждении производства российской промышленной продукции».<br/><br/>Постановление устанавливает, что с 01.01.2027 требование о применении подшипников шариковых или роликовых, произведенных на территории Российской Федерации, применяется в отношении компонента продукции, а не всей промышленной продукции в целом. <br/><br/><tg-emoji emoji-id="5296526512348999459"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9793.png')"><b>🗓️</b></i></tg-emoji> Постановление вступает в силу со дня его официального опубликования. <br/><br/>Полный текст постановления по <a href="http://publication.pravo.gov.ru/document/0001202608310017" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">ссылке</a> <tg-emoji emoji-id="5436118790624518351"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E286A9.png')"><b>↩️</b></i></tg-emoji><br/><br/><a href="?q=%23%D0%9D%D0%9E%D0%92%D0%9E%D0%A1%D0%A2%D0%98">#НОВОСТИ</a> <br/><a href="?q=%23%D0%9D%D0%9F%D0%90">#НПА</a><br/><br/><tg-emoji emoji-id="5294059873976200999"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93B1.png')"><b>📱</b></i></tg-emoji><a href="https://max.ru/gis_eiszakupki/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Следите за новостями ГИС ЕИС ЗАКУПКИ в MAX</a>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/gis_eiszakupki/3206</guid>
       <pubDate>Tue, 01 Sep 2026 06:00:46 +0000</pubDate>
