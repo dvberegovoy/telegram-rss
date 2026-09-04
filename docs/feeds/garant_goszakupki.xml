@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 03 Sep 2026 10:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 09:48:46 +0000</lastBuildDate>
     <item>
       <title>Минфин России признает возможным заключение контракта со "вторым" участником</title>
       <link>https://telegram.me/garant_goszakupki/1055</link>
@@ -20,18 +20,6 @@ https://www.garant.ru/news/2225354/
       <content:encoded><![CDATA[Минфин России признает возможным заключение контракта со "вторым" участником<br/><a href="https://www.garant.ru/news/2225354/" rel="noopener" target="_blank">https://www.garant.ru/news/2225354/</a><br/><br/>В случае расторжения по соглашению сторон заключенного соглашения с победителем это поможет избежать проведения новой закупки и сэкономит бюджетные средства.]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/garant_goszakupki/1055</guid>
       <pubDate>Wed, 02 Sep 2026 12:10:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Определены требования к локализации производства товаров легкой промышленности</title>
-      <link>https://telegram.me/garant_goszakupki/1054</link>
-      <description>Определены требования к локализации производства товаров легкой промышленности
-
-https://www.garant.ru/news/2221238/
-
-Это нужно для применения национального режима в закупках.</description>
-      <content:encoded><![CDATA[Определены требования к локализации производства товаров легкой промышленности<br/><a href="https://www.garant.ru/news/2221238/" rel="noopener" target="_blank">https://www.garant.ru/news/2221238/</a><br/><br/>Это нужно для применения национального режима в закупках.]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/garant_goszakupki/1054</guid>
-      <pubDate>Tue, 01 Sep 2026 06:43:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
