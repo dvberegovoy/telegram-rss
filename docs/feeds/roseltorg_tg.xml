@@ -8,31 +8,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 07 Sep 2026 10:34:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 09:55:25 +0000</lastBuildDate>
     <item>
-      <title>⚡️</title>
-      <link>https://telegram.me/roseltorg_tg/2527</link>
-      <description>⚡️
- 
-Что изменилось в закупках за август? 
+      <title>Что учесть при работе с контрактами жизненного цикла и со встречными обязательствами?</title>
+      <link>https://telegram.me/roseltorg_tg/2533</link>
+      <description>Что учесть при работе с контрактами жизненного цикла и со встречными обязательствами?
 
-Предлагаем внимательно изучить краткий обзор принятых нормативно-правовых актов и проектов федеральных органов власти за август 2026 года. В карточках разобрали опубликованные НПА в области Законов № 44-ФЗ и № 223-ФЗ.
+10 сентября в 10:00
+ (мск) в рамках Дня заказчика вместе с Юлией Боровых разберём два формата закупок, которые требуют особого подхода ещё на этапе подготовки.
 
- 
+Поговорим о требованиях к участникам и обосновании НМЦК, а затем посмотрим на практику: когда контракты жизненного цикла и встречные обязательства работают, а в каких случаях — приводят к проблемам.
 
 🔜
- Полный обзор читайте в 
-статье журнала Росэлторг.Кандидаты
- и оставайтесь в курсе последних событий!</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/SkkOfWUKCOiwv8hHXPuOE0Fs5WLdm9DHTJef2xXkbZtoQum4fP97KCvLQC2CCX_2uvQWf0X67aXHXT3sXbjowt2-l3YMxDtqESYSJL_4xKnuTu-jmOuY1i_bv6kFETR0kBoKSxyHyoFhosLXFtz4niQZmtPHPX3RD7ci7buO2DonaQs5h_ZhWGOqdZEKrAhkbwqdrJcE2_ccmaeYMuaOByNo7dlMlhos3kjnc4yw2QJ4FWleP9Sm0szA-WKOBfbJvoct2Ot87k8LB7Bslz9t7qy81YAyjBjnubKRRkM-XUdiWQD8tqLuwRs4jPxmngWQ4ZkS4gC9pFKw7vTsQkwV6w.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/sOfYl8K_lt3xmP2GmtccHHKJz20E93ICLK9bxruxn5LpOpHVdcTpijypQMQLOgK28eK6av0maUG1qf4SgQMMbQah-WFm4wX4IyON3lvOJqC7sayrTjw62onmlAxU33jskpiZCrUaFBEn1lHLF0rXLsSBhp5IqXPxUmxxiLX8H-ON8inX4PC7ulco-DoALBdnTIMsmPMiqAjxpC7hgcnPkjZV0qTUQDicCySf9wlaMs0Ub1qBptvgqUhEWuVMt9DJVnkN02-Jh_V-RT1EcM2zZn0dV5Hl3_GpYXOAvdNqvUr0eyQC3NHd2KCIIYeESKNM8FHHgloEqO3L6o4SVwy6JA.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/VkJR_5BOKGCJhGcz7VyAltF-gcnjjmdSHmJONZxOCKPQk-TIAM3KuGMp3l6F0eTQWrk5VE-yPrw0PQ5LOAQGfVLoNA4dylIdWdiHcA6OCsK4VMsw_3bdlX3tkOyvReRnYs2SnBuQKobq1Z6f5yqXrXcvb0nMcpRvVCAl6cB-RPKBhiKFkYEox3YSG7Sv9XPk9zIdRMUbAU4RygytySqh3Vdp1HNSHK46YPSpJZ9jzRPo-KXJKBPoX9_Np4IGJ9_7qykBN9ctXIWIc_0Wo6bFfriZfcX1TA09KJCLEo5RtH5GeRr4I3e_lxibbMSO6gQQtlaEs6zVqETM9xyc7yVP4A.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/L0V22x5CwDEGJYim82NChUzPLocEG84oIbWzIJDO5Zi7NKgktJr9NiGVxBoiww4lemU1thANFCFobI1aPzn5tsxSt9mzw09vunA5zWOmfqBqPCtWbvyYQU-ZA4jDhvGbfbUm8IDSmaAGGa61AAZ91ULBR4dgXBVHn042cPYCbSk24-UNds3859SqeJDpctBE5MOr5pXWoap5aqPWOhN2EqHpoeKunUBZQtA6ORx81r84xAAoWAFayulK1XukZM6uv_GeFlmZu67wt9wzIdez6QJ5ItUGj0_M1zGD_38g1pRPdUM5sxKSuw8Ul60q-WB7D1nBHcsATynI24l30jIhIA.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/i9fP-HEFXXhokttMHMjjQaoaty2O1px2og9W09DMACDBxwmOXmBhLy3qepw-aHH9ZSIhxIhN4K4RA9xdDVuAZiCpBGxZL8LosryYLrO0ZTuNHKrfydvREiaiV9jyGLLrwEdq5HChNW4fqknowrO6jPbRc1_1aWmIjw1JmyirLUil4xmvcBoqdqmTRPPWP4AYkpJkoXK63prRqarYFi39msy1sNuQwle-9O69p1FtsJGMp35-P5Li6JUpS_4TrXT06lhY4vAC77UiCuuOFg1JO6ODnRS3rs4334t3ef8cow5UFiWHgzARXRPuDtShtmTutMiV-g1qGseNXDeVrSWGPw.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/WGOqU6fod3njHuphLKQLCD7QLuOzAplifT7jGHnZx2_aG3ITS-FfceIH-oHigl3xgHy5Z16DH9jEZubBqwn3kvznq3-h5Ifl4HPHo5bET6P5SOE8nJUuwxDxkO2dYF1HW1qDWX_h3Sgb2p9sTWljDwxrDPhzpLk5jVffozvNDyxohA9oNz3aqJibTy1uhL1L00GSkTB9kpmlRPaxouwSIBoY7G56hsKp5SDLDyKkiZiXgWl_FIfazmUu7EYTFtnT3zFT9VnznxMB1Kb5Hmc8a3GcaFMY_5eb1I8t3LHcjsWiiDrnOAFWNg_DxxHdHLYRYr4-cz2kYC8VhDCjJQH9Mw.jpg" /></p>
-<tg-emoji emoji-id="5431449001532594346"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29AA1.png')"><b>⚡️</b></i></tg-emoji> <b>Что изменилось в закупках за август? </b><br/><br/>Предлагаем внимательно изучить краткий обзор принятых нормативно-правовых актов и проектов федеральных органов власти за август 2026 года. В карточках разобрали опубликованные НПА в области Законов № 44-ФЗ и № 223-ФЗ.<br/> <br/><tg-emoji emoji-id="5431812720838076103"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F949C.png')"><b>🔜</b></i></tg-emoji> Полный обзор читайте в <a href="https://cv.roseltorg.ru/journal/article/chto-izmenilos-v-zakupkakh-za-avgust-2026-goda#" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">статье журнала Росэлторг.Кандидаты</a> и оставайтесь в курсе последних событий!]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/roseltorg_tg/2527</guid>
-      <pubDate>Fri, 04 Sep 2026 10:45:27 +0000</pubDate>
+ Подробная программа и регистрация на вебинар — по 
+ссылке
+.</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/DWM_IHGQNXC_tU0BtHHJnIA8rq67BBZYrpmkXTZr_6Ffr_EN0l91dYuoqTAWuZmn4xfSJlnLkyXdKGcfctuON0Viroxbzdu1i-FDncFz2DRT-2f7Qwjno73J5FSmkdT9Dv7rkS9taVebYIi1BI-LPd-aYlUhnsrZYguSKX9Tm5qriPlFj7deVWymLaaLNoQHNJgmN6i7rHgUTxg3AlYYaVTmQutCYTd7JuFbjMcFKAirl5iJL7N7mONRu5FmYrxrgnMqZfOI3l_0qksp4xQIZM8jIubY0xOxA5YM2q_ux2Er4e3hiNdWHs17c876vQoHzJjRQW50BgulqKRfBbXltA.jpg" /></p>
+<b>Что учесть при работе с контрактами жизненного цикла и со встречными обязательствами?</b><br/><br/><b>10 сентября в 10:00</b> (мск) в рамках Дня заказчика вместе с Юлией Боровых разберём два формата закупок, которые требуют особого подхода ещё на этапе подготовки.<br/><br/>Поговорим о требованиях к участникам и обосновании НМЦК, а затем посмотрим на практику: когда контракты жизненного цикла и встречные обязательства работают, а в каких случаях — приводят к проблемам.<br/><br/><tg-emoji emoji-id="5431812720838076103"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F949C.png')"><b>🔜</b></i></tg-emoji> Подробная программа и регистрация на вебинар — по <a href="https://www.roseltorg.ru/education/den-zakazchika-zaklyuchenie-ispolnenie-izmenenie-i-rastorzhenie-kontraktov-zhiznennogo-cikla-i" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">ссылке</a>.]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/roseltorg_tg/2533</guid>
+      <pubDate>Mon, 07 Sep 2026 12:01:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
