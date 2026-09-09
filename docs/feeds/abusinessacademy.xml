@@ -8,7 +8,136 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 08 Sep 2026 09:55:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 09:57:45 +0000</lastBuildDate>
+    <item>
+      <title>🔐</title>
+      <link>https://telegram.me/abusinessacademy/2989</link>
+      <description>🔐
+Идентификационный код закупки
+
+Идентификационный код закупки (ИКЗ) представляет собой 
+36-значный цифровой код
+:
+
+▶️
+который указывается
+:
+
+• в плане-графике
+
+• в извещении
+
+• в протоколах
+
+• в проекте контакта
+
+• в контракте
+
+• в реестре независимых гарантий
+
+• в реестре контрактов
+
+• в документах о приемке
+
+• в РНП
+
+• в реестре жалоб
+
+• при проведении закрытых процедур: в документации о закупке, приглашении принять участие, на конверте с заявкой
+
+• а также в иных документах;
+
+▶️
+порядок формирования ИКЗ 
+установлен
+ Приказом Минфина России от 10.04.2019 №55н;
+
+▶️
+заказчик формирует ИКЗ и он 
+остается неизменным
+ до завершения периода хранения информации и документов о закупке;
+
+▶️
+обеспечивает взаимосвязь
+ документов: от плана-графика до документов об исполнении;
+
+▶️
+как правило, ИКЗ 
+соответствует одной закупке
+ (в том числе закупке у единственного поставщика в электронной форме), 
+кроме закупок п.4, 5, 23, 42, 44 ч.1 ст.93;
+
+▶️
+1 - 2 разряды - последние две цифры года размещения извещения;
+
+▶️
+3 - 22 разряды - идентификационный код заказчика;
+
+▶️
+23 - 26 разряды - номер закупки, включенной в план-график;
+
+▶️
+27 - 29 разряды - порядковый номер закупки;
+
+▶️
+указывается 000 в порядковом номере закупки при формировании и утверждении плана-графика, а также в случае закупок по п.4, 5, 23, 42, 44 ч.1 ст.93;
+
+▶️
+указывается порядковый номер при размещении извещения, при осуществлении закупки у единственного поставщика в электронной форме;
+
+▶️
+30 - 33 разряды - информация о коде ОКПД2 объекта закупки;
+
+▶️
+указывается 0000 если несколько кодов в объекте закупки, а также в случае закупок по п.4, 5, 23, 26, 33, 42, 44 ч.1 ст.93;
+
+▶️
+34 - 36 разряды - код вида расходов;
+
+▶️
+указывается 000 в случае закупок государственным, муниципальным унитарными предприятиями и в случае, когда финансовое обеспечение подлежат отражению по нескольким кодам вида расходов;
+
+▶️
+если после размещения плана-графика необходимо дополнить позицию кодом ОКПД2 или изменить КВР, то 
+необходимо отменять позицию
+ плана-графика.
+
+A-business.academy
+ | 
+Связаться с нами
+
+🎓
+Подписывайтесь
+
+МАКС
+ | 
+ВK
+ | 
+Teлеграм
+ | 
+Дзен</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/VmwnUbbhsJ4D94utlmYyXl7naWiT-bAO5LNYrQLXozWRgTqCOT9BUXiEVYQgG-JAFNwXjQlORFqCWSUzlbb5k2EDjWaWBXugPIKukBUpjxALvM7DhUnHK9ntKBKLjpr05dSEbvN882KLPm9FWlpjzIAZDH31R5b7ncjMM_z7AhZPncYZO9S_OnaKjWyqA0klkELwCo-I9AsP7g7nu-sQqiTa2rSbWzqwVvBA2mnIRq3u-3luct4cRSSix-rHrm2lkiFSe68o8Jg52xJf2GoLS0hhL2ii5XVudCkY-D9PuMjev3ES3iztn1nTmJWGAv0oskatUf0D9BdCkTSprNhVSA.jpg" /></p>
+<tg-emoji emoji-id="5821453562680448557"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9490.png')"><b>🔐</b></i></tg-emoji><b>Идентификационный код закупки</b><br/><br/>Идентификационный код закупки (ИКЗ) представляет собой <b>36-значный цифровой код</b>:<br/><br/><tg-emoji emoji-id="5274122386680062988"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E296B6.png')"><b>▶️</b></i></tg-emoji><u>который указывается</u>:<br/><br/>• в плане-графике<br/>• в извещении<br/>• в протоколах<br/>• в проекте контакта<br/>• в контракте<br/>• в реестре независимых гарантий<br/>• в реестре контрактов<br/>• в документах о приемке<br/>• в РНП<br/>• в реестре жалоб<br/>• при проведении закрытых процедур: в документации о закупке, приглашении принять участие, на конверте с заявкой<br/>• а также в иных документах;<br/><br/><tg-emoji emoji-id="5274122386680062988"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E296B6.png')"><b>▶️</b></i></tg-emoji>порядок формирования ИКЗ <b>установлен</b> Приказом Минфина России от 10.04.2019 №55н;<br/><br/><tg-emoji emoji-id="5274122386680062988"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E296B6.png')"><b>▶️</b></i></tg-emoji>заказчик формирует ИКЗ и он <b>остается неизменным</b> до завершения периода хранения информации и документов о закупке;<br/><br/><tg-emoji emoji-id="5274122386680062988"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E296B6.png')"><b>▶️</b></i></tg-emoji><b>обеспечивает взаимосвязь</b> документов: от плана-графика до документов об исполнении;<br/><br/><tg-emoji emoji-id="5274122386680062988"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E296B6.png')"><b>▶️</b></i></tg-emoji>как правило, ИКЗ <b>соответствует одной закупке</b> (в том числе закупке у единственного поставщика в электронной форме), <b>кроме закупок п.4, 5, 23, 42, 44 ч.1 ст.93;</b><br/><br/><tg-emoji emoji-id="5274122386680062988"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E296B6.png')"><b>▶️</b></i></tg-emoji>1 - 2 разряды - последние две цифры года размещения извещения;<br/><br/><tg-emoji emoji-id="5274122386680062988"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E296B6.png')"><b>▶️</b></i></tg-emoji>3 - 22 разряды - идентификационный код заказчика;<br/><br/><tg-emoji emoji-id="5274122386680062988"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E296B6.png')"><b>▶️</b></i></tg-emoji>23 - 26 разряды - номер закупки, включенной в план-график;<br/><br/><tg-emoji emoji-id="5274122386680062988"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E296B6.png')"><b>▶️</b></i></tg-emoji>27 - 29 разряды - порядковый номер закупки;<br/><br/><tg-emoji emoji-id="5274122386680062988"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E296B6.png')"><b>▶️</b></i></tg-emoji>указывается 000 в порядковом номере закупки при формировании и утверждении плана-графика, а также в случае закупок по п.4, 5, 23, 42, 44 ч.1 ст.93;<br/><br/><tg-emoji emoji-id="5274122386680062988"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E296B6.png')"><b>▶️</b></i></tg-emoji>указывается порядковый номер при размещении извещения, при осуществлении закупки у единственного поставщика в электронной форме;<br/><br/><tg-emoji emoji-id="5274122386680062988"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E296B6.png')"><b>▶️</b></i></tg-emoji>30 - 33 разряды - информация о коде ОКПД2 объекта закупки;<br/><br/><tg-emoji emoji-id="5274122386680062988"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E296B6.png')"><b>▶️</b></i></tg-emoji>указывается 0000 если несколько кодов в объекте закупки, а также в случае закупок по п.4, 5, 23, 26, 33, 42, 44 ч.1 ст.93;<br/><br/><tg-emoji emoji-id="5274122386680062988"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E296B6.png')"><b>▶️</b></i></tg-emoji>34 - 36 разряды - код вида расходов;<br/><br/><tg-emoji emoji-id="5274122386680062988"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E296B6.png')"><b>▶️</b></i></tg-emoji>указывается 000 в случае закупок государственным, муниципальным унитарными предприятиями и в случае, когда финансовое обеспечение подлежат отражению по нескольким кодам вида расходов;<br/><br/><tg-emoji emoji-id="5274122386680062988"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E296B6.png')"><b>▶️</b></i></tg-emoji>если после размещения плана-графика необходимо дополнить позицию кодом ОКПД2 или изменить КВР, то <b>необходимо отменять позицию</b> плана-графика.<br/><br/><a href="https://a-business.academy/?utm_source=tgacademy" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">A-business.academy</a> | <a href="https://telegram.me/BusinessAcademyTender_bot" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Связаться с нами</a><br/><tg-emoji emoji-id="5323453938660314739"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8E93.png')"><b>🎓</b></i></tg-emoji><b>Подписывайтесь</b><br/><a href="https://max.ru/id6685196352_biz" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">МАКС</a> | <a href="https://vk.com/abusinessacademy" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">ВK</a> | <a href="https://telegram.me/abusinessacademy" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Teлеграм</a> | <a href="https://dzen.ru/abusinessacademy" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Дзен</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/abusinessacademy/2989</guid>
+      <pubDate>Wed, 09 Sep 2026 06:09:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Доброе утро</title>
+      <link>https://telegram.me/abusinessacademy/2988</link>
+      <description>Доброе утро 
+☕️
+☀️
+🍁
+
+Подписывайтесь на наш 
+канал в Макс
+
+Стремимся к 1000 
+🚀</description>
+      <content:encoded><![CDATA[Доброе утро <tg-emoji emoji-id="5359370246190801956"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29895.png')"><b>☕️</b></i></tg-emoji><tg-emoji emoji-id="5424976150810086048"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29880.png')"><b>☀️</b></i></tg-emoji><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8D81.png')"><b>🍁</b></i><br/>Подписывайтесь на наш <a href="https://max.ru/id6685196352_biz" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">канал в Макс</a><br/>Стремимся к 1000 <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9A80.png')"><b>🚀</b></i>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/abusinessacademy/2988</guid>
+      <pubDate>Wed, 09 Sep 2026 02:27:03 +0000</pubDate>
+    </item>
     <item>
       <title>⚠️</title>
       <link>https://telegram.me/abusinessacademy/2986</link>
@@ -110,7 +239,7 @@ A-business.academy
 Teлеграм
  | 
 Дзен</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/AwimIbDUGPytRY_MEJW8Q8NnNQFv3g2BSdEYQIz7A0texRs8BRNO-QG4GiO6AVFKPN8Ga6ylrolvBhRNjJpbHUIm8GHEB5StxvqhlhEqT5w919FIcCJJbjjrvyesuMZg0vtCIeSzs3aWvUTO8uNnTXF-fDZp96tna033N0LJ9xRFHFux29mrYdN6yPBL7E0NbCyXtnVrerFUXkO3zI5EV18xxKi3n6jEOJw5IkeG0fg0xXyMqKHXVen-9sDLOLdVU7E96OCbm1SiDKSrgyxIPF5_rtKSN412QfbgljjKZ5COuaajRiU0c6Bme93y2I7UAxAMcH8ONsJcIDgiYzr0eQ.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/d2hMhh2Fzr_b_9KkEI5lJd3YYio7PgVYyz2d452PLQXOquvQJZPfUuRxAG4ShYQUv8omtxYzpROPY8G4ASyKW1DaeP9TSIyNgepZc7jeMFekMbcrbs80rojp7N1fxgAnqnUa0NYC6-_y924JTh-ky5KkEhrW5_2yKALq9gvOn6Fztv8mfbiAMvdraFVhpcuUQ5kAkceXN4ZA2fDZ8SR-Ez8UyDO59xt4fDgsmKvsJXu8qpV0nAnb2ySyIJ3JDc08HKgiQ1V0kl4Zv4yfM_3JnXLo56XhF7Nz2MtrrwgMUjk3LGjO3vAfKnkRHpgGhEEUDV61DB--05xWyLZ5kZPSqQ.jpg" /></p>
 <tg-emoji emoji-id="5323430509613692454"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29AA0.png')"><b>⚠️</b></i></tg-emoji> <b>Перестаньте терять деньги из-за отсутствия системы в тендерах</b><br/><br/>Конкуренция в госзакупках становится всё жёстче.<br/>Теперь недостаточно просто «подать заявку».<br/><br/>Чтобы выигрывать стабильно, нужна команда, которая работает как единый механизм — с регламентами, аналитикой и контролем.<br/><br/><b>Если у вас:</b><br/><br/><tg-emoji emoji-id="5233280318596723710"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29D8E.png')"><b>❎</b></i></tg-emoji> Нет чек-листов — сотрудники ошибаются<br/><tg-emoji emoji-id="5233280318596723710"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29D8E.png')"><b>❎</b></i></tg-emoji> Нет инструкций — каждый делает "как помнит"<br/><tg-emoji emoji-id="5233280318596723710"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29D8E.png')"><b>❎</b></i></tg-emoji> Нет аналитики — вы не видите, где теряются деньги<br/><br/>Мы в <a href="https://telegram.me/abusinessacademy" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b>Академии</b></a> уже <b>4 года</b> обучаем компании, которые участвуют в госзакупках.<br/>Наши курсы прошли специалисты из<b> Газпрома, Россетей, Ростелекома, Синары, Ростеха</b>. И они уже внедрили наши инструменты в свою работу.<br/><br/><b>Почему руководители выбирают нас:</b><br/><br/><tg-emoji emoji-id="5294470876576626869"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C85.png')"><b>✅</b></i></tg-emoji>  Мы даём не теорию, а готовые инструменты, отработанные на практике — шаблоны, регламенты, чек-листы, KPI<br/><tg-emoji emoji-id="5294470876576626869"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C85.png')"><b>✅</b></i></tg-emoji>  Обучение без привязки к онлайн/очным занятиям — подходит для сотрудников, легко масштабировать<br/><tg-emoji emoji-id="5294470876576626869"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C85.png')"><b>✅</b></i></tg-emoji>  Соответствие материалов деятельности поставщиков — мы не учим формировать планы-графики в ЕИС, так как поставщикам это не нужно. <br/><tg-emoji emoji-id="5294470876576626869"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C85.png')"><b>✅</b></i></tg-emoji>  Линейка курсов для специалистов разного уровня опыта и должностных обязанностей — продуманные программы под специфику должностей, а не общая теория для всех подряд. Научим руководителя не подавать заявки, а выстраивать бизнес-процессы и ключевые метрики в тендерном отделе. <br/><tg-emoji emoji-id="5294470876576626869"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C85.png')"><b>✅</b></i></tg-emoji>  Сервис и поддержка на всем пути: от выбора курса до защиты диплома. Квалифицированные менеджеры подберут программу под вашу задачу и ответят на все вопросы.<br/><br/><b>Наши курсы — это инвестиции в эффективность:</b><br/><br/><tg-emoji emoji-id="5296705088499234317"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29EA1.png')"><b>➡️</b></i></tg-emoji> <a href="https://a-business.academy/tender?utm_source=tgacademy" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"> </a><a href="https://a-business.academy/tender?utm_source=tgacademy" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b>«Тендерный специалист</b></a><b>»</b> — база для новичков и команды<br/><tg-emoji emoji-id="5296705088499234317"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29EA1.png')"><b>➡️</b></i></tg-emoji> <b>«</b><a href="https://a-business.academy/analytics?utm_source=tgacademy" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b>Бизнес-аналитика тендерных продаж</b></a><b>»</b> — решения на основании данных<br/><tg-emoji emoji-id="5296705088499234317"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29EA1.png')"><b>➡️</b></i></tg-emoji> <b>«</b><a href="https://a-business.academy/tender-otdel?utm_source=tgacademy" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b>Эффективный тендерный отдел</b></a><b>»</b> — отдел, работающий как часы<br/><tg-emoji emoji-id="5296705088499234317"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29EA1.png')"><b>➡️</b></i></tg-emoji> <b>«</b><a href="https://a-business.academy/tendermba?utm_source=tgacademy" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b>Тендер МВА</b></a><b>»</b> — управление бизнесом на госзакупках<br/><br/>Дайте своей команде знания, которые работают.<br/><br/><tg-emoji emoji-id="5296705088499234317"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29EA1.png')"><b>➡️</b></i></tg-emoji> <a href="https://a-business.academy/korporativnoe_obuchenie?utm_source=tgacademy" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b>Заявка на корпоративное обучение</b></a><br/><br/><a href="https://a-business.academy/?utm_source=tgacademy" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">A-business.academy</a> | <a href="https://telegram.me/BusinessAcademyTender_bot" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Связаться с нами</a><br/><tg-emoji emoji-id="5323453938660314739"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8E93.png')"><b>🎓</b></i></tg-emoji><b>Подписывайтесь</b><br/><a href="https://max.ru/id6685196352_biz" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">МАКС</a> | <a href="https://vk.com/abusinessacademy" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">ВK</a> | <a href="https://telegram.me/abusinessacademy" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Teлеграм</a> | <a href="https://dzen.ru/abusinessacademy" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Дзен</a>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/abusinessacademy/2986</guid>
       <pubDate>Tue, 08 Sep 2026 08:19:23 +0000</pubDate>
@@ -168,7 +297,7 @@ A-business.academy
 Teлеграм
  | 
 Дзен</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/iwN5iuBb_1E_Ir4Mng_8qlN1kjgHn1hQOvKyhkWRFYUgpO8kJkEvPWd6xiFyAEoMlohTSs_GEtwGeqLBSF3HtI6JkQf14jhjoHsk_JWQMpKPT2EhxAeErCO5q2nwioUP0COr8L2t6Ax_hpV8PoRSPS2qfG2mWG3ZrJKNIcOq9kr3Ow3JtniXw029XG5J0kNDD5Qdgzh_unqBXy7uXMFeGmg8mWypj7cHCwlwdA9BstbsBZr4pAIWk9pN5koHSN8JlsVmxR2FfoudfSHK8PADSCmNs0ygduvGMWNDIFB0vsBoGh5KLPlyJ_YbVM-mgytc-i_hLRBTMqMMkjECQi4Lvg.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/h9FrOlaWMW9esRXu-2HGu8kU5mD0l12PHgVJ1zoUVg16XK4lipnDS5WqfpCKuQI52B_OUuVAQavivE9X9VAzMItknBfLcJ9lNVJ3ubnmFSEgh5fzwvwrwBsp1NDmt5-S_KdAI7UvVlVRux0nX2mnu_MyAbB20TuhkHv5GiwVDi3E6TjVMEcEGshQmZaZFY-NpuQRY-XenkhXixkMIw5ur7m2auWaSars6s3xPwBZoTO_V5p5Lpqp6kJT-splbmKC2Cl5f4tban6xqaUU19ka8fPIMk6dcT5dMJ6ntMAzpLb3hT1IoKlo_acviK75GsehWcGCEkyvr2UEUubbTN1M6g.jpg" /></p>
 <b>Как построить команду мечты для побед в тендерах?</b><br/><br/>За <tg-emoji emoji-id="5226627749262666677"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/34E283A3.png')"><b>4️⃣</b></i></tg-emoji> шага <br/><br/><tg-emoji emoji-id="5226486530737973814"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/31E283A3.png')"><b>1️⃣</b></i></tg-emoji> <b>Определите единую цель и стратегию</b><br/><br/>Ваша команда должна понимать, куда движется компания. Вы боретесь за все контракты подряд или только за самые маржинальные? Цель — не просто «участвовать», а, например, «стать лидером в поставках для медучреждений нашего региона». Когда стратегия ясна, каждый сотрудник работает на общий результат.<br/><br/><tg-emoji emoji-id="5224368699544185666"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/32E283A3.png')"><b>2️⃣</b></i></tg-emoji> <b>Распределите роли и поставьте чёткие KPI</b><br/><br/>Кто ищет тендеры, кто готовит документы, кто отвечает за поставщиков,а кто  за исполнение контракта? Без четких ролей начинается хаос. Установите ясные KPI: количество поданных заявок, процент выигранных тендеров, средний срок подготовки заявок и т.д. Так вы сможете объективно оценивать вклад каждого и видеть, где система даёт сбой.<br/><br/><tg-emoji emoji-id="5224539832516094848"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/33E283A3.png')"><b>3️⃣</b></i></tg-emoji> <b>Создайте «базу знаний» и уберите хаос</b><br/><br/>Один сотрудник хранит шаблоны на своем диске, другой каждый раз заново ищет реквизиты. Это убивает продуктивность. Ваша задача — создать единое пространство с шаблонами, инструкциями, чек-листами и базой исполненных контрактов/договоров. Устраните хаос, и команда перестанет тратить время на рутину.<br/><br/><tg-emoji emoji-id="5226627749262666677"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/34E283A3.png')"><b>4️⃣</b></i></tg-emoji> <b>Поощряйте за результат, а не за процесс</b><br/><br/>И речь не только о проценте от выигранного контракта. Публичная похвала за идеально подготовленную заявку или успешно пройденную квалификацию тоже творит чудеса. Позитивная обратная связь мотивирует сотрудников работать на победу, а не просто «отсиживать» рабочие часы.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"><b>👉</b></i> Научиться системно управлять бизнесом на госзакупках и построить команду, которая приносит прибыль, можно на нашем курсе<b> «</b><a href="https://a-business.academy/tendermba?utm_source=tgacademy" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b>Тендер МБА</b></a><b>»</b><br/><br/><a href="https://a-business.academy/?utm_source=tgacademy" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">A-business.academy</a> | <a href="https://telegram.me/BusinessAcademyTender_bot" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Связаться с нами</a><br/><tg-emoji emoji-id="5323453938660314739"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8E93.png')"><b>🎓</b></i></tg-emoji><b>Подписывайтесь</b><br/><a href="https://max.ru/id6685196352_biz" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">МАКС</a> | <a href="https://vk.com/abusinessacademy" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">ВK</a> | <a href="https://telegram.me/abusinessacademy" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Teлеграм</a> | <a href="https://dzen.ru/abusinessacademy" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Дзен</a>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/abusinessacademy/2984</guid>
       <pubDate>Mon, 07 Sep 2026 04:31:50 +0000</pubDate>
