@@ -8,7 +8,31 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 09 Sep 2026 09:57:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 09:55:20 +0000</lastBuildDate>
+    <item>
+      <title>Внесены изменения в нормативные правовые акты, регулирующие осуществление закупок в рамках Закона…</title>
+      <link>https://telegram.me/zakupkirss/13554</link>
+      <description>Внесены изменения в нормативные правовые акты, регулирующие осуществление закупок в рамках Закона № 44‑ФЗ
+
+http://zakupki.gov.ru/epz/main/public/news/news_preview.html?newsId=36932
+
+Опубликовано постановление Правительства Российской Федерации от 07.09.2026 № 1140</description>
+      <content:encoded><![CDATA[<b>Внесены изменения в нормативные правовые акты, регулирующие осуществление закупок в рамках Закона № 44‑ФЗ</b><br/><a href="http://zakupki.gov.ru/epz/main/public/news/news_preview.html?newsId=36932" rel="noopener" target="_blank">http://zakupki.gov.ru/epz/main/public/news/news_preview.html?newsId=36932</a><br/><br/>Опубликовано постановление Правительства Российской Федерации от 07.09.2026 № 1140]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/zakupkirss/13554</guid>
+      <pubDate>Thu, 10 Sep 2026 09:54:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Информация об обновлении версии программного обеспечения</title>
+      <link>https://telegram.me/zakupkirss/13553</link>
+      <description>Информация об обновлении версии программного обеспечения
+
+http://zakupki.gov.ru/epz/main/public/news/news_preview.html?newsId=36933
+
+08 сентября 2026 года обновлено программное обеспечение ЕИС в части 44-ФЗ.</description>
+      <content:encoded><![CDATA[<b>Информация об обновлении версии программного обеспечения</b><br/><a href="http://zakupki.gov.ru/epz/main/public/news/news_preview.html?newsId=36933" rel="noopener" target="_blank">http://zakupki.gov.ru/epz/main/public/news/news_preview.html?newsId=36933</a><br/><br/>08 сентября 2026 года обновлено программное обеспечение ЕИС в части 44-ФЗ.]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/zakupkirss/13553</guid>
+      <pubDate>Thu, 10 Sep 2026 09:54:35 +0000</pubDate>
+    </item>
     <item>
       <title>Федеральное казначейство разъяснило порядок возврата аванса по госконтрактам</title>
       <link>https://telegram.me/zakupkirss/13552</link>
@@ -104,18 +128,6 @@ https://www.garant.ru/news/2228230/
       <content:encoded><![CDATA[<b>Перечни товаров для запретов и ограничений по Постановлению № 1875 уточнят</b><br/><a href="https://www.garant.ru/news/2228230/" rel="noopener" target="_blank">https://www.garant.ru/news/2228230/</a><br/><br/>Минпромторг России разработал проект поправок в приложения № 1 и № 2 к НПА по нацрежиму в закупках.]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/zakupkirss/13545</guid>
       <pubDate>Mon, 07 Sep 2026 15:34:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Изменен перечень банков, удовлетворяющих требованиям Закона № 44‑ФЗ</title>
-      <link>https://telegram.me/zakupkirss/13544</link>
-      <description>Изменен перечень банков, удовлетворяющих требованиям Закона № 44‑ФЗ
-
-http://zakupki.gov.ru/epz/main/public/news/news_preview.html?newsId=36925
-
-Обновлен перечень банков, которые вправе выдавать независимые гарантии в сфере закупок</description>
-      <content:encoded><![CDATA[<b>Изменен перечень банков, удовлетворяющих требованиям Закона № 44‑ФЗ</b><br/><a href="http://zakupki.gov.ru/epz/main/public/news/news_preview.html?newsId=36925" rel="noopener" target="_blank">http://zakupki.gov.ru/epz/main/public/news/news_preview.html?newsId=36925</a><br/><br/>Обновлен перечень банков, которые вправе выдавать независимые гарантии в сфере закупок]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/zakupkirss/13544</guid>
-      <pubDate>Mon, 07 Sep 2026 07:54:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
