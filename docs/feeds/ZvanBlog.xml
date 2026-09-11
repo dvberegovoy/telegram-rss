@@ -8,26 +8,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 10 Sep 2026 09:55:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 09:53:37 +0000</lastBuildDate>
     <item>
-      <title>Друзья, всем привет!</title>
-      <link>https://telegram.me/ZvanBlog/1000</link>
-      <description>Друзья, всем привет!
- 
+      <title>Всем привет!</title>
+      <link>https://telegram.me/ZvanBlog/1001</link>
+      <description>Всем привет! 
 🖐
 
-Помогите хорошему сервису получить обратную связь. Даже подарочек дают
+Друзья все очень быстро меняется - и причина тому 
+нейросети.
 
-Приглашаем поставщиков на короткое исследование о работе с закупками. Если вы работаете с тендерами, ищете их, подаете заявки или хотите начать - приглашаем вас на интервью, которое займет 25-30 минут.
+В этом видео о том что они творят в Госзакупках
+ 
+🔥
+🔥
+🔥
 
-В благодарность за участие небольшой подарок от организаторов.
+Смотрите и становитесь эффективней!
 
-Записаться можно 
-через форму
-.</description>
-      <content:encoded><![CDATA[<b>Друзья, всем привет!</b> <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9690.png')"><b>🖐</b></i><br/><br/>Помогите хорошему сервису получить обратную связь. Даже подарочек дают<br/><br/>Приглашаем поставщиков на короткое исследование о работе с закупками. Если вы работаете с тендерами, ищете их, подаете заявки или хотите начать - приглашаем вас на интервью, которое займет 25-30 минут.<br/><br/><b>В благодарность за участие небольшой подарок от организаторов.</b><br/><br/>Записаться можно <a href="https://forms.yandex.ru/cloud/6a9e5ea0eb6146c648cfaf3b/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">через форму</a>.]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ZvanBlog/1000</guid>
-      <pubDate>Mon, 07 Sep 2026 13:28:11 +0000</pubDate>
+https://youtu.be/DJF4eWUcRQ4</description>
+      <content:encoded><![CDATA[<b>Всем привет! <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9690.png')"><b>🖐</b></i></b><br/>Друзья все очень быстро меняется - и причина тому <b>нейросети.</b><br/><b>В этом видео о том что они творят в Госзакупках</b> <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')"><b>🔥</b></i><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')"><b>🔥</b></i><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')"><b>🔥</b></i><br/>Смотрите и становитесь эффективней!<br/><a href="https://youtu.be/DJF4eWUcRQ4" rel="noopener" target="_blank">https://youtu.be/DJF4eWUcRQ4</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ZvanBlog/1001</guid>
+      <pubDate>Thu, 10 Sep 2026 15:13:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
