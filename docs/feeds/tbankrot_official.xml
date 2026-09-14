@@ -8,57 +8,143 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 11 Sep 2026 09:52:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 10:50:17 +0000</lastBuildDate>
     <item>
-      <title>Словарь участника торгов по банкротству</title>
-      <link>https://telegram.me/tbankrot_official/3469</link>
-      <description>Словарь участника торгов по банкротству
- 
-📖
-
-Если вы только начинаете изучать торги, некоторые термины могут сбивать с толку. Объяснили базовые понятия простыми словами в картинках к посту.
-
-💬
- Какое правило или слово в торгах вгоняет вас в ступор? Пишите, разберем в следующих постах 
-👇</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/ARxhVsHNveY90cas91XqC_QSLWx-JrHJRGicMfju3ubJn8bXluqXzUZKI5SuUSAldGfoSoF-_B2yn9P5ULA2g37oAINAGUDLX3p_2w7pPvvddkRvQz9gtoEPnR3vtcDr7gXOqSklr_3ACkYE_GWUpHgXk7mx965Dy1jj-m4PxA_mn3b-yiOqWXW5x0IFzcN2D5I03owf1UUPx3UIGhLvjS-GsdAMSzK9bYBfOJqUOd0l3g4S34S_czT6PW5CM3CuZ-sZ-cKOQN-64kcxc3Wf4P_znIiUFaE4HnfFzsVVbfHQsP0NbMmvloUEhzhiFgOGD8L6NPyKWtPh5zY1AfComA.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/uT7BgPhq0MtdgZnDXPMaD5xBDQRhHqXi_-VuZ9zdJK2RPq5eZ2GXA55wq6plSlb71N_MlhkDfqC64bRY0KYrLnUgmNC_vpvyklcyDW0p0By7KG8xnMySkYqQlTa36tA-vax_WutF8snlW0ElsZH9p1nUKnjFJHQNPTReXKOF-AukKyHbJ2K_EZZLjaezB6kbvpxzNfc-SEnYimItaIB8K25Rt9OWT73RrqdmBfISd43OGFWIFoFNjf3wJAphW5dNN2vQpNY4OYhzUe9POR--g7Ov2FCk8EwDxwyqyu57GYP8rztbzJvODTMA50xmzfJbyJjKZj86aZB0oFjCkb739w.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/teiqgEE3VRDaKcq_f1cR_CY8OsGW8vdGkWQXcRqkO9_wveyzVF7-2aWDgqj6TNgu8DIJKPTTchY_4b1zTyKs7YILuE1T7Hy1VYzOV0qCblox3qHAuZ8I_oc_IwRaIP9nCtFYz8jNwSuOpj__cWKscVde0RfY-K2860sFKLD-Z4EbrWRlkOtxn_rDhrvQvaw8Y5xHo4kTWqZ7GVer84YbNsUiLBZwHS7fJckt9CSVPlHtur0pHyoU5BnIMmSbjkV1QyJJIkouBAZUSh9jYBEUqf7K7feRArrwD7ya5T_AAY2i8j7aaUwQxvwAOrBKwY9SopupZHscI8YCMItvqgPRKg.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/bPG_XZlEsKVrfSFDKOTgcF3JYvrJIgrtWbnnXopKwJXSXiN5hnwJ4exlWGTTsRMAlmnVh93s8mhvnpUe6-xnOWLR__TcWcADbiQXeCSo_RbYCszJ6rFj086akMjdixQIQMeugT52fhqjbABytoSxBj3fJV8j1BMOU9ztNvourTmdjPTa1l_RJEaLjSKuuVobxq5kVqy26v2kT7pYsWMgMWM52xGQP9v2VreiDD9C4IApbbldQjA7l8XBjRzpxpg5VrWle_4NmZOJPcnbGw5qNmmXhi9cNJl_lWuxT-ZHwGcO1K4j_RJjKoTHGyuPkty5w-xhYH1QzyOJX__cOPa_aw.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/MBSGveYtnoTv9oIxigZvox8VGnDCT_vyLQ8KDPhC1Q7RfM4sCRLlDsiYXQNje18AWLHGCuWpT1TgSBXQbmcZwTkJBnuznt69HljpbDIJv2wy1vfiJ69CtbNzyerU2fLc5QXxsG6v5EMdXdvfVq3c4-_coSC70P5GSMgYuqRG6ex55lzxp96o47orRPhpPeyaYSh6PYjT1nrXLSTkR68Ju2owSm_zsIAtrTEQcg-mPCU9sxJ5wv5X7nXICXAvcTe-5g8jkvxmmX9c2F2h1-uabjBJvbFCPcHJpIUdmrBcpMMt_rJ0RMS2Rmg2Ywo6SK1xIMcs-t8eRMauCcbvXZ0iSw.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/QmN4aiPMGiKcofjoPu8Td50s_VP-4hUizEzIvo049yqalj-fuNoBC6VGvAAJb5I__cO_AL_uKYu10eLcvjgpeKEXr8K_x7n9oULzCjvGpR8Pk1Sd38cgzwlMwslQ9rs2kMbRuXa1li1o75ZbBlFHGEGrHeVDOhNAcslyw2ejWmBg06cz4VJiGXRJxPCfFobK97HpluY6FpFBLU1Ino42dA43lQ8zAtj95lFkHt3FcmdcfboJB29mjilpu_5xs3lic_ObdAUfkXmdHeCCtRllnZ1Lfz5uds0u8hlrBMUKdh9uv3p6QeG0XGpQhrrFlH6ZAx5wuEiUOmtvZVR9Z-1XWw.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/pb_O_dG6Z-PoW5mCeEsf3MYocNwuTKPOTStJxLgqqro4JmKfSxEiE5QVvZgQ1aKe57RmNSaooe0tbDCH-YGRBNgfs6v5lVt2wbQ9gLgdXUM4fSTY6cQP-9iEkdEhZpp50hRst2Wb43H720cZ5XUsf7JuPK5JQdPgT5S1pNe1Y338N8sT18NFXMDAh6vozqlxJFiP2QNFycb50723EOpHPxiT8Q2LODnaF_hduI3k72LfT7rezCI49ekbPdwUkLKcLKZLC4Gpo-GgbwiLAI7hEeXsVhJFXsUSgq7mamrukaqpXg8t-smNhd6fBdHZNfblY5_YqepafSlbwSIFCsKjbA.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/PdJil6BziDZbpgMq6JRcUQow4IGGG336SBFBcr9tPk8ZaUB4LpRZfKRTqrVhuXXddCoq1t574gc2mmZNhpmbPMudZvZDGa_Y_uItTb88hLbOzCzNvXAkgcUpyebsQLrFRxo01N5GVAtnotOIsfATxxVPmP4mvt_lZNIEATkMXXi5piJKuEv5n5glZFcka6spy3bH06gETgdLkyGuuFNyLEexQXN5IzYrTt5adGHA13I4s8-JBbdpgacDltC0Jzqi6d4JW95o3EOvwvVEE7bXhFciZfGFiNvrTm8SVIvCVLZzCIA2TMoMVYwlOEYbwgmzTOqRSejA2BjVRvMhZnhmfg.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/XZ1L0ue27wWWj1qsWlf0LTkO2U4z0BGMSPdYfoWRMh6qI0Y4K7XISkefYd68cVOdS16ZNbEAL50m51Zu5ke2w2a9zkiZL-Xk5oQhY-53N6s7qe4_O88xS49ZnjZw4mZUT-rF1LtnXHbne36Aoa1I1lkQEze1G8VDKVKxSO1TI79i1HbrlEhbG-dh83YWNMSjcqkUdWkfsac6FN8BloSCXeZNuBo_6EML_TQ6pZpX3qNrLDdj58lD4s41YEXgRVCPaQRFkVA1DBi5TmzcVfiR53Zy75Tc0mpObejMzufd8EBciMd0QRojMww_w1mrCo2O02-7LQ92Kqx8TgMm2vrj-A.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/rF_ybFwEY46RR_rhIetYfZGaZ2hjvMNqqRLSnpNaVKWF4eGMnkoG7VtcnVUkWG6r7v5CsBe6138mu4gISEBHONj1OjJO05AgyMXYyOzlT-G_IX_NL6BAzy4M-3ONHDp4bLIZ_w8F7NcEjIybMO9jFb0GQHzc7azZk5zyLU231sek1Femj2owMNUtGwftF6r4LzNnedSJrvkG0IQ68Rl1ITMNKaN-ykHzybcgbKwaRnqRLLYWVmIukQ9_A-gL1u_l2XTwAy1_JdQDLr0ILpGb3sz0Kb_S2sobMjFNd5PgS6qpmzscBeT9UVML27DY3MrQE_OE7mcXaFP3y0wCiLe06A.jpg" /></p>
-<div class="tgme_widget_message_text js-message_text" dir="auto"><b>Словарь участника торгов по банкротству</b> <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9396.png')"><b>📖</b></i><br/><br/>Если вы только начинаете изучать торги, некоторые термины могут сбивать с толку. Объяснили базовые понятия простыми словами в картинках к посту.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92AC.png')"><b>💬</b></i> Какое правило или слово в торгах вгоняет вас в ступор? Пишите, разберем в следующих постах <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9187.png')"><b>👇</b></i></div>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/tbankrot_official/3469</guid>
-      <pubDate>Thu, 10 Sep 2026 14:34:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>🏷</title>
-      <link>https://telegram.me/tbankrot_official/3468</link>
-      <description>🏷
- Как навести порядок в сотнях интересных лотов?
-
-Когда вы отслеживаете 5-10 лотов, всё просто. Но что делать, когда их 50 или 100? Как не запутаться в объектах для разных клиентов, себя или перепродажи?
-
-Excel-таблицы и записи в блокноте работают, но есть способ проще и удобнее — ставить метки на лотах прямо в сервисе TBankrot 
-👇
+      <title>👀</title>
+      <link>https://telegram.me/tbankrot_official/3480</link>
+      <description>👀
+ Что выиграли на торгах на прошлой неделе: от места под кофе-аппарат до квартиры 
 
 1️⃣
-  Придумайте нужные вам критерии для сортировки и помечайте ими лоты. Нашли квартиру для клиента? Ставьте метку «клиент Петрович». Нужно запланировать осмотр? Метка — «осмотреть».
+  Аренда площади под вендинговый аппарат 4 м² в г. Пенза
+
+Начальная цена: 9 300 ₽
+
+Конечная цена: 15 265 ₽ (+65%)
+
+Участников: 2
+
+👉
+ 
+https://clck.ru/3VoRno
+  
 
 2️⃣
-  Фильтруйте лоты по меткам. На странице поиска выберите нужную метку и увидите только те лоты, которые вы сами для себя отметили.
+ Дом 20 м² на 4 сотках в Челябинской обл.
 
-💬
- А вы уже пользуетесь метками? Какие самые полезные для себя создали? 
+Начальная цена: 295 200 ₽
+
+Конечная цена: 87 650 ₽ (-70%)
+
+Участников: 14
+
+👉
+ 
+https://clck.ru/3VoRmr
+   
+
+3️⃣
+  Автомобиль LADA XRAY, 2017 г. в.
+
+Начальная цена: 378 000 ₽
+
+Конечная цена: 350 000 ₽ (-7%)
+
+Участников: 2
+
+👉
+ 
+https://clck.ru/3VoRkx
+  
+
+4️⃣
+ Квартира 71 м² в г. Солнечногорск (Московская обл.)
+
+Начальная цена: 8,1 млн ₽
+
+Конечная цена: 6,87 млн ₽ (-15%)
+
+Участников: 1
+
+👉
+ 
+https://clck.ru/3VoRjS
+   
+
+5️⃣
+ Квартира 56,8 м² в г. Санкт-Петербург
+
+Начальная цена: 11,4 млн ₽
+
+Конечная цена: 10,6 млн ₽ (-7%)
+
+Участников: 2
+
+👉
+ 
+https://clck.ru/3VoRie
+ 
+
+ 
+👇
+ Какой лот из подборки кажется вам самым интересным? 
 👇</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/Du1-VGpeB0YxMyV7MieIvi3xOwhDd8uaPlKxJolsA5vI4EGdKyYOOlo5-s98widtFKJqlml39anR8ydApE3xAxykXb08o5zd-e4j_jpudIE0DAfmoFTsDEXIGyvuOr8VHyFhTc-5n549t2SaSKd7Y8zTU6znsAcqBalZ_ns8BU8CvU8s0z5wGVPmOI-K3lO3DpSTM6j44-1NL2AOIgCFTj0SCXrMcIpbAkOXg8IkXQOE0J94cwDVPr8SFbSk_Nr0bilEdmhRGgbXqDkuJqJJ3FVjqZxN7CtRzXc_RRtu46yG1h8vptj3rq09nqNC2NfVxQJVd5q06uwWHOj_IXVWCw" /></p>
-<b><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8FB7.png')"><b>🏷</b></i> Как навести порядок в сотнях интересных лотов?</b><br/><br/>Когда вы отслеживаете 5-10 лотов, всё просто. Но что делать, когда их 50 или 100? Как не запутаться в объектах для разных клиентов, себя или перепродажи?<br/><br/>Excel-таблицы и записи в блокноте работают, но есть способ проще и удобнее — ставить метки на лотах прямо в сервисе TBankrot <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9187.png')"><b>👇</b></i><br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/31E283A3.png')"><b>1️⃣</b></i>  Придумайте нужные вам критерии для сортировки и помечайте ими лоты. Нашли квартиру для клиента? Ставьте метку «клиент Петрович». Нужно запланировать осмотр? Метка — «осмотреть».<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/32E283A3.png')"><b>2️⃣</b></i>  Фильтруйте лоты по меткам. На странице поиска выберите нужную метку и увидите только те лоты, которые вы сами для себя отметили.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92AC.png')"><b>💬</b></i> А вы уже пользуетесь метками? Какие самые полезные для себя создали? <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9187.png')"><b>👇</b></i>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/tbankrot_official/3468</guid>
-      <pubDate>Wed, 09 Sep 2026 14:03:01 +0000</pubDate>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/bBQk7WsP6cx_SAeRyNxPEOyo-V5U3Br9ceChEsGqhSO-l8Kt2SCn4Ol2l7aINUJvfXKQj6x8S-WUE-8scxJQLsaLUATFVyiQC6blrr80corVPg7UIKXu6nXot515PYGcG0tW1RTbTq2Ejr05meeRIpk-Ds1xEtI0kb8WNcLA5Uj2-nj7mcNTrUp9oUCXaRVW4xVdVfIw0A10QjbjdtbWXLzNLQQsfYPZA-zzQ4iZInOxvkeFiyFNZCZTJqhfMzm6ble1xV1RbyRMFPZq65tNupTJEAqmbiyrTjXsJsIk5XTUSc6S-KiCyEzpLdwGJkvNK32HMT0YL8__xVKMqhqB_A.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/etr611Q969BKGqXO0ythsOryjWcKeqIO6cjWpJX3ht8xmLpfgGLrhNou8TrgvnS_h_u_XZeUqd_Da_9lNYC1DzVpTKWGUIUuI7vIRgdfXum6-kCCRFDP1Ej7jeI7Mt7gF2uEvO3qM1xBw6VkjAyx4MlCRAlBDlkzvj9fM77h3xksqIJb8DEyXY5A6QZkV4oIQLDsXumHtMkB9pVi9oYACVLsq6A4qzkAl63Wvxo8Zulxpa4orxroMOZvq0uwGDTj5HJyRcA1hPZuyUxIX4Gebk3WTjvFiRhOBHdg421YwB_nAG9-mi5wWz1qSogfua3msbwgr06bVyFbUAIO_Ou5Bw.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/iIHY5QW_7pDnCvsgaWaQSKF1m36nkn--aG7pDSJ3mghc8M5fiV2nOwTQaCU6qet0PG2QQC5DEyg8KA7iYTkNq4ASXrleOX3sWylEMymHVb4o8Z-AZ2N6WADNgQUfclUHEqM2TeVLeFfNg-2piUFnBoR4iwvvbwbgbtLJglibuth3bkWE92Iuzv7ZWF2ZEnrYukEs8GIwR0c6Pe_tY83DXXyI5TY3sg3XOm2zWF1TM80df66jcdDYJGvf3-ryBHrHxz2kAjqeLeOUlLnet_oOM6-hBAuEaDqtueqF-pby0PaHS60KO__mXVj0PlHSxPryV72nFSqJUVkhuO1s48N70g.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/wAVrera9LBdTGAYwwsxd02l4_xJpWtNCU4adRnsQGSDugBSWkICYhud1UOiOAgAB8npfheytXQgXvtmPvv1DKCRWaqWHUShybKEo0oio3SNOb0yRhTwd-vxHdxu_SkctucxTPEmoMTaMDda9UqPLw3k_-G38HxFaV2kOjiq89xuYLr99Qnb1DQrySX9Uk2ej7OIGyYeHfcQjDXJ_i082NAIK4a4pCsrigKrHy-mtkL9MuyeR2W1swcJieQTGCGoOpivtQqBOSXFFN9fqYpJrYdc-shunKohwUGmtbAnVSqulVbM-hJs3BJkNwAjKdjRAxzAdxFA2vZe6DyaeSGWpRg.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/BBw39iWxWS48rvYUEdqI_svQh-Hpx-0EPZN0K-mAEGft0WOlLYN9owjIVEClqY0NENzU6EpH3LmwTkraaModCTjMdw0jtqhwGyt3kACAEXeO-CPtB-R8hsquFE58J-NK_p96Wi4NwomJegLcWD15-Z9s-Mnu4OZtgvENHIvppI3TDgqrsEa1n4s7W1pY75wpbpKyb8O6jSRTDbKo66TsC1pVe6PnOw_KDa2-42ESefjgpZfAo1hBzAii6o4zkhnhJYkSUs0Rm5wqA6vBTfOG_30-KIQAoYZ8JxLl8tAE4_ezS_64E2NRTAexIVuU_dS7Rqs4v3D_zRyFMFH3nQwSYw.jpg" /></p>
+<div class="tgme_widget_message_text js-message_text" dir="auto"><b><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9180.png')"><b>👀</b></i> Что выиграли на торгах на прошлой неделе: от места под кофе-аппарат до квартиры <br/></b><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/31E283A3.png')"><b>1️⃣</b></i>  Аренда площади под вендинговый аппарат 4 м² в г. Пенза<br/>Начальная цена: 9 300 ₽<br/>Конечная цена: 15 265 ₽ (+65%)<br/>Участников: 2<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"><b>👉</b></i><a href="https://tbankrot.ru/item?id=7970319" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"> </a><a href="https://clck.ru/3VoRno" rel="noopener" target="_blank"><u>https://clck.ru/3VoRno</u></a>  <br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/32E283A3.png')"><b>2️⃣</b></i> Дом 20 м² на 4 сотках в Челябинской обл.<br/>Начальная цена: 295 200 ₽<br/>Конечная цена: 87 650 ₽ (-70%)<br/>Участников: 14<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"><b>👉</b></i><a href="https://tbankrot.ru/item?id=7931107" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"> </a><a href="https://clck.ru/3VoRmr" rel="noopener" target="_blank"><u>https://clck.ru/3VoRmr</u></a>   <br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/33E283A3.png')"><b>3️⃣</b></i>  Автомобиль LADA XRAY, 2017 г. в.<br/>Начальная цена: 378 000 ₽<br/>Конечная цена: 350 000 ₽ (-7%)<br/>Участников: 2<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"><b>👉</b></i><a href="https://tbankrot.ru/item?id=7945357" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"> </a><a href="https://clck.ru/3VoRkx" rel="noopener" target="_blank"><u>https://clck.ru/3VoRkx</u></a>  <br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/34E283A3.png')"><b>4️⃣</b></i> Квартира 71 м² в г. Солнечногорск (Московская обл.)<br/>Начальная цена: 8,1 млн ₽<br/>Конечная цена: 6,87 млн ₽ (-15%)<br/>Участников: 1<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"><b>👉</b></i><a href="https://tbankrot.ru/item?id=7995332" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"> </a><a href="https://clck.ru/3VoRjS" rel="noopener" target="_blank"><u>https://clck.ru/3VoRjS</u></a>   <br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/35E283A3.png')"><b>5️⃣</b></i> Квартира 56,8 м² в г. Санкт-Петербург<br/>Начальная цена: 11,4 млн ₽<br/>Конечная цена: 10,6 млн ₽ (-7%)<br/>Участников: 2<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"><b>👉</b></i><a href="https://tbankrot.ru/item?id=7988945" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"> </a><a href="https://clck.ru/3VoRie" rel="noopener" target="_blank">https://clck.ru/3VoRie</a> <br/><br/> <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9187.png')"><b>👇</b></i> Какой лот из подборки кажется вам самым интересным? <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9187.png')"><b>👇</b></i></div>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/tbankrot_official/3480</guid>
+      <pubDate>Mon, 14 Sep 2026 08:04:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚖️</title>
+      <link>https://telegram.me/tbankrot_official/3479</link>
+      <description>⚖️
+ 
+Верховный суд запретил СРО собирать дань с торговых площадок
+
+Чтобы электронная площадка (ЭТП) могла работать с арбитражными управляющими конкретной СРО, площадке нужно получить аккредитацию именно при этой самой СРО.
+
+💸
+  СРО «Единство» ввела для площадок плату
+:
+
+🔹
+ 
+1 млн ₽
+ — «добровольный» взнос для получения статуса ассоциированного члена (без этого аккредитацию не давали).
+
+🔹
+ 
+100 000 ₽
+ — взнос за саму процедуру аккредитации.
+
+🔹
+ 
+Доля с каждой продажи
+ — СРО диктовала площадкам, какую комиссию удерживать из конкурсной массы (3 000 ₽ за лот + 1,5% от суммы продажи), и половину этого заработка забирала себе.
+
+🛑
+ Площадка РАД отказалась платить. После долгих судов дело дошло до ВС РФ. 
+
+📜
+  ВС РФ признал схему незаконной. Главные выводы:
+
+🔹
+ Взносы только на бумаге называются «добровольными». На деле площадки вынуждены платить, иначе СРО блокирует им доступ к лотам своих управляющих.
+
+🔹
+ СРО — это некоммерческая организация. Делать из выдачи аккредитаций бизнес — нельзя.
+
+🔹
+ Такие тарифы создают искусственные барьеры и мешают честной конкуренции на рынке.
+
+(Дело № А32-69287/2024)</description>
+      <content:encoded><![CDATA[<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29A96.png')"><b>⚖️</b></i> <b>Верховный суд запретил СРО собирать дань с торговых площадок</b><br/><br/>Чтобы электронная площадка (ЭТП) могла работать с арбитражными управляющими конкретной СРО, площадке нужно получить аккредитацию именно при этой самой СРО.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92B8.png')"><b>💸</b></i>  СРО «Единство» ввела для площадок плату<b>:<br/></b><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> <b>1 млн ₽</b> — «добровольный» взнос для получения статуса ассоциированного члена (без этого аккредитацию не давали).<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> <b>100 000 ₽</b> — взнос за саму процедуру аккредитации.<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> <b>Доля с каждой продажи</b> — СРО диктовала площадкам, какую комиссию удерживать из конкурсной массы (3 000 ₽ за лот + 1,5% от суммы продажи), и половину этого заработка забирала себе.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9B91.png')"><b>🛑</b></i> Площадка РАД отказалась платить. После долгих судов дело дошло до ВС РФ. <br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F939C.png')"><b>📜</b></i>  ВС РФ признал схему незаконной. Главные выводы:<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> Взносы только на бумаге называются «добровольными». На деле площадки вынуждены платить, иначе СРО блокирует им доступ к лотам своих управляющих.<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> СРО — это некоммерческая организация. Делать из выдачи аккредитаций бизнес — нельзя.<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> Такие тарифы создают искусственные барьеры и мешают честной конкуренции на рынке.<br/><br/><i>(Дело № А32-69287/2024)</i>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/tbankrot_official/3479</guid>
+      <pubDate>Fri, 11 Sep 2026 15:25:32 +0000</pubDate>
     </item>
   </channel>
 </rss>

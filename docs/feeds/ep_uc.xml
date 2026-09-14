@@ -8,130 +8,188 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 11 Sep 2026 09:52:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 10:50:15 +0000</lastBuildDate>
     <item>
-      <title>🏛</title>
-      <link>https://telegram.me/ep_uc/5532</link>
-      <description>🏛
- 
-Судебная практика - код из СМС не идентифицирует подписанта 
+      <title>✍️</title>
+      <link>https://telegram.me/ep_uc/5555</link>
+      <description>✍️
+6 лет приказу Минцифры о формате электронной подписи 
 
-Всё больше подобных дел рассматривается 
-судами
- разной инстанции, включая Верховный Суд (
-дело 5-КГ26-78-К2
-), отменяющего решения нижестоящих судов.
+Сегодня исполняется ровно 6 лет, как был подписан приказ ещё 
+Минкомсвязи России от 14.09.2020 № 472
+ "Об утверждении Формата электронной подписи, обязательного для реализации всеми средствами электронной подписи".
 
-Ситуация классическая - звонок от "сотрудника службы безопасности", взлом личного кабинета Госуслуг, оформленный кредит по СМС.
+Он интересен тем, что за 6 лет утвержденный формат электронной подписи, который кстати является обязательным для реализации всеми средствами электронной подписи, ни разу не применялся на практике.
 
-Что решил Верховный суд - одного ввода кода из СМС (простая электронная подпись согласно условиям договора ДБО) для оформления кредита недостаточно, 
-необходимо подтверждение факта формирования ЭП определенным лицом
- (прим. 
-@ep_uc
- - настоящим клиентом банка, а не мошенниками).
+Предложения о корректировке объективных 
+[прим. ОБЪЕКТНЫХ] 
+идентификаторов для указанных атрибутов заслуживают дополнительной экспертной проработки и будут приняты во внимание в рамках проводимой работы по совершенствованию нормативного правового регулирования в сфере электронной подписи.
 
-Верховный Суд в своём первом обзоре судебной практики 2025 года 
-ранее постановил
-: кредитные договоры, заключённые без ведома клиента через мобильное приложение банка, не имеют юридической силы. 
+Все шесть лет в нём была 
+ошибка
+, которая так и не исправлена. В 
+феврале этого года
+ появился проект, устраняющий ошибку, но 
+он застыл
+ на этапе Подведения итогов публичного обсуждения. 
 
-✍️
-"Об ЭП и УЦ"</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/gbDgxeR4pdKa5f-tz6oQgevYrplMm3k25ICjsFXmjfzKoYjc-JT7_gPGVwhvtKNr3yNUzux0qTSf2wEtxzcrf36NKf5L657gummt88mnk5LvXhpnh5T3T04J7u0XJ1FjhmRUNf0faOwJptN33cY_do5582vXveO78YsLSKrh5eUcC6SKvmiHNVHohQhqxlf6jWJLnhnF_3nSPxPZqj9nMWlnOPOOVn_kdZugWU9tjS5rdLu2MdLi5RTkQXK8wOa9tXOreERDPf7wInSlUuFRtyn9eDu5WMmHCSmygw9AreuQjhDh2V-B1tCq9mmMFFqZsKLBpW3xVrzKEXcm8wADmw.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/YoNrLX6PHtdxt1m-iM6BuJmprBKxeI0m072g5dC-JEiDPs5pdQs-PIl3SQD66GwabuZhOEgtQ_CZ6euatV_OhpuBQiVX85i8ye4McThEjOyQqc6-dQfaX3feDpfpPX6nSntQR4bhHWhNCcVBkGtQGW-Cf-lWboWvFwZ16K2cXXkvADXSJT5u8rwlE3n5MzofLjV5e94VGUONFkFsMPv3kv3w6uhW-j7uabn12uN8ruVbFEK8saAU_olwqHZeCfFGtcZh547DACD0pDbvCuqry0e7WOm2V_3pL2x-1WvdUZI5RWSjTo4B57Fi0BewoJX5glD5mJv4ofFOJdMgrRtGQg.jpg" /></p>
-<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8F9B.png')"><b>🏛</b></i> <b>Судебная практика - код из СМС не идентифицирует подписанта </b><br/><br/>Всё больше подобных дел рассматривается <a href="https://telegram.me/ep_uc/5342" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">судами</a> разной инстанции, включая Верховный Суд (<a href="https://www.vsrf.ru/lk/practice/stor_pdf/2563584" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">дело 5-КГ26-78-К2</a>), отменяющего решения нижестоящих судов.<br/><br/>Ситуация классическая - звонок от "сотрудника службы безопасности", взлом личного кабинета Госуслуг, оформленный кредит по СМС.<br/><br/>Что решил Верховный суд - одного ввода кода из СМС (простая электронная подпись согласно условиям договора ДБО) для оформления кредита недостаточно, <b>необходимо подтверждение факта формирования ЭП определенным лицом</b> (прим. <a href="https://telegram.me/ep_uc" target="_blank">@ep_uc</a> - настоящим клиентом банка, а не мошенниками).<br/><br/>Верховный Суд в своём первом обзоре судебной практики 2025 года <a href="https://telegram.me/ep_uc/3402" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">ранее постановил</a>: кредитные договоры, заключённые без ведома клиента через мобильное приложение банка, не имеют юридической силы. <br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5532</guid>
-      <pubDate>Fri, 11 Sep 2026 05:06:42 +0000</pubDate>
+Все созданные квалифицированные и неквалифицированные электронные подписи в стране не соответствуют НПА по одной причине - ему просто нельзя соответствовать, ошибка проверки средствами ЭП будет гарантирована. Вот такой вот 
+🔐
+, ...
+
+🚀
+Об ЭП и УЦ</description>
+      <content:encoded><![CDATA[<tg-emoji emoji-id="5470060791883374114"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><b>6 лет приказу Минцифры о формате электронной подписи </b><br/><br/>Сегодня исполняется ровно 6 лет, как был подписан приказ ещё <a href="http://publication.pravo.gov.ru/Document/View/0001202010290040" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Минкомсвязи России от 14.09.2020 № 472</a> "Об утверждении Формата электронной подписи, обязательного для реализации всеми средствами электронной подписи".<br/><br/>Он интересен тем, что за 6 лет утвержденный формат электронной подписи, который кстати является обязательным для реализации всеми средствами электронной подписи, ни разу не применялся на практике.<br/><br/><blockquote>Предложения о корректировке объективных <a href="https://telegram.me/ep_uc/2643" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">[прим. ОБЪЕКТНЫХ] </a>идентификаторов для указанных атрибутов заслуживают дополнительной экспертной проработки и будут приняты во внимание в рамках проводимой работы по совершенствованию нормативного правового регулирования в сфере электронной подписи.</blockquote><br/><br/>Все шесть лет в нём была <a href="https://telegram.me/ep_uc/2643" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">ошибка</a>, которая так и не исправлена. В <a href="https://telegram.me/ep_uc/4554" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">феврале этого года</a> появился проект, устраняющий ошибку, но <a href="https://regulation.gov.ru/projects/164702/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">он застыл</a> на этапе Подведения итогов публичного обсуждения. <br/><br/>Все созданные квалифицированные и неквалифицированные электронные подписи в стране не соответствуют НПА по одной причине - ему просто нельзя соответствовать, ошибка проверки средствами ЭП будет гарантирована. Вот такой вот <tg-emoji emoji-id="5327952221118164589"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9490.png')"><b>🔐</b></i></tg-emoji>, ...<br/><br/><tg-emoji emoji-id="5866355487255039002"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9A80.png')"><b>🚀</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Об ЭП и УЦ</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5555</guid>
+      <pubDate>Mon, 14 Sep 2026 07:55:41 +0000</pubDate>
     </item>
     <item>
-      <title>Пост — Об ЭП и УЦ</title>
-      <link>https://telegram.me/ep_uc/5529</link>
-      <description>Пост — Об ЭП и УЦ</description>
-      <content:encoded><![CDATA[(нет текста)]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5529</guid>
-      <pubDate>Thu, 10 Sep 2026 05:19:17 +0000</pubDate>
+      <title>🎥 Видео — Об ЭП и УЦ</title>
+      <link>https://telegram.me/ep_uc/5554</link>
+      <description>🎥 Видео — Об ЭП и УЦ</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/MJNWwI_zetBMUh1DLpflRXekwBsZdhnl7Nr1yRiq_iQKRqDgpytQpNXby8ElG_TMAEU9Wwj-jU9zlME-lepnNLa-Am02nqnFsL_HZdlPaR9f-KbqrPg15TT7ssCa5cG4Ckcj-er_4h_mxi_upXNOacmcD6MGgOUwJXcvK1xFqaycgKAWnZVWqGlalL6XCBNEnsfwWMjk8P3gYNEeBSgCIAQB-PuulC02flBZAXYwQTcd5aMNjpx55r70YBvLu5PL4Quh4MumZbyhyZSK8Gg2uKSwcJUkmqo0dOtsMltOCbk9dikqET_e-LJZQOX7hBMiAcpzAcCBNa4iE1IcNqEtdA" /></p>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5554</guid>
+      <pubDate>Mon, 14 Sep 2026 06:16:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>🎥 Видео — Об ЭП и УЦ</title>
+      <link>https://telegram.me/ep_uc/5553</link>
+      <description>🎥 Видео — Об ЭП и УЦ</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/RP5s9i9g4JQ32r_8smiNxMz6VFdHeacOU43ZFfFUV3lG9JEjRDRqCYJfWKq8gru6gCGk6L1fqKtyOSdRRlzGsnDqVeLnKsGoY2w3IYvq-Rj4tn3UcQMTywWKl9zAb7XH_9nqYteZ5djJAE4G2-iD_NOIhqpQ0hIZy4P_z0dbePw_XmWNGNtTAPS4_Bq1JWtQ0HqT_W6p2aq46QXhyV7ACLRZllJ-3EnWfQ-Ox9JwAs1BdzikeR2JqPi25lS0FttoKU2Ahmy_6ewPmc0tnJskfsh8bemCKBRZ4LNv6o_h4s3BS68Wd0ZYlWGRhAqSTXjBreEzgR_BzuIsdEfWekyqvg" /></p>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5553</guid>
+      <pubDate>Mon, 14 Sep 2026 06:15:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>🎥 Видео — Об ЭП и УЦ</title>
+      <link>https://telegram.me/ep_uc/5552</link>
+      <description>🎥 Видео — Об ЭП и УЦ</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/Htn1-PiaFtxT8lYf-bcfxevFYtyoHx-c_TL0vedrB_jY6jUvrcJYsV64kvJ0KwUbXk-2f6AAtsd7_OQK3-K8Sty_NGS9qSrOe3md7pXKGUqroNLTfSpRYOzr6qs97h5FS45CDlMtzgNpc8Ggf3Ous_Gyn4XKzppsUfgcXReZWU50GuuMD3I3hSBhApP7AIGEIRnnRFOS8DQNVeC0t718UDXi2hGePtJ11Aypis77qFrT70w90OELNpMrcAqrpAFMJIrItknzCHi0r07adeuygm0fm-tTmp62BZBiwghMmteLYruX__1jTG40m6HdwjSHmyudLlbqMmas-ruA-PYNIg" /></p>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5552</guid>
+      <pubDate>Mon, 14 Sep 2026 06:15:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>🚨</title>
+      <link>https://telegram.me/ep_uc/5550</link>
+      <description>🚨
+ 
+Утечка данных в Revolut: как мошенники обошли защиту, а банк им помог
+
+Revolut - британский банк (как тут не вспомнить анекдот про Василия Ивановича, что джентльменам верят на слово?) получил запрос на раскрытие данных клиентов, который выглядел как официальный запрос от госоргана. Банк его безоговорочно выполнил. Оказалось - мошенники. Подробностей мало, только из 
+информационных писем
+, что сам банк направил своим клиентам.
+
+Письмо пришло не с поддельного адреса-двойника, а с настоящего домена государственного органа, какого именно - не понятно. Письмо содержало валидные учетные данные аутентификации домена, domain authentication credentials (DKIM) - технически "электронная подпись" была подлинной.
+
+DKIM подтверждает, что письмо отправлено именно с конкретного домена и не было подделано в процессе доставки, но не подтверждает, что отправитель действует законно. Если злоумышленники получили доступ к реальному почтовому аккаунту или серверу ведомства - подпись останется валидной у мошеннического запроса.
+
+Revolut поверили на слово, приняли запрос за легитимный и выполнили его "на основании разумного предположения". Можете себе представить, чтобы у нас какой-нибудь банк выполнил 
+вот такой запрос
+?
+
+Добровольное утекло:
+
+🔹
+ФИО, дата рождения, род занятий
+
+🔹
+Адрес, email, телефон
+
+🔹
+Копии паспортов, водительских удостоверений + селфи для верификации
+
+🔹
+Финансовые данные: IBAN, выписки, история транзакций, включая Bitcoin
+
+Revolut настаивает, что это не взлом их систем, а "несанкционированное раскрытие". Средства клиентов не пострадали. Адрес отправителя заблокирован, уведомлены регуляторы и правоохранители, при этом точное число пострадавших не раскрывается. Предполагается, что атака могла быть нацелена на состоятельных клиентов.</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/oXJi3sDzcHrKiriJDOi8TSU0e4kFbqRygQ3-N7GlGNptxFYSypqd34izUXZ99QQFGIDkqMTEy-oH7IJpBdbMCb-TH7lCW6CpTf4X6ytdt6kitGW2aarRNJPqZH0-9O1jw2b5iy0MiX452bxQWnRuVOSHZpoxIqUJUeJs55Jij6s0keeSmPoNrbpMAbhiqV1nklS9_7u7G9m9DZ6hLFNj-bsI2T56f0SUekLk_V93ereOPg4G7oCpARzOo7ee4elTf2rU_mLydyKfdGd_W-h0zGrJgzmOkuPaqo8gz4a1OLhdQGrBKbzMiZ_agbrbzketylXqvD351lEkPvzykqSlbA.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/AytUUCBRnqn4pZRkK8c8OCSFXwYryCLoMFgrqwzvgGblr2HJEYPtxQ5W1lwJu_ZRhJ-xwXaMvG6UrcvMAVgOo678hOmfVfRJPjEBDebcKlASL6sbnIKb99wTU9fCefJwJ_w5ihEuzgfnFLCn6KmPQU7q549zI1U0hK9oEx62Kn3W-y2tOf3UgRSOT_GjdhnU0cJBagZSEZe9G3X8m_6Srm_zma95jYVLAOpVNn1pPwCdmR_s5iucJqQxEttAaRXUkY77cU0kf4Bi92XY5pd1mR4v5hNgu5TajhVCcmymMXSzbE95WwIufT_y56wqjfU6Be6oGSK_t69kOShlD9I7wA.jpg" /></p>
+<div class="tgme_widget_message_text js-message_text" dir="auto"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')"><b>🚨</b></i> <b>Утечка данных в Revolut: как мошенники обошли защиту, а банк им помог</b><br/><br/>Revolut - британский банк (как тут не вспомнить анекдот про Василия Ивановича, что джентльменам верят на слово?) получил запрос на раскрытие данных клиентов, который выглядел как официальный запрос от госоргана. Банк его безоговорочно выполнил. Оказалось - мошенники. Подробностей мало, только из <a href="https://www.internationalcyberdigest.com/revolut-gave-away-customers-data/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">информационных писем</a>, что сам банк направил своим клиентам.<br/><br/>Письмо пришло не с поддельного адреса-двойника, а с настоящего домена государственного органа, какого именно - не понятно. Письмо содержало валидные учетные данные аутентификации домена, domain authentication credentials (DKIM) - технически "электронная подпись" была подлинной.<br/><br/>DKIM подтверждает, что письмо отправлено именно с конкретного домена и не было подделано в процессе доставки, но не подтверждает, что отправитель действует законно. Если злоумышленники получили доступ к реальному почтовому аккаунту или серверу ведомства - подпись останется валидной у мошеннического запроса.<br/><br/>Revolut поверили на слово, приняли запрос за легитимный и выполнили его "на основании разумного предположения". Можете себе представить, чтобы у нас какой-нибудь банк выполнил <a href="https://telegram.me/ep_uc/2227" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">вот такой запрос</a>?<br/><br/>Добровольное утекло:<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>ФИО, дата рождения, род занятий<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>Адрес, email, телефон<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i><b>Копии паспортов, водительских удостоверений + селфи для верификации</b><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>Финансовые данные: IBAN, выписки, история транзакций, включая Bitcoin<br/><br/>Revolut настаивает, что это не взлом их систем, а "несанкционированное раскрытие". Средства клиентов не пострадали. Адрес отправителя заблокирован, уведомлены регуляторы и правоохранители, при этом точное число пострадавших не раскрывается. Предполагается, что атака могла быть нацелена на состоятельных клиентов.</div>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5550</guid>
+      <pubDate>Sun, 13 Sep 2026 14:44:00 +0000</pubDate>
     </item>
     <item>
       <title>✍️</title>
-      <link>https://telegram.me/ep_uc/5526</link>
+      <link>https://telegram.me/ep_uc/5545</link>
       <description>✍️
-Минстройцифры
+"Фантазёр, ты меня называла"
 
-Минстрой после истории с написанием в 
-феврале письма
- по подписанию проектной документации КЭП и его 
-отзывом в августе
-, боится комментировать что-то связанное с электронной подписью.
+Ассоциация российских банков на фоне массового отзыва сертификатов безопасности иностранными удостоверяющими центрами в 
+июне
+, 
+июле
+ направила 
+письмо
+ "О сертификатах Минцифры России в банковской и торгово-сервисной инфраструктуре" в Минцифры на имя Министра. Нужно отдать должное уровню открытости АРБ - 
+не скрывают
+ свою переписку с ведомствами, но отвечают не все - 
+Судебный департамент при Верховном Суде
+, например, 
+так и не ответил
+ (а могли просто 
+направить в Минцифры
+, как Минстрой).
 
-В ответе на обращение
-  о подписании изменений в проектную документацию для проведения экспертизы электронной подписью Минстрой адресует данный вопрос в адрес Минцифры:
+Что просят, мне было достаточно первого пункта:
 
-Вместе с тем стоит отметить, что требование о представлении электронных документов, подписанных электронной подписью, содержится в нормах Федерального закона от 6 апреля 2011 г. № 63-ФЗ "Об электронной подписи" (далее - Федеральный закон № 63-ФЗ).
+В целях минимизации вышеприведенных рисков и обеспечения технологического суверенитета платежной инфраструктуры Российской Федерации кредитные организации предлагают:
 
-В соответствии с Положением о Министерстве цифрового развития, связи и массовых коммуникаций Российской Федерации, утвержденного постановлением Правительства Российской Федерации от 2 июня 2008 г. № 418, Минцифры России является федеральным органом исполнительной власти, уполномоченным в сфере использования электронной подписи. В целях получения соответствующих разъяснений по вопросам использования электронной подписи рекомендуем обратиться в Минцифры России в установленном порядке.
+Установить обязательность признания 
+сертификатов Минцифры России и удостоверяющих центров, аккредитованных Минцифрой России,
+ во всех программных продуктах и операционных системах, используемых:
 
-Устанавливать необходимость подписания проектной документации электронной подписью Минстрой 
-в своем приказе
- может, а разъяснять, что же там написано, не может.
+кредитными организациями;
 
-✍️
-"Об ЭП и УЦ"</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/tVDEeeXN8CuNx6EtIgradtHeT361FpNjBaqGFtAjgJ2JyZetIUv7dNdwRotP0kfCtOjHVaH35vyK5wnyAs-pWDbqC9Gnfd7GJzdqKuREiN31smSb9k3uQaTYQD8raeXSck6lN6EwWWBiw2xR0PeBH39NDwJS1X67GZcGbc23F4xX_wU-i7uhShBebRiaiPUP29JWvEElFIH2-thiGJUQAVk_rGJjEkbOxA4w8F7_m5n0RmvC3roRp-HpiaDyl8zvMqB-tn-5rSTW-FcuAmwEAtomp8M9jcf2tCmLjI-wucQykIPzK-d23dkIg9Q946rK4Hd59HhJ41uVyUzvEJRTWw.jpg" /></p>
-<tg-emoji emoji-id="5470060791883374114"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><b>Минстройцифры</b><br/><br/>Минстрой после истории с написанием в <a href="https://telegram.me/ep_uc/4573" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">феврале письма</a> по подписанию проектной документации КЭП и его <a href="https://telegram.me/ep_uc/5378" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">отзывом в августе</a>, боится комментировать что-то связанное с электронной подписью.<br/><br/><a href="https://base.garant.ru/414878056/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">В ответе на обращение</a>  о подписании изменений в проектную документацию для проведения экспертизы электронной подписью Минстрой адресует данный вопрос в адрес Минцифры:<br/><blockquote>Вместе с тем стоит отметить, что требование о представлении электронных документов, подписанных электронной подписью, содержится в нормах Федерального закона от 6 апреля 2011 г. № 63-ФЗ "Об электронной подписи" (далее - Федеральный закон № 63-ФЗ).<br/><br/>В соответствии с Положением о Министерстве цифрового развития, связи и массовых коммуникаций Российской Федерации, утвержденного постановлением Правительства Российской Федерации от 2 июня 2008 г. № 418, Минцифры России является федеральным органом исполнительной власти, уполномоченным в сфере использования электронной подписи. В целях получения соответствующих разъяснений по вопросам использования электронной подписи рекомендуем обратиться в Минцифры России в установленном порядке.</blockquote><br/>Устанавливать необходимость подписания проектной документации электронной подписью Минстрой <a href="https://base.garant.ru/71753298/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">в своем приказе</a> может, а разъяснять, что же там написано, не может.<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5526</guid>
-      <pubDate>Wed, 09 Sep 2026 18:07:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>​​</title>
-      <link>https://telegram.me/ep_uc/5519</link>
-      <description>​​
-📌
- 
-Изменения в ПП-313 
-➤
+операторами платежной инфраструктуры;
 
-Официально опубликовано 
-постановление Правительства Российской Федерации от 28.08.2026 № 1103
- «О внесении изменений в некоторые акты Правительства Российской Федерации», которым предусматривается внесение изменений в Положение о лицензировании деятельности по разработке, производству, распространению шифровальных (криптографических) средств, информационных систем и телекоммуникационных систем, защищенных с использованием шифровальных (криптографических) средств, выполнению работ, оказанию услуг в области шифрования информации, техническому обслуживанию шифровальных (криптографических) средств, информационных систем и телекоммуникационных систем, защищенных с использованием шифровальных (криптографических) средств (за исключением случая, если техническое обслуживание шифровальных (криптографических) средств, информационных систем и телекоммуникационных систем, защищенных с использованием шифровальных (криптографических) средств, осуществляется для обеспечения собственных нужд юридического лица или индивидуального предпринимателя) и признании утратившими силу отдельных положений актов Правительства Российской Федерации, утвержденное постановлением Правительства Российской Федерации от 16.04.2012 № 313.
+торгово-сервисными предприятиями при приеме безналичных платежей
 
-Изменениями устраняется неопределенность относительно необходимости наличия лицензии для собственных нужд.</description>
-      <content:encoded><![CDATA[<a href="https://telegra.ph/file/d3765ac1f76fdec41edb0.jpg" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">​​</a><tg-emoji emoji-id="5253836448687204081"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938C.png')"><b>📌</b></i></tg-emoji> <b>Изменения в ПП-313 </b>➤<br/><br/>Официально опубликовано <a href="http://publication.pravo.gov.ru/document/0001202608290011" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">постановление Правительства Российской Федерации от 28.08.2026 № 1103</a> «О внесении изменений в некоторые акты Правительства Российской Федерации», которым предусматривается внесение изменений в Положение о лицензировании деятельности по разработке, производству, распространению шифровальных (криптографических) средств, информационных систем и телекоммуникационных систем, защищенных с использованием шифровальных (криптографических) средств, выполнению работ, оказанию услуг в области шифрования информации, техническому обслуживанию шифровальных (криптографических) средств, информационных систем и телекоммуникационных систем, защищенных с использованием шифровальных (криптографических) средств (за исключением случая, если техническое обслуживание шифровальных (криптографических) средств, информационных систем и телекоммуникационных систем, защищенных с использованием шифровальных (криптографических) средств, осуществляется для обеспечения собственных нужд юридического лица или индивидуального предпринимателя) и признании утратившими силу отдельных положений актов Правительства Российской Федерации, утвержденное постановлением Правительства Российской Федерации от 16.04.2012 № 313.<br/><br/>Изменениями устраняется неопределенность относительно необходимости наличия лицензии для собственных нужд.]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5519</guid>
-      <pubDate>Wed, 09 Sep 2026 09:48:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>🏛</title>
-      <link>https://telegram.me/ep_uc/5518</link>
-      <description>🏛
- 
-Судебная практика: фокус с передачей ключа электронной подписи 
+Так, CA/B Forum, быстро признали наши корневые сертификаты НУЦ, как свои. Ещё и ужасная путаница сертификатов безопасности и сертификатов ключей проверки электронной подписи, объясняется легко - кто в АРБ разбирается в нашей сфере на экспертном уровне?
 
-Фокус не прошел и 
-суд взыскал с иллюзиониста более 8 миллионов рублей
-. 
+Спустя полтора месяца пришел ответ от заместителя директора Департамента обеспечения кибербезопасности в духе - если хотите что-то обсуждать, то обращайтесь в Банк России, у нас 
+свой экспертный совет
+ лапки.
 
-Номинальная руководство ещё одна проблема компрометации ключей ЭП, до бухгалтеров им далеко - 
-эти давно скомпрометировали всё и вся
-.
+Согласно 
+части 13
+ статьи 6 
+210-ФЗ
+ Правительство вправе установить случаи обязательного использования сертификата безопасности национального удостоверяющего центра (в банковской сфере и иных сферах финансового рынка - по согласованию с Банком России).
 
-В 2025 году банк и компания заключили договор о предоставлении банковской гарантии, обеспечением по которому выступило личное поручительство директора организации. Документы оформлялись в электронном виде с использованием квалифицированной подписи.
-
-Фирма не выполнила взятые на себя обязательства и не возместила выплаченные по гарантии денежные средства, банк обратился в суд с требованием взыскать с должника и поручителя 5,2 миллиона рублей основного долга и более 3 миллионов рублей неустойки.
-
-В судебном заседании директор организации заявленный иск не признал и пояснил, что является артистом-иллюзионистом и опыта управления бизнесом не имеет. По его словам, в 2024 году знакомый предложил ему стать формальным директором вновь создаваемого юридического лица за ежемесячное вознаграждение около 23 000 рублей. Мужчина согласился, оформил компанию на себя и добровольно передал знакомому носитель с ключом электронной подписи.
-
-Передача ключа ЭП третьим лицам не снимает с гражданина правовой и имущественной ответственности за подписанные ею документы и их финансовые последствия.
-
-- решил суд.
-
-Статьей 173.2 УК РФ
- предусмотрена уголовная ответственность номинального директора.
+Домен 
+arb.ru
+ использует сертификат GlobalSign, только он рабочий, в отличие от 
+pay.mironline.ru
+, где до сих пор установлен отозванный сертификат GlobalSign.
 
 ✍️
 "Об ЭП и УЦ"</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/AouucifnLp5EgTIZO1PrURdd9_hFSCeRtNvJkLoir_d010atmKUjr3rxibaL3EEGAXOFas8heguSLnOrIUL40TpyYH57OU29LF983af77J_oImvG3zQwuc3hDiQ4N0bJ4xivdd-DUH-ZBbeDJojXO5rnpirAQb7rWnNDqRaRaqdY0AImW2pLcODzG-tA6nl5W4c4oMIDp-yAI7eSkjEnenB0pDnlA5DLvjk6kMRgeHCffc_AI0LGzKfR_dhBvRmcOaWJiUVp4RzfsXF5oei9RHX0JEz8xVsMyHWVU-l2dBnBsz6bwMVQsRf6J1RaSgMz2uRupL19PiavykVflfdGGA.jpg" /></p>
-<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8F9B.png')"><b>🏛</b></i> <b>Судебная практика: фокус с передачей ключа электронной подписи </b><br/><br/>Фокус не прошел и <a href="https://xn---72-6cdevbj8byblnabg0ag9l.xn--p1ai/novosti/aktualno/sud-vzyskal-s-illyuzionista-bolee-8-millionov-rubley/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">суд взыскал с иллюзиониста более 8 миллионов рублей</a>. <br/><br/>Номинальная руководство ещё одна проблема компрометации ключей ЭП, до бухгалтеров им далеко - <a href="https://telegram.me/ep_uc/5473?single" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">эти давно скомпрометировали всё и вся</a>.<br/><br/>В 2025 году банк и компания заключили договор о предоставлении банковской гарантии, обеспечением по которому выступило личное поручительство директора организации. Документы оформлялись в электронном виде с использованием квалифицированной подписи.<br/><br/>Фирма не выполнила взятые на себя обязательства и не возместила выплаченные по гарантии денежные средства, банк обратился в суд с требованием взыскать с должника и поручителя 5,2 миллиона рублей основного долга и более 3 миллионов рублей неустойки.<br/><br/>В судебном заседании директор организации заявленный иск не признал и пояснил, что является артистом-иллюзионистом и опыта управления бизнесом не имеет. По его словам, в 2024 году знакомый предложил ему стать формальным директором вновь создаваемого юридического лица за ежемесячное вознаграждение около 23 000 рублей. Мужчина согласился, оформил компанию на себя и добровольно передал знакомому носитель с ключом электронной подписи.<br/><br/><blockquote>Передача ключа ЭП третьим лицам не снимает с гражданина правовой и имущественной ответственности за подписанные ею документы и их финансовые последствия.<br/><br/></blockquote>- решил суд.<br/><br/><a href="https://sudact.ru/law/uk-rf/osobennaia-chast/razdel-viii/glava-22/statia-173.2_1/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Статьей 173.2 УК РФ</a> предусмотрена уголовная ответственность номинального директора.<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5518</guid>
-      <pubDate>Wed, 09 Sep 2026 05:21:29 +0000</pubDate>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/pg9x-80iffgohr0Apsd_FAxfB2KXwUad1FzTwwgQzqHryL25ZyUDvwQ-XFxqSqHEgoTrn5A_9mk8LrNlCsfHAZ0pk3mYY8_TLymgYjnlPGPYAPcJaQ7WDErTdemHLRci0Onyobn9E6wnir3FauwVliRa_kAQKFjvZmkA6nRr8DTfOu3j8MrgxKdz5VhvBjQQguqG4tReQeW-FAwYIAWhXRC7IjYpHtwCBF5r2DejWV_q6TbvFmOKjVO80_UHII1fAINmOzdAbsQHHqNu6Z7gfR4lK_ieakSdxesVk9m3-B-vuGnXuIOVtmbFCKjrHC0DetI07c1Vxmo2qDboEZu01A.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/KFLfC2LhcfLdiWl8wtha80mI6Jo9Q5YMBxWljoMSFzFWDvS5GAGcvKfpxaJV325kdDwH-24U355dJEtGFpBUbWDg_kka0uUmlS3OPDq-_AKJKwoBwHLahezf5v3NLlPmz63nzmGM8OIY53WW56kJby_ORvZyxEGz_K31pIwAdTgfxPoBwWoUcdw6GR9nEusb9dYOUWYBxyOYqhWogvnsILvZGRS6FzRjU_SYQOBMAu0sAzWxRTXopUvN54Shl1gP8OYzjCo0dFZJ8L24gQtWuEuPYfF_sZVA8YYe58VhAAE9Urg88X6RbVPL9AstDilyhvMYmihn_urETpy9gs1CVA.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/ln5aEusaPHoBwDe9vQgs1XNMlgx746b0PZkgU5nYnUlK9GQcykd5uDDvV8Xqpd4NHBTEpoTmyn2jOJYTmIklsZRoD_EPLj4CxWsV5uIMaoGt1_2Jemf8w99t0-8uT8e5QFqqG-_jsDxykBrOtH04IBDX4I3DVScRKvLpJRBRp9jVUaSKszJtoeoZglhAgCs0oT1rMZKG0LNYNyWaikdGdIVWxqzj_hFwLtg6caO8lVWsvjQHm45tedgja_DKQ3ePB3WvuDq5oxWqWzRRtaLBrVD5C5thzma_a7MjGhJJ6xxeRK15ru_2xIKnFavyujl3gBjWbCUuFlR03X9gZmEk3g.jpg" /></p>
+<tg-emoji emoji-id="5470060791883374114"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><b>"Фантазёр, ты меня называла"</b><br/><br/>Ассоциация российских банков на фоне массового отзыва сертификатов безопасности иностранными удостоверяющими центрами в <a href="https://telegram.me/ep_uc/5095" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">июне</a>, <a href="https://telegram.me/ep_uc/5240" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">июле</a> направила <a href="https://arb.ru/b2b/docs/pismo_arb_ministru_tsifrovogo_razvitiya_svyazi_i_massovykh_kommunikatsiy_shadaev-10705887/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">письмо</a> "О сертификатах Минцифры России в банковской и торгово-сервисной инфраструктуре" в Минцифры на имя Министра. Нужно отдать должное уровню открытости АРБ - <a href="https://arb.ru/b2b/docs/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">не скрывают</a> свою переписку с ведомствами, но отвечают не все - <a href="https://arb.ru/b2b/docs/pismo_arb_generalnomu_direktoru_sudebnogo_departamenta_pri_verkhovnom_sude_rossi-10684496/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Судебный департамент при Верховном Суде</a>, например, <a href="https://telegram.me/ep_uc/3609" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">так и не ответил</a> (а могли просто <a href="https://telegram.me/ep_uc/5526" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">направить в Минцифры</a>, как Минстрой).<br/><br/>Что просят, мне было достаточно первого пункта:<br/><blockquote>В целях минимизации вышеприведенных рисков и обеспечения технологического суверенитета платежной инфраструктуры Российской Федерации кредитные организации предлагают:<br/><br/>Установить обязательность признания <b>сертификатов Минцифры России и удостоверяющих центров, аккредитованных Минцифрой России,</b> во всех программных продуктах и операционных системах, используемых:<br/>кредитными организациями;<br/>операторами платежной инфраструктуры;<br/>торгово-сервисными предприятиями при приеме безналичных платежей<br/></blockquote><br/><br/>Так, CA/B Forum, быстро признали наши корневые сертификаты НУЦ, как свои. Ещё и ужасная путаница сертификатов безопасности и сертификатов ключей проверки электронной подписи, объясняется легко - кто в АРБ разбирается в нашей сфере на экспертном уровне?<br/><br/>Спустя полтора месяца пришел ответ от заместителя директора Департамента обеспечения кибербезопасности в духе - если хотите что-то обсуждать, то обращайтесь в Банк России, у нас <s>свой экспертный совет</s> лапки.<br/><br/>Согласно <a href="http://publication.pravo.gov.ru/document/0001202606260070?index=40" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">части 13</a> статьи 6 <a href="https://telegram.me/ep_uc/5155" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">210-ФЗ</a> Правительство вправе установить случаи обязательного использования сертификата безопасности национального удостоверяющего центра (в банковской сфере и иных сферах финансового рынка - по согласованию с Банком России).<br/><br/>Домен <a href="http://arb.ru/" rel="noopener" target="_blank">arb.ru</a> использует сертификат GlobalSign, только он рабочий, в отличие от <a href="http://pay.mironline.ru/" rel="noopener" target="_blank">pay.mironline.ru</a>, где до сих пор установлен отозванный сертификат GlobalSign.<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5545</guid>
+      <pubDate>Sat, 12 Sep 2026 06:24:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Пост — Об ЭП и УЦ</title>
+      <link>https://telegram.me/ep_uc/5541</link>
+      <description>Пост — Об ЭП и УЦ</description>
+      <content:encoded><![CDATA[(нет текста)]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5541</guid>
+      <pubDate>Sat, 12 Sep 2026 05:48:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>✍️</title>
+      <link>https://telegram.me/ep_uc/5535</link>
+      <description>✍️
+Минюстом зарегистрирован самый бесполезный 
+приказ Минцифры от 01.09.2026 № 834
+ - "Административный регламент по предоставлению госуслуги "Аккредитация доверенной третьей стороны". Признанный утратившим силу 642 приказ от 2020 года применение на практике за 6 лет не нашел.
+
+Количество аккредитованных ДТС в стране = 0.</description>
+      <content:encoded><![CDATA[<tg-emoji emoji-id="5470060791883374114"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji>Минюстом зарегистрирован самый бесполезный <a href="http://publication.pravo.gov.ru/document/0001202609110006?index=1" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">приказ Минцифры от 01.09.2026 № 834</a> - "Административный регламент по предоставлению госуслуги "Аккредитация доверенной третьей стороны". Признанный утратившим силу 642 приказ от 2020 года применение на практике за 6 лет не нашел.<br/><br/>Количество аккредитованных ДТС в стране = 0.]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5535</guid>
+      <pubDate>Fri, 11 Sep 2026 14:41:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
