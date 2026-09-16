@@ -8,7 +8,62 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 15 Sep 2026 10:14:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 10:08:11 +0000</lastBuildDate>
+    <item>
+      <title>Немного статистики УЦ ФНС</title>
+      <link>https://telegram.me/ep_uc/5562</link>
+      <description>Немного статистики УЦ ФНС
+
+Август стал самым нагруженным месяцем по выпуску сертификатов ЭП для ИП и ЮЛ. Логично предположить, что причиной тому опять же старт обязательности электронных транспортных накладных с 1 сентября. 
+
+Общие цифры обеспечения сертификатами электронной подписи на начало сентября такие:
+
+🔹
+ обеспечены сертификатами ЭП УЦ ФНС 72% действующих ЮЛ и ИП
+
+🔹
+ 80% иностранных филиалов, которые зарегистрированы в РАФП, имеют сертификаты ЭП УЦ ФНС
+
+🔹
+ 10% действующих ЮЛ являются пользователями УЦ Банка России
+
+🔹
+ 10% действующих ЮЛ имеют запись в ЕГРЮЛ о недостоверности сведений и не могут получить сертификат. 
+
+🚀
+ 
+ЭДО для бизнеса
+
+#фнс
+ 
+#уц
+ 
+#эп</description>
+      <content:encoded><![CDATA[<b>Немного статистики УЦ ФНС</b><br/><br/>Август стал самым нагруженным месяцем по выпуску сертификатов ЭП для ИП и ЮЛ. Логично предположить, что причиной тому опять же старт обязательности электронных транспортных накладных с 1 сентября. <br/><br/>Общие цифры обеспечения сертификатами электронной подписи на начало сентября такие:<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> обеспечены сертификатами ЭП УЦ ФНС 72% действующих ЮЛ и ИП<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> 80% иностранных филиалов, которые зарегистрированы в РАФП, имеют сертификаты ЭП УЦ ФНС<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> 10% действующих ЮЛ являются пользователями УЦ Банка России<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> 10% действующих ЮЛ имеют запись в ЕГРЮЛ о недостоверности сведений и не могут получить сертификат. <br/><br/><tg-emoji emoji-id="5866355487255039002"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9A80.png')"><b>🚀</b></i></tg-emoji> <a href="https://telegram.me/EDOB2B" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">ЭДО для бизнеса</a><br/><br/><a href="?q=%23%D1%84%D0%BD%D1%81">#фнс</a> <a href="?q=%23%D1%83%D1%86">#уц</a> <a href="?q=%23%D1%8D%D0%BF">#эп</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5562</guid>
+      <pubDate>Wed, 16 Sep 2026 10:05:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔐</title>
+      <link>https://telegram.me/ep_uc/5561</link>
+      <description>🔐
+PKI-Форум 2026. День 2
+
+🔹
+Экспертная панель 1 "Критические аспекты надежности и устойчивости отечественной инфраструктуры открытых ключей"
+
+🔹
+Сессия 3 "Трансграничное признание иностранной ЭП"
+
+🔹
+Сессия 4 "Новые отраслевые аспекты PKI"
+
+🔹
+Сессия 5 "Правовые вопросы PKI, судебная практика"</description>
+      <content:encoded><![CDATA[<tg-emoji emoji-id="5327952221118164589"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9490.png')"><b>🔐</b></i></tg-emoji><b>PKI-Форум 2026. День 2</b><br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>Экспертная панель 1 "Критические аспекты надежности и устойчивости отечественной инфраструктуры открытых ключей"<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>Сессия 3 "Трансграничное признание иностранной ЭП"<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>Сессия 4 "Новые отраслевые аспекты PKI"<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>Сессия 5 "Правовые вопросы PKI, судебная практика"]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5561</guid>
+      <pubDate>Wed, 16 Sep 2026 05:00:57 +0000</pubDate>
+    </item>
     <item>
       <title>Пост — Об ЭП и УЦ</title>
       <link>https://telegram.me/ep_uc/5559</link>
@@ -35,65 +90,10 @@ PKI-Форум 2026. День 1
 
 🔹
 Сессия 2. Мобильная электронная подпись</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/j9AdungEAYM49I6SUkIXx4tL3VZnUf77k1WXo-h5geUZBjx6faos0otJQjksVVF25c-usmJVvQb5fz_AL8hqYW9zAbNS4837n72WWL85sQWVN2MIvAMYXfVHxfRfmN1DILM8bRhOuoAhJ8-Etw5LAZkpVBxvGoljz4WwSmPZyKeFkrJYW7FcKT7ggVdxAoWcA2GPBpgLSV3WA8QdImwcdPa-qNo8QN6jXmISl5QgjitkC6pIxaU_TO3GLWn23gNHtD0HXgui84uYudA0FEOwTiCsxoFpQjQdEx4E0XY-E7V-sDIly9-h4XThyF0P8_gHg8cjpzH6chgbPhU6X6kNmQ.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/JiOPn_ZQuSb6sVxLjz2P1ZW05xwcu8mnJh3O_a6qRIY_RWFK_3xZmsb3tmh8vtSNhALDnkHuOq_rNJgpGZg06XJ1fGUUnyFWyW8hlGMfG2krx5Ui8a7Tv2ey6439g9lysR-jkb_UgZPVlgTZbdifoDOazqW_MHXLqHcxzk5_VubVkuga7ac6YOJz9U7Hl6MwXdZOGM9XP1f-q4edwI8iZs2Brp18FZ_1YCRs_TE4arsLI9b3zM2szUkBiEAqZwjq9OgSA4GW7EbM-ofJRZzaiy25A-cHPOproXtTKMdVKQWdxrGN0w69v6Vy9kfT8IEPqiMFna3X2ke6Mn-m6FUyEg.jpg" /></p>
 <tg-emoji emoji-id="5327952221118164589"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9490.png')"><b>🔐</b></i></tg-emoji> <b>PKI-Форум 2026. День 1</b><br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>Фильм памяти основателя PKI-Форума Матюхина Владимира Георгиевича<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>Стратегическая сессия "Куда и как развивается отрасль" (прим. ep_uc лучше переформулировать - а туда ли вообще развивалась целая отрасть?)<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>Сессия 1. Актуальные вопросы национального пространства доверия - сертификаты безопасности и сертификаты подписи кода<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>Сессия 2. Мобильная электронная подпись]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5558</guid>
       <pubDate>Tue, 15 Sep 2026 04:15:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Уже завтра</title>
-      <link>https://telegram.me/ep_uc/5556</link>
-      <description>Уже завтра
- 15 сентября
- приглашаем вас на вебинар компании ELMA: 
-«От бэк-офиса к проектному конвейеру»
-
-На вебинаре разберём реальный кейс девелоперской компании 
-«Разум»
-, которая выбрала подход 
-«сначала готовое — потом уникальное»
- и смогла быстро масштабировать автоматизацию без длительной разработки.
-
-Согласитесь, этот сценарий знаком многим: 
-
-Купили платформу, автоматизировали пару процессов, а дальше что? 
-
-Лицензии приобретены, первые процессы запущены, сотрудники работают в системе. Но спустя время автоматизация начинает буксовать: новые задачи копятся, ИТ-команда перегружена, бизнес ждёт результатов, а каждый следующий проект выглядит как отдельное дорогое внедрение на несколько месяцев.
-
-А что, если мы вас скажем, что можно получить эффект от автоматизации быстрее?
-
-На вебинаре обсудим:
-
-🔹
- как запускать готовые модули и адаптировать их под свои процессы без сложной разработки;
-
-🔹
- какие задачи бэк-офиса можно закрыть «из коробки»;
-
-🔹
- с какими сложностями столкнулась команда при внедрении, и как их удалось решить;
-
-🔹
- как перейти от базовой автоматизации к отраслевым процессам на примере тендеров и проектного конвейера в девелопменте.
-
-Если перед вами стоит задача получить измеримый результат от автоматизации, а не просто внедрить ещё одну систему, этот вебинар будет точно  полезен.
-
-15 сентября 
-
-11:00 мск
-
-👉🏻
- Регистрация и подробная информация о спикерах 
-по ссылке
-  
-
-До встречи в эфире! 
-
-erid: 2SDnjc1MXNK</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/jp8BPlkldnwoHv5stuywj8Q-BwqsGxHr_3V9kW4snpt7geiHReM-lN1KX9UV_isMF6CvHhDtpw98k6zPi6XvTeLARcFt-td_qkbEOVhsQVaIe01QnWPLMzr6C06Hyx6K-_b-bEUOoNXnedmZe8Z0nfOQ1pw4kG0UPdXgtvCphhk98QLyUkvUSKJvyGIY0XFwAUBlKJxk0BsLWk_gEvkJefbQw_GJUxL6nUfr-_2wwlEeD5_DyZ_i51uWc5Ic8qyCm_yssLrwsO4dB54ZfDTMsiiuPTbOswx1CP0aGgaK_bYqgmjyinO-0xSsVKE-t8xn4dn56lr4mB0fhbnXyIE9IQ.jpg" /></p>
-Уже завтра<b> 15 сентября</b> приглашаем вас на вебинар компании ELMA: <a href="https://elma365.com/ru/webinars/bek-ofis-proyektnyy-menedzhment/?utm_source=tg&amp;amp;utm_medium=ep_uc&amp;amp;utm_campaign=webinar150926" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b>«От бэк-офиса к проектному конвейеру»</b></a><br/><br/>На вебинаре разберём реальный кейс девелоперской компании <b>«Разум»</b>, которая выбрала подход <b>«сначала готовое — потом уникальное»</b> и смогла быстро масштабировать автоматизацию без длительной разработки.<br/><br/><b>Согласитесь, этот сценарий знаком многим: <br/><br/>Купили платформу, автоматизировали пару процессов, а дальше что? </b><br/>Лицензии приобретены, первые процессы запущены, сотрудники работают в системе. Но спустя время автоматизация начинает буксовать: новые задачи копятся, ИТ-команда перегружена, бизнес ждёт результатов, а каждый следующий проект выглядит как отдельное дорогое внедрение на несколько месяцев.<br/><br/>А что, если мы вас скажем, что можно получить эффект от автоматизации быстрее?<br/><br/><b>На вебинаре обсудим:</b><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> как запускать готовые модули и адаптировать их под свои процессы без сложной разработки;<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> какие задачи бэк-офиса можно закрыть «из коробки»;<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> с какими сложностями столкнулась команда при внедрении, и как их удалось решить;<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> как перейти от базовой автоматизации к отраслевым процессам на примере тендеров и проектного конвейера в девелопменте.<br/><br/>Если перед вами стоит задача получить измеримый результат от автоматизации, а не просто внедрить ещё одну систему, этот вебинар будет точно  полезен.<br/><br/><b>15 сентября <br/>11:00 мск</b><br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189F09F8FBB.png')"><b>👉🏻</b></i> Регистрация и подробная информация о спикерах <a href="https://elma365.com/ru/webinars/bek-ofis-proyektnyy-menedzhment/?utm_source=tg&amp;amp;utm_medium=ep_uc&amp;amp;utm_campaign=webinar150926" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">по ссылке</a>  <br/>До встречи в эфире! <br/><br/><i>erid: 2SDnjc1MXNK</i>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5556</guid>
-      <pubDate>Mon, 14 Sep 2026 13:15:39 +0000</pubDate>
     </item>
     <item>
       <title>✍️</title>
@@ -133,7 +133,7 @@ erid: 2SDnjc1MXNK</description>
       <title>🎥 Видео — Об ЭП и УЦ</title>
       <link>https://telegram.me/ep_uc/5554</link>
       <description>🎥 Видео — Об ЭП и УЦ</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/gC87IGBkgm99eELx6p726luJRcDcYLuKogvf5PNVFpkwiq-3Qtrw3BZORvnayOVmIipCHaebXne8sN5fjhLG_GtfwqA0DGBwWhbDDRXTnDD_tLJ619_OOYWYsEFqGf5PrQyDxIJSEDpEX2KQ76tLCnnSvTitOopTrftcHQUs744or0rKKNe092Gl0xDe1AllAB4HCA0Vp_-9q1vT1-KNpRo9tYH0TLle1aN-eU1S6gqlHqRRfOiLD4cq_DR5F3RSDWBdQzXqPIJVK63Z8QZXoB7r8lz36GzkipZajbAUJJN7DopyLc49scWeAUY3pbG1uZjHdIdtMrYsyAOHMFGpcg" /></p>]]></content:encoded>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/gfkQ2oILoxhMyLn0OXcQzINmj1poPnTjQan8LFnW0PYBy1IChr4DUrhMCho0j6uwf7JQJ1VnWQFIuaBtvzUoEJqyU6eIp6NWroyfKX2Mp5v2fGU8DMaRLLqXvGYbet9OXGra33pqYnMdyYt1iPDokZu2qkCn912tjAV9bHvSkYKbPEYu88j6vuqCIdm0fzWZQUz5Gk4eyZ3yVdtMwA0PyvVdUhPq4qQzgnha5pcm3wuULYfqi62cC2rnZThhMtHyVIihWgQHVyklJ9Zj1avB5Y4ZRrakgIg1xhqOQMTzJAu-SeHn5IBKcs6MnBQUUdjrQKEquNgK8ccrDn32yZZNYw" /></p>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5554</guid>
       <pubDate>Mon, 14 Sep 2026 06:16:10 +0000</pubDate>
     </item>
@@ -141,7 +141,7 @@ erid: 2SDnjc1MXNK</description>
       <title>🎥 Видео — Об ЭП и УЦ</title>
       <link>https://telegram.me/ep_uc/5553</link>
       <description>🎥 Видео — Об ЭП и УЦ</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/MHTE4kS3G32xkdn2SYUj1frcuB9cxA2wLWXO52iXEj29KsPgmEVFlE_ThzT-Hyjo8_gjfOHG_3cCxxsbjuCHSg7EoNdIM9KZmqFMNWJ4wGRu11jVgOuX9JUjRA1oVG8MLl1Gy76GNJvayVV_rRcaadvlTZQeymZWgot-8mYlHMsidWuQvdQEGF2QFweEVOUU_9yvIXa4bD9YmB5NKcpgmhpnOB4fXmTxut22OspqFuy8ejjS2tx30JSY8ASU8dwu0byuaCsVzkfg62w-qXZYjBoWzxEFHov6BJ68RN6RmiStQdeXM4c57L0SCwNb7Nc90SlrRdgafeM0bvAZfXuYhw" /></p>]]></content:encoded>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/fREz5PpYtop-tMlkR7wJUKfs9FoaJnnZGV3LjeSkNhjLehTTfwdEYt8epWaH1u28dcb63gYHXRHLasFpA5ksUqayvx_tIkwJOrYTJOIoCr1TxH1ceMO-4WHxq3BikbAu3K2ZUXZlg5ICXr5tFSoJzKMux7sm7dYcAJeBNpeL--a2_tylD9GvVQH_qqPsa6KkSwoOgR9v7015BQ5A_jvZ0iqYUpDBtCSTVVxVIG8B0eQYCZ9LKu2FZ7p8TBpGPsORrTCa3y78sQdgjK_f1dmmNA8quFx4jxsE0XoIjWXbiTUsdocU3Vu_uv55owOTQWmNZpjyjkLsy49visdDpL3Snw" /></p>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5553</guid>
       <pubDate>Mon, 14 Sep 2026 06:15:58 +0000</pubDate>
     </item>
@@ -149,7 +149,7 @@ erid: 2SDnjc1MXNK</description>
       <title>🎥 Видео — Об ЭП и УЦ</title>
       <link>https://telegram.me/ep_uc/5552</link>
       <description>🎥 Видео — Об ЭП и УЦ</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/JMJvFbm6NVoEBl-8_DV4V9uMar4US6NGjHI8wLWCSjDHDu5D-Ewc5nU-EUckRyB2RFhBPi7C4ZEQg9J3o3Tq4eUD6OZjOC4V-64VOQJ-Zp3pbzgy24QpU0D34b2L6bYUK312mbtoMzTiatvkOrMIDW3KqmUVbVdLmZIQgJ3tB9wT1INHAepdyuizOssxWsZwO1tBfSHInDf9PAUHSrPwiAsoxWl6bOAJbZ_Z7PejMxTu9AM8L1xiDUKJ5g0Xjpw_eyAr-SYmLA8ht7BEWHCr6iK3enfrmEnQKsJC1S6RRZlAmgLCf5XnKjV-HFQY7zsKv55wBxrAhFRdNHZagL4hsg" /></p>]]></content:encoded>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/KFrBRPZDuQkNNmrtPsCZnj1vSVHC56dsNUqP4wx7TzfOqJ09Lztu3hZnWxR4GipIbTEmsEvwI39WAWZ0EFco38y2B3j8uEaL0aWx6qha8PYC6GR4nzelj1sUoFHZuWplT8J0PfB6mp7F11Q3N6iss28dAsNkEkzecYq2Ehng0hz2Abl2Fjx99oo3C6ednux489SYI-d4v4VWuJtnBzTHy-gx6J3spTt0J8rWL1vPGux-RdouEFk5uHHmeXCzRZARHSsl-w8_e3_8aOzkmKkUKyUcoDW1ZZe5g5RnFplpyrFOZQ15Fqm5zKyjm0CnpWmdJUTldPbzEegiUfhZOz_ZuQ" /></p>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5552</guid>
       <pubDate>Mon, 14 Sep 2026 06:15:44 +0000</pubDate>
     </item>
@@ -187,8 +187,8 @@ Revolut поверили на слово, приняли запрос за ле�
 Финансовые данные: IBAN, выписки, история транзакций, включая Bitcoin
 
 Revolut настаивает, что это не взлом их систем, а "несанкционированное раскрытие". Средства клиентов не пострадали. Адрес отправителя заблокирован, уведомлены регуляторы и правоохранители, при этом точное число пострадавших не раскрывается. Предполагается, что атака могла быть нацелена на состоятельных клиентов.</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/soeeBU15D8Em5Bb81PgPel1gGWUHkOC2BiBRAw6Ss2WAi2krbG8bMcQ3MBPgMo893nT2w4C71SlJqAYUg4Fej8Yx_gq7ersz-OS-oKU_CRedGlyjd_kSUnR7sJ2KJGZfrxixgStWG_Z0KHCH7IvjI8F5ldcfn8CPUrfm1jOTSDycIRXo0xxp8ycyskVCkjXszrWJtHl3dHFA54vd35E6oWPCJAx70Vo_BQZaiXliIEppQU4uEOJosebKbZbBypBoLoXyMXXJH_HNfbr_mnFy1fNwbh_S_9-iz5rYjOY4BfIdzcU7nTO1e9eeIa6WiuND7YnN_s1dXRbVmUd8z4hOqA.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/WeTj78-VPSsNIePK6fgvBpAkNQH7Qs6-3FZ4uvhM0xSPKhlw33_i6RAvGwxSn7urLlc1WMhw1T9Bs5uN7hz-qnJJZ1a30kDBu7HVWq5BQxfYzL8QvfpP17Kj8AclGukVLnWJQdMDSU3BQF2ne4aAakrpDKkyesuNrnACZzr3gRW4jFKSXxm79YWm7XxBMCsfdsNM6VmMS_ZeCmw7PgUZ2qVLb9SMIoEvmBEJZaxlFGvn5qvjtYTdzxUQIaZDL8KdVw8SB_-G9yR-sp0vY7ociB4EWwxATo9h61DxhNnaTsc7gLrob_oNRxMI-eFAqWygnKUOuuhTjgttFG7jTSSqJA.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/QUkkz37LxRoS9P2U-ZHymZMo63NwNIAWORa6oE19cCLeHNI3UX5McgzmrhihJ-zQI1Mgka9_wNUWuLaI2nnRacKRHdQHL0O-T0cgyDmL01nrHW0MbkA6I6BpbBBnqUZ7NOuBi5tRcu5-WOYwR6K3DDyWs1Qyr7YFJheugMrvI3NZknJA9cXXle8yXX-E2tRTihl2X_T8NACfJ9SYi9wFNswEFcSEY3R4rcYDuHFShV4sxN-B8e0KPm50fh74A__dS1zlHY1ghtL8E2zALEuHYmDRRVzOenoGG5KMThIctMtuiq5a3w7CD4Ir3fleMIE-SRuP-5WYlDjfKW9HGUKYMA.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/O5Z7T8JSsaCOGAH6LeswcOcXbqKw1ZDuAxIky9UVI6CPJdhIzmSMA6bPbA7ahhL8tO1ZqlUc5X7HQ0Pbhgc7us9PeDj-domEsTjcvq2979VGhXllOMAVTA8cC41-IlZaSwXvT5YFu8GkKb1zrORP8D1fnEHCGXXhuVSCnmcuC71dLdp9taiwuqRoy8D6bMPm0c9qs5vWMNbZYaC4Bu10HT7ZIFeTg4ji6g6gm86nYzHKBZeHjuFXiDMBhrULVdxrMjY4GUzVlbx5oyV12BVjGgR6eIOhmvRpjCKkvwrxjv_lULQCR8SUX8VUNbccARaNrP_qrlyqHrifpQ5pEABM6w.jpg" /></p>
 <div class="tgme_widget_message_text js-message_text" dir="auto"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')"><b>🚨</b></i> <b>Утечка данных в Revolut: как мошенники обошли защиту, а банк им помог</b><br/><br/>Revolut - британский банк (как тут не вспомнить анекдот про Василия Ивановича, что джентльменам верят на слово?) получил запрос на раскрытие данных клиентов, который выглядел как официальный запрос от госоргана. Банк его безоговорочно выполнил. Оказалось - мошенники. Подробностей мало, только из <a href="https://www.internationalcyberdigest.com/revolut-gave-away-customers-data/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">информационных писем</a>, что сам банк направил своим клиентам.<br/><br/>Письмо пришло не с поддельного адреса-двойника, а с настоящего домена государственного органа, какого именно - не понятно. Письмо содержало валидные учетные данные аутентификации домена, domain authentication credentials (DKIM) - технически "электронная подпись" была подлинной.<br/><br/>DKIM подтверждает, что письмо отправлено именно с конкретного домена и не было подделано в процессе доставки, но не подтверждает, что отправитель действует законно. Если злоумышленники получили доступ к реальному почтовому аккаунту или серверу ведомства - подпись останется валидной у мошеннического запроса.<br/><br/>Revolut поверили на слово, приняли запрос за легитимный и выполнили его "на основании разумного предположения". Можете себе представить, чтобы у нас какой-нибудь банк выполнил <a href="https://telegram.me/ep_uc/2227" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">вот такой запрос</a>?<br/><br/>Добровольное утекло:<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>ФИО, дата рождения, род занятий<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>Адрес, email, телефон<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i><b>Копии паспортов, водительских удостоверений + селфи для верификации</b><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>Финансовые данные: IBAN, выписки, история транзакций, включая Bitcoin<br/><br/>Revolut настаивает, что это не взлом их систем, а "несанкционированное раскрытие". Средства клиентов не пострадали. Адрес отправителя заблокирован, уведомлены регуляторы и правоохранители, при этом точное число пострадавших не раскрывается. Предполагается, что атака могла быть нацелена на состоятельных клиентов.</div>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5550</guid>
       <pubDate>Sun, 13 Sep 2026 14:44:00 +0000</pubDate>
