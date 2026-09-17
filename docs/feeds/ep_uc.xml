@@ -8,7 +8,42 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 16 Sep 2026 10:08:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 10:11:12 +0000</lastBuildDate>
+    <item>
+      <title>❌</title>
+      <link>https://telegram.me/ep_uc/5565</link>
+      <description>❌
+Сбой мониторинга ГУЦ
+
+guc@gosuslugi.ru 8 часов рассылает письма "ФГИС ГУЦ: ошибки при проверке доступа к CRL", мониторинг показывает 
+недоступность CRL
+, но это не так, CRL аккредитованных УЦ доступны.</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/EeH9vFeFyrYd9AGelqvkLbq_Xhgzc0dDTlMGLcxzg1JwDy7dMHwz79umw7U_kYVJmYBzxNBA9aJIsrRWePTUgndDlprG5Wg-M9ZdSFBtCsErut6DW7vFAUeydHKzGsMZs3U_KYp5pTzeyg97ZYt5o3J1F2lQG-acHI1zIIjszkddihmEOTbVoPZ4SeDPQ4o36Bjds57c8E_JkB28KPprYx7J9tNJD6Wl3LhI3-WBSfDnmvOwxXTuxYlWpPuvp2DFAbJHBOVhg6QVSzoa3w6q_nkTJO7UkRgVAxqonDNtfk6xL-CWMCXx9xor4LfxwyWPc19MuqSfrwrJNcGp0qppXA.jpg" /></p>
+<b><tg-emoji emoji-id="5465665476971471368"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29D8C.png')"><b>❌</b></i></tg-emoji></b><b>Сбой мониторинга ГУЦ</b><br/><br/>guc@gosuslugi.ru 8 часов рассылает письма "ФГИС ГУЦ: ошибки при проверке доступа к CRL", мониторинг показывает <a href="https://e-trust.gosuslugi.ru/monitoring?filter=eyJhc2NlbmRpbmciOmZhbHNlLCJvcmRlckJ5IjoiYXZhaWxhYmlsaXR5UmFuayIsInBhZ2UiOjEsInJlY29yZHNPblBhZ2UiOjEwLCJzZWFyY2hTdHJpbmciOm51bGx9" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">недоступность CRL</a>, но это не так, CRL аккредитованных УЦ доступны.]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5565</guid>
+      <pubDate>Thu, 17 Sep 2026 05:59:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔐</title>
+      <link>https://telegram.me/ep_uc/5564</link>
+      <description>🔐
+PKI-Форум 2026. День 3
+
+🔹
+Сессия 6. PKI в прикладных системах. PKI-проекты и продукты
+
+🔹
+Экспертная панель 2. Электронные архивы с ЭП. Усовершенствованные форматы ЭП. Провайдеры услуг доверенного хранения информации с ЭП
+
+🔹
+Сессия 7. Системный подход в отрасли PKI
+
+🔹
+Экспертная панель 3. Электронная подпись (ПЭП, НЭП, КЭП) физического лица на работе</description>
+      <content:encoded><![CDATA[<tg-emoji emoji-id="5327952221118164589"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9490.png')"><b>🔐</b></i></tg-emoji><b>PKI-Форум 2026. День 3</b><br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>Сессия 6. PKI в прикладных системах. PKI-проекты и продукты<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>Экспертная панель 2. Электронные архивы с ЭП. Усовершенствованные форматы ЭП. Провайдеры услуг доверенного хранения информации с ЭП<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>Сессия 7. Системный подход в отрасли PKI<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>Экспертная панель 3. Электронная подпись (ПЭП, НЭП, КЭП) физического лица на работе]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5564</guid>
+      <pubDate>Thu, 17 Sep 2026 04:30:40 +0000</pubDate>
+    </item>
     <item>
       <title>Немного статистики УЦ ФНС</title>
       <link>https://telegram.me/ep_uc/5562</link>
@@ -90,108 +125,10 @@ PKI-Форум 2026. День 1
 
 🔹
 Сессия 2. Мобильная электронная подпись</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/JiOPn_ZQuSb6sVxLjz2P1ZW05xwcu8mnJh3O_a6qRIY_RWFK_3xZmsb3tmh8vtSNhALDnkHuOq_rNJgpGZg06XJ1fGUUnyFWyW8hlGMfG2krx5Ui8a7Tv2ey6439g9lysR-jkb_UgZPVlgTZbdifoDOazqW_MHXLqHcxzk5_VubVkuga7ac6YOJz9U7Hl6MwXdZOGM9XP1f-q4edwI8iZs2Brp18FZ_1YCRs_TE4arsLI9b3zM2szUkBiEAqZwjq9OgSA4GW7EbM-ofJRZzaiy25A-cHPOproXtTKMdVKQWdxrGN0w69v6Vy9kfT8IEPqiMFna3X2ke6Mn-m6FUyEg.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/s0KrY-VINTg5SqGnC07LeSZ_0PWB3E6lUCpRY11A-df2LsyQgS1CyvJ33JuekUm3uKiH_RIOPwt4j2waUHRbbYy2bKHDIdBPnj2uFKmWVHCQKSvkejxnG0ora2H3h_mabtyGqkejO33HRpcfY05D3hhfgg9FT_9PFva1Wpb4zR5xKa-2suw81BlpXsC7aS0ccPiNQyhixKY_NhFAMo7h2qzpt5dVm4xIksZXBEESvVO38ttFUuXJh-DeRqDkMlGG6TGFx9X8XxAt-kNht_VLf1ay2Auvht462j9_yoslnq7Y7rf7AWKbHkcUiAZqyxS3QjJfiCaXKe-CSidX_CnF6A.jpg" /></p>
 <tg-emoji emoji-id="5327952221118164589"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9490.png')"><b>🔐</b></i></tg-emoji> <b>PKI-Форум 2026. День 1</b><br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>Фильм памяти основателя PKI-Форума Матюхина Владимира Георгиевича<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>Стратегическая сессия "Куда и как развивается отрасль" (прим. ep_uc лучше переформулировать - а туда ли вообще развивалась целая отрасть?)<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>Сессия 1. Актуальные вопросы национального пространства доверия - сертификаты безопасности и сертификаты подписи кода<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>Сессия 2. Мобильная электронная подпись]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5558</guid>
       <pubDate>Tue, 15 Sep 2026 04:15:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>✍️</title>
-      <link>https://telegram.me/ep_uc/5555</link>
-      <description>✍️
-6 лет приказу Минцифры о формате электронной подписи 
-
-Сегодня исполняется ровно 6 лет, как был подписан приказ ещё 
-Минкомсвязи России от 14.09.2020 № 472
- "Об утверждении Формата электронной подписи, обязательного для реализации всеми средствами электронной подписи".
-
-Он интересен тем, что за 6 лет утвержденный формат электронной подписи, который кстати является обязательным для реализации всеми средствами электронной подписи, ни разу не применялся на практике.
-
-Предложения о корректировке объективных 
-[прим. ОБЪЕКТНЫХ] 
-идентификаторов для указанных атрибутов заслуживают дополнительной экспертной проработки и будут приняты во внимание в рамках проводимой работы по совершенствованию нормативного правового регулирования в сфере электронной подписи.
-
-Все шесть лет в нём была 
-ошибка
-, которая так и не исправлена. В 
-феврале этого года
- появился проект, устраняющий ошибку, но 
-он застыл
- на этапе Подведения итогов публичного обсуждения. 
-
-Все созданные квалифицированные и неквалифицированные электронные подписи в стране не соответствуют НПА по одной причине - ему просто нельзя соответствовать, ошибка проверки средствами ЭП будет гарантирована. Вот такой вот 
-🔐
-, ...
-
-🚀
-Об ЭП и УЦ</description>
-      <content:encoded><![CDATA[<tg-emoji emoji-id="5470060791883374114"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><b>6 лет приказу Минцифры о формате электронной подписи </b><br/><br/>Сегодня исполняется ровно 6 лет, как был подписан приказ ещё <a href="http://publication.pravo.gov.ru/Document/View/0001202010290040" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Минкомсвязи России от 14.09.2020 № 472</a> "Об утверждении Формата электронной подписи, обязательного для реализации всеми средствами электронной подписи".<br/><br/>Он интересен тем, что за 6 лет утвержденный формат электронной подписи, который кстати является обязательным для реализации всеми средствами электронной подписи, ни разу не применялся на практике.<br/><br/><blockquote>Предложения о корректировке объективных <a href="https://telegram.me/ep_uc/2643" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">[прим. ОБЪЕКТНЫХ] </a>идентификаторов для указанных атрибутов заслуживают дополнительной экспертной проработки и будут приняты во внимание в рамках проводимой работы по совершенствованию нормативного правового регулирования в сфере электронной подписи.</blockquote><br/><br/>Все шесть лет в нём была <a href="https://telegram.me/ep_uc/2643" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">ошибка</a>, которая так и не исправлена. В <a href="https://telegram.me/ep_uc/4554" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">феврале этого года</a> появился проект, устраняющий ошибку, но <a href="https://regulation.gov.ru/projects/164702/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">он застыл</a> на этапе Подведения итогов публичного обсуждения. <br/><br/>Все созданные квалифицированные и неквалифицированные электронные подписи в стране не соответствуют НПА по одной причине - ему просто нельзя соответствовать, ошибка проверки средствами ЭП будет гарантирована. Вот такой вот <tg-emoji emoji-id="5327952221118164589"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9490.png')"><b>🔐</b></i></tg-emoji>, ...<br/><br/><tg-emoji emoji-id="5866355487255039002"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9A80.png')"><b>🚀</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Об ЭП и УЦ</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5555</guid>
-      <pubDate>Mon, 14 Sep 2026 07:55:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>🎥 Видео — Об ЭП и УЦ</title>
-      <link>https://telegram.me/ep_uc/5554</link>
-      <description>🎥 Видео — Об ЭП и УЦ</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/gfkQ2oILoxhMyLn0OXcQzINmj1poPnTjQan8LFnW0PYBy1IChr4DUrhMCho0j6uwf7JQJ1VnWQFIuaBtvzUoEJqyU6eIp6NWroyfKX2Mp5v2fGU8DMaRLLqXvGYbet9OXGra33pqYnMdyYt1iPDokZu2qkCn912tjAV9bHvSkYKbPEYu88j6vuqCIdm0fzWZQUz5Gk4eyZ3yVdtMwA0PyvVdUhPq4qQzgnha5pcm3wuULYfqi62cC2rnZThhMtHyVIihWgQHVyklJ9Zj1avB5Y4ZRrakgIg1xhqOQMTzJAu-SeHn5IBKcs6MnBQUUdjrQKEquNgK8ccrDn32yZZNYw" /></p>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5554</guid>
-      <pubDate>Mon, 14 Sep 2026 06:16:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>🎥 Видео — Об ЭП и УЦ</title>
-      <link>https://telegram.me/ep_uc/5553</link>
-      <description>🎥 Видео — Об ЭП и УЦ</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/fREz5PpYtop-tMlkR7wJUKfs9FoaJnnZGV3LjeSkNhjLehTTfwdEYt8epWaH1u28dcb63gYHXRHLasFpA5ksUqayvx_tIkwJOrYTJOIoCr1TxH1ceMO-4WHxq3BikbAu3K2ZUXZlg5ICXr5tFSoJzKMux7sm7dYcAJeBNpeL--a2_tylD9GvVQH_qqPsa6KkSwoOgR9v7015BQ5A_jvZ0iqYUpDBtCSTVVxVIG8B0eQYCZ9LKu2FZ7p8TBpGPsORrTCa3y78sQdgjK_f1dmmNA8quFx4jxsE0XoIjWXbiTUsdocU3Vu_uv55owOTQWmNZpjyjkLsy49visdDpL3Snw" /></p>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5553</guid>
-      <pubDate>Mon, 14 Sep 2026 06:15:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>🎥 Видео — Об ЭП и УЦ</title>
-      <link>https://telegram.me/ep_uc/5552</link>
-      <description>🎥 Видео — Об ЭП и УЦ</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/KFrBRPZDuQkNNmrtPsCZnj1vSVHC56dsNUqP4wx7TzfOqJ09Lztu3hZnWxR4GipIbTEmsEvwI39WAWZ0EFco38y2B3j8uEaL0aWx6qha8PYC6GR4nzelj1sUoFHZuWplT8J0PfB6mp7F11Q3N6iss28dAsNkEkzecYq2Ehng0hz2Abl2Fjx99oo3C6ednux489SYI-d4v4VWuJtnBzTHy-gx6J3spTt0J8rWL1vPGux-RdouEFk5uHHmeXCzRZARHSsl-w8_e3_8aOzkmKkUKyUcoDW1ZZe5g5RnFplpyrFOZQ15Fqm5zKyjm0CnpWmdJUTldPbzEegiUfhZOz_ZuQ" /></p>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5552</guid>
-      <pubDate>Mon, 14 Sep 2026 06:15:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>🚨</title>
-      <link>https://telegram.me/ep_uc/5550</link>
-      <description>🚨
- 
-Утечка данных в Revolut: как мошенники обошли защиту, а банк им помог
-
-Revolut - британский банк (как тут не вспомнить анекдот про Василия Ивановича, что джентльменам верят на слово?) получил запрос на раскрытие данных клиентов, который выглядел как официальный запрос от госоргана. Банк его безоговорочно выполнил. Оказалось - мошенники. Подробностей мало, только из 
-информационных писем
-, что сам банк направил своим клиентам.
-
-Письмо пришло не с поддельного адреса-двойника, а с настоящего домена государственного органа, какого именно - не понятно. Письмо содержало валидные учетные данные аутентификации домена, domain authentication credentials (DKIM) - технически "электронная подпись" была подлинной.
-
-DKIM подтверждает, что письмо отправлено именно с конкретного домена и не было подделано в процессе доставки, но не подтверждает, что отправитель действует законно. Если злоумышленники получили доступ к реальному почтовому аккаунту или серверу ведомства - подпись останется валидной у мошеннического запроса.
-
-Revolut поверили на слово, приняли запрос за легитимный и выполнили его "на основании разумного предположения". Можете себе представить, чтобы у нас какой-нибудь банк выполнил 
-вот такой запрос
-?
-
-Добровольное утекло:
-
-🔹
-ФИО, дата рождения, род занятий
-
-🔹
-Адрес, email, телефон
-
-🔹
-Копии паспортов, водительских удостоверений + селфи для верификации
-
-🔹
-Финансовые данные: IBAN, выписки, история транзакций, включая Bitcoin
-
-Revolut настаивает, что это не взлом их систем, а "несанкционированное раскрытие". Средства клиентов не пострадали. Адрес отправителя заблокирован, уведомлены регуляторы и правоохранители, при этом точное число пострадавших не раскрывается. Предполагается, что атака могла быть нацелена на состоятельных клиентов.</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/QUkkz37LxRoS9P2U-ZHymZMo63NwNIAWORa6oE19cCLeHNI3UX5McgzmrhihJ-zQI1Mgka9_wNUWuLaI2nnRacKRHdQHL0O-T0cgyDmL01nrHW0MbkA6I6BpbBBnqUZ7NOuBi5tRcu5-WOYwR6K3DDyWs1Qyr7YFJheugMrvI3NZknJA9cXXle8yXX-E2tRTihl2X_T8NACfJ9SYi9wFNswEFcSEY3R4rcYDuHFShV4sxN-B8e0KPm50fh74A__dS1zlHY1ghtL8E2zALEuHYmDRRVzOenoGG5KMThIctMtuiq5a3w7CD4Ir3fleMIE-SRuP-5WYlDjfKW9HGUKYMA.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/O5Z7T8JSsaCOGAH6LeswcOcXbqKw1ZDuAxIky9UVI6CPJdhIzmSMA6bPbA7ahhL8tO1ZqlUc5X7HQ0Pbhgc7us9PeDj-domEsTjcvq2979VGhXllOMAVTA8cC41-IlZaSwXvT5YFu8GkKb1zrORP8D1fnEHCGXXhuVSCnmcuC71dLdp9taiwuqRoy8D6bMPm0c9qs5vWMNbZYaC4Bu10HT7ZIFeTg4ji6g6gm86nYzHKBZeHjuFXiDMBhrULVdxrMjY4GUzVlbx5oyV12BVjGgR6eIOhmvRpjCKkvwrxjv_lULQCR8SUX8VUNbccARaNrP_qrlyqHrifpQ5pEABM6w.jpg" /></p>
-<div class="tgme_widget_message_text js-message_text" dir="auto"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')"><b>🚨</b></i> <b>Утечка данных в Revolut: как мошенники обошли защиту, а банк им помог</b><br/><br/>Revolut - британский банк (как тут не вспомнить анекдот про Василия Ивановича, что джентльменам верят на слово?) получил запрос на раскрытие данных клиентов, который выглядел как официальный запрос от госоргана. Банк его безоговорочно выполнил. Оказалось - мошенники. Подробностей мало, только из <a href="https://www.internationalcyberdigest.com/revolut-gave-away-customers-data/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">информационных писем</a>, что сам банк направил своим клиентам.<br/><br/>Письмо пришло не с поддельного адреса-двойника, а с настоящего домена государственного органа, какого именно - не понятно. Письмо содержало валидные учетные данные аутентификации домена, domain authentication credentials (DKIM) - технически "электронная подпись" была подлинной.<br/><br/>DKIM подтверждает, что письмо отправлено именно с конкретного домена и не было подделано в процессе доставки, но не подтверждает, что отправитель действует законно. Если злоумышленники получили доступ к реальному почтовому аккаунту или серверу ведомства - подпись останется валидной у мошеннического запроса.<br/><br/>Revolut поверили на слово, приняли запрос за легитимный и выполнили его "на основании разумного предположения". Можете себе представить, чтобы у нас какой-нибудь банк выполнил <a href="https://telegram.me/ep_uc/2227" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">вот такой запрос</a>?<br/><br/>Добровольное утекло:<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>ФИО, дата рождения, род занятий<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>Адрес, email, телефон<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i><b>Копии паспортов, водительских удостоверений + селфи для верификации</b><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>Финансовые данные: IBAN, выписки, история транзакций, включая Bitcoin<br/><br/>Revolut настаивает, что это не взлом их систем, а "несанкционированное раскрытие". Средства клиентов не пострадали. Адрес отправителя заблокирован, уведомлены регуляторы и правоохранители, при этом точное число пострадавших не раскрывается. Предполагается, что атака могла быть нацелена на состоятельных клиентов.</div>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5550</guid>
-      <pubDate>Sun, 13 Sep 2026 14:44:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
