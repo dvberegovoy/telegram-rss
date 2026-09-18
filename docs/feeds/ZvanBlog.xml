@@ -8,6 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 17 Sep 2026 10:11:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 09:57:13 +0000</lastBuildDate>
+    <item>
+      <title>Друзья, всем привет!</title>
+      <link>https://telegram.me/ZvanBlog/1002</link>
+      <description>Друзья, всем привет! 
+🖐
+ Показываю как нейросети трансформируют и упрощают нашу сферу. Обязательно посмотрите и скажите как вам?)) потому что у меня много эмоций.. 
+
+https://youtu.be/Ies9eRIpX8I</description>
+      <content:encoded><![CDATA[<b>Друзья, всем привет! </b><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9690.png')"><b>🖐</b></i> Показываю как нейросети трансформируют и упрощают нашу сферу. Обязательно посмотрите и скажите как вам?)) потому что у меня много эмоций.. <br/><br/><a href="https://youtu.be/Ies9eRIpX8I" rel="noopener" target="_blank">https://youtu.be/Ies9eRIpX8I</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ZvanBlog/1002</guid>
+      <pubDate>Fri, 18 Sep 2026 06:40:29 +0000</pubDate>
+    </item>
   </channel>
 </rss>
