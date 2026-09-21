@@ -8,52 +8,214 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 09:57:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 10:54:57 +0000</lastBuildDate>
     <item>
-      <title>Пост — ПРО Торги и Финансы</title>
-      <link>https://telegram.me/torgi4you/1977</link>
-      <description>Пост — ПРО Торги и Финансы</description>
-      <content:encoded><![CDATA[(нет текста)]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/torgi4you/1977</guid>
-      <pubDate>Thu, 17 Sep 2026 14:01:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍄‍🟫</title>
-      <link>https://telegram.me/torgi4you/1976</link>
-      <description>🍄‍🟫
-Уже СЕГОДНЯ я выступаю на ОНЛАЙН ФОРУМЕ про инвестиции, недвижимость и капитал!   Приходите послушать меня - ы 15:25 по Москве. ЗАЛ 1.   МОЯ ТЕМА: Риски при ивестировании на торгах.  17.09 (сегодня) | 11:00 – 18:00 3 зала | 43 спикера 8 блоков | 3000 участников…</description>
-      <content:encoded><![CDATA[<tg-emoji emoji-id="5193159912393314773"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8D84E2808DF09F9FAB.png')"><b>🍄‍🟫</b></i></tg-emoji>Уже СЕГОДНЯ я выступаю на ОНЛАЙН ФОРУМЕ про инвестиции, недвижимость и капитал!   Приходите послушать меня - ы 15:25 по Москве. ЗАЛ 1.   МОЯ ТЕМА: Риски при ивестировании на торгах.  17.09 (сегодня) | 11:00 – 18:00 3 зала | 43 спикера 8 блоков | 3000 участников…]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/torgi4you/1976</guid>
-      <pubDate>Thu, 17 Sep 2026 13:59:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍄‍🟫</title>
-      <link>https://telegram.me/torgi4you/1975</link>
-      <description>🍄‍🟫
-Уже СЕГОДНЯ я выступаю на ОНЛАЙН ФОРУМЕ про инвестиции, недвижимость и капитал!
+      <title>Сделки недели…</title>
+      <link>https://telegram.me/torgi4you/1980</link>
+      <description>Сделки недели…
+
+Продал на неделе:
+
+⛔️
+ 
+ГТЛК 1P-14 RU000A100FE5 (фикс) - продал 1/2 и переложился в НПСКап1Р2
+
+⛔️
+ 
+Страна2Р2 RU000A10E6J7 - продал все (риски застройщика)
+
+⛔️
+ 
+ПЮЛ БО-01 RU000A10ED70 - продал все (риски ВДО, в стакане нет ликвидности)
+
+⛔️
+ 
+АПРИ 2Р14 RU000A10ERC0 -  сократил до 85 бумаг, жалею, что купил этого застройщика (цена упала на 18%)
+
+⛔️
+ 
+АПРИ 2Р12 RU000A10DZH4 - продал 30 бумаг (все), зафиксировал убыток
+
+⛔️
+ 
+Денум 1Р1 RU000A10C5B8 - продал 50%, апсайд 3% (упадет к номиналу, снова куплю)
+
+Приобрел на неделе:
+
+✔️
+ ПочтаР3P03 RU000A10EA16 (флоатер) - 200 бумаг 
+
+✔️
+ НПСКап1Р2  RU000A10G5H1 (флоатер) - 460 бумаг
+
+✔️
+ ГМС002Р-02 RU000A10FXN2 (флоатер) - до 250 бумаг
+
+✔️
+ БинФарм1P5 RU000A10B3Q2 (фикс) - до 283 бумаг
+
+✔️
+ БинФарм1P6 RU000A10BZT3 (фикс) - до 138 бумаг
+
+Структура портфеля на 18.09.2026:
+
+🟡
+ Облигации 99% (ВДО 40,8%, А-ААА 52,5%, ОФЗ 0,54% , валютные 6,18%)
+
+🟡
+ Акции 0,85%
+
+🟡
+ БПИФ 0% 
+
+🟡
+ Рубли 0,15%
+
+➖
+ Пассивный доход - 19,43% (с учетом акций) 
+
+➖
+ Текущая доходность облигаций - 18,1%
+
+➖
+ Эффективная доходность к погашению - 22,2% 
+
+Доход по облигациям на год вперед: 177 070 рублей в месяц или 5 821 в день.
+
+⏺
+ Цель 1 - 100000 рублей 
+
+⏺
+ Цель 2 - 125000 рублей 
+
+⏺
+ Цель 3 - 150000 рублей 
+
+⏺
+ Цель 4 - 175000 рублей 
+
+⏺
+ МЕГА Цель - 200000 рублей
+
+🀄️
+ Все цифры и графика взяты из 
+сервиса для анализа SnowBall
+
+🔗
+ Мой 
+публичный портфель бумаг
+ на бирже по QR на картинке выше (11+ млн. рублей) 
+
+Бумаги держу в ВТБ (35%) и Тбанк (65%). Актуальный список по субботам (загружаю отчеты из ВТБ). 
+
+В закрытом клубе оперативно делюсь всеми сделками в своем портфеле. 
+
+Также в клубе выложен мой новый тренинг «Фондовый рынок для начинающих», он доступен бесплатно. 
+
+🔗
+ 
+Вступить в клуб 
+
  
 
-Приходите послушать меня - ы 15:25 по Москве. ЗАЛ 1. 
+Все что написано выше ИИР не является.</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/LZOmyw-8WCArG9Hg2OxGo4gQXDIMPeC2e3fl0zgV5yRTDQqMKCbT5593ljk9ux2di4ThRIiTfb3lk-d-viccjHBdum2xL3IWVAEdUlLsBmsi-pFqm_5L-7a9S2ox6h8qafhmx6dLnnGug_zac4yMlBWUGEfpqrKWpKfHLqhdNLkjsvRfzVvqKf6drknjLuXuP3vVfR7MbT2WmF7R0jeUKZ3sJpBnKkR2iYQljjdFBhjh1cTYJ9qOb466NgHJ30YFYvn3slWyENvCHHF6oJJnjeWLuLwdqMdJQTcj8F2Fjbr7JRFULoyep5Qm1lkemG8EkpTxXct2o5pQ7jgL-0zLVg.jpg" /></p>
+Сделки недели…<br/><br/><b>Продал на неделе:</b><br/><tg-emoji emoji-id="5305659846203296115"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29B94.png')"><b>⛔️</b></i></tg-emoji><b> </b>ГТЛК 1P-14 RU000A100FE5 (фикс) - продал 1/2 и переложился в НПСКап1Р2<br/><tg-emoji emoji-id="5305659846203296115"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29B94.png')"><b>⛔️</b></i></tg-emoji><b> </b>Страна2Р2 RU000A10E6J7 - продал все (риски застройщика)<br/><tg-emoji emoji-id="5305659846203296115"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29B94.png')"><b>⛔️</b></i></tg-emoji><b> </b>ПЮЛ БО-01 RU000A10ED70 - продал все (риски ВДО, в стакане нет ликвидности)<br/><tg-emoji emoji-id="5305659846203296115"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29B94.png')"><b>⛔️</b></i></tg-emoji><b> </b>АПРИ 2Р14 RU000A10ERC0 -  сократил до 85 бумаг, жалею, что купил этого застройщика (цена упала на 18%)<br/><tg-emoji emoji-id="5305659846203296115"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29B94.png')"><b>⛔️</b></i></tg-emoji><b> </b>АПРИ 2Р12 RU000A10DZH4 - продал 30 бумаг (все), зафиксировал убыток<br/><tg-emoji emoji-id="5305659846203296115"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29B94.png')"><b>⛔️</b></i></tg-emoji><b> </b>Денум 1Р1 RU000A10C5B8 - продал 50%, апсайд 3% (упадет к номиналу, снова куплю)<br/><br/><b>Приобрел на неделе:</b><br/><tg-emoji emoji-id="5303339571726010761"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C94.png')"><b>✔️</b></i></tg-emoji> ПочтаР3P03 RU000A10EA16 (флоатер) - 200 бумаг <br/><tg-emoji emoji-id="5303339571726010761"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C94.png')"><b>✔️</b></i></tg-emoji> НПСКап1Р2  RU000A10G5H1 (флоатер) - 460 бумаг<br/><tg-emoji emoji-id="5303339571726010761"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C94.png')"><b>✔️</b></i></tg-emoji> ГМС002Р-02 RU000A10FXN2 (флоатер) - до 250 бумаг<br/><tg-emoji emoji-id="5303339571726010761"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C94.png')"><b>✔️</b></i></tg-emoji> БинФарм1P5 RU000A10B3Q2 (фикс) - до 283 бумаг<br/><tg-emoji emoji-id="5303339571726010761"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C94.png')"><b>✔️</b></i></tg-emoji> БинФарм1P6 RU000A10BZT3 (фикс) - до 138 бумаг<br/><br/><b>Структура портфеля на 18.09.2026:</b><br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9FA1.png')"><b>🟡</b></i> Облигации 99% (ВДО 40,8%, А-ААА 52,5%, ОФЗ 0,54% , валютные 6,18%)<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9FA1.png')"><b>🟡</b></i> Акции 0,85%<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9FA1.png')"><b>🟡</b></i> БПИФ 0% <br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9FA1.png')"><b>🟡</b></i> Рубли 0,15%<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29E96.png')"><b>➖</b></i> Пассивный доход - 19,43% (с учетом акций) <br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29E96.png')"><b>➖</b></i> Текущая доходность облигаций - 18,1%<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29E96.png')"><b>➖</b></i> Эффективная доходность к погашению - 22,2% <br/><br/>Доход по облигациям на год вперед: 177 070 рублей в месяц или 5 821 в день.<br/><br/><s><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E28FBA.png')"><b>⏺</b></i> Цель 1 - 100000 рублей </s><br/><s><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E28FBA.png')"><b>⏺</b></i> Цель 2 - 125000 рублей </s><br/><s><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E28FBA.png')"><b>⏺</b></i> Цель 3 - 150000 рублей </s><br/><s><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E28FBA.png')"><b>⏺</b></i> Цель 4 - 175000 рублей </s><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E28FBA.png')"><b>⏺</b></i> МЕГА Цель - 200000 рублей<br/><br/><tg-emoji emoji-id="5305297660201158137"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8084.png')"><b>🀄️</b></i></tg-emoji> Все цифры и графика взяты из <a href="https://snowball-income.com/register/kuklinvadim" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">сервиса для анализа SnowBall</a><br/><br/><tg-emoji emoji-id="5974492756494519709"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9497.png')"><b>🔗</b></i></tg-emoji> Мой <a href="https://snowball-income.com/public/portfolios/jurozzasif" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">публичный портфель бумаг</a> на бирже по QR на картинке выше (11+ млн. рублей) <br/><br/>Бумаги держу в ВТБ (35%) и Тбанк (65%). Актуальный список по субботам (загружаю отчеты из ВТБ). <br/><br/>В закрытом клубе оперативно делюсь всеми сделками в своем портфеле. <br/><br/>Также в клубе выложен мой новый тренинг «Фондовый рынок для начинающих», он доступен бесплатно. <br/><br/><tg-emoji emoji-id="5974492756494519709"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9497.png')"><b>🔗</b></i></tg-emoji> <a href="https://bothelp.cc/mini?domain=netbrok&amp;amp;id=8" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Вступить в клуб </a><br/> <br/>Все что написано выше ИИР не является.]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/torgi4you/1980</guid>
+      <pubDate>Sun, 20 Sep 2026 19:38:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Прошлая неделя была очень сложной и вместе с тем интересной.</title>
+      <link>https://telegram.me/torgi4you/1979</link>
+      <description>Прошлая неделя была очень сложной и вместе с тем интересной. 
 
-МОЯ ТЕМА: Риски при ивестировании на торгах.
+Наверно, самым ярким впечатлением было участие в онлайн-форуме 
+Тишина 2.0 «Время перемен"
+, организованном Максимом Повтаревым. Он был и модератором 1-го зала, где была секция по торгам. 
 
-17.09 (сегодня) | 11:00 – 18:00
+Прекрасная организация, спасибо Максиму и его команде. Как отдадут записи спикерам, выложу самые интересные на мой взгляд выступления. 
 
-3 зала | 43 спикера
+Еще на неделе продал гараж с землей, купленные чуть больше месяца назад. х2 в сделке, неплохо по нашим временам для районного городка. 
 
-8 блоков | 3000 участников
+На неделе несколько раз встречались с инвестором на один мой объект, если сделка состоится она будет крупнейшей для меня на торгах. Иллюзий не строю, да и продавать объект не сильно хочу :)
 
-Без продаж, без воздуха, все по делу и про реальные возможности на рынке
+На фондовом рынке все как всегда, акции то вниз, то вверх. А вот 
+облигации что-то совсем приуныли
+. 
 
-ВХОД СВОБОДНЫЙ
+После дефолтов ОйлРесурс и ЕвроТранса загрустили котировки Балтийского Лизинга, Самолета, Полипласта - это из самых крупных. ВДО страдали все кроме пожалуй коллекторов. Общий унылый настрой нарастает…
 
-ЗАЙТИ на эфир 
-👉
-ССЫЛКА НА ТРАНСЛЯЦИЮ</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/TdvwMKEWsDC1Zg4ZfPem_8T_6L2opb4emaHHaBzjCiisKTnUltw5iRe_erD8VXQdTj99Ch1kxTZFBepreBBOXbqA2ZF0MrpFZ8jMchIs1ME3V7ty-AgQJ8Y3Ssho_F82ax9qf6D9vSc-uXSXm3hWGSI5aDblXskl90gt7mlgxsesgisLHD8mU27KAf3H924Xk9jIxxDjKGLSpQhDP1PtXwtM1b0WI1Ju_h4YLcvGBfiSLNvNo5s0ouA_cV6rG5ov6grpFNZuP0wKm_oiHnRHryggiFaFXiu9SScWOV-surEytdAP-63ub_OpYMDRdU8ZehsnsOnVhSxD70rfLsd-hw.jpg" /></p>
-<tg-emoji emoji-id="5193159912393314773"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8D84E2808DF09F9FAB.png')"><b>🍄‍🟫</b></i></tg-emoji><b>Уже СЕГОДНЯ я выступаю на ОНЛАЙН ФОРУМЕ про инвестиции, недвижимость и капитал!</b> <br/><br/>Приходите послушать меня - ы 15:25 по Москве. ЗАЛ 1. <br/><br/><b>МОЯ ТЕМА: Риски при ивестировании на торгах.</b><br/><br/><b>17.09 (сегодня) | 11:00 – 18:00</b><br/>3 зала | 43 спикера<br/>8 блоков | 3000 участников<br/><br/>Без продаж, без воздуха, все по делу и про реальные возможности на рынке<br/><b>ВХОД СВОБОДНЫЙ</b><br/><br/>ЗАЙТИ на эфир <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"><b>👉</b></i><a href="https://telegram.me/ForumTishinaBot?start=kuklin" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">ССЫЛКА НА ТРАНСЛЯЦИЮ</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/torgi4you/1975</guid>
-      <pubDate>Thu, 17 Sep 2026 06:42:03 +0000</pubDate>
+В портфеле я постепенно наращиваю долю А грейда и сокращаю ВДО. 
+
+Общая сумма инвестиций 
+превысила 11 млн. рублей
+, при этом месячные поступления купонов на год вперед не сдвинулись с места. Это связано с тем, что я продаю ВДО с высокими купонами и перекладываю деньги в более надежные, но и менее доходные бумаги...</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/UTQ1IXuOlQ_SxaDXTaHSg1KfyF_WYDZTEo4IS5Rz5svlFmjxF_Y7DQYAyG4n1cB8hqpNzLUE2gNMkmQgHHtEH9ZjtuBkgehWug_gqaHU1lmptlE3pWKImaCUjHcq8bmpcwFgHexWP-ZMoi7e18fBYba9VWLl6AXwNKXcGXdX-B0Sd2WrOjwo69HMBGzeJFZizRkqCqeaobQPqB1R9zGNL9dtXTlUS3o3z0xmNYdcyywz0LHoVRPRUQFglMFZl8NKrRhukdpDHVsBGzNjcGMcap37TPe7jsiOpsRWRg3fvH-5ZKbLa7_UQ6iutqsIqiRaMFebyLGJIYEnCMORNJQowg.jpg" /></p>
+Прошлая неделя была очень сложной и вместе с тем интересной. <br/><br/>Наверно, самым ярким впечатлением было участие в онлайн-форуме <b>Тишина 2.0 «Время перемен"</b>, организованном Максимом Повтаревым. Он был и модератором 1-го зала, где была секция по торгам. <br/><br/>Прекрасная организация, спасибо Максиму и его команде. Как отдадут записи спикерам, выложу самые интересные на мой взгляд выступления. <br/><br/>Еще на неделе продал гараж с землей, купленные чуть больше месяца назад. х2 в сделке, неплохо по нашим временам для районного городка. <br/><br/>На неделе несколько раз встречались с инвестором на один мой объект, если сделка состоится она будет крупнейшей для меня на торгах. Иллюзий не строю, да и продавать объект не сильно хочу :)<br/><br/>На фондовом рынке все как всегда, акции то вниз, то вверх. А вот <b>облигации что-то совсем приуныли</b>. <br/><br/>После дефолтов ОйлРесурс и ЕвроТранса загрустили котировки Балтийского Лизинга, Самолета, Полипласта - это из самых крупных. ВДО страдали все кроме пожалуй коллекторов. Общий унылый настрой нарастает…<br/><br/><b><i>В портфеле я постепенно наращиваю долю А грейда и сокращаю ВДО. <br/><br/></i></b>Общая сумма инвестиций <b>превысила 11 млн. рублей</b>, при этом месячные поступления купонов на год вперед не сдвинулись с места. Это связано с тем, что я продаю ВДО с высокими купонами и перекладываю деньги в более надежные, но и менее доходные бумаги...]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/torgi4you/1979</guid>
+      <pubDate>Sun, 20 Sep 2026 19:29:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Размещения недели 21-25 сентября 2026</title>
+      <link>https://telegram.me/torgi4you/1978</link>
+      <description>Размещения недели 21-25 сентября 2026
+
+Итак, после нервной недели в облигациях нас ждут новые желающие занять на долговом рынке. Имена в основном авторитетные, купоны соответственно невыразительные. 
+
+Отмечу только самые интересные сборы. Остальные можно найти в таблице по ссылке - она меняется ежедневно и включает сборы предыдущих недель: 
+https://clck.ru/3VvtDc
+ 
+
+✔️
+ 
+ПКО ЮСВ
+ -  редкий для долгового рынка представитель коллекторов, входящий в состав холдинга Финбрижд, который и выступает поручителем выпуска. То есть ЮСВ - не отдельный «одинокий» коллектор, а часть более крупного финансового холдинга.
+
+В составе холдинга: 
+МФО CashToYou, One Click Money, Credit2day и Деньги Сразу, свой платежный сервис Vepay, оператор финансовой платформы "Финтек Системс" и еще ряд сервисов. 
+
+Стартовый купон:
+ не выше 21,75%, что не выглядит прямо вау, но компания серийно не занимает, на ногах стоит крепко. Выпуск для всех, что редкость для коллекторов. Я участвую.
+
+✔️
+ 
+АО "ЛОЭСК" 
+вторая по масштабу электросетевая организация Ленинградской области, контролирует региональные распределительные и территориальные сети в регионе и Санкт-Петербурге. Создана на базе объединения 15 муниципальных электросетевых предприятий Ленобласти. 
+
+Выручка за 2025 год составила 10,7 млрд ₽, причём около 89% приходится на передачу электроэнергии, но почти вся эта выручка завязана на одного крупного контрагента - Ленэнерго.
+
+Поговаривают о поглощении ЛОЭСК крупным ПАО «Ленэнерго», но это по факту даже и плюс. 
+
+Для ЛОЭСК это первый облигационный выпуск, поэтому истории доходности на вторичном рынке у компании пока нет. Плюс рейтинг А компании присвоен только 10 сентября 2026 и не Эксперт РА, а НКР, что пока несколько напрягает. 
+
+Однако, компания в этом кредитном рейтинге конкурирует с СТМ, Камазом, ЛСР и Полипластом, а они все торгуются сильно дороже ЛОЭСК.
+
+Стартовый купон: 
+не выше 18,5%. Присмотрюсь к итоговому % и приму решение по участию. Но целом эмитент выглядит как спокойная альтернатива ВДО. А купон… посмотрим. 
+
+✔️
+ 
+На неделе собирают заявки также:
+ 
+СОПФ
+ 
+ДОМ
+ 
+РФ, Группа Черкизово, МАЙЛ.РУ, ХМАО-ЮГРА, Европлан, Новабев Групп, СФО ТБ-11 
+- все они подходят для многомиллионных портфелей. Я точно мимо. 
+
+✔️
+ И еще один сбор и размещение одним днем - 
+ПКО Бустер
+ - небольшой коллектор, который зажал купон до 22,5% и не выглядит интересным для квалов в принципе. 
+
+Не ИИР ни разу. 
+
+Плодотворной рабочей недели, уважаемые подписчики!</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/H5IV5BDGJ9VByq4ho9X1SS4bQ3WI_ZtDvivFiFkey8qPjd4kZ2LX9sVfTPrZUDr-lrhGTrVDoFAVTQWg1Bf5UPVjocRUJv_F0mactVTVyUuo-rW3hXn7eDuT61lYdwZt9OHHFaO5cdoOYsnooA0XRR3WxgMGD9p1aNeuqgqwO43yA7XzO4_uUQjupHlBLK84LBui7-ZbBQKgImKXgYdbh_oNtQzPlj5OkDgMbGxCRatWeHhHV72YypJKl33Q3sMrhzGpturaievcaU30SpUj1Q4IvGt8xnRDGgCMenVmQwRHT-9Nz7lMsZoRQFx5dVVhaa5TldzdgzJmi3l7WdOjvA.jpg" /></p>
+<b>Размещения недели 21-25 сентября 2026</b><br/><br/>Итак, после нервной недели в облигациях нас ждут новые желающие занять на долговом рынке. Имена в основном авторитетные, купоны соответственно невыразительные. <br/><br/>Отмечу только самые интересные сборы. Остальные можно найти в таблице по ссылке - она меняется ежедневно и включает сборы предыдущих недель: <a href="https://clck.ru/3VvtDc" rel="noopener" target="_blank">https://clck.ru/3VvtDc</a> <br/><br/><tg-emoji emoji-id="5303339571726010761"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C94.png')"><b>✔️</b></i></tg-emoji> <b>ПКО ЮСВ</b> -  редкий для долгового рынка представитель коллекторов, входящий в состав холдинга Финбрижд, который и выступает поручителем выпуска. То есть ЮСВ - не отдельный «одинокий» коллектор, а часть более крупного финансового холдинга.<br/><br/><b>В составе холдинга: </b>МФО CashToYou, One Click Money, Credit2day и Деньги Сразу, свой платежный сервис Vepay, оператор финансовой платформы "Финтек Системс" и еще ряд сервисов. <br/><br/><b>Стартовый купон:</b> не выше 21,75%, что не выглядит прямо вау, но компания серийно не занимает, на ногах стоит крепко. Выпуск для всех, что редкость для коллекторов. Я участвую.<br/><br/><tg-emoji emoji-id="5303339571726010761"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C94.png')"><b>✔️</b></i></tg-emoji> <b>АО "ЛОЭСК" </b>вторая по масштабу электросетевая организация Ленинградской области, контролирует региональные распределительные и территориальные сети в регионе и Санкт-Петербурге. Создана на базе объединения 15 муниципальных электросетевых предприятий Ленобласти. <br/><br/>Выручка за 2025 год составила 10,7 млрд ₽, причём около 89% приходится на передачу электроэнергии, но почти вся эта выручка завязана на одного крупного контрагента - Ленэнерго.<br/><br/>Поговаривают о поглощении ЛОЭСК крупным ПАО «Ленэнерго», но это по факту даже и плюс. <br/><br/>Для ЛОЭСК это первый облигационный выпуск, поэтому истории доходности на вторичном рынке у компании пока нет. Плюс рейтинг А компании присвоен только 10 сентября 2026 и не Эксперт РА, а НКР, что пока несколько напрягает. <br/><br/>Однако, компания в этом кредитном рейтинге конкурирует с СТМ, Камазом, ЛСР и Полипластом, а они все торгуются сильно дороже ЛОЭСК.<br/><br/><b>Стартовый купон: </b>не выше 18,5%. Присмотрюсь к итоговому % и приму решение по участию. Но целом эмитент выглядит как спокойная альтернатива ВДО. А купон… посмотрим. <br/><br/><tg-emoji emoji-id="5303339571726010761"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C94.png')"><b>✔️</b></i></tg-emoji> <b>На неделе собирают заявки также:</b> <b>СОПФ</b> <b>ДОМ</b> <b>РФ, Группа Черкизово, МАЙЛ.РУ, ХМАО-ЮГРА, Европлан, Новабев Групп, СФО ТБ-11 </b>- все они подходят для многомиллионных портфелей. Я точно мимо. <br/><br/><tg-emoji emoji-id="5303339571726010761"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C94.png')"><b>✔️</b></i></tg-emoji> И еще один сбор и размещение одним днем - <b>ПКО Бустер</b> - небольшой коллектор, который зажал купон до 22,5% и не выглядит интересным для квалов в принципе. <br/><br/>Не ИИР ни разу. <br/><br/>Плодотворной рабочей недели, уважаемые подписчики!]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/torgi4you/1978</guid>
+      <pubDate>Sun, 20 Sep 2026 13:03:31 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,41 +8,46 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 18 Sep 2026 09:56:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 10:54:11 +0000</lastBuildDate>
     <item>
       <title>❓</title>
-      <link>https://telegram.me/gis_torgi_prodaji/927</link>
+      <link>https://telegram.me/gis_torgi_prodaji/928</link>
       <description>❓
  ВОПРОС:
 
-Я хочу отслеживать интересующие меня торги по заданным параметрам. Можно ли в ГИС ТОРГИ ПРОДАЖИ сохранять результаты поиска для возможности вернуться к ним при необходимости?
+Как в ГИС ТОРГИ ПРОДАЖИ правообладателю предусмотреть возможность возврата имущества на основании акта?
 
 ❗️
 ОТВЕТ:
 
-В реестре лотов ГИС ТОРГИ ПРОДАЖИ реализована возможность сохранения поисковых запросов с нужными параметрами.
+Для этого правообладателю нужно проставить признак 
+«Возврат имущества по договору осуществляется на основании акта возврата имущества»
+ в проекте электронного договора.
 
-Для этого необходимо:
-
-♦️
- авторизоваться в личном кабинете ГИС ТОРГИ ПРОДАЖИ участника торгов или организатора торгов
-
-♦️
- задать фильтры в реестре лотов 
-
-♦️
- нажать «Сохранить поиск»
-
-🔍
- Сохранить можно до 5 поисковых запросов.
-
-Перейти к сохраненному поисковому запросу можно:
+Для создания акта возврата необходимо:
 
 🔹
- в реестре лотов, нажав «Выбрать поиск»
+ в личном кабинете в подразделе «Подписание актов в ГИС Торги» раздела «Договоры» нажать кнопку «Создать»
 
 🔹
- во вкладке «Поиск» раздела «Избранное» личного кабинета  
+ выбрать нужный договор и нажать «Создать акт»
+
+🔹
+ выбрать в поле «Наименование документа» значение «Акт возврата имущества правообладателю» и заполнить обязательные поля 
+
+🔹
+ подписать документ, после чего он будет автоматически направлен контрагенту
+
+👉
+ Формирование акта возврата имущества правообладателю 
+доступно
+ для договоров аренды, безвозмездного пользования и доверительного управления по следующим видам торгов:
+
+🔹
+ аренда и продажа земельных участков
+
+🔹
+ аренда государственного и муниципального имущества
 
 ℹ️
  С подробной инструкцией по работе с функционалом можно ознакомиться в разделе 
@@ -50,15 +55,15 @@
 
 #ВОПРОСЫ
  
-#ЛИЧНЫЙ_КАБИНЕТ
+#ЭЛЕКТРОННЫЙ_ДОГОВОР
 
 🔔
  
 Следите за новостями ГИС ТОРГИ ПРОДАЖИ в MAX</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/pwJ5IZgMZ1YVPrNZkK-tws7LQNqqoVWdnNOddCXFGQ9yq508xaveFbc-1rzybwFXIr_LQfNjvcQ-lbpdzoWTtG40SdF5seYkd8NUeFq0o4C7kBjigh0WdCa_ku6SKOpjBpbEGv8kpvWUTg3_ypNusVRVTAVWF21WOUOVbcLvLF63nzX8H2MZiw92ZioX5HJUEQTSTo-cxL6fvu0A9RWzd5GuXAPIjRWWWkRfyEtLWp597EiJ6-CkClEozIIaR594COT5TS-HdJOHwQhcLXePohCJyCcPpqwHocIEEvXqrFbkBfIXWjCJlNhrJdbj-DI3BjTThZ_Sgy35Va_J2bhzww.jpg" /></p>
-<b><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29D93.png')"><b>❓</b></i> ВОПРОС:</b><br/><br/>Я хочу отслеживать интересующие меня торги по заданным параметрам. Можно ли в ГИС ТОРГИ ПРОДАЖИ сохранять результаты поиска для возможности вернуться к ним при необходимости?<br/><br/><b><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29D97.png')"><b>❗️</b></i>ОТВЕТ:</b><br/><br/>В реестре лотов ГИС ТОРГИ ПРОДАЖИ реализована возможность сохранения поисковых запросов с нужными параметрами.<br/><br/>Для этого необходимо:<br/><tg-emoji emoji-id="5402473339677585887"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E299A6.png')"><b>♦️</b></i></tg-emoji> авторизоваться в личном кабинете ГИС ТОРГИ ПРОДАЖИ участника торгов или организатора торгов<br/><tg-emoji emoji-id="5402473339677585887"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E299A6.png')"><b>♦️</b></i></tg-emoji> задать фильтры в реестре лотов <br/><tg-emoji emoji-id="5402473339677585887"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E299A6.png')"><b>♦️</b></i></tg-emoji> нажать «Сохранить поиск»<br/><br/><tg-emoji emoji-id="5402094648116137121"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F948D.png')"><b>🔍</b></i></tg-emoji> Сохранить можно до 5 поисковых запросов.<br/><br/>Перейти к сохраненному поисковому запросу можно:<br/><tg-emoji emoji-id="5402625879736070279"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji> в реестре лотов, нажав «Выбрать поиск»<br/><tg-emoji emoji-id="5402625879736070279"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji> во вкладке «Поиск» раздела «Избранное» личного кабинета  <br/><br/><tg-emoji emoji-id="5404703557280615893"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E284B9.png')"><b>ℹ️</b></i></tg-emoji> С подробной инструкцией по работе с функционалом можно ознакомиться в разделе <a href="https://torgi.gov.ru/new/public/infomaterials/reg" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">«Информационные материалы».</a><br/><br/><a href="?q=%23%D0%92%D0%9E%D0%9F%D0%A0%D0%9E%D0%A1%D0%AB">#ВОПРОСЫ</a> <a href="?q=%23%D0%9B%D0%98%D0%A7%D0%9D%D0%AB%D0%99_%D0%9A%D0%90%D0%91%D0%98%D0%9D%D0%95%D0%A2">#ЛИЧНЫЙ_КАБИНЕТ</a><br/><br/><tg-emoji emoji-id="5404763819966744244"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9494.png')"><b>🔔</b></i></tg-emoji> <a href="https://max.ru/gis_torgi_prodaji" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Следите за новостями ГИС ТОРГИ ПРОДАЖИ в MAX</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/gis_torgi_prodaji/927</guid>
-      <pubDate>Tue, 15 Sep 2026 11:19:58 +0000</pubDate>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/pG-hI8bnbM1L79rJkvSI5khFSxbMM8dvDv4TMiSzc-bal92LabrAsiN66_bVkEkuAOOv_T0VuY1IdKsEKkesC7F7eb_uu1EeklXVYQfzJSTWKVkIM1CYChrCIOeqJGdKwVIw2QoyPKcsLxsjRDyFCH9hta2a0w9n2VndeMF5T54U1Yigha7274oteDe6J5_JcM7UWMQ0HA4Qo7M0R6yMo_ajW-v6gfPNTooxa11Pz-fMbEU4SZDHw_AfZCkjw-ykgyGAqIwrQSiPQnOfaXwRf7YsHKiJm9BHYWINLB7kBnDesY3Ljuc0W_JG2eI58Rk-TESXjbw8fhGwFTKtK6JsQQ.jpg" /></p>
+<b><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29D93.png')"><b>❓</b></i> ВОПРОС:</b><br/><br/>Как в ГИС ТОРГИ ПРОДАЖИ правообладателю предусмотреть возможность возврата имущества на основании акта?<br/><br/><b><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29D97.png')"><b>❗️</b></i>ОТВЕТ:</b><br/><br/>Для этого правообладателю нужно проставить признак <b>«Возврат имущества по договору осуществляется на основании акта возврата имущества»</b> в проекте электронного договора.<br/><b><br/>Для создания акта возврата необходимо:</b><br/><br/><tg-emoji emoji-id="5402625879736070279"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji> в личном кабинете в подразделе «Подписание актов в ГИС Торги» раздела «Договоры» нажать кнопку «Создать»<br/><tg-emoji emoji-id="5402625879736070279"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji> выбрать нужный договор и нажать «Создать акт»<br/><tg-emoji emoji-id="5402625879736070279"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji> выбрать в поле «Наименование документа» значение «Акт возврата имущества правообладателю» и заполнить обязательные поля <br/><tg-emoji emoji-id="5402625879736070279"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji> подписать документ, после чего он будет автоматически направлен контрагенту<br/><br/><tg-emoji emoji-id="5402544447156146661"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"><b>👉</b></i></tg-emoji> Формирование акта возврата имущества правообладателю <b>доступно</b> для договоров аренды, безвозмездного пользования и доверительного управления по следующим видам торгов:<br/><br/><tg-emoji emoji-id="5402625879736070279"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji> аренда и продажа земельных участков<br/><tg-emoji emoji-id="5402625879736070279"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji> аренда государственного и муниципального имущества<br/><br/><tg-emoji emoji-id="5404703557280615893"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E284B9.png')"><b>ℹ️</b></i></tg-emoji> С подробной инструкцией по работе с функционалом можно ознакомиться в разделе <a href="https://torgi.gov.ru/new/public/infomaterials/reg" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">«Информационные материалы».</a><br/><br/><a href="?q=%23%D0%92%D0%9E%D0%9F%D0%A0%D0%9E%D0%A1%D0%AB">#ВОПРОСЫ</a> <a href="?q=%23%D0%AD%D0%9B%D0%95%D0%9A%D0%A2%D0%A0%D0%9E%D0%9D%D0%9D%D0%AB%D0%99_%D0%94%D0%9E%D0%93%D0%9E%D0%92%D0%9E%D0%A0">#ЭЛЕКТРОННЫЙ_ДОГОВОР</a><br/><br/><tg-emoji emoji-id="5404763819966744244"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9494.png')"><b>🔔</b></i></tg-emoji> <a href="https://max.ru/gis_torgi_prodaji" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Следите за новостями ГИС ТОРГИ ПРОДАЖИ в MAX</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/gis_torgi_prodaji/928</guid>
+      <pubDate>Fri, 18 Sep 2026 10:59:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
