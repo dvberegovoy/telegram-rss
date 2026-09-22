@@ -8,7 +8,103 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 21 Sep 2026 10:55:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 10:09:33 +0000</lastBuildDate>
+    <item>
+      <title>Казначейство планирует в январе 2027 года начать промэксплуатацию первого ИИ-агента в госзакупках</title>
+      <link>https://telegram.me/rukazna/12032</link>
+      <description>Казначейство планирует в январе 2027 года начать промэксплуатацию первого ИИ-агента в госзакупках
+
+21 сентября. 
+INTERFAX.RU
+ - Федеральное казначейство планирует в январе 2027 года запустить для общего использования первого ИИ-агента в Единой информационной системе (ЕИС) госзакупок, заявила заместитель руководителя Казначейства Анна Катамадзе в ходе Московского финансового форума.
+
+По ее словам, Минфином и Казначейством утвержден и уже реализуется план развития ИИ в ЕИС. При этом основной задачей ИИ в области госзакупок Катамадзе назвала помощь специалистам в области закупок (таких в РФ в настоящее время около 2 млн человек) решать задачи быстро и правильно с учетом всех тех обременений и дополнений, которыми обросла контрактная система. Речь идет о требованиях в области импортозамещения, промполитики, различных отраслевых стандартов и т.п.
+
+Заместитель министра финансов Алексей Моисеев добавил, что ИИ может помочь с упрощением работы с контрактной системой: может автоматизировать большую часть задач заказчика – отслеживание изменений нормативной базы, проверять поставщиков, формировать начальную (максимальную) цену контракта, составлять проекты документов.
+
+"Таких задач много, - подчеркнул Моисеев. - Но окончательное решение всегда будет принимать человек, потому что спрашивать будут не с ИИ, а с человека".
+
+В настоящее время Казначейство занимается обучением ИИ-агента для работы в области закупок медизделий с участием ряда крупных медучреждений. При этом используются открытые языковые модели. Обработка информации в них осуществляется без передачи во внешние публичные ИИ-сервисы.
+
+Также Катамадзе подчеркнула, что обучение ведется на только на базе достоверных данных и актуальных справочников и нормативных правовых актов.
+
+Директор департамента бюджетной политики в сфере контрактной системы Минфина России Татьяна Демидова уточнила, что выбор сферы медизделий для апробации ИИ связан с тем, что их номенклатура и объем закупок не такой большой, как, например, в сегменте лекарственных препаратов. И в то же время эта сфера хорошо описана в справочниках, каталогах, нормативной базе. Соответственно, обучение моделей может поводиться быстрее и качественнее.
+
+Казначейство рассчитывает, что уже в сентябре медучреждения, принимающие участие в работе над ИИ-агентом смогут проводить свои закупки медизделий с использованием этого агента. До конца текущего года планируется дорабатывать ИИ-агента, а в январе открыть его для всех заказчиков.
+
+На основании работы этого ИИ-агента регуляторы будут оценивать эффективность (в том числе экономическую) использования ИИ в госзакупках и принимать решение о масштабировании и развитии ИИ-решений в рамках контрактной системы.</description>
+      <content:encoded><![CDATA[<b>Казначейство планирует в январе 2027 года начать промэксплуатацию первого ИИ-агента в госзакупках</b><br/><br/>21 сентября. <a href="https://www.interfax.ru/business/1117557" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">INTERFAX.RU</a> - Федеральное казначейство планирует в январе 2027 года запустить для общего использования первого ИИ-агента в Единой информационной системе (ЕИС) госзакупок, заявила заместитель руководителя Казначейства Анна Катамадзе в ходе Московского финансового форума.<br/><br/>По ее словам, Минфином и Казначейством утвержден и уже реализуется план развития ИИ в ЕИС. При этом основной задачей ИИ в области госзакупок Катамадзе назвала помощь специалистам в области закупок (таких в РФ в настоящее время около 2 млн человек) решать задачи быстро и правильно с учетом всех тех обременений и дополнений, которыми обросла контрактная система. Речь идет о требованиях в области импортозамещения, промполитики, различных отраслевых стандартов и т.п.<br/><br/>Заместитель министра финансов Алексей Моисеев добавил, что ИИ может помочь с упрощением работы с контрактной системой: может автоматизировать большую часть задач заказчика – отслеживание изменений нормативной базы, проверять поставщиков, формировать начальную (максимальную) цену контракта, составлять проекты документов.<br/><br/>"Таких задач много, - подчеркнул Моисеев. - Но окончательное решение всегда будет принимать человек, потому что спрашивать будут не с ИИ, а с человека".<br/><br/>В настоящее время Казначейство занимается обучением ИИ-агента для работы в области закупок медизделий с участием ряда крупных медучреждений. При этом используются открытые языковые модели. Обработка информации в них осуществляется без передачи во внешние публичные ИИ-сервисы.<br/><br/>Также Катамадзе подчеркнула, что обучение ведется на только на базе достоверных данных и актуальных справочников и нормативных правовых актов.<br/><br/>Директор департамента бюджетной политики в сфере контрактной системы Минфина России Татьяна Демидова уточнила, что выбор сферы медизделий для апробации ИИ связан с тем, что их номенклатура и объем закупок не такой большой, как, например, в сегменте лекарственных препаратов. И в то же время эта сфера хорошо описана в справочниках, каталогах, нормативной базе. Соответственно, обучение моделей может поводиться быстрее и качественнее.<br/><br/>Казначейство рассчитывает, что уже в сентябре медучреждения, принимающие участие в работе над ИИ-агентом смогут проводить свои закупки медизделий с использованием этого агента. До конца текущего года планируется дорабатывать ИИ-агента, а в январе открыть его для всех заказчиков.<br/><br/>На основании работы этого ИИ-агента регуляторы будут оценивать эффективность (в том числе экономическую) использования ИИ в госзакупках и принимать решение о масштабировании и развитии ИИ-решений в рамках контрактной системы.]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/rukazna/12032</guid>
+      <pubDate>Tue, 22 Sep 2026 08:57:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Пост — Новости ФК России</title>
+      <link>https://telegram.me/rukazna/12031</link>
+      <description>Пост — Новости ФК России</description>
+      <content:encoded><![CDATA[(нет текста)]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/rukazna/12031</guid>
+      <pubDate>Mon, 21 Sep 2026 13:30:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Пост — Новости ФК России</title>
+      <link>https://telegram.me/rukazna/12030</link>
+      <description>Пост — Новости ФК России</description>
+      <content:encoded><![CDATA[(нет текста)]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/rukazna/12030</guid>
+      <pubDate>Mon, 21 Sep 2026 12:18:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Пост — Новости ФК России</title>
+      <link>https://telegram.me/rukazna/12029</link>
+      <description>Пост — Новости ФК России</description>
+      <content:encoded><![CDATA[(нет текста)]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/rukazna/12029</guid>
+      <pubDate>Mon, 21 Sep 2026 11:54:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌐</title>
+      <link>https://telegram.me/rukazna/12028</link>
+      <description>🌐
+ 
+Казначейство России
+
+📢
+ Пленарная сессия «Устойчивая финансовая система — основа развития страны» с участием Министра финансов Российской Федерации Антоном Силуановым и Мэром Москвы Сергеем Собяниным
+
+Делегация Казначейства России во главе с руководителем ведомства Романом Артюхиным принимает участие в Пленарном заседании.
+
+🔘
+Смотрите прямую трансляцию по ссылке
+
+⚡️
+️️ Начало — 14:00</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/E-j5ORlxD5LqTpaW_aKcXkCV07hP9dsYC6v5eor5bXAL8VRQnW-Luddo6KLp1HLyLsXBmYfmYZn7fZ-Gb2Q9xJ8rqI-QosAZgVDaJSgnqRIQbMPqzb00KiRt798V9_x-JNV6XVRSs47TvHLa3kmetlrPOa-dNfzctW0zGWh9lp8l1SVylIlAsy3ztmnDsTfo2DDqp77DkYGL4z_XMdtLSjjuC3KvWq_RbHOlYNNojzX1L7c2sTFmefTJt84LaGz9_6iLwp3QuFYqskajg-8XMBGFrBew-3NKnbs9qjACC_K3x9stIRaGhyBmgypUAV59KMKLmNWBTOQh4Q8SY8TUWA.jpg" /></p>
+<tg-emoji emoji-id="5359619818150436536"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8C90.png')"><b>🌐</b></i></tg-emoji> <a href="https://vk.com/wall-211194418_3399" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Казначейство России</a><br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93A2.png')"><b>📢</b></i> Пленарная сессия «Устойчивая финансовая система — основа развития страны» с участием Министра финансов Российской Федерации Антоном Силуановым и Мэром Москвы Сергеем Собяниным<br/><br/>Делегация Казначейства России во главе с руководителем ведомства Романом Артюхиным принимает участие в Пленарном заседании.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9498.png')"><b>🔘</b></i>Смотрите прямую трансляцию по ссылке<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29AA1.png')"><b>⚡️</b></i>️️ Начало — 14:00]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/rukazna/12028</guid>
+      <pubDate>Mon, 21 Sep 2026 11:00:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌐</title>
+      <link>https://telegram.me/rukazna/12027</link>
+      <description>🌐
+ 
+Казначейство России
+
+📢
+ Пленарная сессия «Устойчивая финансовая система — основа развития страны» с участием Министра финансов Российской Федерации Антоном Силуановым и Мэром Москвы Сергеем Собяниным
+
+Делегация Казначейства России во главе с руководителем ведомства Романом Артюхиным принимает участие в Пленарном заседании.
+
+🔘
+Смотрите прямую трансляцию по ссылке
+
+⚡️
+️️ Начало — 14:00</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/rkQo0w1TPyA0EMYW71OGuyPSNC14ltz27BP2d9d47YoPW1mhqFt9NDuqKxfZ2R0f5ilGLhzg6ZIClS5IyExR5Zrok70EPs1AyYE6PYHzV8yKah2QrSANj-pfgr8CBSkj-DNdPG9vBUmMdrmRtXxG7UG1XcciFgeNmpOSqetCJJfeBihZOLrXdKcWx3DA2iJWmBjWCesp-1j0R-Fgb0vCnOuG_1OB4nL45ZjJ1RnQl6w-Obz9vSdNAS_19QGlVtjdhs2dpBQNqZJ_FdwLWzJvbNwzoeLgxzhKt-BkUYmVoygs4eYi8_dEorroZONuzC9IsX4vJo2DDxmaqEQf1XqbFg.jpg" /></p>
+<tg-emoji emoji-id="5359619818150436536"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8C90.png')"><b>🌐</b></i></tg-emoji> <a href="https://vk.com/wall-211194418_3399" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Казначейство России</a><br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93A2.png')"><b>📢</b></i> Пленарная сессия «Устойчивая финансовая система — основа развития страны» с участием Министра финансов Российской Федерации Антоном Силуановым и Мэром Москвы Сергеем Собяниным<br/><br/>Делегация Казначейства России во главе с руководителем ведомства Романом Артюхиным принимает участие в Пленарном заседании.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9498.png')"><b>🔘</b></i>Смотрите прямую трансляцию по ссылке<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29AA1.png')"><b>⚡️</b></i>️️ Начало — 14:00]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/rukazna/12027</guid>
+      <pubDate>Mon, 21 Sep 2026 11:00:42 +0000</pubDate>
+    </item>
     <item>
       <title>🌐</title>
       <link>https://telegram.me/rukazna/12026</link>
@@ -26,7 +122,7 @@
 
 ⚡️
 ️ Начало — 12:00</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/YclIpQQ1HlrRNa8yCauI-K57jnPIxH9cR-3-XszS50zxL86oeJLjqFWwKH7dsl33Ly02FQe_lwOD9wtO5RLR12Kv4Cbj6-xyrqGE58tXm1NZSsGFvoKPpVVFXgTfriG1EmVnE3EBum-e52NCPmLpimzKoFGCu6gfd_1wbYPLiabbKZDDLlSxPW80ziAmSIR2JyDvEP5QVBl0ixHOAjv_MZ6bKZYYXOgQWSXsku-t9OIGVi8U_caXZgzaa3CZ3q5B4qCEXa0MPtBhpaaTYJKfsFi_QCi94UFM4TMnXM2g25wcwBMM2weO0OXV0u6srlittI4zhsvBIYEHvsItwGKvvw.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/lGeynj0-ZiNhjueFp3Ua9NVir8gYEgScAp4kLvhXIwBzdbD7fXuSsdogShTYPi0TfykNoTAZR1x5htpcehoXwHWwvljXIUcG1U4jKh9REZWhmvt5eRpkOw7OLXgEFOPE8d5o-yJllcUvGAxQkNVYlFFW59TVwZfaTfajpzFqaqMo_7ufuuuqljaUZf04IlDPfG4s74mWoWLX2UmeWtnqhQiFG8CSaV3dFT7TbZn7aMpxgDhg832oF9HniUaVVEPbkonwavt3olSkhdpxaD7-Um7Vwg4sc85HFCkF2uQFVp5o-TIWWNjZ_kU20Ko2pjbOlBt_9NiFopDNrdqvwEx9fw.jpg" /></p>
 <tg-emoji emoji-id="5359619818150436536"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8C90.png')"><b>🌐</b></i></tg-emoji> <a href="https://vk.com/wall-211194418_3398" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Казначейство России</a><br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93A2.png')"><b>📢</b></i> Присоединяйтесь к прямой трансляции сессии «Цифровое Казначейство — сервисы для регионов»<br/><br/>Модератором сессии выступит заместитель руководителя Казначейства России Анна Катамадзе.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9498.png')"><b>🔘</b></i>Смотрите прямую трансляцию по ссылке<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29AA1.png')"><b>⚡️</b></i>️ Начало — 12:00]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/rukazna/12026</guid>
       <pubDate>Mon, 21 Sep 2026 08:55:33 +0000</pubDate>
@@ -48,7 +144,7 @@
 
 ⚡️
 ️ Начало — 12:00</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/hd6LyOcugKlNMwkQufHfeh1it2ECiZlgdFFRZ01qkbnKcMxv_Vl2TGmTsIVBP6_KpqjJWxIz5t5BPWdob2_bn1PBxFSutY9LMJlLi7oZqtKJjz__qbzjBxU-fhP1RMxcXnoqcJUlxzYV8t3dUqlathr4B_MRIxvq64o9n47rPyqRZlirCs_Gflg7rsCb2dEe-v4ho4SdGnxAWhx6rrMVhXYohoG4tbEJyCIVh0x3r9YPbsMrnTR83G5A7kKm0Vc45Cw1oRpY-q5LO8tR2QRS_1xdHRRHrDNxDtCvauznfHrwBTKNhf_8r6xuX-ugj0Zcrgcsc1ex9z_gk9N7YqMK2A.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/O0cgxwVlnJ5FCPzCs-NecK1fIFuUYWnvfW9tf0_hLKN5YI7LTJgzeJS-Nh8JuK4bR9bSkS8IpX_dx3GfyZmpVeNF8GUR-i3qWlAvRnJG0ax8MR-A9jW0-dz-GRpupN1X7DVDqKFGL6erksFZEF1n5Th0WvViQyMFe-_USPFyGLYG4X_onAQpgNEi1RicoOIfMYwMP7ho8PlmAJxk3w127t_PUEtO5Uuyudca747u3fWayisAtCfXrSWncEnw_0ptez9PMW7ISGgPJiFoZ8myfLAbJ4V0xMRJv5EuceCoLmvTbcpw1E8uUeH1_wyGNRWNzcc44Y5uNqoOFSDNLDuazQ.jpg" /></p>
 <tg-emoji emoji-id="5359619818150436536"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8C90.png')"><b>🌐</b></i></tg-emoji> <a href="https://vk.com/wall-211194418_3398" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Казначейство России</a><br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93A2.png')"><b>📢</b></i> Присоединяйтесь к прямой трансляции сессии «Цифровое Казначейство — сервисы для регионов»<br/><br/>Модератором сессии выступит заместитель руководителя Казначейства России Анна Катамадзе.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9498.png')"><b>🔘</b></i>Смотрите прямую трансляцию по ссылке<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29AA1.png')"><b>⚡️</b></i>️ Начало — 12:00]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/rukazna/12025</guid>
       <pubDate>Mon, 21 Sep 2026 08:55:31 +0000</pubDate>
@@ -78,7 +174,7 @@
 
 ⚡️
 ️ Начало — 10:00</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/O0t8SmySGYmM4NmeylqE5y_jLQrM70_WbVXda7sIzHjVwTjWb_Xyo3BfKICbXIJduJCpHOSV9DmmA-88097a1KyJ471Eyj8IjrIO6OiRZU6YrbG8pVHNKOK-eVfGbVCz4uaeUckFyyhxYF-dE4_oMnzIrjbIUU25DfxLtYkMeNCV09etFlDal1L5957x-VRdZPYKYJFgG2ss-KfA46IiXy8vagJ5999DgptPd00Pm5WzGMYd4QB6Cz8pzGnI8_gtEO32qUILhFKc94WwKFRk2cZwieJ6Qz93aM2KjLds-vRKAe299RiRJdaR94cKXgt2kdtfA9KsvtVre_E76OS-zA.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/BTuMIkOMBLmjwE2Gj1WOxSCeSg-1rGJgg0wNtSEuEuWwY8Cr2ivfCmKF3dDE08vXl9UDaIsvzTTRDHe2hRTbEGe_ZJXRhV3WZy1hxFHpUCFtaFcdBHLugLPJDS2ro-TWRUf6LY6dEpFPul3cI6R28t85laV9hDA4xfOH6V0Da4QXyKrmpWrDA_DcEGIzfmb1LHCBTiyj-_xmYCVvHWgQTRSkh5yA3VfA_2yPVi4bMby6vnEeIXPxUYdhve643Ezvt62kLJra-Cos36hQIyYi0bx3LnAgj9kuVwjXWPKVGLJoe_TD87q_7oHw7jXFGNvtF7KK0K_MY0gHkluloKAeNw.jpg" /></p>
 <tg-emoji emoji-id="5359619818150436536"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8C90.png')"><b>🌐</b></i></tg-emoji> <a href="https://vk.com/wall-211194418_3394" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Казначейство России</a><br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93A2.png')"><b>📢</b></i> Присоединяйтесь к прямой трансляции сессии «Государственные средства — драйвер развития денежного рынка России»<br/><br/>Модератором сессии выступит заместитель руководителя Казначейства России Наталия Горина.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9498.png')"><b>🔘</b></i>Смотрите прямую трансляцию по ссылке<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29AA1.png')"><b>⚡️</b></i>️ Начало — 10:00]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/rukazna/12023</guid>
       <pubDate>Mon, 21 Sep 2026 06:55:37 +0000</pubDate>
@@ -101,7 +197,7 @@
 
 ⚡️
 ️Начало — 10:00</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/ayTKOoz7zF0hX4HATlNZF6CxBu7QAkz5S_Fr0nPoHvYxxdrbfVDnOg_BYX5ktEyZRSjy-1qkLNQfi4Smsy7eJhE34lgKtLSjdZgxbjVU8GFN0cg0lL8JTl0gFZGhhfAEPiBnewE1BFANoPTE1gr3Do61-luNTOcTabRXyiYJ9PKUxYkqYynqrEf7j1tPB2qA5ygKJFIRRFKTTECR43xpDcLAqtiC8y8KTthl0Cw223XV7TRqouFtD-m4zsZKqWlIvXHsIAhuOb4ij4BrDAe12jSjZJvBVD3NXgOGGswJmIcssAVdi6ngAbje47x8jw5fad0cLRyfLGu00mQX5-JmNg.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/D-6soTgp1gz_3k500a6E4BWXCYhULzS_aCGujmzXc0pQ2_UYYp6tKHVL3D30H4QZZECg0c8EBPhJkeaKkhCC5r12uOQXGF37vGrsrcZaBx6tNdEh0vczw3eHLr2IGq-PuWpyrTEr4UCveDGfgjXqy8HoB9gWGWHFL0vFIDYKVb9Hync2KhmUKzavMeXMbMOGllfIlREg1DLfTgsXBkkC3bVqeOfsVn4IO-ZP-jtRk8X5TomnCYwpf8F_ryuitrUMEH3ZIKviFm8MReO5TsuGq3d9I-b4OHn0mz6t5yiWPkHTx9aqVc6ywDcPygYTf0lLg0VPZonTeqO8z_VtyJkwgQ.jpg" /></p>
 <tg-emoji emoji-id="5359619818150436536"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8C90.png')"><b>🌐</b></i></tg-emoji> <a href="https://vk.com/wall-211194418_3395" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Казначейство России</a><br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93A2.png')"><b>📢</b></i> Присоединяйтесь к прямой трансляции сессии «Автоматизация и искусственный интеллект — помощники участников контрактной системы»<br/><br/>В сессии примет участие заместитель руководителя Казначейства России Анна Катамадзе.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9498.png')"><b>🔘</b></i>Смотрите прямую трансляцию <a href="https://vkvideo.ru/live-169401082_456239750" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b><u>по ссылке</u></b></a><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29AA1.png')"><b>⚡️</b></i>️Начало — 10:00]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/rukazna/12022</guid>
       <pubDate>Mon, 21 Sep 2026 06:55:35 +0000</pubDate>
