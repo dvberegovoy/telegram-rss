@@ -8,15 +8,6 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 22 Sep 2026 10:09:40 +0000</lastBuildDate>
-    <item>
-      <title>Центр конкуренции</title>
-      <link>https://telegram.me/konpmsu/392</link>
-      <description>Центр конкуренции
- pinned a video</description>
-      <content:encoded><![CDATA[<a class="tgme_widget_message_author_name" href="https://telegram.me/konpmsu"><span dir="auto">Центр конкуренции</span></a> pinned a video]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/konpmsu/392</guid>
-      <pubDate>Sat, 19 Sep 2026 15:18:09 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 23 Sep 2026 10:11:53 +0000</lastBuildDate>
   </channel>
 </rss>

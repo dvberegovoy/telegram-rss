@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 22 Sep 2026 10:09:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 10:11:12 +0000</lastBuildDate>
+    <item>
+      <title>Пост — zakupki Video</title>
+      <link>https://telegram.me/zakupkivideo/4864</link>
+      <description>Пост — zakupki Video</description>
+      <content:encoded><![CDATA[(нет текста)]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/zakupkivideo/4864</guid>
+      <pubDate>Wed, 23 Sep 2026 07:21:12 +0000</pubDate>
+    </item>
     <item>
       <title>Вебинар от 10 сентября 2026 года по Федеральному закону № 44-ФЗ</title>
       <link>https://telegram.me/zakupkivideo/4863</link>
@@ -152,14 +160,6 @@ https://rutube.ru/video/4ef17d0643eb7e737092fa0b7f451d0e/
       <content:encoded><![CDATA[<b>60 заявок без единой победы. Продолжать или закрывать бизнес?</b><br/><a href="https://rutube.ru/video/4ef17d0643eb7e737092fa0b7f451d0e/" rel="noopener" target="_blank">https://rutube.ru/video/4ef17d0643eb7e737092fa0b7f451d0e/</a><br/><br/>Почти 60 тендеров, 2 победы — и последние 50 заявок без результата. Мы оказались в той самой «долине смерти», через которую рано или поздно проходит практически любой новый бизнес. 60 заявок и ни одной победы.<br/><br/>В видео рассказываю, что пошло не так, какие ошибки мы уже нашли и какую новую гипотезу сейчас проверяем. И главное — как понять, когда нужно продолжать бороться, а когда пора остановиться?<br/><br/>А вы проходили через свою «долину смерти»? Что помогло не сдаться или, наоборот, вовремя остановиться? Делитесь опытом в комментариях.<br/><b><br/>Навигация по видео:</b><br/><br/>00:00 — 60 тендеров и только 2 победы<br/>01:15 — Что такое «долина смерти» в бизнесе<br/>01:45 — Первые победы и начало проекта<br/>02:18 — 50 заявок подряд без побед<br/>02:35 — Продолжать или пора остановиться?<br/>03:30 — Сколько ресурсов съедает каждый тендер<br/>04:24 — Хаотичные заявки и снижение маржи<br/>04:55 — Что показал анализ 60 тендеров<br/>05:55 — Почему мы проигрываем по цене<br/>06:04 — Ищем способы снизить себестоимость<br/>06:44 — Почему команда помогает не сдаться<br/>07:43 — «Долина смерти» в каждой новой нише<br/>08:06 — Что будем делать дальше]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/zakupkivideo/4857</guid>
       <pubDate>Mon, 21 Sep 2026 09:44:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Пост — zakupki Video</title>
-      <link>https://telegram.me/zakupkivideo/4856</link>
-      <description>Пост — zakupki Video</description>
-      <content:encoded><![CDATA[(нет текста)]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/zakupkivideo/4856</guid>
-      <pubDate>Mon, 21 Sep 2026 07:49:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
