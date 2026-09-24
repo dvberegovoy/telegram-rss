@@ -8,40 +8,96 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 23 Sep 2026 10:10:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 10:17:13 +0000</lastBuildDate>
     <item>
-      <title>ИИ в работе с внутренними документами</title>
-      <link>https://telegram.me/ep_uc/5601</link>
-      <description>ИИ в работе с внутренними документами
+      <title>✍️</title>
+      <link>https://telegram.me/ep_uc/5605</link>
+      <description>✍️
+Письмо Соцфонда в адрес УЦ
 
-где он действительно полезен?
+Продолжение истории с требованиями СФР к квалифицированным сертификатам, фондом направлено письмо в адрес аккредитованных УЦ с просьбой о направлении информации о включении согласования ключей в выдаваемые сертификаты. Кто из АУЦ его получил? Данное письмо опоздало на полтора года.
 
-Подготовка и актуализация текстов внутренних нормативных документов включает множество задач, которые съедают массу рабочего времени. Но часть из них уже сегодня можно автоматизировать с помощью искусственного интеллекта.
+А письмо в прошлом году кто получал?
 
-30 сентября в 11:00 мск
- компания Directum приглашает на вебинар, посвященный применению ИИ при разработке и актуализации локальных нормативных актов.
+На самом деле в 795 приказе требования об обязательном заполнении согласования ключей нет, пункт 25 говорит о том, как заполнять дополнение keyUsage, определяющее область использования ключа проверки ЭП. Продолжение следует.
 
-На практических примерах в системе Directum участники рассмотрят:
+✍️
+"Об ЭП и УЦ"</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/eqcRk-82VYviXGtSZZhmF920rjUu3YMYJxQwnAXX4g_mkj1XM_b6SsezwSZq45BwptbFQ2Rd96Ne-6tuKGSjiHQ_yE46QFFdAXGHswuGWR6eu2diq8drzqcCfu2J9MiBh6amYMaT3Y_igmLmU3cHTbtXE1vq7zjOJsHkfenPMAPpVAGOXuF2Np3cycU3BFG274vGsG_jATOoiWggYeMmbuY30pCbcqq0jXMEZ0kZK33wpZKMMlEaMPj4y708dpuJd6S7_2VXgPuv0R5669nlpzCxH2nng0n1kiKP8g-1QsVt3tT5b3gc8a09wCRpKQbiqYnygJbHZxZJWiv1RaPe5w.jpg" /></p>
+<tg-emoji emoji-id="5470060791883374114"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><b>Письмо Соцфонда в адрес УЦ</b><br/><br/>Продолжение истории с требованиями СФР к квалифицированным сертификатам, фондом направлено письмо в адрес аккредитованных УЦ с просьбой о направлении информации о включении согласования ключей в выдаваемые сертификаты. Кто из АУЦ его получил? Данное письмо опоздало на полтора года.<br/>А письмо в прошлом году кто получал?<br/><br/>На самом деле в 795 приказе требования об обязательном заполнении согласования ключей нет, пункт 25 говорит о том, как заполнять дополнение keyUsage, определяющее область использования ключа проверки ЭП. Продолжение следует.<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5605</guid>
+      <pubDate>Thu, 24 Sep 2026 05:51:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>✍️</title>
+      <link>https://telegram.me/ep_uc/5604</link>
+      <description>✍️
+Рабочая группа CA/Browser Forum отклонила заявку Huawei
+
+Server Certificate Working Group - рабочая группа в рамках CA/Browser Forum, которая занимается разработкой и поддержкой Baseline Requirements (BR) - базовых требований по выдаче и управлению TLS-сертификатами. В неё входят удостоверяющие центры и производители браузеров и операционных систем (поэтому и такое название - CA/B Forum, не хватает OS - CA/B/OS).
+
+Huawei была подана заявка на вступление в рабочую группу в качестве потребителя TLS-сертификатов - разработчика браузера, что даёт право голоса по вопросам, касающихся сертификатов.
+
+В рамках 
+заседания 10 сентября
+ рабочей группой дана оценка соответствия заявки семи критериям устава. 
+
+Первые пять были выполнены:
+
+✅
+ Предоставляет ПО для просмотра веб-страниц
+
+✅
+ Выпускает регулярные обновления
+
+✅
+ Документация требует от УЦ соблюдать BR
+
+✅
+ Проверяет цепочки доверия
+
+✅
+ Публикует документацию о хранилище доверия
+
+По двум были вопросы:
+
+❌
+ Отсутствует общедоступная документация о шагах для признания УЦ доверенным
+
+❌
+ Отсутствует общедоступная документация с контактами для сообщений о нарушениях
+
+Отдельно было отмечено, что корневые сертификаты ISRG (Let's Encrypt) уже включены в хранилище доверия Huawei без какого-либо уведомления ISRG об этом.
+
+Таким образом, причиной отклонения заявки стало отсутствие документации, а не технические проблемы. Рабочая группа запросит у Huawei разъяснения по критериям 6 и 7, проверит работоспособность браузера и обсудит вопрос на очной встрече в октябре.
+
+Пока CA/B Forum разбирается со своим же процедурами, в экосистеме Huawei всё намного жёстче:
 
 🔹
- поиск требований в больших массивах нормативной и технической документации;
+HarmonyOS Next 5.0+ блокирует ручную установку корневых сертификатов;
 
 🔹
- проверку актуальности и сравнение версий документов;
+Free DV сертификаты Huawei Cloud отклоняются при "чувствительных" словах в названии домене;
 
 🔹
- выявление противоречий и дублирующих требований;
+Ошибки при импорте сертификатов УЦ ломают проверку.
 
-🔹
- подготовку черновиков документов и их проверку на соответствие установленным требованиям.
-
-Отдельно обсудят границы применения ИИ: какие задачи уже можно передавать технологии, а какие требуют участия специалиста.
-
-Зарегистрироваться.</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/Oj6stS-hkTBnwXEyx1mN9FuxZfxp0mHND36SiaCT_a-zEyg5raHY7uQnJ5A0u0eKpIngrQlKbZM82MVWJdAe8R8vulfRLVEWcDYD2MbJ2lC1fCTSzKhycNQXPpJM8YUV81oZQFLap6_GZGWcE7_wLGNouygNv-oGOshsPVNMejfe-8SBt45FsKldasm69VOBOPvF51oqUpr3rEtOwi4u9YOs3Qbb-0tgIm8czvoZWXeIBsYFp0vGQnBxS5UYsJNEH3ZbgKKZZoPAnUMhVnPaGksnvFekS4jgaqVN156TnH_su-5dMuM3ZPrVWx0gtY2JWH0eiTNvaWuRgfNA5J8B_Q.jpg" /></p>
-<b>ИИ в работе с внутренними документами</b><br/><tg-spoiler>где он действительно полезен?</tg-spoiler><br/><br/>Подготовка и актуализация текстов внутренних нормативных документов включает множество задач, которые съедают массу рабочего времени. Но часть из них уже сегодня можно автоматизировать с помощью искусственного интеллекта.<br/><br/><b>30 сентября в 11:00 мск</b> компания Directum приглашает на вебинар, посвященный применению ИИ при разработке и актуализации локальных нормативных актов.<br/><br/>На практических примерах в системе Directum участники рассмотрят:<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> поиск требований в больших массивах нормативной и технической документации;<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> проверку актуальности и сравнение версий документов;<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> выявление противоречий и дублирующих требований;<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> подготовку черновиков документов и их проверку на соответствие установленным требованиям.<br/><br/>Отдельно обсудят границы применения ИИ: какие задачи уже можно передавать технологии, а какие требуют участия специалиста.<br/><a href="https://tglink.io/76bdd8a3e509a7?erid=2W5zFGJ3RDj" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b>Зарегистрироваться.</b></a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5601</guid>
-      <pubDate>Wed, 23 Sep 2026 06:28:30 +0000</pubDate>
+✍️
+"Об ЭП и УЦ"</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/GTtNTGmfhTnZs9_pHalRi8aTIynj-3sDeJk1gC7QGTd2J6em7PxfeDtI-yszanWHKAgNuoTbeyWfjQm8shD-_SvFRARiSyVMHLHgT2iuRSD1GhMjIGgTYAHtQ2ucN_Xg_44EBBqqRr7C7mm61kkti2t2fP-5wcsUz8SO3amFLkFvTf8iMtVcEQMbmGvGsvU2BAcHLp_qZ67hESiC0SQp6U6CAYEkhMJHC93jAR70FpmbsJHk6u6lyvDY-QFNOE7KkUHOUfwb7KWSG6p4pFL-oTIEhiPavCuztS5KuM7DGo6w7KHddvzlw0ebP4p0ZR3DddBXf0prbg-LLajlZd_DRA.jpg" /></p>
+<tg-emoji emoji-id="5470060791883374114"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><b>Рабочая группа CA/Browser Forum отклонила заявку Huawei</b><br/><br/>Server Certificate Working Group - рабочая группа в рамках CA/Browser Forum, которая занимается разработкой и поддержкой Baseline Requirements (BR) - базовых требований по выдаче и управлению TLS-сертификатами. В неё входят удостоверяющие центры и производители браузеров и операционных систем (поэтому и такое название - CA/B Forum, не хватает OS - CA/B/OS).<br/><br/>Huawei была подана заявка на вступление в рабочую группу в качестве потребителя TLS-сертификатов - разработчика браузера, что даёт право голоса по вопросам, касающихся сертификатов.<br/><br/>В рамках <a href="https://groups.google.com/a/groups.cabforum.org/g/servercert-wg/c/RoIkmQnjiKI/m/-FM5052CAwAJ?utm_medium=email&amp;amp;utm_source=footer" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">заседания 10 сентября</a> рабочей группой дана оценка соответствия заявки семи критериям устава. <br/>Первые пять были выполнены:<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C85.png')"><b>✅</b></i> Предоставляет ПО для просмотра веб-страниц<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C85.png')"><b>✅</b></i> Выпускает регулярные обновления<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C85.png')"><b>✅</b></i> Документация требует от УЦ соблюдать BR<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C85.png')"><b>✅</b></i> Проверяет цепочки доверия<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C85.png')"><b>✅</b></i> Публикует документацию о хранилище доверия<br/><br/>По двум были вопросы:<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29D8C.png')"><b>❌</b></i> Отсутствует общедоступная документация о шагах для признания УЦ доверенным<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29D8C.png')"><b>❌</b></i> Отсутствует общедоступная документация с контактами для сообщений о нарушениях<br/><br/>Отдельно было отмечено, что корневые сертификаты ISRG (Let's Encrypt) уже включены в хранилище доверия Huawei без какого-либо уведомления ISRG об этом.<br/><br/>Таким образом, причиной отклонения заявки стало отсутствие документации, а не технические проблемы. Рабочая группа запросит у Huawei разъяснения по критериям 6 и 7, проверит работоспособность браузера и обсудит вопрос на очной встрече в октябре.<br/><br/>Пока CA/B Forum разбирается со своим же процедурами, в экосистеме Huawei всё намного жёстче:<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>HarmonyOS Next 5.0+ блокирует ручную установку корневых сертификатов;<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>Free DV сертификаты Huawei Cloud отклоняются при "чувствительных" словах в названии домене;<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>Ошибки при импорте сертификатов УЦ ломают проверку.<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5604</guid>
+      <pubDate>Thu, 24 Sep 2026 05:41:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>✍️</title>
+      <link>https://telegram.me/ep_uc/5602</link>
+      <description>✍️
+Поднятая волна со сдачей отчётностью в СФР не могла не сказаться на динамике перевыпуска сертификатов УЦ ФНС России, которую можно изучить по отзывам сертификатов. В августе 2026 истекают сертификаты, выданные в мае 2025 - и в мае прошлого года сертификатов…</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/EFE55ccUhgr3ejXYXXbYTFsV3NdxIUL8GDGY3Ot5rGJtORpulqr_30OAF9x3hzcsU2KBKo7Tjo_ocU6NgAMcARV0lI-3nlZZbn3BU83J1Ct8pXFnek9KOKJBCUVVUcJj_iIQzhJVwohGxHJ8h4hMZQmosvVvOT87MOpt0K_OnCBBMtlmM0oAvlk4DP8rrFlG8TWe1kJEPAQrM28Ahg_g38ed8gAI5wRNsfw9H5OX0LbNdiPLz6TXMzpsr93A_gbHhHnkuRnCvsGh98qjG1Z_6IrzX5pab5ufH_hQ2pZCQ6G_sTSqwjBu_6O6GaGalRx58C8KsfX-Z3rf5Rgrwzcpaw.jpg" /></p>
+<tg-emoji emoji-id="5470060791883374114"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji>Поднятая волна со сдачей отчётностью в СФР не могла не сказаться на динамике перевыпуска сертификатов УЦ ФНС России, которую можно изучить по отзывам сертификатов. В августе 2026 истекают сертификаты, выданные в мае 2025 - и в мае прошлого года сертификатов…]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5602</guid>
+      <pubDate>Wed, 23 Sep 2026 17:12:27 +0000</pubDate>
     </item>
     <item>
       <title>✍️</title>
@@ -65,7 +121,7 @@
 только год назад
 , но и спустя год 
 они отсутствуют в Перечне.</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/ZiZJLXFzLTmtFUetLNp7qGzKHmInSUMuEckOajDsAQHJyiAp7-nbpTlvplRPiAVYUbKcFyfOrVt6Juier9DIUcYEY74VC9bbeApflANTpjZuZwOBio_hFVfj_w0PTt9_IDitSzDnHSbg5U_uYMwqNHKoha_ubb7C7cjvmP5nR313aBsPIt2NIwOiAQcikDQISEhOYIOw1bIbk5kQ4x6lSAxkTNl16Yzp9-42mgQouqzi6L-44iccsbM7C63EdLdZHkoCrfK4g85sKcQ6Lk5TCB_RDWQsdAdAHJGAzfTqt8Da-k6WLBrsTtqKCzF8hnHCQxxe_awy8BSNREReNS9eRA.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/VTfn_709UAHZ2kyB7kZI3lbF0C9bpD6AwP4bmRo63Ks82QPL_EsnhHEJaPuzeZEpWRxmOZGVfn9s82omZsaAlWbhukIFYvJ8LO87yEm-UwA853-Vz6d1_wWhJVI4VWIA3wGN87HhdivCVMoGaCcgJEHI1Ld8ZAhhh6rvdh8Qis25L3aAObrXVtVXhz6KRAfK_QLeKKCwQPqAAjow0oXuuVDNerRCnPlIr1oXAjrROc8Q_NZ-qkR1bAMKHsAsypJWSO4rkpKaBJKPM4wy56yhHV25_p_KvjTgUl8UTaoZxJhLn0N_CCUWRZCOBUwILW-NxN2yo0YYQThNQylJyoH58w.jpg" /></p>
 <tg-emoji emoji-id="5470060791883374114"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji>Наталья Храмцовская <a href="https://rusrim.blogspot.com/2026/09/2_01068214217.html?m=1" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">комментирует используемые сертификаты</a> членами избирательных комиссий:<br/><blockquote>Сертификат ключа проверки ЭП должен быть выдан членам избирательной комиссии с правом решающего голоса именно как должностным лицам избирательной комиссии. Это означает, что использование личной УКЭП физического лица (не увязанной с его полномочиями в комиссии) для этих целей недопустимо. Также отдельно выделяется УКЭП председателя (заместителя председателя) и секретаря избирательной комиссии. В то же время в законе об электронной подписи предусмотрены только две разновидности УКЭП: УКЭП физического лица и УКЭП юридического лица.<br/><br/></blockquote>Не секрет, что избиркомы получали свои квалифицированные сертификаты по форме - должностного лица в <a href="https://telegram.me/ufk_moscow/2794" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">органах</a> Федерального казначейства (при этом сертифицированная <a href="https://telegram.me/ep_uc/2387" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">версия СКЗИ для генерации ключей</a> применение нашла не сразу).<br/><br/>Бардак с электронной подписью и голосованием был всегда - это и самоподписанные сертификаты ПАК УЦ с ИНН 2222222222 и ОГРН 8888888888888, и <a href="https://telegram.me/ep_uc/2387?comment=80514" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">судебные решения</a> к которым вопросов ещё больше - какой же вид ЭП используется и какими средствами создаётся, а избирательные комиссии, сведения о которые не включены в ЕГРЮЛ, получили право получать сертификаты в органах Федерального казначейства <a href="https://telegram.me/ep_uc/4022" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">только год назад</a>, но и спустя год <a href="https://roskazna.gov.ru/gis/udostoveryayushchij-centr/perechen-gosudarstvennyh-organov-ne-vklyuchennyh-v-egryul" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">они отсутствуют в Перечне.</a>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5600</guid>
       <pubDate>Wed, 23 Sep 2026 05:40:11 +0000</pubDate>
@@ -107,7 +163,7 @@ SC-107: Improve Certificate Problem Reports and Clarify the Meaning of Revocatio
 
 ✍️
 "Об ЭП и УЦ"</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/OsuoC2hShgiQNtf0PBhpeZbpEu3MgaYvOpu9B08GEVhSPoc5-AFf3NvF-OAqAJz_pB1Q2JhMU5kXd9jPfgqk4OTC6-c6624xj5qffRBeYM8_v1IUgyVAjtU-FOFr_ayphgy9_pcDaMQGNz93aS1Nj7M-mjWHqj-5f-eg15EIXoSe_U2cM8QuYQiTR8-N2n6cNDiux1yqdSN0mTUnQ-opZPRDDYFiPWHCR_bLMjzr8qIxOXDiaBUtZ7JA6XtE3CeXC0KDTRTE_7zuN1bWj6h2fih-kqmnxOuPKph7UAGOPx8cHie2lo30PS1VUHb6XVb3afeFCInfNRJQJ0RMiNUDpg.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/g2RBM_gQauWxJh1NfbPdB9jxvPnS0o7osWNOda_9dK-i76Z5k5Bxh2y8Nx1eEfYMc9Sfj2q-f4zaWlokiAigHS-GnY1VZbb-mCtkdDJ0hoFpdw-T6o-LfgF6URyQDZ1vdTxusWfb7XANyc6ZshA2imApk5sZmCkaQ-1e6LS-y8BI4UpMCR9ZJIRK-Ci76O_Yx1Bmdh2bYHLpd5ZGtpFgai72cfFeRqo4n0qCJ4CGLoBu9TrMgjkvDSk37r2dzOXmADW_oi3jdxPrEWd-xOv3BVp31_mrZW6CH-wBV8wue4GN04v6DTRaYjM70fWJ8Fs691eDumrBDNTpREMSIaaVkQ.jpg" /></p>
 <tg-emoji emoji-id="5470060791883374114"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><b>Уточнение определения отзыва (аннулирования) сертификата от CA/B Forum </b><br/><br/>В рамках обсуждения <a href="https://groups.google.com/a/groups.cabforum.org/g/servercert-wg/c/ZzkzUhjxI_0/m/gdc4uwXYAAAJ" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">нового бюллетеня</a><b>SC-107: Improve Certificate Problem Reports and Clarify the Meaning of Revocation</b> предлагается внести изменения в "Базовые требования к выдаче и управлению общедоступными доверенными сертификатами TLS-серверов", в том числе уточнить значение термина отзыв или аннулирование сертификата. Это у нас в 63-ФЗ сейчас есть разделение на прекращение действия и аннулирование, для сертификатов безопасности будет только прекращение действия.<br/><br/>Уже высказано опасение, что предложенное определение может сработать не во всех случаях, например, с 15 февраля 2027 года для того, чтобы сертификат считался отозванным, должны быть выполнены следующие условия:<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>Если сертификат содержит адрес точки распространения списка отзыва сертификатов (CRL): любой запрос для получения CRL возвращает список отзыва сертификатов, содержащий серийный номер сертификата.<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>Если сертификат содержит адрес доступа к службе OCSP: любой запрос к OCSP для проверки статусе сертификата приводит к ответу со значением revoked.<br/><br/>В реальности может возникнуть ситуация, когда сертификат содержит адреса CRL, OCSP, но они с ошибками (примерно, как oid в <a href="https://telegram.me/ep_uc/5555" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">472 приказе</a>), ошибочный сертификат необходимо отозвать и определение выше - не работает, обращаясь к сервисы с ошибкой в адресе - статус сертификата никогда не проверишь, получается коллизия.<br/><br/>Посмотрим, какое определение по итогу будет включено в <a href="https://github.com/cabforum/servercert/compare/663657c4539065c8ceab74298631529ae4bc2520..4a97edfd5dca584b579fe55a4fe4c7f983f60181" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Базовые требования</a>.<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5596</guid>
       <pubDate>Tue, 22 Sep 2026 05:47:27 +0000</pubDate>
@@ -140,28 +196,10 @@ SC-107: Improve Certificate Problem Reports and Clarify the Meaning of Revocatio
       <link>https://telegram.me/ep_uc/5593</link>
       <description>✍️
 Тема неактуальности и синхронизации реестров не получила должного обсуждения на PKI-Форуме.  Прошло 3 года - информация о получении новой аккредитации ООО УЦ Тензор по состоянию на 13.20 17 сентября отсутствует. На Правкомиссию УЦ подавался. "Маленький"…</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/MTDeiZCf_fUxr7BaJEEoqpR0XyZyGSrVCnkHXBFwDI2DntpA_nmeTXkhwpcy4SPZOW6HKhchwUQQgrsP4WJr3Le7fqBpg5qzfksQJJIwt0GQ6nhQLs8spfyy-bQi2iiNCI4L38RMIFwxvfthBONy43LxTBdp5EFlWm--7OqOrUnktyhBJ_VPNDtJZNs0M8YogAJJANv1xEKwffIk7PBSTzRfYjwwV704ErrwZ2lI52k82ybm8jOsDroGXhndRvT1_-qjG_WJLkW1J832YAPHKEqvIoVE-BDeUijif0GiBK_p1-3B9Ciy4dSkGMJ4XbxtTXimEj6gSGGCvf5N7AgxjQ.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/UNeU5mgwx8SZ3viKjnXVhS8D7nWZrX4MhBWjzwq0pcVAXquLbOVQGLvxtT5IKCKXCTXf4o7EaN2gHGvDmB-3k1EUlizWKtStdgle-G-jjQfIDdFGaTQ1-yBeAgn9gc1pt9aR-XD739ooWYvKz9FrrxskuECp1gUYFYJnzfqadqqo9VW4a5jRstABTTooRC_L4aZ22AXdbzdAE5C_LInbvAvTAmBCA9Z9K01OGXoyazlROZbZEtINtymR_7UDKONoeqQrp3ZVJ-NMhkkqmDb0T-aNswjy9YJYLURREBO51JPK45-D7Mdy6FgYobj495Z0KkBa2XCA2Mi-E73Rp4aWHA.jpg" /></p>
 <tg-emoji emoji-id="5470060791883374114"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji>Тема неактуальности и синхронизации реестров не получила должного обсуждения на PKI-Форуме.  Прошло 3 года - информация о получении новой аккредитации ООО УЦ Тензор по состоянию на 13.20 17 сентября отсутствует. На Правкомиссию УЦ подавался. "Маленький"…]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5593</guid>
       <pubDate>Mon, 21 Sep 2026 16:52:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔐</title>
-      <link>https://telegram.me/ep_uc/5591</link>
-      <description>🔐
- Экспертный совет по вопросам внедрения и использования электронной подписи и сертификатов безопасности  В разделе Координационно-совещательные органы официального сайта Минцифры России создана страница Экспертного совета по вопросам внедрения и использования…</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/ZJD1cKhMgfnAA1ZCjgLWs3odtMygh8RkjBIwFbDGl_husMPjxNnd06C1YTUwJxbxkYgTU_TuYyxnNp-BIjAKiNyEAYh9ZH_nipFe-Z6wCIImaSyJ5EkjD2gPbpQ-vzdz5zgIke9_JPyBXgM56BtA4nCJIeJ7Ij3tWsbjMkCRlHiXedXOXZC-v3iFSTRhYv0cuGLRhZQaUTZsYeDOhwULaCjdPy81IPOZUFoAP6-UZpSdBz_HFz1V75r4881BqhIjKtGTlQ6Dg41ri8SkCcr6MvYgDSqMaXGagkP1ycg2vrh8xsaleYf1PMdv_-rx8Vrm6fdzZTm5j50kn64haCBMpg.jpg" /></p>
-<tg-emoji emoji-id="5327952221118164589"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9490.png')"><b>🔐</b></i></tg-emoji> Экспертный совет по вопросам внедрения и использования электронной подписи и сертификатов безопасности  В разделе Координационно-совещательные органы официального сайта Минцифры России создана страница Экспертного совета по вопросам внедрения и использования…]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5591</guid>
-      <pubDate>Mon, 21 Sep 2026 05:40:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Пост — Об ЭП и УЦ</title>
-      <link>https://telegram.me/ep_uc/5589</link>
-      <description>Пост — Об ЭП и УЦ</description>
-      <content:encoded><![CDATA[(нет текста)]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5589</guid>
-      <pubDate>Sun, 20 Sep 2026 15:00:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
