@@ -8,212 +8,156 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 25 Sep 2026 10:21:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 11:51:01 +0000</lastBuildDate>
     <item>
-      <title>🏛</title>
-      <link>https://telegram.me/ep_uc/5610</link>
-      <description>🏛
- 
-Судебная практика - "ключ под контролем хакера" или "а был ли взлом?"
+      <title>📣</title>
+      <link>https://telegram.me/ep_uc/5634</link>
+      <description>📣
+Айдентити Конф 2026
 
-Можете представить, что хакеры, получив удаленный доступ до компьютера и обнаружив подключенный носитель с ключом ЭП, подадут за организацию декларацию  уточнённую декларацию по НДС, которая будет убирать ранее указанный налоговый вычет?
-
-Я не могу, а наши суды могут - дело А40-290966/23, 
-традиционные три инстанции.
-
-ООО оспаривало действия налоговой инспекции в отказе привести сальдо Единого налогового счета (ЕНС) в соответствие с уточненной налоговой декларацией по НДС за 3-й квартал 2018 года (корректировка №2) от 17.11.2022.
-
-Общество утверждало, что уточненная декларация (корректировка №1) от 26.04.2022, которая ухудшила его положение (убрала налоговый вычет), была подана неустановленными лицами в результате кибератаки и "взлома электронной цифровой подписи".
-
-Суд кассационной инстанции подтвердил, что действия (бездействие) налоговой инспекции по неприведению сальдо ЕНС в соответствие с уточненной декларацией от 17.11.2022 являются незаконными, и обязал налоговый орган устранить нарушение.
-
-Доводы налоговой инспекции о том, что ООО под предлогом хакерской атаки пытается восстановить вычеты по НДС после истечения сроков на привлечение к ответственности, были отклонены.
-
-Ключевым доказательством, которое убедило апелляцию и кассацию, стал нотариальный протокол осмотра доказательств. Он подтвердил факт кибератаки, удаленного 
-копирования
- ключа ЭП и как следствие - отсутствие контроля со стороны директора над ключом в спорный период.
-
-Протокол от нотариуса, составленный спустя 2 года после предполагаемой атаки, которому поверил суд. Нотариус - которые до сих пор продолжают выдавать доверенности на "получение ЭЦП", выступил в роли специалиста по расследованию киберпреступлений, такой пентест-постфактум.
-
-Норму 63-ФЗ про обеспечение конфиденциальности ключа электронной подписи ни одна судебная инстанция даже не рассматривала. Вот такая "удаленная бухгалтерия", ...
-
-✍️
-"Об ЭП и УЦ"</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/BN7Bg_x2TFbIO9H7zuBEmBDA3VyZ_1CBXXQbhu6nyQ6oYADEFPRCdntbhcee72_q8VOz1oRu0SmRGlfq_jFFM2Kp40P-vFm3AbYM3Bh6LiWE7f4ARh0oRQdHDe_SngrBcmgVSEna9qTiNXPhu7pTF6EEVSsmO3Z15bihYb8i_OEag1g7LzAXP7l1d42rzFsigHThVaGLRC6oLPzKjjkUfWZ9b5rV4u4WSLU38aN287xllgyFECchKXzV0R5Y-bZx6r1BIyjwGlVubiuEsHLQGAH2oXHIC5IsmrCbnzE0FwLwCVP1_x-gjvez4klwNAHDBKpyFJEsVt4h3EmVmZA3Sw.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/GJ0tVIja6bhlHXIUJXJvOy4bUkAkSMUTaXL0rkVD0uT6CSl19JhkFaxTxq23zFZotHiI8gB-_RFYf4_DHGNUN06m-ykclaZzBljgl5llwxNsSszN4QdUR2u_3CP2p5XP0XWuQ2X1adgLx0m7iisjE0nuwY7PsM-W2neiUhPmR1OKZCwxEIeKXipli5ZkzrtmNVW-IcAED8aFu2p9n14ja0Za0OUSBnPFSka36jkLmSXj_xx9W-ROie57UiW7UNRZ6vSF30honq1MymvkSOC2z7k2TPwBs-2TniIQqAi2dCY37I6ovssYun3yivEH-TNwvLp8f8W4qhPZvjBEHJWJ_g.jpg" /></p>
-<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8F9B.png')"><b>🏛</b></i> <b>Судебная практика - "ключ под контролем хакера" или "а был ли взлом?"</b><br/><br/>Можете представить, что хакеры, получив удаленный доступ до компьютера и обнаружив подключенный носитель с ключом ЭП, подадут за организацию декларацию  уточнённую декларацию по НДС, которая будет убирать ранее указанный налоговый вычет?<br/><br/>Я не могу, а наши суды могут - дело А40-290966/23, <a href="https://kad.arbitr.ru/Card/1816f864-ec3d-4020-be85-b7270121bda2" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">традиционные три инстанции.</a><br/><br/>ООО оспаривало действия налоговой инспекции в отказе привести сальдо Единого налогового счета (ЕНС) в соответствие с уточненной налоговой декларацией по НДС за 3-й квартал 2018 года (корректировка №2) от 17.11.2022.<br/><br/>Общество утверждало, что уточненная декларация (корректировка №1) от 26.04.2022, которая ухудшила его положение (убрала налоговый вычет), была подана неустановленными лицами в результате кибератаки и "взлома электронной цифровой подписи".<br/><br/>Суд кассационной инстанции подтвердил, что действия (бездействие) налоговой инспекции по неприведению сальдо ЕНС в соответствие с уточненной декларацией от 17.11.2022 являются незаконными, и обязал налоговый орган устранить нарушение.<br/><br/>Доводы налоговой инспекции о том, что ООО под предлогом хакерской атаки пытается восстановить вычеты по НДС после истечения сроков на привлечение к ответственности, были отклонены.<br/><br/>Ключевым доказательством, которое убедило апелляцию и кассацию, стал нотариальный протокол осмотра доказательств. Он подтвердил факт кибератаки, удаленного <a href="https://saby.ru/help/ep/key/copy_key" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">копирования</a> ключа ЭП и как следствие - отсутствие контроля со стороны директора над ключом в спорный период.<br/>Протокол от нотариуса, составленный спустя 2 года после предполагаемой атаки, которому поверил суд. Нотариус - которые до сих пор продолжают выдавать доверенности на "получение ЭЦП", выступил в роли специалиста по расследованию киберпреступлений, такой пентест-постфактум.<br/><br/>Норму 63-ФЗ про обеспечение конфиденциальности ключа электронной подписи ни одна судебная инстанция даже не рассматривала. Вот такая "удаленная бухгалтерия", ...<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5610</guid>
-      <pubDate>Fri, 25 Sep 2026 05:30:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ростелеком - новый номинант премии "Профанация года". Нельзя писать так безграмотно (</title>
-      <link>https://telegram.me/ep_uc/5608</link>
-      <description>Ростелеком - новый номинант премии "Профанация года". Нельзя писать так безграмотно (
-1
-, 
-2
-):
-
-1. В стране 
-43 АУЦ
+7 октября в Москве состоится Айдентити Конф - 
+пленарная сессия посвящена автономным ИИ-агентам
 .
 
-2. Норма закона в отношении госУЦ 
-вступила в силу 01.01.2022
-.</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/fHOLO663x-RFnlRQO2BCWk0vpoHoN-kz285vblDG5YCqlR7rgebxVw0EQ9QwGBge0lcAsswjMHjlDU9Bydp9XWpf-DipaL1egedY-pKrFqxuXexI7IfuBX_DvqY9nZXGMeo3j9N5Hb5FTIh7Jd1WJawh9qBuEyHV6idUIVAK2DGgRfiOolM1itxFIGPyJWWb6KrEwwSO0R5L6TUQxKnFSqBhZqyCXPfaw8TLGXPa7mZC5dMPA834obvmKmkCf-1ugXCs_0I2RZoGKPupkef3akRsqJrriBT40kTKXHqld2wiVI1Zu_ANjsOC9iKBZXQQg4edoFbDY_jBMGIWfCMW-g.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/gWMPd54T4OIWOkL6ChIVD0Taxs1BuK_9WLlEJ9ecYV55TQHX-3WX-AA7qduIunOCQrC5iTPX5WToeTxUCv9mNhRYLOTsP5CJamzLYmjHZ2gOy9Nlu8VMiOriGwnq7NKegeOj_2-EdNxaOqp7xpFm-JzRxVsK8jBc2qKIutdQ5vr39wfKtjrBDhCsBYZG-BEjoeXUyDYHcQEaBg2re3dcKI-yzLs9aBHUp7tZ3FvFSUgt1ofOWqS9G3wCBxR1eHxNgqVSiU-XvUPrf1JnwF60_DIizh9qkdDttGS8ni3nduJ7dotmTUZLomEGESk2wIkEYA2WtjpGNlZZkR1y7I9KWw.jpg" /></p>
-<div class="tgme_widget_message_text js-message_text" dir="auto">Ростелеком - новый номинант премии "Профанация года". Нельзя писать так безграмотно (<a href="https://blog.rt.ru/b2c/kak-podpisat-pismo-cifrovoj-podpisyu.htm" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">1</a>, <a href="https://blog.rt.ru/b2c/vidi-cifrovih-podpisei-i-sposobi-ih-polucheniya.htm" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">2</a>):<br/>1. В стране <a href="https://telegram.me/ep_uc/5593" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">43 АУЦ</a>.<br/>2. Норма закона в отношении госУЦ <a href="https://telegram.me/ep_uc/367" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">вступила в силу 01.01.2022</a>.</div>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5608</guid>
-      <pubDate>Thu, 24 Sep 2026 18:01:51 +0000</pubDate>
+Для представителей вендоров/интеграторов/дистрибьютеров — платное, для подписчиков канала действует Спецпромокод на скидку 10% - 
+КЛЮЧ2026
+, его нужно ввести на 
+сайте при регистрации.
+
+✍️
+Телеграм-канал 
+"Об ЭП и УЦ"
+ третий раз выступает информационным партнёром конференции</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/roEfGHcgYzx3sPxa79wIf6tHjDCy78bjfVWL4quhmvTYoHOHZ19oEZxbmOAPfx5UaPH-GddwNumyX8SV_w9_UBWqG7PhuiV08XaAkkKwz0hZiHSy2y559ZlOXvs9bDgGdOlOn4i1qMlhzfyyQanyd_yOGPSrnAD5DQ95xFO8M4tzmC247zc33VVeb7DS7Miasx5vxsMsLy00r6RKFoELcB4dty7QApdqnFeLtxrBKxPrJgQKZpO-KtW2vpComCZIwyoJUO6vGy4jP2LygBJhAuBq9UqJgMXy8hVyHEW5BFCYs66zxNDPdnW2JzHYuxXHWJbLzsfuqzna6atB_bbn2A" /></p>
+<tg-emoji emoji-id="5470094069289984325"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93A3.png')"><b>📣</b></i></tg-emoji><b>Айдентити Конф 2026</b><br/><br/>7 октября в Москве состоится Айдентити Конф - <a href="https://telegram.me/identityconf/212" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">пленарная сессия посвящена автономным ИИ-агентам</a>.<br/><br/>Для представителей вендоров/интеграторов/дистрибьютеров — платное, для подписчиков канала действует Спецпромокод на скидку 10% - <b>КЛЮЧ2026</b>, его нужно ввести на <a href="https://identityconf.ru/?utm_source=tg&amp;amp;utm_medium=messenger&amp;amp;utm_campaign=ep_uc&amp;amp;utm_content=conf2026" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">сайте при регистрации.</a><br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji>Телеграм-канал <a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a> третий раз выступает информационным партнёром конференции]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5634</guid>
+      <pubDate>Mon, 28 Sep 2026 07:55:26 +0000</pubDate>
     </item>
     <item>
-      <title>⚡️</title>
-      <link>https://telegram.me/ep_uc/5607</link>
-      <description>⚡️
-Подтвержденная учётная запись ЕСИА - в салонах связи 
+      <title>🏛</title>
+      <link>https://telegram.me/ep_uc/5633</link>
+      <description>🏛
+ При краже пароля от «Госуслуг» необходимо блокировать банковские карты. Такое мнение у директора колледжа Всероссийского государственного университета юстиции, который уточняет, что следует ограничить доступ к счетам и обновить защитные комбинации на самом портале и связанных ресурсах. В противном случае злоумышленники смогут добраться до конфиденциальной информации пользователя. 
+Юрист предупредил
+, что из-за бездействия владельца профиля преступники могут получить доступ к его электронной подписи.
 
-Операторы мобильной связи получили право создавать и выдавать ключи простой электронной подписи для получения Госуслуг, проще говоря - подтверждать учётные записи ЕСИА. Изменения внесены 
-постановлением Правительства от 23.09.2026 № 1223
-, которое вступает в силу 1 октября 2026 года.
+Нужно 
+осторожнее относиться
+ к предупреждениям дипломированных юристов, особенно когда они говорят о "получении доступа к электронной подписи". Что они имеют в виду? Возможность получения через взломанный аккаунт в мобильном приложении Госуслуг неквалифицированного сертификата Госключа?
 
-Этим же документом ПЭП ЕСИА добавлена к двум другим видам подписи (КЭП, НЭП Госключа
-😂
-), используемым в рамках Единой цифровой платформы подписания и хранения документов.
+Как взламывают на самом деле, очередное 
+решение суда
+ по делу № 2-685/2025 с классическим сценарием - код в смс от банка продиктован мошенникам, на человека оформлен оформлен кредит по "простой электронной подписи" (даже не ПЭП ЕСИА).
 
-Более интересный второй пункт, который говорит, что при подписании ПЭП ЕСИА документов в информационных системах, не входящих в состав инфраструктуры электронного правительства, такой электронный документ направляется в Единую цифровую платформу подписания и хранения документов.
+Забавное в судебном решении, как суд проверяет "наличие электронной подписи" - через запрос в МФЦ!
+
+Ответчик суду пояснила, что на тот период у неё не было электронной подписи.
+
+В этой связи судом в ходе проведения подготовки к настоящему делу осуществлен запрос в МФЦ.
+
+Согласно ответу ГБУ РА «Многофункциональный центр предоставления государственных и муниципальных услуг» в базе данных МФЦ организовано предоставление услуги по очной идентификации пользователей для получения сертификата усиленной квалифицированной электронной подписи в мобильном приложении « Госключ ». Однако ФИО2. не обращалась в офисы «МФЦ» за получением данной услуги.
+
+Таким образом, довод ответчика о том, что у него никогда не было электронной подписи, подтверждается ответом МФЦ. Соответственно он не мог поставить электронную подпись под договор поручительства.
+
+Логика поразительная - не обращался в МФЦ за квалом Госключа (будто других мест нет для получения сертификата), электронную подпись поставить не мог.
+
+Суды 
+часто признают
+ кредитные договоры незаключенными в связи с мошенническими действиями с использованием простой ЭП. О десятикратном росте споров по ПЭП в СЭД/ЭДО за 2022–2025 гг. с сохранением тенденции сообщалось в рамках сессии "Правовые вопросы PKI, судебная практика" PKI-Форума.
 
 ✍️
 "Об ЭП и УЦ"</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/l9PUMUJtZZTGv8rntgNz94E7CSEUVpIs_T7RY2eFUmIPBzAEexGY5qugiqU710x3l55ZVcVewtn3Q6Mx3d1PMxVZGARdrQZw7h_vs0fcJN672MDDFttWg0MVtR60-1Px77eMF1TQJdWfTt1P-HaNJXoRtCIA2x3AvZe6q28al1sj0tE8scxNYjAL8NScLrb9CXGcZQ_9LZF14jv9Hf46IcFrFEwnD_72Usd1ATEEIuTVXnUax6bPUDTIlHvTvWCy0Gu6KlKBLpFs9-LRsSd0wsE1JzRccTZoLfkMiRNKk11NTgeS0sVEGTcKx0Tof3ZEGa_At1ql1EbO2bp-5_7Gyw.jpg" /></p>
-<tg-emoji emoji-id="5445323300676838366"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29AA1.png')"><b>⚡️</b></i></tg-emoji><b>Подтвержденная учётная запись ЕСИА - в салонах связи </b><br/><br/>Операторы мобильной связи получили право создавать и выдавать ключи простой электронной подписи для получения Госуслуг, проще говоря - подтверждать учётные записи ЕСИА. Изменения внесены <a href="http://publication.pravo.gov.ru/document/0001202609230032" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">постановлением Правительства от 23.09.2026 № 1223</a>, которое вступает в силу 1 октября 2026 года.<br/><br/>Этим же документом ПЭП ЕСИА добавлена к двум другим видам подписи (КЭП, НЭП Госключа<tg-emoji emoji-id="5440746682310469677"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9882.png')"><b>😂</b></i></tg-emoji>), используемым в рамках Единой цифровой платформы подписания и хранения документов.<br/><br/>Более интересный второй пункт, который говорит, что при подписании ПЭП ЕСИА документов в информационных системах, не входящих в состав инфраструктуры электронного правительства, такой электронный документ направляется в Единую цифровую платформу подписания и хранения документов.<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5607</guid>
-      <pubDate>Thu, 24 Sep 2026 17:47:40 +0000</pubDate>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/pFXeK1cs0RlJVziJ7Ts2VvShYNrBjEYvYT6QgYbpjY4N068E_tA5kqQH-YvZIq2hvCql2ykNkLdcs7ybolJS7jd61UeWatFMOZrB89RRtypZmU2WE6Jv8gu2li8T8rNAsZTa4_zIV6YX-oWHZEz-_xY50mgLpnRRb8HJmiXj0Nz9Z9fXOeD4jmJBPNs12cBcyQ0kb9rKeZhRXumsUFaA1B3pUiwGJYGHRk2nl4hUSk1oQzcUAPFi5O-V3QPHMmh9EjtXdbD6TEqCHsaQmws-UaAYlncB9MyMgToCyyFj25Tcym5vDouLD82Vow_6VNC8ElcLvaYaVQJxThA--6qPrA.jpg" /></p>
+<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8F9B.png')"><b>🏛</b></i> При краже пароля от «Госуслуг» необходимо блокировать банковские карты. Такое мнение у директора колледжа Всероссийского государственного университета юстиции, который уточняет, что следует ограничить доступ к счетам и обновить защитные комбинации на самом портале и связанных ресурсах. В противном случае злоумышленники смогут добраться до конфиденциальной информации пользователя. <a href="https://regnum.ru/news/4064375" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Юрист предупредил</a>, что из-за бездействия владельца профиля преступники могут получить доступ к его электронной подписи.<br/><br/>Нужно <a href="https://telegram.me/ep_uc/4990" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">осторожнее относиться</a> к предупреждениям дипломированных юристов, особенно когда они говорят о "получении доступа к электронной подписи". Что они имеют в виду? Возможность получения через взломанный аккаунт в мобильном приложении Госуслуг неквалифицированного сертификата Госключа?<br/><br/>Как взламывают на самом деле, очередное <a href="https://sudact.ru/regular/doc/ZeYWtQNuyblc/?regular-txt=%D0%93%D0%BE%D1%81%D0%BA%D0%BB%D1%8E%D1%87&amp;amp;regular-case_doc=&amp;amp;regular-lawchunkinfo=&amp;amp;regular-date_from=&amp;amp;regular-date_to=&amp;amp;regular-workflow_stage=&amp;amp;regular-area=&amp;amp;regular-court=&amp;amp;regular-judge=&amp;amp;_=1790544160459" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">решение суда</a> по делу № 2-685/2025 с классическим сценарием - код в смс от банка продиктован мошенникам, на человека оформлен оформлен кредит по "простой электронной подписи" (даже не ПЭП ЕСИА).<br/><br/>Забавное в судебном решении, как суд проверяет "наличие электронной подписи" - через запрос в МФЦ!<br/><blockquote>Ответчик суду пояснила, что на тот период у неё не было электронной подписи.<br/><br/>В этой связи судом в ходе проведения подготовки к настоящему делу осуществлен запрос в МФЦ.<br/><br/>Согласно ответу ГБУ РА «Многофункциональный центр предоставления государственных и муниципальных услуг» в базе данных МФЦ организовано предоставление услуги по очной идентификации пользователей для получения сертификата усиленной квалифицированной электронной подписи в мобильном приложении « Госключ ». Однако ФИО2. не обращалась в офисы «МФЦ» за получением данной услуги.<br/><br/>Таким образом, довод ответчика о том, что у него никогда не было электронной подписи, подтверждается ответом МФЦ. Соответственно он не мог поставить электронную подпись под договор поручительства.<br/><br/></blockquote>Логика поразительная - не обращался в МФЦ за квалом Госключа (будто других мест нет для получения сертификата), электронную подпись поставить не мог.<br/><br/>Суды <a href="https://telegram.me/ep_uc/5342" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">часто признают</a> кредитные договоры незаключенными в связи с мошенническими действиями с использованием простой ЭП. О десятикратном росте споров по ПЭП в СЭД/ЭДО за 2022–2025 гг. с сохранением тенденции сообщалось в рамках сессии "Правовые вопросы PKI, судебная практика" PKI-Форума.<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5633</guid>
+      <pubDate>Mon, 28 Sep 2026 05:30:05 +0000</pubDate>
     </item>
     <item>
-      <title>✍️</title>
-      <link>https://telegram.me/ep_uc/5605</link>
-      <description>✍️
-Письмо Соцфонда в адрес УЦ
+      <title>📣</title>
+      <link>https://telegram.me/ep_uc/5626</link>
+      <description>📣
+Система адвокатуры и сертификаты Минцифры
+ 
 
-Продолжение истории с требованиями СФР к квалифицированным сертификатам, фондом направлено письмо в адрес аккредитованных УЦ с просьбой о направлении информации о включении согласования ключей в выдаваемые сертификаты. Кто из АУЦ его получил? Данное письмо опоздало на полтора года.
+Ничего не понятно, но очень интересно. Собственно само письмо приведено выше, в нем сухая констатация, что с 1 октября шифрование каналов доступа будет с использованием сертификата Минцифры, а также информация о необходимости использования КриптоПро CSP 5.0 и браузера от Яндекса (кроме МВД и пользователей мобильных устройств).
 
-А письмо в прошлом году кто получал?
+Описание напоминает переход на TLS-ГОСТ, как было с 
+системой Спорта
+, только в этом случае использование ГОСТового криптопровайдера и браузера также с поддержкой TLS-ГОСТ объяснимо (браузер от Яндекса только 
+не рекомендуется
+, есть альтернатива). Если это просто переход на RSA-сертификат НУЦ (сейчас 
+личный кабинет
+ использует Let's Encrypt), то зачем ГОСТовый криптопровайдер, когда требуется всего лишь установка сертификата НУЦ (либо использование браузера с уже установленными сертификатами).
 
-На самом деле в 795 приказе требования об обязательном заполнении согласования ключей нет, пункт 25 говорит о том, как заполнять дополнение keyUsage, определяющее область использования ключа проверки ЭП. Продолжение следует.
+Тяжело адвокатам постигать самые азы нашей сферы (собственного, как и 
+юристам
+, 
+судьям
+ и т.д.).
 
 ✍️
-"Об ЭП и УЦ"</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/EciZ9zEclhGdOb7cZqtMUUs0HtZv_JY5oDJPJ2G6XKFvHU9Z1HwwxGJsc3cPYGQyJRTpV4LeivrPJpnToHmrdICbvHZkUcwXKwy58TUvcqN5blxhtPS_N4_OV5gvaQFaWMBmmVnRrFU8E9A443UMLFP_2GmZ2X2PtSAbn-OY5Z80rjfzwfexn1QQDVV5XyenXhh9inwfGw7Z6N8SUfPodARixP7IY7eEZqM-oKmpmme37jad5k9yA2tloiYlqE2_NRx9SJyMtx4ChrPyXCHsBrDLzqm0DKIBIzbHHPBPdfOww0-QzPxuwmPwrHhdWobFD0HBSeH1HyvOngDPvC9j4w.jpg" /></p>
-<tg-emoji emoji-id="5470060791883374114"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><b>Письмо Соцфонда в адрес УЦ</b><br/><br/>Продолжение истории с требованиями СФР к квалифицированным сертификатам, фондом направлено письмо в адрес аккредитованных УЦ с просьбой о направлении информации о включении согласования ключей в выдаваемые сертификаты. Кто из АУЦ его получил? Данное письмо опоздало на полтора года.<br/>А письмо в прошлом году кто получал?<br/><br/>На самом деле в 795 приказе требования об обязательном заполнении согласования ключей нет, пункт 25 говорит о том, как заполнять дополнение keyUsage, определяющее область использования ключа проверки ЭП. Продолжение следует.<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5605</guid>
-      <pubDate>Thu, 24 Sep 2026 05:51:32 +0000</pubDate>
+Об ЭП и УЦ</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/sWtrlOpAiIpFNehi70fAlDkCv5sBHLZowdkInCu_t8RrJopVHSnPUI2wjphY6ShM7ixnJ_b7Ong78QQFTsttrzqzoc3Y4DV0INyI2prXCXN4ab341zgJAR53zSql6mrnf5EQ62U4F1hDhVzfT_MD-zjOMtJu0WBxyLSW88uXse766Tr4yoQ8XUIGXWWU36c2LMzx6MWobqoVz9KwyIBu59zfqXOS3cFwpQ-JFv0xXkMtcocOl_ueEnpuSUfi7YcUfFBzQ_6sBBkCtuaMrHhtPCCQuy1xq0VSXCbFL2e0pO9_69duTLaxOgIE_8mEeDTEoYTbS4L9JbvXp-UZCWPw1Q.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/p_KxuHB7jaXX5U4KA3rxSLYjIQp_a3CZhX5HVoBmZ66VQEtAT_0tb4Zv-Aiq9ga52NDsE7kfo-jh_g6wiRJ_zwxqHxIhfnhfk0qIDb8m_QVBd9W_ATIbkUBiP0LR-wMJGzyb7bvA8XidjbRbQ-0SrRPIpiqwehF3aODbpZpUU68KUY8hNpWxduF39_6G8Cb3FgUhsB4TX3idWiuMaFxwbwLdiE8LlhFn-OcATvxzq_AbwVb3bR885ung1f2O4HkCp29rWfnHuZpobQXfgj0GQ0Mn5B97xD6Yeq6WS-j7HHbeuz9X2Vj0sORhHFiBG3dSTDk54Ljww5z7Z9RiNdTa6g.jpg" /></p>
+<tg-emoji emoji-id="5470094069289984325"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93A3.png')"><b>📣</b></i></tg-emoji><b>Система адвокатуры и сертификаты Минцифры</b> <br/><br/>Ничего не понятно, но очень интересно. Собственно само письмо приведено выше, в нем сухая констатация, что с 1 октября шифрование каналов доступа будет с использованием сертификата Минцифры, а также информация о необходимости использования КриптоПро CSP 5.0 и браузера от Яндекса (кроме МВД и пользователей мобильных устройств).<br/><br/>Описание напоминает переход на TLS-ГОСТ, как было с <a href="https://telegram.me/ep_uc/3276" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">системой Спорта</a>, только в этом случае использование ГОСТового криптопровайдера и браузера также с поддержкой TLS-ГОСТ объяснимо (браузер от Яндекса только <a href="https://telegram.me/ep_uc/5261" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">не рекомендуется</a>, есть альтернатива). Если это просто переход на RSA-сертификат НУЦ (сейчас <a href="https://cisar.fparf.ru/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">личный кабинет</a> использует Let's Encrypt), то зачем ГОСТовый криптопровайдер, когда требуется всего лишь установка сертификата НУЦ (либо использование браузера с уже установленными сертификатами).<br/><br/>Тяжело адвокатам постигать самые азы нашей сферы (собственного, как и <a href="https://telegram.me/ep_uc/5486?comment=230065" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">юристам</a>, <a href="https://telegram.me/ep_uc/5611?single" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">судьям</a> и т.д.).<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Об ЭП и УЦ</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5626</guid>
+      <pubDate>Sun, 27 Sep 2026 05:15:36 +0000</pubDate>
     </item>
     <item>
-      <title>✍️</title>
-      <link>https://telegram.me/ep_uc/5604</link>
-      <description>✍️
-Рабочая группа CA/Browser Forum отклонила заявку Huawei
+      <title>📈</title>
+      <link>https://telegram.me/ep_uc/5617</link>
+      <description>📈
+Самая полная статистика НУЦ
 
-Server Certificate Working Group - рабочая группа в рамках CA/Browser Forum, которая занимается разработкой и поддержкой Baseline Requirements (BR) - базовых требований по выдаче и управлению TLS-сертификатами. В неё входят удостоверяющие центры и производители браузеров и операционных систем (поэтому и такое название - CA/B Forum, не хватает OS - CA/B/OS).
-
-Huawei была подана заявка на вступление в рабочую группу в качестве потребителя TLS-сертификатов - разработчика браузера, что даёт право голоса по вопросам, касающихся сертификатов.
-
-В рамках 
-заседания 10 сентября
- рабочей группой дана оценка соответствия заявки семи критериям устава. 
-
-Первые пять были выполнены:
-
-✅
- Предоставляет ПО для просмотра веб-страниц
-
-✅
- Выпускает регулярные обновления
-
-✅
- Документация требует от УЦ соблюдать BR
-
-✅
- Проверяет цепочки доверия
-
-✅
- Публикует документацию о хранилище доверия
-
-По двум были вопросы:
-
-❌
- Отсутствует общедоступная документация о шагах для признания УЦ доверенным
-
-❌
- Отсутствует общедоступная документация с контактами для сообщений о нарушениях
-
-Отдельно было отмечено, что корневые сертификаты ISRG (Let's Encrypt) уже включены в хранилище доверия Huawei без какого-либо уведомления ISRG об этом.
-
-Таким образом, причиной отклонения заявки стало отсутствие документации, а не технические проблемы. Рабочая группа запросит у Huawei разъяснения по критериям 6 и 7, проверит работоспособность браузера и обсудит вопрос на очной встрече в октябре.
-
-Пока CA/B Forum разбирается со своим же процедурами, в экосистеме Huawei всё намного жёстче:
-
-🔹
-HarmonyOS Next 5.0+ блокирует ручную установку корневых сертификатов;
-
-🔹
-Free DV сертификаты Huawei Cloud отклоняются при "чувствительных" словах в названии домене;
-
-🔹
-Ошибки при импорте сертификатов УЦ ломают проверку.
+В преддверии 15 тыс. действующих сертификатов НУЦ (при общем объеме выдачи в 33,5 тыс., 10 тыс. действующих были в 
+середине июля
+) подготовлена самая полная статистика выдачи сертификатов НУЦ за 5 лет. 
 
 ✍️
-"Об ЭП и УЦ"</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/JnoosqRTgYaACt3XTphxDFWb-FhKJzJG-MUjjASjV09uDEHm9gRb8AF_ydEDBjPDanTdidE9YxhrcaUCn5z1i4xar2ldJbk1six4pdWMAOYHc7Uxrt5x3MukKOirbF8EH4XxPmNWjOGmIYAkANL_hstW7tj2udSV9I3wuRpTK-tN1imq5uqFcXZg_hSC96dlzsDd3n1O5oxIiTjfrgQgDufzWg-_joHvhF3fbKzLhnLVPBBYQD4VvFv0FEjT-Qj_Ut70O53A3Z936WZu8pnsSplmL3znZ4uCbFq1thv8U4OiipLJv1MiRP4Qhh4QDD1c4wR0uXBb1N64wegtSOd4cQ.jpg" /></p>
-<tg-emoji emoji-id="5470060791883374114"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><b>Рабочая группа CA/Browser Forum отклонила заявку Huawei</b><br/><br/>Server Certificate Working Group - рабочая группа в рамках CA/Browser Forum, которая занимается разработкой и поддержкой Baseline Requirements (BR) - базовых требований по выдаче и управлению TLS-сертификатами. В неё входят удостоверяющие центры и производители браузеров и операционных систем (поэтому и такое название - CA/B Forum, не хватает OS - CA/B/OS).<br/><br/>Huawei была подана заявка на вступление в рабочую группу в качестве потребителя TLS-сертификатов - разработчика браузера, что даёт право голоса по вопросам, касающихся сертификатов.<br/><br/>В рамках <a href="https://groups.google.com/a/groups.cabforum.org/g/servercert-wg/c/RoIkmQnjiKI/m/-FM5052CAwAJ?utm_medium=email&amp;amp;utm_source=footer" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">заседания 10 сентября</a> рабочей группой дана оценка соответствия заявки семи критериям устава. <br/>Первые пять были выполнены:<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C85.png')"><b>✅</b></i> Предоставляет ПО для просмотра веб-страниц<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C85.png')"><b>✅</b></i> Выпускает регулярные обновления<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C85.png')"><b>✅</b></i> Документация требует от УЦ соблюдать BR<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C85.png')"><b>✅</b></i> Проверяет цепочки доверия<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C85.png')"><b>✅</b></i> Публикует документацию о хранилище доверия<br/><br/>По двум были вопросы:<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29D8C.png')"><b>❌</b></i> Отсутствует общедоступная документация о шагах для признания УЦ доверенным<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29D8C.png')"><b>❌</b></i> Отсутствует общедоступная документация с контактами для сообщений о нарушениях<br/><br/>Отдельно было отмечено, что корневые сертификаты ISRG (Let's Encrypt) уже включены в хранилище доверия Huawei без какого-либо уведомления ISRG об этом.<br/><br/>Таким образом, причиной отклонения заявки стало отсутствие документации, а не технические проблемы. Рабочая группа запросит у Huawei разъяснения по критериям 6 и 7, проверит работоспособность браузера и обсудит вопрос на очной встрече в октябре.<br/><br/>Пока CA/B Forum разбирается со своим же процедурами, в экосистеме Huawei всё намного жёстче:<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>HarmonyOS Next 5.0+ блокирует ручную установку корневых сертификатов;<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>Free DV сертификаты Huawei Cloud отклоняются при "чувствительных" словах в названии домене;<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>Ошибки при импорте сертификатов УЦ ломают проверку.<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5604</guid>
-      <pubDate>Thu, 24 Sep 2026 05:41:03 +0000</pubDate>
+Об ЭП и УЦ</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/D83UmTGYbb4fnBi97LMb2K7KTjfmdz7KU56s9z_AYUTSrkw_jPFnP7VOq1OXzqmW7JUxZK_LVDOuM0a2Fqs3khFVt1HUNYnPKRStgPuXF5z9oloA9uvSZO_zL34BbF98nKECaQCSgmNlySgYVCAoDHKPi8qtX9ZN9IfYkjkQzDD2Dh3Gq4RWxKrpb0Ygd-f8Lr0nMTroNE9zicXonuQYVNnkwVSLBA9IoTn1IBH1vHoGnkAuCVtKtfpD5WpK40jfeVSH_mQ4aVInKEWNtrMexfp4c9O7uPKuol7P4s5dJGUsQc444hAJsFWsfbJKtLeNBbRq3iS3F5K772HDAkcWww.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/um5CWPMF61GyM2RCWIhQ3e514rGelDKXvkirejAP5Mzjrqbw2t7bnQ6omASlM1h9i6ctk9p1r_-ich1OeM12mcWtJDiIVCsOAfUiG8X7jSs62-ogfFQqoCaOm4-Im5vJt7NTEBdaPf8zAGM67JEaZcTFXs3saefpSGkHBht7K87DpA391dfPzZuuirNDLAqyxIAqWGpqkuTdyybDM2lskOZNFjRqo4wwjoaYpxDXvWsizafBcZXbqJ9CUh9W5PEjS-AfnnQ6eMKWamfTBZVVXA-9cTWi2AdyyJlWnOyRCCXO6np9hdlyz6BnxysflaEUkRu_TeRvgRFoTkBLcurqhg.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/Pqy6lYVbsWwWgu6Atfxhg2G3-F57HHsygUokxohXbHs929-HYORUMXrBhYiEdMDEynqSM9xHSZr4d6Z_mg7a0VOW7LXc5MaPhDknYoMNBIAejQJbKmLaQJrx_HNWoVufUxg_lXm9TNVO1fvqmhL5t8QxestDsL83-_igM0uuLQAb7i2DIBAgVLXDesIf98vDh4vvx5n7QB8kAsh9oKv1NCBuRwyw4yWu0yp77LDl1oL7YvulW59nYPs_5tPv8XErS9kbkXM0L66FXtrjjpgKnUvG2hh55Yn_OvhcDnKiDbd_FYj-XTgppgQdQ8OBya_m-TfClgQCW5BNeco45i_AEw.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/lyj7EjFz8PFfcSKLBCiYZRB70qR9pzZc0MtvjG6kwygzQDSMuuehL54ZrKxpoxHBWRVEGuGzD2MjHTZFEBm7zUNK6LWVeN1jwgp6MbX7NVWUB2qe0KcCU5IwC1eZjR86kqrH31eNg9M-eobmFi0qzbdHBErSYo5Ttr5XNacMQUCzeIG5vTu39qYJSXnvTtk0XwNcHNwJI41OVBArpsBLBjOiBwIJFD9scKzMYi1aQf3uJPQkbtSu7BWYDpBRQOue7GrygKmSNOKWN709xbFdLaQh_TVTmu6wcoZvNrItHKPZkltlwqRMNHsJ8upEI0ZuMWTtO5hkmtghq7brcE9yJA.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/ly0hFrsd2XxBoR-Jgmy2VmYwYELHAPwXQnRd7HEXAVnpog0_P0jInOy4xXkC68EiZClRZP588XyFWk8DW8HidKFzbtizyM28TaTDwZlQ2b2v0dVe16_dunHQbl0_BlwCw5WfxWe0n3pBmkdMBsTnBRjcpMOalxlPCkSWDqkl-TA7F8JFAi636fjUxNi51lXUSGqc6k1ZUFuco--jqPIFUFR_3pt_YlnGDijGjUxAFlJYroGOjqipxDgIQ-N6fTIo6ay1B5YgSPiurBWOfRgKnuUnMa5ttVjzGi9OBmfSPfIrCdAobM4KGblmt25IihpyoJm1Zv9VKvs1i9Sqt5JPQA.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/Bqf9PTnfSJ_fxpKMOxF-1vm6jcR2vZIATpXct9UBMFxy-id2McT9Macq6UuV0c6jPsnaNn8O-1-UAi4WXCtO0k8a9mZhspRTFVEZQ3klcoztJzOYhQ6aqybRnPba-Hp7vpLCqS67oFFdE4oCzH53UQXSbKZcZMJJeRsUHkAMH5i4crwfJLz8WtE7GMiFqmN_dy1N4-LYeUbD6GHoIvFh6pr2hUyPN_81Evvyoe1e1zQdBx15PVmfNHpoGZGVnhV7vffahsfK8s_VuItko5CK2eei4h1NW57u77vKegHeMVq-LX1YzbWJ54ydPpI3t0FThMkVwcI2tuQERoNOenESBw.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/I5tyVZ2QywQHKMqPqtBhey6Ffc_UYPD8VSWS7GKuaQ3zMepKIcz2FkBXbLTNmny8kUrnp73MlmNsyI6U0uITbkqtOEh9ZOFvGsxEopX9KUbD2Cs0XL7pT4wDwKT5y3_4KCTVza2zYSwYaUUh3M5pK_s-L0_qF1P9IEu3kxk8t_DaP4fqZc6WjJ7XxDp3uXiCdzqJNVOUDVboNlJWWRMx5FW5_TDojj_hZ1yvSiPpQfbGPRk7o4zyQ4Omkqckda7Bzl1WCO8tdnI2XsBqJ96X_nFQT6Ke4P8Hg0hR3IDarx2fse0WLfwPNydBMNvvexbEIEBavXqPXdf--0t519w8eg.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/hYkJqPG3hYeActdubxU0r61joiBpwI1_fK2z28w7y9U4fYEu2hLfQe7igY5-QA8OhrlGq3jAG7NNYFsgF8Ul31abq5_bNVExFUqUnbUBg6CwIJRzWzaTndvOLJr5dbkOsjD2gVkJtcIpifZDSZSTta0LHw3or_i9C4ac6MUnvcjD1QYGUqPQ1y4Vas4FAMSgxVtm_hl3SO3T1Oz-AKRHjo5SyshKA2VQXsW5mMAw5dy_VzDT7o6nxAj-1sD60iOKiP3lEU2a_HNFBKSqXODtnl50-LQ_9_-UJS2u_mLRjnpJfAMK2B6ZEXuFmMTR7nEGOajmgrbePf6oXABaXxfApA.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/UPGbwmBgvAlKO3QIHrrVZVUur8SMw10jUbCiko2XayqIUC8AAS0qXUlJMcFtSU_oH6VTfUzgH3jDfs3JMqW7ir162IgVL5jKVHcd5OJMI3V6lJYyK70ivONAU1R3MPbQd0JUp7rNdUfhYTAkD8mM7LRJ_dl0AojYu5Wx6Qy8KDBJIL-c4m_YENaP0rqASCIqab3FmcGRtuKjLdIACNUxWbQnEhqRltgcGB9NzNBP8MklRdPw_xmwTQBqg2D6hpVS-184f8VFrm1jcCjjxDSCTJxXuDeLs4kej9vSMwIhJjGwvi6uCr4H7So1N00oGNNeckmIGCat5ps0v8TUMYOOoA.jpg" /></p>
+<tg-emoji emoji-id="5373001317042101552"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9388.png')"><b>📈</b></i></tg-emoji><b>Самая полная статистика НУЦ</b><br/><br/>В преддверии 15 тыс. действующих сертификатов НУЦ (при общем объеме выдачи в 33,5 тыс., 10 тыс. действующих были в <a href="https://telegram.me/ep_uc/5248" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">середине июля</a>) подготовлена самая полная статистика выдачи сертификатов НУЦ за 5 лет. <br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Об ЭП и УЦ</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5617</guid>
+      <pubDate>Sat, 26 Sep 2026 19:11:11 +0000</pubDate>
     </item>
     <item>
       <title>✍️</title>
-      <link>https://telegram.me/ep_uc/5602</link>
+      <link>https://telegram.me/ep_uc/5614</link>
       <description>✍️
-Поднятая волна со сдачей отчётностью в СФР не могла не сказаться на динамике перевыпуска сертификатов УЦ ФНС России, которую можно изучить по отзывам сертификатов. В августе 2026 истекают сертификаты, выданные в мае 2025 - и в мае прошлого года сертификатов…</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/RO6COawzqNo9MJcRiOAGhFCMWIPQAgvdr-k9WEcz3u-hMi5sp-YuFLMDPUWxbU-jibnIfARnmjxXLjbfGnb8HZz16MECyP54xWKGBGJ-RzS6udTfOXnZPJ4LsoFlqajkKHJuzkaPtNP-KFJeQ1jcPJ5eDrcWZXLiSrYTexjosMGVD01G51wvMl4ZZBEnM19n-q-XQeqn3vjGdCsQz5317mm4qnbpVKjum0j29CYopW6P9IzQoqVQ8FRiF54R3GbQPMXg6xPL91VBUpVJ4cRhQvEXTr36jrUb1setnIDH8tOV2YI7HxLTL9N1TD-0QDHgN37r8PV2rD0u2W55EXXO4A.jpg" /></p>
-<tg-emoji emoji-id="5470060791883374114"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji>Поднятая волна со сдачей отчётностью в СФР не могла не сказаться на динамике перевыпуска сертификатов УЦ ФНС России, которую можно изучить по отзывам сертификатов. В августе 2026 истекают сертификаты, выданные в мае 2025 - и в мае прошлого года сертификатов…]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5602</guid>
-      <pubDate>Wed, 23 Sep 2026 17:12:27 +0000</pubDate>
+Дело о "неподписанном" договоре одно из самых продолжительных по рассмотрению - здесь и признание 
+"недействительной ЭЦП"
+ и 
+использование
+ ключа ЭП после отзыва сертификата, суды идут с 
+2023 года
+ доходя до 
+Верховного
+. Судебная тяжба 
+продолжается
+, новое заседание назначено на 6 ноября.</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/vPo_KyuwxcnIvdqV8WHvgqZdW2qpA6JdYGCl331U2LvU5Mto4Xx1FwDmnADO16nKSQGZK9ZxVQHg8zRWmdtuJ-RecClVLtRk8fUwyGuIP7KP91uU4UoYPKV5mfGSiSsULrZv6v7PAj6SaGqRBpMNujkaXEgZzFAwSeuFAJczAoziME82jBw52x6jLCDxgDJeGMqJjqoHchcVbDQywMWyKViw5pmFsc6t_j2UQZvYkKE-ousaGIF0MPqg49ZEpRnlp-OR0En8pwp69m9PlRaEkqjtQjlTly98mb3hTFZSO0ptK1yxbYkXG6uvjwOUZ4dxqlZJD-6UDhoDqVHR2QN9eg.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/fNJbhvijw8GLIqkTwZ0wBNfdmhRMdow4P9u0VQ9F1Dc98cspb2A-UO_QZqnBcpxKfo_mkkf4JoCXblDUtCIkTC8zbHHkjEbJN4t3TiY9vmFqV-IDSgQzaNpFTsgaBbQMLs80ErthIGszXfHGSAqCcSWpdV1Tzg_XLREbvnXjM08pUXcX62oMYzu2KD2GpQpsoJFNUNC2IU0NKxDfuKJ-D2qZNoEikGt8Lh9hUmF-DA0pwXA6eVpADAnRIruGb5BF_kbfDE3m_CA_bqOeECGK0S_cxqqmQaxK0zdjKy0uhe44mj_5zgLp2AW-4ROMBT4taeqtSwphnbuYTR0CJ2pJUQ.jpg" /></p>
+<tg-emoji emoji-id="5470060791883374114"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji>Дело о "неподписанном" договоре одно из самых продолжительных по рассмотрению - здесь и признание <a href="https://telegram.me/ep_uc/3107" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"недействительной ЭЦП"</a> и <a href="https://telegram.me/ep_uc/2560" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">использование</a> ключа ЭП после отзыва сертификата, суды идут с <a href="https://telegram.me/ep_uc/2453" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">2023 года</a> доходя до <a href="https://telegram.me/ep_uc/4155" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Верховного</a>. Судебная тяжба <a href="https://kad.arbitr.ru/Card/efa847f3-97d7-4905-adb9-e17f70895654" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">продолжается</a>, новое заседание назначено на 6 ноября.]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5614</guid>
+      <pubDate>Sat, 26 Sep 2026 05:45:22 +0000</pubDate>
     </item>
     <item>
       <title>✍️</title>
-      <link>https://telegram.me/ep_uc/5600</link>
+      <link>https://telegram.me/ep_uc/5612</link>
       <description>✍️
-Наталья Храмцовская 
-комментирует используемые сертификаты
- членами избирательных комиссий:
-
-Сертификат ключа проверки ЭП должен быть выдан членам избирательной комиссии с правом решающего голоса именно как должностным лицам избирательной комиссии. Это означает, что использование личной УКЭП физического лица (не увязанной с его полномочиями в комиссии) для этих целей недопустимо. Также отдельно выделяется УКЭП председателя (заместителя председателя) и секретаря избирательной комиссии. В то же время в законе об электронной подписи предусмотрены только две разновидности УКЭП: УКЭП физического лица и УКЭП юридического лица.
-
-Не секрет, что избиркомы получали свои квалифицированные сертификаты по форме - должностного лица в 
-органах
- Федерального казначейства (при этом сертифицированная 
-версия СКЗИ для генерации ключей
- применение нашла не сразу).
-
-Бардак с электронной подписью и голосованием был всегда - это и самоподписанные сертификаты ПАК УЦ с ИНН 2222222222 и ОГРН 8888888888888, и 
-судебные решения
- к которым вопросов ещё больше - какой же вид ЭП используется и какими средствами создаётся, а избирательные комиссии, сведения о которые не включены в ЕГРЮЛ, получили право получать сертификаты в органах Федерального казначейства 
-только год назад
-, но и спустя год 
-они отсутствуют в Перечне.</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/BiMYlc_7Pp-G6Xc-ELfQjlKkE3tGXPiF4RhVm_eS5QLwcf8lTnYQRM8NNRvWr7nlF-sZJF_v524_WkTVcxiRHfVkvZtDk5b16ZVDskdPpkZuv6pI2CY-Vt6QOGG91fR9_t3ImRjcBB7oaa1-r3jvdBNCBh2P1cBNmmHTsz0F2yVLDWFI6tNjTg2De1Pk3IBSHoGFHU8rLS2J385--y5xyW1mpLgtqfRNQa4ASVGhQ2cIqkn6nr8v2dT8OYsYmXSYBGFBgnHoWPkgzJyR9_5BcdfGuFdX8TSeE6tfWwv42Z9MJvbZEpCiKtH1Ei6LqR14wO9geChnLGm1f4Nk69HPlg.jpg" /></p>
-<tg-emoji emoji-id="5470060791883374114"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji>Наталья Храмцовская <a href="https://rusrim.blogspot.com/2026/09/2_01068214217.html?m=1" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">комментирует используемые сертификаты</a> членами избирательных комиссий:<br/><blockquote>Сертификат ключа проверки ЭП должен быть выдан членам избирательной комиссии с правом решающего голоса именно как должностным лицам избирательной комиссии. Это означает, что использование личной УКЭП физического лица (не увязанной с его полномочиями в комиссии) для этих целей недопустимо. Также отдельно выделяется УКЭП председателя (заместителя председателя) и секретаря избирательной комиссии. В то же время в законе об электронной подписи предусмотрены только две разновидности УКЭП: УКЭП физического лица и УКЭП юридического лица.<br/><br/></blockquote>Не секрет, что избиркомы получали свои квалифицированные сертификаты по форме - должностного лица в <a href="https://telegram.me/ufk_moscow/2794" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">органах</a> Федерального казначейства (при этом сертифицированная <a href="https://telegram.me/ep_uc/2387" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">версия СКЗИ для генерации ключей</a> применение нашла не сразу).<br/><br/>Бардак с электронной подписью и голосованием был всегда - это и самоподписанные сертификаты ПАК УЦ с ИНН 2222222222 и ОГРН 8888888888888, и <a href="https://telegram.me/ep_uc/2387?comment=80514" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">судебные решения</a> к которым вопросов ещё больше - какой же вид ЭП используется и какими средствами создаётся, а избирательные комиссии, сведения о которые не включены в ЕГРЮЛ, получили право получать сертификаты в органах Федерального казначейства <a href="https://telegram.me/ep_uc/4022" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">только год назад</a>, но и спустя год <a href="https://roskazna.gov.ru/gis/udostoveryayushchij-centr/perechen-gosudarstvennyh-organov-ne-vklyuchennyh-v-egryul" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">они отсутствуют в Перечне.</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5600</guid>
-      <pubDate>Wed, 23 Sep 2026 05:40:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Пост — Об ЭП и УЦ</title>
-      <link>https://telegram.me/ep_uc/5599</link>
-      <description>Пост — Об ЭП и УЦ</description>
-      <content:encoded><![CDATA[(нет текста)]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5599</guid>
-      <pubDate>Wed, 23 Sep 2026 05:08:21 +0000</pubDate>
+Про сертификаты платформы Цифрового рубля  Их два - TLS-сертификат для защиты канала и неквалифицированной электронной подписи.   Если со структурой TLS-сертификатов вопросов нет, их структура: C= RU O = g.ru.cbrdc.prt.*** CN= ФИО L = CBDCTLS SNILS = СНИЛС…</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/Ns8Bt0wNYbfnDlFyB1z8VGm-VI3rFJAyOO1AyMuKU1mTVYe0HKcQ_QJ8uRDErUbfXQuwQXp-j9FVbnY3DpCbU_Byk_Gc4xJ9dXVG0W7Z6jZAd28KmCkm3_EYbyFPXqhO2ur6UOye6EJx6dtofwQW7VEcWE8Awj2DRMdwGnvuR_QREltzPqDnFQ72sIVER9NlmeeOAXBb4fbPuZmVOrncKnidoouGrTWpekdFDCSzpqBhiiDGgiaaXVh-lxn4Lgfp5RAFIKhIOOK9vYYSjSVTo3N4JDb2xZEF6mgpjRHO-5E6IUBAQVhtR822AnwPrIDrks_ACCIwO-9ILOqmA-Lt-w.jpg" /></p>
+<tg-emoji emoji-id="5470060791883374114"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji>Про сертификаты платформы Цифрового рубля  Их два - TLS-сертификат для защиты канала и неквалифицированной электронной подписи.   Если со структурой TLS-сертификатов вопросов нет, их структура: C= RU O = g.ru.cbrdc.prt.*** CN= ФИО L = CBDCTLS SNILS = СНИЛС…]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5612</guid>
+      <pubDate>Fri, 25 Sep 2026 15:38:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
