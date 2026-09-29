@@ -8,40 +8,6 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 28 Sep 2026 11:50:56 +0000</lastBuildDate>
-    <item>
-      <title>⁉️</title>
-      <link>https://telegram.me/gis_torgi_prodaji/930</link>
-      <description>⁉️
- 
-ВОПРОС
-
-Какие типы файлов можно прикрепить в качестве приложений к договору, заключаемому в ГИС ТОРГИ ПРОДАЖИ?
-
-✔️
- 
-ОТВЕТ
-
-В блоке «Документы» к проекту электронного договора можно приложить файлы с расширением: 
-bmp, jpg, jpeg, png, gif, tif, tiff, docx, doc, pdf.
-
-При этом размер прилагаемого документа или изображения не должен превышать 100 Мб.
-
-❕
-Обращаем внимание, что в случае подписания контрагентом договора через приложение Госключ перечень возможных форматов файлов ограничен расширениями:
- jpg, jpeg, tif, tiff, txt, pdf.
-
-#ВОПРОСЫ
-
-#ЭЛЕКТРОННЫЙ_ДОГОВОР
-
-🔔
- 
-Следите за новостями ГИС ТОРГИ ПРОДАЖИ в MAX</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/oWYo53WhYs62r6Lvnj7Ob3ANiu_ank4Jn42oJpu6Pp_8ngC58fIJlo9TxUsZumY-ndr_4GU48FHAN_tKVqUkVoHc9ncRFpknvfMhGrh7WwKzsd7tihfe6OpRlRzUECq6UfoCVITC9AgCwOC_9-NUbg1_oE1lOEx9IxRoqenUtAIl1bjQK_P5jjZrUHJ7DkAPXC7nL_c0Y2wwrw2R6eJYZIZumBYSgfZQRodNTP_N1hkwS7sUDeuZMCSRjUCuV2FNFpRh2_xKmOMQsoofjOZAa5DUY0bdkSB1-Zl0kkj4r-0u47l3pdOMhdZ--L5tTq3tqS_Wf7evtkNq1FVJtEXPog.jpg" /></p>
-<tg-emoji emoji-id="5435994300997443130"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E28189.png')"><b>⁉️</b></i></tg-emoji> <b>ВОПРОС<br/></b>Какие типы файлов можно прикрепить в качестве приложений к договору, заключаемому в ГИС ТОРГИ ПРОДАЖИ?<br/><br/><tg-emoji emoji-id="5435862449796423200"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C94.png')"><b>✔️</b></i></tg-emoji> <b>ОТВЕТ</b><br/>В блоке «Документы» к проекту электронного договора можно приложить файлы с расширением: <b>bmp, jpg, jpeg, png, gif, tif, tiff, docx, doc, pdf.</b><br/><br/>При этом размер прилагаемого документа или изображения не должен превышать 100 Мб.<br/><br/><tg-emoji emoji-id="5402594646733900777"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29D95.png')"><b>❕</b></i></tg-emoji>Обращаем внимание, что в случае подписания контрагентом договора через приложение Госключ перечень возможных форматов файлов ограничен расширениями:<b> jpg, jpeg, tif, tiff, txt, pdf.</b><br/><br/><a href="https://max.ru/gis_torgi_prodaji" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">#ВОПРОСЫ<br/>#ЭЛЕКТРОННЫЙ_ДОГОВОР<br/><br/></a><tg-emoji emoji-id="5404763819966744244"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9494.png')"><b>🔔</b></i></tg-emoji> <a href="https://max.ru/gis_torgi_prodaji" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Следите за новостями ГИС ТОРГИ ПРОДАЖИ в MAX</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/gis_torgi_prodaji/930</guid>
-      <pubDate>Fri, 25 Sep 2026 11:59:58 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 29 Sep 2026 11:27:46 +0000</lastBuildDate>
   </channel>
 </rss>
