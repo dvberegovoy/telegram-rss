@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 01 Oct 2026 11:44:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 11:13:48 +0000</lastBuildDate>
     <item>
       <title>Кабмин скорректировал правила применения нацрежима при осуществлении закупок</title>
       <link>https://telegram.me/garant_goszakupki/1078</link>
@@ -32,18 +32,6 @@ https://www.garant.ru/news/2256171/
       <content:encoded><![CDATA[Минфин России опубликовал перечень банков для открытия спецсчетов по 44-ФЗ<br/><a href="https://www.garant.ru/news/2256171/" rel="noopener" target="_blank">https://www.garant.ru/news/2256171/</a><br/><br/>В него включены 20 кредитных организаций, отвечающих установленным требованиям.]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/garant_goszakupki/1077</guid>
       <pubDate>Tue, 29 Sep 2026 12:36:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Число региональных гарантийных организаций в рамках Закона № 44-ФЗ сократили</title>
-      <link>https://telegram.me/garant_goszakupki/1076</link>
-      <description>Число региональных гарантийных организаций в рамках Закона № 44-ФЗ сократили
-
-https://www.garant.ru/news/2252451/
-
-Из списка исключено Акционерное общество "Гарантийная организация Архангельской области".</description>
-      <content:encoded><![CDATA[Число региональных гарантийных организаций в рамках Закона № 44-ФЗ сократили<br/><a href="https://www.garant.ru/news/2252451/" rel="noopener" target="_blank">https://www.garant.ru/news/2252451/</a><br/><br/>Из списка исключено Акционерное общество "Гарантийная организация Архангельской области".]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/garant_goszakupki/1076</guid>
-      <pubDate>Mon, 28 Sep 2026 19:10:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
