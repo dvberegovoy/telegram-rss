@@ -8,193 +8,79 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 02 Oct 2026 11:13:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 12:27:28 +0000</lastBuildDate>
     <item>
-      <title>Пост — ЕВГЕНИЙ СУЛТАНОВ | ЗАКУПКИ</title>
-      <link>https://telegram.me/expertpozakupkam/1510</link>
-      <description>Пост — ЕВГЕНИЙ СУЛТАНОВ | ЗАКУПКИ</description>
-      <content:encoded><![CDATA[(нет текста)]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/expertpozakupkam/1510</guid>
-      <pubDate>Fri, 02 Oct 2026 03:43:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️</title>
-      <link>https://telegram.me/expertpozakupkam/1509</link>
-      <description>⚡️
- 
-Информируем о переносе срока выпуска версии
- 
-16.3 ГИС ЕИС ЗАКУПКИ!
+      <title>📃</title>
+      <link>https://telegram.me/expertpozakupkam/1512</link>
+      <description>📃
+Внесены изменения в порядок предоставления национального режима при осуществлении закупок
+📃
 
-Версия станет доступна пользователям 
-🗓️
- 
-11 октября 2026 года
-.
+02.10.2026 опубликовано постановление Правительства Российской Федерации от 30.09.2026 № 1264 (далее — постановление), которое вносит изменения в постановление Правительства Российской Федерации от 23.12.2024 № 1875, регулирующее порядок предоставления национального режима при осуществлении закупок в рамках Закона № 44‑ФЗ и Закона № 223‑ФЗ.
 
-Подробно с информацией о доработках можно ознакомиться на официальном сайте ГИС ЕИС ЗАКУПКИ по 
+Постановление дополняет перечень иностранных товаров, работ, услуг, в отношении которых устанавливается ограничение закупок, следующими позициями:
+
+🔹
+ дизели тепловозные
+
+🔹
+ дизели судовые
+
+🔹
+ дизели промышленные
+
+🔹
+ двигатели внутреннего сгорания поршневые с воспламенением от сжатия прочие, не включенные в другие группировки
+
+🔹
+ модульные электростанции на базе дизель-генераторных и газопоршневых установок
+
+Кроме того, при формировании отчета об объеме закупок российских товаров исключается использование отдельных видов промышленной продукции из государств - членов Евразийского экономического союза.
+
+🗓
+ Постановление вступает в силу по истечении 7 дней со дня его официального опубликования и применяется:
+
+🔹
+ к закупкам, извещения (приглашения) об осуществлении которых размещены после дня вступления в силу постановления
+
+🔹
+ к контрактам (договорам) с единственным поставщиком (подрядчиком, исполнителем), заключенным после дня вступления в силу постановления
+
+Полный текст постановления по 
 ссылке
  
 ↩
 
 #НОВОСТИ
 
-#ВЕРСИЯ_16_3
-
-📱
- 
-Следите за новостями ГИС ЕИС ЗАКУПКИ в MAX</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/LSGtrvXmuR7QnqUeUZbOSjbONjppIWzdtRHh61KPpncwFiCicLz-T7McIGsDK1L0T5qG6lWf5wBzggmOa_sXawX1Y99SnXXF5S-a-7ZJk7tTLAfmlQ2wKxNs8wF5ojsfJoGcjt-1fatV2B6VMXOoKnJf2SBg_W23T9qsYL_EPw_sb8zim4-wkxNy9hlCjoQpBJQnkLnEWvF44hhXfOa9rshmZWC33f3O3cjsmVGpxdGrT8FZ8gMlOzKU28wjkh2j2HFwvR3hzJKotyRsNpLiWK_vOhGdGyP5C8glL7ZNg758WA49KhhJzQWRQGcmqzCJg7gBAZiXA0dxoYCjvIfhTA" /></p>
-<tg-emoji emoji-id="5436090903401865624"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29AA1.png')"><b>⚡️</b></i></tg-emoji> <b>Информируем о переносе срока выпуска версии</b> <b>16.3 ГИС ЕИС ЗАКУПКИ!</b><br/><br/>Версия станет доступна пользователям <tg-emoji emoji-id="5296526512348999459"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9793.png')"><b>🗓️</b></i></tg-emoji> <b>11 октября 2026 года</b>.<br/><br/><b>Подробно с информацией о доработках можно ознакомиться на официальном сайте ГИС ЕИС ЗАКУПКИ по </b><a href="https://zakupki.gov.ru/epz/main/public/news/news_preview.html?newsId=36971" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b>ссылке</b></a> <tg-emoji emoji-id="5436118790624518351"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E286A9.png')"><b>↩</b></i></tg-emoji><b><br/><br/></b><a href="?q=%23%D0%9D%D0%9E%D0%92%D0%9E%D0%A1%D0%A2%D0%98">#НОВОСТИ</a><br/><a href="?q=%23%D0%92%D0%95%D0%A0%D0%A1%D0%98%D0%AF_16_3">#ВЕРСИЯ_16_3</a><br/><br/><tg-emoji emoji-id="5294059873976200999"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93B1.png')"><b>📱</b></i></tg-emoji> <a href="https://max.ru/gis_eiszakupki" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Следите за новостями ГИС ЕИС ЗАКУПКИ в MAX</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/expertpozakupkam/1509</guid>
-      <pubDate>Fri, 02 Oct 2026 03:34:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>📃</title>
-      <link>https://telegram.me/expertpozakupkam/1508</link>
-      <description>📃
-Внесены изменения в порядок предоставления национального режима при осуществлении закупок
-📃
-
-30.09.2026 опубликовано постановление Правительства Российской Федерации от 29.09.2026 № 1257 (далее — постановление), которое вносит изменения в:
-
-🔹
-постановление Правительства Российской Федерации от 17.07.2015 № 719, устанавливающее требования к промышленной продукции, предъявляемые в целях ее отнесения к российской промышленной продукции (далее — постановление № 719)
-
-🔹
-постановление Правительства Российской Федерации от 23.12.2024 № 1875, регулирующее порядок предоставления национального режима при осуществлении закупок в рамках Закона № 44-ФЗ и Закона № 223-ФЗ (далее — постановление № 1875)
-
- 
-
-ℹ️
- Постановление предусматривает включение позиции «Иглы швейные из черных металлов» в:
-
-🔹
-раздел «XXIII. Продукция отрасли металлургии и материалов» перечня промышленной продукции, предусмотренный постановлением № 719
-
-🔹
-перечень иностранных товаров, предусмотренный приложением № 2 к постановлению № 1875 и в отношении которых устанавливается ограничение закупок
-
- 
-
-🗓️
- Постановление вступает в силу по истечении 30 дней после дня его официального опубликования.
-
- 
-
-Полный текст постановления по 
-ссылке
- 
-↩️
-
-#НОВОСТИ
- 
-
 #НПА
 
 📱
-Следите за новостями ГИС ЕИС ЗАКУПКИ в MAX</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/NDROn-aXTucdnAWljWh0oJcx3OFSWVI5mVM3s5wPxASAiJOddJ0jr5_6U6C7pQS35YaUQah47LawBC8wIYRQ6m_PQD2x1l_7UuWnvpQ-IJ_NJOo59y08NdvB11fO8yGabdCmIeLz-HG2uuhLNGUxvfO5fM3sa6nxiuU-aW2c2heWj1waESRFyC56KD98jzG1SrTXc0YxEH3mkXp7iPr9ICmav3Y_AOUA2I4TsTNufZFaZU3OVoeg-EPRh5wENTd2VZGgtjvEbiUzOrAzewqTYhpUoxm-OtcHEx0K2hU82CJC7jpzrzipuBx5ZHbnFIVb96SodH5VnqIewAL_ZSNXFQ.jpg" /></p>
-<tg-emoji emoji-id="5296518734163228990"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9383.png')"><b>📃</b></i></tg-emoji><b>Внесены изменения в порядок предоставления национального режима при осуществлении закупок</b><tg-emoji emoji-id="5296518734163228990"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9383.png')"><b>📃</b></i></tg-emoji><br/><br/>30.09.2026 опубликовано постановление Правительства Российской Федерации от 29.09.2026 № 1257 (далее — постановление), которое вносит изменения в:<br/><br/><tg-emoji emoji-id="5296283477329587350"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji>постановление Правительства Российской Федерации от 17.07.2015 № 719, устанавливающее требования к промышленной продукции, предъявляемые в целях ее отнесения к российской промышленной продукции (далее — постановление № 719)<br/><tg-emoji emoji-id="5296283477329587350"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji>постановление Правительства Российской Федерации от 23.12.2024 № 1875, регулирующее порядок предоставления национального режима при осуществлении закупок в рамках Закона № 44-ФЗ и Закона № 223-ФЗ (далее — постановление № 1875)<br/> <br/><tg-emoji emoji-id="5438355721261425042"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E284B9.png')"><b>ℹ️</b></i></tg-emoji> Постановление предусматривает включение позиции «Иглы швейные из черных металлов» в:<br/><br/><tg-emoji emoji-id="5296283477329587350"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji>раздел «XXIII. Продукция отрасли металлургии и материалов» перечня промышленной продукции, предусмотренный постановлением № 719<br/><tg-emoji emoji-id="5296283477329587350"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji>перечень иностранных товаров, предусмотренный приложением № 2 к постановлению № 1875 и в отношении которых устанавливается ограничение закупок<br/> <br/><tg-emoji emoji-id="5296526512348999459"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9793.png')"><b>🗓️</b></i></tg-emoji> Постановление вступает в силу по истечении 30 дней после дня его официального опубликования.<br/> <br/>Полный текст постановления по <a href="http://publication.pravo.gov.ru/Document/View/0001202609300049" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">ссылке</a> <tg-emoji emoji-id="5436118790624518351"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E286A9.png')"><b>↩️</b></i></tg-emoji><br/><br/><a href="?q=%23%D0%9D%D0%9E%D0%92%D0%9E%D0%A1%D0%A2%D0%98">#НОВОСТИ</a> <br/><a href="?q=%23%D0%9D%D0%9F%D0%90">#НПА</a><br/><br/><tg-emoji emoji-id="5294059873976200999"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93B1.png')"><b>📱</b></i></tg-emoji><a href="https://max.ru/gis_eiszakupki/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Следите за новостями ГИС ЕИС ЗАКУПКИ в MAX</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/expertpozakupkam/1508</guid>
-      <pubDate>Fri, 02 Oct 2026 03:34:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️</title>
-      <link>https://telegram.me/expertpozakupkam/1504</link>
-      <description>⚡️
-⚡️
-⚡️
- 
-Состоялось Всероссийское совещание Казначейства России в формате вебинара о новых возможностях ГИС ЕИС ЗАКУПКИ версии 16.3
-
-В ходе мероприятия выступили сотрудники Казначейства России и Центра разработки ГИС ЕИС ЗАКУПКИ.
-
-Участникам рассказали о:
-
-🔹
-новых возможностях при проведении конкурентных процедур и заключении контрактов с единственным поставщиком;
-
-🔹
-обновленном интерфейсе для работы с цифровыми контрактами и дополнительными соглашениями, односторонним отказом и претензионной перепиской;
-
-🔹
-изменениях при формировании бюджетных и денежных обязательств, а также распоряжений о совершении казначейского платежа;
-
-🔹
-обновлениях электронного актирования и реестра независимых гарантий.
-
-🎥
- Трансляцию вебинара посмотрели 16 тыс. зрителей
-
-ℹ
- Полная запись доступна по 
-ссылке
-, а материалы с совещания можно найти в Базе знаний личных кабинетов пользователей ГИС ЕИС ЗАКУПКИ.
-
-#НОВОСТИ
-
-#ВЕРСИЯ_16_3
-
-📱
-Следите за новостями ГИС ЕИС ЗАКУПКИ в MAX</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/iEefcI5qOBlh_NMQCyDQbWGR4CcQx3Q5Mjo0PqOOrdX_Uc8j6NdOyA7HIEBhTEaX6l_7_h3E0SOwOO0LNXqmIJbGgGKNAitYSB8x2E2vyWt29MJUsnZWqtKqxD5blCCmLujsA5bYAJxUGKAybwW6FSonviKXsrYtoelFM9kQEhOaWYn5cgg28NeAz8VaUI2a7RQRrsiCRn9FzMbpxYrqjvNOLTpnhjxuTvXE4pXUaYETwperyfBP608sTUmlyaW0yfWBoacTEU35sMIixkoFYzkLywzUncbj1vuPssKPWb-nGEhBc43w2xP6-SUNHRh4Gv7UENXTSyDGLSztsSFHwA.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/G3hjlWHRtg5Bog8v1I5Rs-G2VL7yn1cd5U4rr7xU9s17eys2Vt4OI2ewqyCFc6EP2DONhRSP-LuOH4Y20I_rSWBQ-AtQMOW6O8L-Ew1n75-r-BdnfBZxvAJvxOWL22D_2ibEgQFu2L85VdcqrYbNajKjs50PHKiXVchQe15ORvywPCnpYAI8criKmAAe1fqWPYYiDa6PY51ybFGrSAyRsSgI6lDuvmh3Q0JXh4Zbz0S6iigVy8kfigrHR2Dfa9kluoa_-wOU_e8kKeL9FB-yeiIoPTgqYBVsNNUiRCO98L6nt1i4NLWlTQbErnTk6qHCt477QnujTRXQ2g6hR57Jrw.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/kvp7GHIxDZ1gGzNuqCFRnJnKalDXAwkqLt3_UykyKDkbTZXchri_j3rOsYQQXugBtdk6lwu2Ig1oSFDhKcLnWbMGQegvdcKnZ2cuEjWCaADv5xE5zcc2pzdJkThaz8OKPD6f__DLoyAB1lqI9bkzsg-8ePQK8u3Mfw3spOa4xpR4gCFhGzBMHO-FCCywFzzbN9kqWi7f_TohfC0fR9Ddm2x9Sk0adiPo-Mpz57GPBYM7FwDG0JiHyKmG73aaYs04Z6kLlrtTP7Ymyb_gZF1R0EUmAGmCmwpVB2Mk5E4s5KvS1qykAgeBL9xJipXs4lRpB4UHkdg98-P7jcd48Y2UQw.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/RJIxpn2HMIZojHvefRbqBtXNE1aoy2nK5-8aKZoDloZFs1S6y_9VXcg2k0EKOH4p7Cynms7phEUiKz8DhN8rt6uFp-WniHQTwQuh4ofDZ58RU4NvlxKKebMWcz334NS3qD3Zz1AWB7SZ9bFVhwMO1RFL-Zp7llwmNOPsXnl5w0KKe44SKcpsqCcsmnlcumycovKIkfswhT7Ja-lTihC4Qn3VmdUxBwzHThD4z-M89cibzpQRiP233oPO01kOLJqDwPSxEXEHxNninSp-QjKUuLXwb028SYhZ_lgnOw4EiNUONt7qHSsJJD2iQPOs2z8HCjn8K8S8g78Q_CbOwO87ww.jpg" /></p>
-<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29AA1.png')"><b>⚡️</b></i><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29AA1.png')"><b>⚡️</b></i><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29AA1.png')"><b>⚡️</b></i> <b>Состоялось Всероссийское совещание Казначейства России в формате вебинара о новых возможностях ГИС ЕИС ЗАКУПКИ версии 16.3</b><br/><br/>В ходе мероприятия выступили сотрудники Казначейства России и Центра разработки ГИС ЕИС ЗАКУПКИ.<br/><br/>Участникам рассказали о:<br/><br/><tg-emoji emoji-id="5296283477329587350"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji>новых возможностях при проведении конкурентных процедур и заключении контрактов с единственным поставщиком;<br/><br/><tg-emoji emoji-id="5296283477329587350"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji>обновленном интерфейсе для работы с цифровыми контрактами и дополнительными соглашениями, односторонним отказом и претензионной перепиской;<br/><br/><tg-emoji emoji-id="5296283477329587350"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji>изменениях при формировании бюджетных и денежных обязательств, а также распоряжений о совершении казначейского платежа;<br/><br/><tg-emoji emoji-id="5296283477329587350"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji>обновлениях электронного актирования и реестра независимых гарантий.<br/><br/><tg-emoji emoji-id="5436295769046917125"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8EA5.png')"><b>🎥</b></i></tg-emoji><b> Трансляцию вебинара посмотрели 16 тыс. зрителей</b><br/><br/><tg-emoji emoji-id="5438355721261425042"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E284B9.png')"><b>ℹ</b></i></tg-emoji> Полная запись доступна по <a href="https://vkvideo.ru/live-211194418_456239412" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">ссылке</a>, а материалы с совещания можно найти в Базе знаний личных кабинетов пользователей ГИС ЕИС ЗАКУПКИ.<br/><br/><a href="?q=%23%D0%9D%D0%9E%D0%92%D0%9E%D0%A1%D0%A2%D0%98">#НОВОСТИ</a><br/><a href="?q=%23%D0%92%D0%95%D0%A0%D0%A1%D0%98%D0%AF_16_3">#ВЕРСИЯ_16_3</a><br/><br/><tg-emoji emoji-id="5294059873976200999"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93B1.png')"><b>📱</b></i></tg-emoji><a href="https://max.ru/gis_eiszakupki/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Следите за новостями ГИС ЕИС ЗАКУПКИ в MAX</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/expertpozakupkam/1504</guid>
-      <pubDate>Fri, 02 Oct 2026 03:33:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>🆕</title>
-      <link>https://telegram.me/expertpozakupkam/1503</link>
-      <description>🆕
- 
-Версия 16.3 ГИС ЕИС ЗАКУПКИ
- станет доступна пользователям 5 октября 2026 года
-
-Ключевые новации:
-
-🔹
-новые возможности при проведении конкурентных процедур и заключении контрактов с единственным поставщиком
-
-🔹
-новый дизайн функционала заключения цифровых контрактов и дополнительных соглашений, а также одностороннего отказа и претензионной переписки
-
-🔹
-нововведения при формировании денежных и бюджетных обязательств, а также распоряжений о совершении казначейского платежа
-
-🔹
-обновления в электронном актировании и реестре независимых гарантий
-
-🔹
-изменения при работе с годовым отчетом о закупках у МСП по Закону № 223-ФЗ
-
-Подробно с информацией о доработках можно ознакомиться на официальном сайте ГИС ЕИС ЗАКУПКИ по 
-ссылке
- 
-↩️
-
-#НОВОСТИ
-
-#ВЕРСИЯ_16_3
-
-📱
  
 Следите за новостями ГИС ЕИС ЗАКУПКИ в MAX</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/o0vptJ_DlbpsGG1QaMvzMFNRsSbaRoUKCRc8Pfvq11ozE9WLKbVgjRoubw2fNwQVSejFWbZKjy2L4qnA-ZhxFaJ5jvW578FJ0a78dXfWOs6ommnrQEaPRbnWDjfbNjvOSpCA0PcTk5C3C4vFZrPPgTb1bSfQ1Tra8RlvFynNKzl-644SjYr7xUxVlIWJcqr6lZ2iw33hxQGKi1beWtSbuaHVmW88RfYn7iebefmoEVwVZ2nc-CrbBXkOuZ_934087KxbVwesxyJTcaTRtvxm4js6Yxk2aKOU6W7cywrWnIFIMpeU0EMYSlmo-tfM_PKS0GjiCkALTiJ4gD_G1xB2bA" /></p>
-<tg-emoji emoji-id="5435904995742457332"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8695.png')"><b>🆕</b></i></tg-emoji> <b>Версия 16.3 ГИС ЕИС ЗАКУПКИ</b> станет доступна пользователям 5 октября 2026 года<br/><br/><b>Ключевые новации:<br/><br/></b><tg-emoji emoji-id="5296283477329587350"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji>новые возможности при проведении конкурентных процедур и заключении контрактов с единственным поставщиком<br/><br/><tg-emoji emoji-id="5296283477329587350"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji>новый дизайн функционала заключения цифровых контрактов и дополнительных соглашений, а также одностороннего отказа и претензионной переписки<br/><br/><tg-emoji emoji-id="5296283477329587350"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji>нововведения при формировании денежных и бюджетных обязательств, а также распоряжений о совершении казначейского платежа<br/><br/><tg-emoji emoji-id="5296283477329587350"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji>обновления в электронном актировании и реестре независимых гарантий<br/><br/><tg-emoji emoji-id="5296283477329587350"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji>изменения при работе с годовым отчетом о закупках у МСП по Закону № 223-ФЗ<br/><b><br/>Подробно с информацией о доработках можно ознакомиться на официальном сайте ГИС ЕИС ЗАКУПКИ по </b><a href="https://zakupki.gov.ru/epz/main/public/news/news_preview.html?newsId=36971" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b>ссылке</b></a> <b><tg-emoji emoji-id="5436118790624518351"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E286A9.png')"><b>↩️</b></i></tg-emoji></b><b><br/><br/></b><a href="?q=%23%D0%9D%D0%9E%D0%92%D0%9E%D0%A1%D0%A2%D0%98">#НОВОСТИ</a><br/><a href="?q=%23%D0%92%D0%95%D0%A0%D0%A1%D0%98%D0%AF_16_3">#ВЕРСИЯ_16_3</a><br/><br/><tg-emoji emoji-id="5294059873976200999"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93B1.png')"><b>📱</b></i></tg-emoji> <a href="https://max.ru/gis_eiszakupki" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Следите за новостями ГИС ЕИС ЗАКУПКИ в MAX</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/expertpozakupkam/1503</guid>
-      <pubDate>Fri, 02 Oct 2026 03:33:16 +0000</pubDate>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/voFpWGchdXJwLORatAECtyA_TViqforKOuYv4ygy4gmamjM8XCMjaxKMxe2xAB9Ng8AE4bqH0mIOyNlU0Kpjwp16RXv-oYodGfLUMCpj8Vb8NtwLxECTCyGRYJ4CVM4bUXiS6JM1FYUArPbxZGhCH6MB10Xw37te6iDqy5c12enT2dMkNpogpdlJgDLHbtg5e8iQwYjeklpAQzHc9xIQ7AzVajVFE4xLNGuPCjAHBMMoN1AiLISgaJPuu_Biy6AJKyDavzpItupUsmfxQAUd07_sfbJHiEFGAIiSCjqRsETZHuKF6Lg4aEQjaOf51vX7cQm_buzrO0nphsLnegH4XQ.jpg" /></p>
+<tg-emoji emoji-id="5296518734163228990"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9383.png')"><b>📃</b></i></tg-emoji><b>Внесены изменения в порядок предоставления национального режима при осуществлении закупок</b><tg-emoji emoji-id="5296518734163228990"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9383.png')"><b>📃</b></i></tg-emoji><br/><br/>02.10.2026 опубликовано постановление Правительства Российской Федерации от 30.09.2026 № 1264 (далее — постановление), которое вносит изменения в постановление Правительства Российской Федерации от 23.12.2024 № 1875, регулирующее порядок предоставления национального режима при осуществлении закупок в рамках Закона № 44‑ФЗ и Закона № 223‑ФЗ.<br/><br/>Постановление дополняет перечень иностранных товаров, работ, услуг, в отношении которых устанавливается ограничение закупок, следующими позициями:<br/><br/><tg-emoji emoji-id="5296283477329587350"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji> дизели тепловозные<br/><tg-emoji emoji-id="5296283477329587350"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji> дизели судовые<br/><tg-emoji emoji-id="5296283477329587350"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji> дизели промышленные<br/><tg-emoji emoji-id="5296283477329587350"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji> двигатели внутреннего сгорания поршневые с воспламенением от сжатия прочие, не включенные в другие группировки<br/><tg-emoji emoji-id="5296283477329587350"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji> модульные электростанции на базе дизель-генераторных и газопоршневых установок<br/><br/>Кроме того, при формировании отчета об объеме закупок российских товаров исключается использование отдельных видов промышленной продукции из государств - членов Евразийского экономического союза.<br/><br/><tg-emoji emoji-id="5296526512348999459"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9793.png')"><b>🗓</b></i></tg-emoji> Постановление вступает в силу по истечении 7 дней со дня его официального опубликования и применяется:<br/><br/><tg-emoji emoji-id="5296283477329587350"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji> к закупкам, извещения (приглашения) об осуществлении которых размещены после дня вступления в силу постановления<br/><tg-emoji emoji-id="5296283477329587350"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji> к контрактам (договорам) с единственным поставщиком (подрядчиком, исполнителем), заключенным после дня вступления в силу постановления<br/><br/>Полный текст постановления по <a href="http://publication.pravo.gov.ru/document/0001202610020018" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">ссылке</a> <tg-emoji emoji-id="5436118790624518351"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E286A9.png')"><b>↩</b></i></tg-emoji><br/><br/><a href="?q=%23%D0%9D%D0%9E%D0%92%D0%9E%D0%A1%D0%A2%D0%98">#НОВОСТИ</a><br/><a href="?q=%23%D0%9D%D0%9F%D0%90">#НПА</a><br/><br/><tg-emoji emoji-id="5294059873976200999"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93B1.png')"><b>📱</b></i></tg-emoji> <a href="https://max.ru/gis_eiszakupki/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Следите за новостями ГИС ЕИС ЗАКУПКИ в MAX</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/expertpozakupkam/1512</guid>
+      <pubDate>Mon, 05 Oct 2026 06:04:27 +0000</pubDate>
     </item>
     <item>
-      <title>Пост — ЕВГЕНИЙ СУЛТАНОВ | ЗАКУПКИ</title>
-      <link>https://telegram.me/expertpozakupkam/1502</link>
-      <description>Пост — ЕВГЕНИЙ СУЛТАНОВ | ЗАКУПКИ</description>
-      <content:encoded><![CDATA[(нет текста)]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/expertpozakupkam/1502</guid>
-      <pubDate>Tue, 29 Sep 2026 14:03:32 +0000</pubDate>
+      <title>🟣</title>
+      <link>https://telegram.me/expertpozakupkam/1511</link>
+      <description>🟣
+ 
+КУРС ПО 223-ФЗ
+
+ERID: CQH36pWzJqVKr2Mgr1hS4djLF63rvFHLVTJCY2JLqBa5WS 
+
+Подробно о курсе: 
+https://prof.torgi-online.com/специалист-в-сфере-закупок-контрактн/
+ или звоните на горячую линию 88002501535 и просите соединить с образовательным центром.
+
+По промокоду СУЛТАНОВ скидка на курс 20% (12000 рублей вместо 15000).</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/K4YS3r-aI25MeetNcbVJFCGxFpAVJ6mcXwbCeUXbBAtzMbFOaWWwrtmKr3wWJTfM68yyKsVWuWOdT_hg8jbcOB0pPNC3bn7nXT8zqdJHKgh_2lY3YWkjn96ye3ov7MSmXrs_tlN_NRR1KT-tAO_U33MSeZh9nThe_1eTW4kKvo4G2W1PKzNQTbbfXAO5xVAK1F6f6Vl9IKsn_QjyImHuCHMc6sk6_w-HN0e2JLy6BW8EO8gsZo_vZwbAARoqukky44muYSD2WQ3Nfq5qG0HuvJLqPf6OPP8vgqX39S45To7KwQJP9XjegPDKAHjFvVu84OyMuT6wQVHODMzfow-Img" /></p>
+<tg-emoji emoji-id="5210867341000189516"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9FA3.png')"><b>🟣</b></i></tg-emoji> <b>КУРС ПО 223-ФЗ</b><br/><br/>ERID: CQH36pWzJqVKr2Mgr1hS4djLF63rvFHLVTJCY2JLqBa5WS <br/><br/>Подробно о курсе: <a href="https://prof.torgi-online.com/%D1%81%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82-%D0%B2-%D1%81%D1%84%D0%B5%D1%80%D0%B5-%D0%B7%D0%B0%D0%BA%D1%83%D0%BF%D0%BE%D0%BA-%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D0%B0%D0%BA%D1%82%D0%BD/" rel="noopener" target="_blank">https://prof.torgi-online.com/специалист-в-сфере-закупок-контрактн/</a> или звоните на горячую линию 88002501535 и просите соединить с образовательным центром.<br/><br/>По промокоду СУЛТАНОВ скидка на курс 20% (12000 рублей вместо 15000).]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/expertpozakupkam/1511</guid>
+      <pubDate>Mon, 05 Oct 2026 05:59:59 +0000</pubDate>
     </item>
   </channel>
 </rss>

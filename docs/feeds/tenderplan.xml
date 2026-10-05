@@ -8,20 +8,67 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 02 Oct 2026 11:13:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 12:27:39 +0000</lastBuildDate>
     <item>
-      <title>❌</title>
-      <link>https://telegram.me/tenderplan/1486</link>
-      <description>❌
+      <title>⚙️</title>
+      <link>https://telegram.me/tenderplan/1487</link>
+      <description>⚙️
  
-Нашли ошибку в контракте – как ее исправить?
+Авансирование контрактов на поставку промышленных товаров продлили
 
-Может ли поставщик что-то изменить в контракте по 44-ФЗ перед подписанием?
+Правительство РФ выпустило 
+Постановление от 26.09.2026 №1243
+ о продлении требований об обязательном авансировании государственных контрактов на поставку промышленных товаров.
 
-Если речь идет об изменении существенных условий – то нет. Контракт надо изучать перед подачей заявки. Но если в финальной его версии появились ошибки или неточности – их надо исправить, и только потом подписывать.
+Что изменилось?
 
-Для таких случаев существует протокол разногласий. Как и в какие сроки его можно подать, какие исправления можно вносить, а какие нет – рассказали 
-в статье.
+Правило об авансе в размере 
+не менее 80% от цены контракта
+ теперь действует 
+до конца 2030 года.
+
+Кроме того, расширен перечень промышленных товаров, при закупке которых заказчики обязаны предоставлять аванс. В него включены:
+
+🔻
+промышленные роботы и роботизированные комплексы;
+
+🔻
+станки для обработки металлов, камня и дерева;
+
+🔻
+3D-сканеры и аддитивные установки;
+
+🔻
+подъемно-транспортное оборудование (краны, конвейеры, лифты);
+
+🔻
+лазеры и оборудование для газотермического напыления;
+
+🔻
+ручной электроинструмент и оборудование для пайки;
+
+🔻
+жернова, точильные камни, шлифовальные круги.
+
+Что это значит для поставщиков?
+
+Все поставщики, работающие с товарами из расширенного перечня, теперь могут рассчитывать на гарантированную предоплату 80% при работе с федеральными заказчиками. Это означает:
+
+🔻
+наличие оборотных средств на закупку материалов и комплектующих до начала исполнения контракта;
+
+🔻
+снижение финансовой нагрузки при работе с крупными промышленными заказами;
+
+🔻
+возможность планировать производство без необходимости замораживать собственные средства.
+
+Важно: 
+чтобы определить, попадает ли ваш товар под это правило, необходимо сверить его код по Общероссийскому классификатору продукции по видам экономической деятельности (ОК 034-2014 / КПЕС 2008). Полный перечень товаров с соответствующими кодами содержится в таблице Приложения №1 к Постановлению.
+
+Новшества вступили в силу 30 сентября 2026 года и распространяются на закупки, извещения о которых размещены после этой даты.
+
+#новости_тендеров
 
 ☺️
  Telegram
@@ -30,42 +77,9 @@ VК
  |
  
 MAX</description>
-      <content:encoded><![CDATA[<tg-emoji emoji-id="5215539470849288572"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29D8C.png')"><b>❌</b></i></tg-emoji> <b>Нашли ошибку в контракте – как ее исправить?</b><br/><br/>Может ли поставщик что-то изменить в контракте по 44-ФЗ перед подписанием?<br/><br/>Если речь идет об изменении существенных условий – то нет. Контракт надо изучать перед подачей заявки. Но если в финальной его версии появились ошибки или неточности – их надо исправить, и только потом подписывать.<br/><br/>Для таких случаев существует протокол разногласий. Как и в какие сроки его можно подать, какие исправления можно вносить, а какие нет – рассказали <a href="https://tenderplan.ru/blog/protokol-raznoglasiy-po-44fz/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">в статье.</a><br/><br/><tg-emoji emoji-id="5357171364669187802"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E298BA.png')"><b>☺️</b></i></tg-emoji><a href="https://telegram.me/tenderplan" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"> Telegram</a> | <a href="https://vk.com/tenderplan" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">VК</a> |<a href="https://max.ru/id7325121949_biz" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b> </b>MAX</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/tenderplan/1486</guid>
-      <pubDate>Fri, 02 Oct 2026 09:05:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>📉</title>
-      <link>https://telegram.me/tenderplan/1480</link>
-      <description>📉
- 
-Убытки в тендерах — что делать, если тендер уходит в минус
-
-Победа в тендере — это важный этап, но настоящая работа начинается после подписания контракта. Именно на стадии исполнения важно убедиться, что сделка будет прибыльной.
-
-Иногда в процесс вмешиваются факторы, которые не были учтены при первичном расчете: изменение цен поставщика, логистические нюансы или дополнительные издержки. По отдельности они могут казаться незначительными, но вместе способны снизить маржу, а иногда даже сделать исполнение тендера невыгодным.
-
-Почему контракт становится убыточным, что делать, если победа уже случилась, и как заранее застраховать себя от убыточных тендеров — разобрали в карточках
-⬆️
-
-#тендеры_с_нуля
-
-☺️
- Telegram
- | 
-VК
- |
- 
-MAX</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/oMjnYrwxkAJTIBO9pmNn2rbtoSPpsNYTCNPojXsJJbf5p4ndUvCNmLNGQ5HUAdZe2y553-1F6bOq4Z9wKQQY6hOduQgM32NBRi89FPy3fYevjIT74MbWUkw8leG7nNzJS34qrORj0HpJqBs26DJUou_QQgSQeOp_4rx3p0M_qkGywvAXDA8H38d8Dj0y5zkT7Pmdla2FJci6tjGJ7topcG1sTlAreiqdOPsOI0TLWuOpdbeuPQ-AxLU8MOi0SW5tcXxi7JIuWOzoO_OMw8MFAj4bE95sLEqKW6OTPfRYVdP1KVF3S896QP7zwCjsw8vCEA6Hiv5Az9wERGRdOBFGdQ.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/BxzljP9OMVAkdPTviEG9H7XD3VGx5nMMpATZb2vAUXN0FZKrdtHvQgtIK1LzaKsJgQ1R9kAfXiEt17N3eiPWXh-ZNHZuLF39pVUZIrYZojFkOxFzEmIjXOS1EjCHy_jeGVk63ebRTVz2aiZMpf6_MQ4l03xaGoxFWOArqNadvvNxpLJFCycxBuyb4t8VLEsNwcTi0B6G8nwpRDXQJzCJ45zny6MqO4L1bypC6C68oNuu80WQ0PNj0sBW2OPPcsH5-sb92tz3kpnZwasAhj-LUz8TMTcuCcaFDB1Cu_c03lv1yxs9VkRrFHDEhjA5PF5muVIGbiC02hgpwvEXvJU00w.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/i1YT7Lal_9_AJEifHemc_iaNmJOJ8nd1prJyATZ5FoaNPSBKSkdjW95FPpsNaUPQhJL3rokYVjAShw_VzsKTC7LAAffa9gfyuO9czxqkf-qVcDOYEDzYLt7HZF8NFdEKNV4DwwCKpqzp8Byowqrk0aKHiTbkEPyBmNf9iTkbgnkg2zqadqN2M04Xbd7yvPG_22ZLqKnkkpiNFUW6bIysYu8wGUF2-tuW0UDZFw_i_V7gEL0PuXWf9JqHdUMQf4FUyGNp352yDiM8lAvNs7KDzAMIVu7oWNvl8O8Kv7KQzDScyTmS0q0aAp9cY0DTaDq089PqsOwIswZ4ALE6-itJBA.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/N5ghBSo6W4-QRdp8VM0d8_yjxn0CkSBoSY_nAFfMi-DIivb68OWFNc1nBzibe0pANgAAsk0-7sV4ttlJZcrdPOPMHg4zvZb7rf9Zm4Zwf2kncxyQqthwVa5Oxum-50H0Ep1uzJv3tFHXMRseG0P63sDtWYfTNBFdGdIAZgdMpbsRCHK1zqH88auzDO7SuGZell1_v6MRYBaXgefAz7W-fKOPbEvzgvW0n465tFONDW2ceK4Orq1au3_Vg9VMSW1dp_DnBx9rLuqG247reToPAofuqPdPnvEuvwRIkDJUYEQnCQSCmQWre4cVoUi2sr_NvEP36aB1Ikk-e-q-ZUou8Q.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/kykNlQIExPo-ufspGPzE1rJG49PwdLpo5QJqkmx8qm4F8JnzthHvVjG0OOkwavzZ0asaEOz-dvCnnPzrK1vC9PBSd1SXzzEw9wh59jIF_ttkayWlrJrLaecdFkIq9IV5gmkt9tAgMT5Otnz63S-Ussddza1SpfamXoYcEHfB68YiTZ27DBOd3MDCB5wN1KO5T9SUcZsS1VTqtsduWsBPsMjR77k10QblnjnZ8efpGkg32TYCYiertPiuatlteJdjoo0ldwb5bO2OQXxguNB8_7LyDClFtTAjQBhggMQaZHqLKLGZKCoEJ1KDnadHCJkehoJq1WI-J9hWlf3l7Zy1-w.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/PKasIVV6GZ1caJ_hft06AFRVY3xN28KodYgBDAxYfFIOppwGnMgPGdpG-EwcTDKfsGABCJsDUq8j3nbuhDHDgF8Wzdv_smLoQHDFLr2SdAa-zYnB3p0OQqvlwLNA9XduiePQbuQCgtAAsC3zBOD-byZOr_KcHqLiWUvb9R4iEXAhDTqsYVb-NMpuyXSBydpLW2QDDwwjDXm03VVe7dhJAykzYw4aFX8SJScQBzjdC9Iksm-VnHznIP_5E9ZeCPMz5jbc2KgaZKbsYAWk0KKPt06Ims7KoQ1ynyg8QnO_qMIzK-zOOtmdxtyviCrvnQpKr-MHMCcuuWV2jtQIW11UrQ.jpg" /></p>
-<tg-emoji emoji-id="5429518319243775957"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9389.png')"><b>📉</b></i></tg-emoji> <b>Убытки в тендерах — что делать, если тендер уходит в минус</b><br/><br/>Победа в тендере — это важный этап, но настоящая работа начинается после подписания контракта. Именно на стадии исполнения важно убедиться, что сделка будет прибыльной.<br/><br/>Иногда в процесс вмешиваются факторы, которые не были учтены при первичном расчете: изменение цен поставщика, логистические нюансы или дополнительные издержки. По отдельности они могут казаться незначительными, но вместе способны снизить маржу, а иногда даже сделать исполнение тендера невыгодным.<br/><br/>Почему контракт становится убыточным, что делать, если победа уже случилась, и как заранее застраховать себя от убыточных тендеров — разобрали в карточках<tg-emoji emoji-id="5345998359435950438"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E2AC86.png')"><b>⬆️</b></i></tg-emoji><br/><br/><a href="?q=%23%D1%82%D0%B5%D0%BD%D0%B4%D0%B5%D1%80%D1%8B_%D1%81_%D0%BD%D1%83%D0%BB%D1%8F">#тендеры_с_нуля</a><br/><br/><tg-emoji emoji-id="5357171364669187802"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E298BA.png')"><b>☺️</b></i></tg-emoji><a href="https://telegram.me/tenderplan" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"> Telegram</a> | <a href="https://vk.com/tenderplan" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">VК</a> |<a href="https://max.ru/id7325121949_biz" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b> </b>MAX</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/tenderplan/1480</guid>
-      <pubDate>Wed, 30 Sep 2026 09:13:01 +0000</pubDate>
+      <content:encoded><![CDATA[<tg-emoji emoji-id="5339139919434498721"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29A99.png')"><b>⚙️</b></i></tg-emoji> <b>Авансирование контрактов на поставку промышленных товаров продлили</b><br/><br/>Правительство РФ выпустило <a href="http://publication.pravo.gov.ru/document/0001202609300040" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Постановление от 26.09.2026 №1243</a> о продлении требований об обязательном авансировании государственных контрактов на поставку промышленных товаров.<br/><br/><b>Что изменилось?</b><br/>Правило об авансе в размере <b>не менее 80% от цены контракта</b> теперь действует <b>до конца 2030 года.</b><br/><br/>Кроме того, расширен перечень промышленных товаров, при закупке которых заказчики обязаны предоставлять аванс. В него включены:<br/><tg-emoji emoji-id="5472123780639769827"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')"><b>🔻</b></i></tg-emoji>промышленные роботы и роботизированные комплексы;<br/><tg-emoji emoji-id="5472123780639769827"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')"><b>🔻</b></i></tg-emoji>станки для обработки металлов, камня и дерева;<br/><tg-emoji emoji-id="5472123780639769827"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')"><b>🔻</b></i></tg-emoji>3D-сканеры и аддитивные установки;<br/><tg-emoji emoji-id="5472123780639769827"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')"><b>🔻</b></i></tg-emoji>подъемно-транспортное оборудование (краны, конвейеры, лифты);<br/><tg-emoji emoji-id="5472123780639769827"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')"><b>🔻</b></i></tg-emoji>лазеры и оборудование для газотермического напыления;<br/><tg-emoji emoji-id="5472123780639769827"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')"><b>🔻</b></i></tg-emoji>ручной электроинструмент и оборудование для пайки;<br/><tg-emoji emoji-id="5472123780639769827"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')"><b>🔻</b></i></tg-emoji>жернова, точильные камни, шлифовальные круги.<br/><br/><b>Что это значит для поставщиков?</b><br/>Все поставщики, работающие с товарами из расширенного перечня, теперь могут рассчитывать на гарантированную предоплату 80% при работе с федеральными заказчиками. Это означает:<br/><tg-emoji emoji-id="5472123780639769827"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')"><b>🔻</b></i></tg-emoji>наличие оборотных средств на закупку материалов и комплектующих до начала исполнения контракта;<br/><tg-emoji emoji-id="5472123780639769827"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')"><b>🔻</b></i></tg-emoji>снижение финансовой нагрузки при работе с крупными промышленными заказами;<br/><tg-emoji emoji-id="5472123780639769827"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')"><b>🔻</b></i></tg-emoji>возможность планировать производство без необходимости замораживать собственные средства.<br/><br/><b>Важно: </b>чтобы определить, попадает ли ваш товар под это правило, необходимо сверить его код по Общероссийскому классификатору продукции по видам экономической деятельности (ОК 034-2014 / КПЕС 2008). Полный перечень товаров с соответствующими кодами содержится в таблице Приложения №1 к Постановлению.<br/><br/>Новшества вступили в силу 30 сентября 2026 года и распространяются на закупки, извещения о которых размещены после этой даты.<br/><br/><a href="?q=%23%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_%D1%82%D0%B5%D0%BD%D0%B4%D0%B5%D1%80%D0%BE%D0%B2">#новости_тендеров</a><br/><br/><tg-emoji emoji-id="5357171364669187802"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E298BA.png')"><b>☺️</b></i></tg-emoji><a href="https://telegram.me/tenderplan" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"> Telegram</a> | <a href="https://vk.com/tenderplan" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">VК</a> |<a href="https://max.ru/id7325121949_biz" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b> </b>MAX</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/tenderplan/1487</guid>
+      <pubDate>Mon, 05 Oct 2026 09:17:01 +0000</pubDate>
     </item>
   </channel>
 </rss>

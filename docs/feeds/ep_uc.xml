@@ -8,271 +8,88 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 02 Oct 2026 11:12:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 12:26:36 +0000</lastBuildDate>
     <item>
-      <title>Пост — Об ЭП и УЦ</title>
-      <link>https://telegram.me/ep_uc/5651</link>
-      <description>Пост — Об ЭП и УЦ</description>
-      <content:encoded><![CDATA[(нет текста)]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5651</guid>
-      <pubDate>Fri, 02 Oct 2026 05:25:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>8 октября</title>
-      <link>https://telegram.me/ep_uc/5649</link>
-      <description>8 октября 
-(чт) 
-в 11:00
- мск приглашаем вас на вебинар компании ELMA 
-«CRM + Логистика»
+      <title>✍️</title>
+      <link>https://telegram.me/ep_uc/5669</link>
+      <description>✍️
+ГОСТ сертификаты НУЦ: зазор есть, CT-логов нет
+
+С нашим каналом своим экспертным комментарием поделился Николай Лобанов, автор канала 
+"На стадии обсуждения"
+. Николай 
+также направлял
+ свои предложения к проекту приказа Минцифры о требованиях к сертификатам безопасности.
+
+Минцифры обработало мои предложения к 
+проекту приказа о требованиях к сертификатам безопасности НУЦ
+. Кроме типового "Документ приведен в соответствие с требованиями законодательства РФ", в ответе нашлось одно место по существу, про журналы прозрачности:
+
+Гост сертификаты выпускаются через воздушный зазор. У подсистемы ГОСТ нету доступа к публичным логам.
+
+Что в проекте. DV и OV сертификаты на RSA должны содержать три SCT-метки, то есть пресертификат учитывается в CT-логе до выдачи (п. 117 и 169 приложения 1, дополнение 1.3.6.1.4.1.11129.2.4.2). В профилях DV и OV на ГОСТ такого требования нет.
+
+Зачем это владельцу домена. По CT-логу он видит сертификат, выпущенный на его домен без его ведома (
+RFC 6962
+, раздел 1). Если ГОСТ сертификаты НУЦ в логи не попадают, такой сертификат он не увидит.
+
+Почему зазор не довод. Встроить SCT-метку он действительно мешает: для этого пресертификат должен уйти в лог и вернуться с меткой до выдачи. Но учесть сертификат в логе можно и после выдачи, подать его туда может кто угодно (раздел 3.1 того же RFC). Выданный сертификат всё равно выходит из закрытого контура к владельцу. Тем же путём он может уйти и в лог.
+
+Какой лог его примет, отдельный вопрос: лог проверяет подпись цепочки и принимает только цепочки до корней из своего опубликованного списка (там же). Поэтому я предлагал, чтобы журнал вёл сам НУЦ или определённый им российский оператор, а сведения о журналах были записаны в порядке выдачи сертификатов.
+
+Ответ на это: "Предложения указанные в приложении будут учитываться при развитии". Статус: Частично учтено.
+
+Тема воздушного зазора актуальна не только в деятельности НУЦ, но и для АУЦ.
+
+Аккредитованный УЦ должен включить в Регламент перечень аппаратных средств, которые запрещается подключать к сетям общего пользования.
+
+- из 
+презентации PKI-Форума 2017
 .
 
-Продажи состоялись, товар отгружен, клиент доволен. Но деньги на счёт так и не поступили.
-
-Причина часто кроется не в самих продажах, а в процессах после сделки: документы подписываются с задержкой, менеджеры вручную контролируют возврат первички, логистика и продажи работают в разных системах, а дебиторская задолженность продолжает расти.
-
-На вебинаре покажем, 
-как объединить CRM, логистику и документооборот в единый процесс
-, чтобы менеджеры занимались продажами, а не поиском документов и контролем подписания. 
-
-📌
- Разберём, как интеграция помогает сократить операционные затраты, ускорить получение закрывающих документов и снизить риски кассовых разрывов.  
-
-Присоединяйтесь,будет полезно и интересно!
-
-Подробнее о вебинаре и регистрация 
- 
-◀️
-
-erid: 2SDnjePKnZh</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/LPYFbEWITx6tFI-uKfbVhsh72YxevZC0HvKk4jLWUP6fERK3fzG8i5hzTN0Qv6hMvlojYeEqVyjoFH3gINbT91yWS-XUCC5fKO3H54r6-FKiaxC4_vtehAJ-23Xo6mGp2o0SOSoPIgNroZlEYhosgqgvi2LcC2cGgufH7x6cO0TF_EeesA4yuYlDI0ddHZ5-W-yZjGd0Sq1bJGB9eaUQO0kdB68xb5FpZp50yqumqtUdd-Cqsn2F8cgese8TUPg6GmGmaO23eOCRVh1yMsHDY6-tDHHxAlGbAmywNXqk_a-Y-hV3RaQDwXclZ_uSvPh8YN0Srjjo8V9MWMKn7D7LGA.jpg" /></p>
-<b>8 октября </b>(чт) <b>в 11:00</b> мск приглашаем вас на вебинар компании ELMA <a href="https://elma365.com/ru/webinars/crm-i-logistica/?utm_source=tg&amp;amp;utm_medium=ep_uc&amp;amp;utm_campaign=webinar_081026" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><u>«CRM + Логистика»</u></a><b>.<br/><br/></b>Продажи состоялись, товар отгружен, клиент доволен. Но деньги на счёт так и не поступили.<br/><br/>Причина часто кроется не в самих продажах, а в процессах после сделки: документы подписываются с задержкой, менеджеры вручную контролируют возврат первички, логистика и продажи работают в разных системах, а дебиторская задолженность продолжает расти.<b><br/><br/></b>На вебинаре покажем, <b>как объединить CRM, логистику и документооборот в единый процесс</b>, чтобы менеджеры занимались продажами, а не поиском документов и контролем подписания. <br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938C.png')"><b>📌</b></i> Разберём, как интеграция помогает сократить операционные затраты, ускорить получение закрывающих документов и снизить риски кассовых разрывов.  <br/><br/>Присоединяйтесь,будет полезно и интересно!<br/><br/><a href="https://elma365.com/ru/webinars/crm-i-logistica/?utm_source=tg&amp;amp;utm_medium=ep_uc&amp;amp;utm_campaign=webinar_081026" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><u>Подробнее о вебинаре и регистрация </u></a> <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29780.png')"><b>◀️</b></i><br/><br/><i>erid: 2SDnjePKnZh</i>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5649</guid>
-      <pubDate>Thu, 01 Oct 2026 14:12:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>📣</title>
-      <link>https://telegram.me/ep_uc/5648</link>
-      <description>📣
-Подборка самых важных новостей о сфере электронной подписи от нашего канала по итогам сентября 2026 года
- 
-
-1⃣
- Количество аккредитованных УЦ сократилось до 43 шт. продлена аккредитация 
-УЦ Тандер (Магнит), Энергоцентр
-, 
-Компания Тензор
-, прекращена аккредитация 
-УЦ Тензор
-
-2⃣
- Внесены 
-изменения в постановление
- о лицензировании деятельности в области СКЗИ 
-
-3⃣
- В Санкт-Петербурге прошел 
-PKI-Форум 2026
-
-4⃣
- 
-Статистика НУЦ
- за 2022-2026 гг.
-
-5⃣
- Для общественного обсуждения размещен 
-законопроект Антифрод 3.0
-
-6⃣
- Опубликован 
-протокол второго заседания
- Экспертного совета Минцифры по вопросам электронной подписи
-
-7⃣
- ФСБ России
- согласовано техническое задание
- на СКЗИ «КриптоПро CSP» версии 6.0
-
-8⃣
- Вышла промежуточная версия 
-КриптоПро CSP 5.0 R4
- (сборка 5.0.13820 Zeus)
-
-9⃣
- Завершено
- общественное обсуждение 
-проекта приказа Минцифры о требованиях к сертификатам НУЦ, 
-постановления о случаях
- прекращения действия сертификатов
-
-🔟
- Подписан 
-приказ Минцифры от 01.09.2026 № 834
- по аккредитации доверенной третьей стороны
-
-1⃣
-1⃣
- 
-Требования СФР
- к квалифицированным сертификатам с 01.09.2026
-
-1⃣
-2⃣
- Стартовал 
-эксперимент Минтруда
- по подписанию кадровых документов
-
-1⃣
-3⃣
- 
-Операторы мобильной связи получили право 
-создавать и выдавать ключи простой электронной подписи для получения Госуслуг
-
-1⃣
-4⃣
- Анонсирована 
-Айдентити Конф 2026 
-в Москве 7 октября
-
-1⃣
-5⃣
- Судебная практика:
- фокус с передачей
- ключа электронной подписи, 
-код из СМС
- не идентифицирует подписанта, 
-"ключ под контролем хакера"
- или "а был ли взлом?, 
-дело о "неподписанном" договоре
+Воздушный зазор между центром регистрации и центром сертификации, на флешке в одну сторону передаются файлы запросов на сертификаты, а в другую файлы сертификатов и CRL (однонаправленный шлюз не предлагать). Если бы это нашло применение на практике, то удалось бы АУЦ выйти на текущий уровень автоматизации выдачи сертификатов - около 70 тыс. в сутки?
 
 ✍️
-5 лет исполнилось
- телеграм-каналу 
-«Об ЭП и УЦ»
-🎉</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/okODf956E0kPutzi_O3a8864bTE_EgVSf76uno12uiC2SbtoHEIX_R5Xy_t7v7Ooox0eNqfVYpFLjRE_t23qQ_pHPHmb7pfmrrLeoYY5aBBD5SG2SU4hVAurFWT-54qD2_MtAePckU6yZ90g_peSgt3u4hkbFTGxmk5wgRqHTHJk45QI96egAyK3F6NdEAOT31uNBB7CgAgqtIICKRRBIi6ZLuW5QW2WdTVucLrBBp2MnB57toE0MyNKkDBhwec2J0m_wes_zjr3D8SUkbEdInGm3ZIpTLNx2Wla9fNICOZg-xgkurG3FcvNkeJMuDDUaMFZyEVqMwvfi_2yq4SHRw.jpg" /></p>
-<b><tg-emoji emoji-id="5469903029144657419"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93A3.png')"><b>📣</b></i></tg-emoji></b><b>Подборка самых важных новостей о сфере электронной подписи от нашего канала по итогам сентября 2026 года</b> <br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/31E283A3.png')"><b>1⃣</b></i> Количество аккредитованных УЦ сократилось до 43 шт. продлена аккредитация <a href="https://telegram.me/ep_uc/5486" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">УЦ Тандер (Магнит), Энергоцентр</a>, <a href="https://telegram.me/ep_uc/5595" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Компания Тензор</a>, прекращена аккредитация <a href="https://telegram.me/ep_uc/5637" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">УЦ Тензор</a><br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/32E283A3.png')"><b>2⃣</b></i> Внесены <a href="https://telegram.me/ep_uc/5519" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">изменения в постановление</a> о лицензировании деятельности в области СКЗИ <br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/33E283A3.png')"><b>3⃣</b></i> В Санкт-Петербурге прошел <a href="https://telegram.me/ep_uc/5578" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">PKI-Форум 2026</a><br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/34E283A3.png')"><b>4⃣</b></i> <a href="https://telegram.me/ep_uc/5617" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Статистика НУЦ</a> за 2022-2026 гг.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/35E283A3.png')"><b>5⃣</b></i> Для общественного обсуждения размещен <a href="https://telegram.me/ep_uc/5643" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">законопроект Антифрод 3.0</a><br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/36E283A3.png')"><b>6⃣</b></i> Опубликован <a href="https://telegram.me/ep_uc/5591" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">протокол второго заседания</a> Экспертного совета Минцифры по вопросам электронной подписи<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/37E283A3.png')"><b>7⃣</b></i> ФСБ России<a href="https://telegram.me/ep_uc/5474" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"> согласовано техническое задание</a> на СКЗИ «КриптоПро CSP» версии 6.0<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/38E283A3.png')"><b>8⃣</b></i> Вышла промежуточная версия <a href="https://telegram.me/ep_uc/5644" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">КриптоПро CSP 5.0 R4</a> (сборка 5.0.13820 Zeus)<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/39E283A3.png')"><b>9⃣</b></i> Завершено<a href="https://telegram.me/ep_uc/5455" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"> общественное обсуждение </a>проекта приказа Минцифры о требованиях к сертификатам НУЦ, <a href="https://telegram.me/ep_uc/5529" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">постановления о случаях</a> прекращения действия сертификатов<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F949F.png')"><b>🔟</b></i> Подписан <a href="https://telegram.me/ep_uc/5535" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">приказ Минцифры от 01.09.2026 № 834</a> по аккредитации доверенной третьей стороны<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/31E283A3.png')"><b>1⃣</b></i><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/31E283A3.png')"><b>1⃣</b></i> <a href="https://telegram.me/ep_uc/5605" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Требования СФР</a> к квалифицированным сертификатам с 01.09.2026<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/31E283A3.png')"><b>1⃣</b></i><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/32E283A3.png')"><b>2⃣</b></i> Стартовал <a href="https://telegram.me/ep_uc/5640" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">эксперимент Минтруда</a> по подписанию кадровых документов<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/31E283A3.png')"><b>1⃣</b></i><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/33E283A3.png')"><b>3⃣</b></i> <a href="https://telegram.me/ep_uc/5607" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Операторы мобильной связи получили право </a>создавать и выдавать ключи простой электронной подписи для получения Госуслуг<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/31E283A3.png')"><b>1⃣</b></i><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/34E283A3.png')"><b>4⃣</b></i> Анонсирована <a href="https://telegram.me/ep_uc/5634" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Айдентити Конф 2026 </a>в Москве 7 октября<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/31E283A3.png')"><b>1⃣</b></i><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/35E283A3.png')"><b>5⃣</b></i> Судебная практика:<a href="https://telegram.me/ep_uc/5518" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"> фокус с передачей</a> ключа электронной подписи, <a href="https://telegram.me/ep_uc/5532" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">код из СМС</a> не идентифицирует подписанта, <a href="https://telegram.me/ep_uc/5610" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"ключ под контролем хакера"</a> или "а был ли взлом?, <a href="https://telegram.me/ep_uc/5614" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">дело о "неподписанном" договоре</a><br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc/5587" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">5 лет исполнилось</a> телеграм-каналу <a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">«Об ЭП и УЦ»</a><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8E89.png')"><b>🎉</b></i>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5648</guid>
-      <pubDate>Thu, 01 Oct 2026 05:15:27 +0000</pubDate>
+Об ЭП и УЦ</description>
+      <content:encoded><![CDATA[<tg-emoji emoji-id="5470060791883374114"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><b>ГОСТ сертификаты НУЦ: зазор есть, CT-логов нет</b><br/><br/>С нашим каналом своим экспертным комментарием поделился Николай Лобанов, автор канала <a href="http://t.me/na_stadii" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"На стадии обсуждения"</a>. Николай <a href="https://telegram.me/ep_uc/5668?single" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">также направлял</a> свои предложения к проекту приказа Минцифры о требованиях к сертификатам безопасности.<br/><blockquote>Минцифры обработало мои предложения к <a href="http://regulation.gov.ru/projects/170667" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">проекту приказа о требованиях к сертификатам безопасности НУЦ</a>. Кроме типового "Документ приведен в соответствие с требованиями законодательства РФ", в ответе нашлось одно место по существу, про журналы прозрачности:<br/><br/>Гост сертификаты выпускаются через воздушный зазор. У подсистемы ГОСТ нету доступа к публичным логам.<br/><br/>Что в проекте. DV и OV сертификаты на RSA должны содержать три SCT-метки, то есть пресертификат учитывается в CT-логе до выдачи (п. 117 и 169 приложения 1, дополнение 1.3.6.1.4.1.11129.2.4.2). В профилях DV и OV на ГОСТ такого требования нет.<br/><br/>Зачем это владельцу домена. По CT-логу он видит сертификат, выпущенный на его домен без его ведома (<a href="http://rfc-editor.org/rfc/rfc6962" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">RFC 6962</a>, раздел 1). Если ГОСТ сертификаты НУЦ в логи не попадают, такой сертификат он не увидит.<br/><br/>Почему зазор не довод. Встроить SCT-метку он действительно мешает: для этого пресертификат должен уйти в лог и вернуться с меткой до выдачи. Но учесть сертификат в логе можно и после выдачи, подать его туда может кто угодно (раздел 3.1 того же RFC). Выданный сертификат всё равно выходит из закрытого контура к владельцу. Тем же путём он может уйти и в лог.<br/><br/>Какой лог его примет, отдельный вопрос: лог проверяет подпись цепочки и принимает только цепочки до корней из своего опубликованного списка (там же). Поэтому я предлагал, чтобы журнал вёл сам НУЦ или определённый им российский оператор, а сведения о журналах были записаны в порядке выдачи сертификатов.<br/><br/>Ответ на это: "Предложения указанные в приложении будут учитываться при развитии". Статус: Частично учтено.<br/></blockquote>Тема воздушного зазора актуальна не только в деятельности НУЦ, но и для АУЦ.<br/><blockquote>Аккредитованный УЦ должен включить в Регламент перечень аппаратных средств, которые запрещается подключать к сетям общего пользования.</blockquote><br/>- из <a href="https://archive.pki-forum.ru/files/files/2017/04_Aristarkhov.pdf" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">презентации PKI-Форума 2017</a>.<br/><br/>Воздушный зазор между центром регистрации и центром сертификации, на флешке в одну сторону передаются файлы запросов на сертификаты, а в другую файлы сертификатов и CRL (однонаправленный шлюз не предлагать). Если бы это нашло применение на практике, то удалось бы АУЦ выйти на текущий уровень автоматизации выдачи сертификатов - около 70 тыс. в сутки?<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Об ЭП и УЦ</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5669</guid>
+      <pubDate>Mon, 05 Oct 2026 05:18:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>✍️</title>
+      <link>https://telegram.me/ep_uc/5666</link>
+      <description>✍️
+Второй проект НПА о НУЦ   Минцифры России во исполнение пункта 18 плана-графика подготовки нормативных правовых актов, необходимых для реализации норм 210-ФЗ, сегодня размещён проект приказа  "Об утверждении требований к сертификатам безопасности национального…</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/hEsO_Wd9kD09FwKaStaJeTGi8oKsmHMdraxXnoT_70W2AUCgy-lIH3nz2pjtFoZEQBKZGAlGTPjnOMkJNIwGKqwzuso5s5LBZCYgYGKyhwu1lzU0Rd3VYhWp3KwAkwCcXHjwXrX0PJHeeDF9BZIuCiX-m4dYgazE1IOw0vSMwhF6qL3YkpMGXxgBceiSVGnCiKtgPL80QPb-T9OQ1c4uFxNFpENAi5K93NgFMhDH-_OicFwICbfDUOV8LX0mAfzjv2R3cFUbNI1jL0_3jJ_9CbmtNA_IBBpPWFUmxvW2qTin-h4rSp1_GsWYZAsgLJS4BIS-iffLFTV6mORUyiOmBg.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/hwo-EmZsMbqWFaQ_WzqmJEa-iDoChsJb_qZK_cYkudmJrsFxJqUicHWWIOjXDCN8pCIN7Hdtk0d86yYMZaRxBNZC5-MtMb29B6hMUoRJCIupGkFnsyZU3dlSRFAkDGCvp_mfXIG_RQ6sdAaX_P58hafXvl3s9p-3F0xc3WHLMWWghwuXf01T47eaaODyYMXAwj78KnF0Ad07-1CiTJORlQ8rIdfus06TYs8T-38ogyD62G6Q0-hv5-Tq-6uNkGqecfOFAg6v-6uffWS0x72WMzi9ZzbEN-HrCZ17Ecsr5y_OmYjHncyq3y9wHt8r94uIy5QtRM0l7P5dEj1yiWZ8JA.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/uR6rMoPpc3IbvxDb5tuJh9MFwAf4ADHGEJOm6HbBwhXL1Zr4UwP2zmY-Jo-leBiDLxxL-44PEU5TMwcVzA9kVpt-GyOWVuN59NK8E0mqkJQ95u6c6wOxoa64Dc2vlwfgP5svCFGnL07tD7m5GDTGwmCv_8_OyCT2ICRG7rTi06nXS-rQSifTHa9GDTROCidsDbVV5PHVar2SbXFWhDdZK9MAXgv8s6lCrAPwrflP_gXb8LvwoMMhEDYYlCmlYZWHYcl8hvo0A4Khc1dQIUOP58Gdsbv1kqwEiQpDZGRgVwJj6woXUn5AvAip7exi6C7YESLjP5eLHJNyL2btpPMBNg.jpg" /></p>
+<tg-emoji emoji-id="5470060791883374114"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji>Второй проект НПА о НУЦ   Минцифры России во исполнение пункта 18 плана-графика подготовки нормативных правовых актов, необходимых для реализации норм 210-ФЗ, сегодня размещён проект приказа  "Об утверждении требований к сертификатам безопасности национального…]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5666</guid>
+      <pubDate>Sun, 04 Oct 2026 05:50:10 +0000</pubDate>
     </item>
     <item>
       <title>Пост — Об ЭП и УЦ</title>
-      <link>https://telegram.me/ep_uc/5647</link>
+      <link>https://telegram.me/ep_uc/5660</link>
       <description>Пост — Об ЭП и УЦ</description>
       <content:encoded><![CDATA[(нет текста)]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5647</guid>
-      <pubDate>Wed, 30 Sep 2026 17:18:52 +0000</pubDate>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5660</guid>
+      <pubDate>Sat, 03 Oct 2026 06:11:10 +0000</pubDate>
     </item>
     <item>
-      <title>🖼 Фото — Об ЭП и УЦ</title>
-      <link>https://telegram.me/ep_uc/5645</link>
-      <description>🖼 Фото — Об ЭП и УЦ</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/fgIvkh3sl0ulyVcM1hhBVN3LblpUA4QbTKFZ7cOLg00N2XmLcxQ79LpsXLL64e0qGtK-7H2JK0ZrZn8SFbHQmBXa_lIvDlsLVSHjjKUL_OMEdnAaaJu5MXmLlnv5ufaXtQTaFzR32BgpCBippZGoskSUJAznOSpIrhlMd-RNw913l3-N7zYrI6rTxywB6jiaki5CwcUpcTxn_j1YWTSGDLjHD7ZtUtdxDknnpW6wL0kinTEC29kwB_NF1gDSFXmIgpY1ibejOF__hKm8KeXMZOK5gxp1SW5Ocoo1yanh1NlhL4diAbwZ8vFTW_1lE9uLtDvIRjsBDjVMLNeumgIJqg.jpg" /></p>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5645</guid>
-      <pubDate>Wed, 30 Sep 2026 17:15:28 +0000</pubDate>
+      <title>Распоряжением Коллегии ЕЭК от 28.04.2026 № 57 внесены изменения в состав межведомственной рабочей…</title>
+      <link>https://telegram.me/ep_uc/5659</link>
+      <description>Распоряжением Коллегии ЕЭК от 28.04.2026 № 57 внесены изменения в состав межведомственной рабочей группы по взаимному признанию электронной цифровой подписи. От нашей страны в состав вошли представители Ростелекома, Минэка, Минцифры, Гостеха.  Статус по ЕАЭС:…</description>
+      <content:encoded><![CDATA[Распоряжением Коллегии ЕЭК от 28.04.2026 № 57 внесены изменения в состав межведомственной рабочей группы по взаимному признанию электронной цифровой подписи. От нашей страны в состав вошли представители Ростелекома, Минэка, Минцифры, Гостеха.  Статус по ЕАЭС:…]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5659</guid>
+      <pubDate>Sat, 03 Oct 2026 05:16:28 +0000</pubDate>
     </item>
     <item>
-      <title>Вышла промежуточная версия</title>
-      <link>https://telegram.me/ep_uc/5644</link>
-      <description>Вышла промежуточная версия
- КриптоПро CSP 5.0 R4 (сборка 5.0.13820 Zeus)
-. 
-Список изменений и ссылки на скачивание
-. Из интересного:
-
-🔹
- экспериментальная поддержка квантово-устойчивой подписи Гиперикум
-
-🔹
- curl обновлён до версии 8.21.0
-
-🔹
- nginx обновлён до 1.30.2
-
-🔹
- поддержали тикеты сессий в сервере TLS 1.3</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/lGCHH-IB6hol5yvOeneFHGhBhEkrFJXBzs4DnGtLgdZu1sLRB9CRWM38mLx25_f47Zdr9HJz-M1rEyrnsb82eWhnwLO-XSlll_JoI8JOjHbmwgFf0fQI0CX0cYFbWbCR162LZi6YiFEZqkl37bqBmIHVXWlsPpF4-V2ilAyUt_r3Ebyqzw2qI1OAoTntvFmA_oYrQMeeTWi1vkeplDJ60tOFnQ04RSkoZUHRE2J0CQbl2jjaTWQM1SiNjxrpRsdBjhf7OsEcw23pJHMk3u2cg473XVo9NGb_YUMW76yf1nJrJtjOUureuetiRTwSd5UXATggY_ErtFJQaz8z2qNPHg.jpg" /></p>
-Вышла промежуточная версия<b> КриптоПро CSP 5.0 R4 (сборка 5.0.13820 Zeus)</b>. <a href="https://cryptopro.ru/forum2/default.aspx?g=posts&amp;amp;m=158773#post158773" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Список изменений и ссылки на скачивание</a>. Из интересного:<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> экспериментальная поддержка квантово-устойчивой подписи Гиперикум<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> curl обновлён до версии 8.21.0<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> nginx обновлён до 1.30.2<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> поддержали тикеты сессий в сервере TLS 1.3]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5644</guid>
-      <pubDate>Wed, 30 Sep 2026 14:44:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Госдума не доверяет КЭП?  А какой ещё можно сделать вывод на такое замечание из заключения на зак…</title>
-      <link>https://telegram.me/ep_uc/5643</link>
-      <description>Госдума не доверяет КЭП?  А какой ещё можно сделать вывод на такое замечание из заключения на законопроект об Антифроде 2.0: В соответствии с пунктом 72 статьи 45 Федерального закона «О связи», снятие запрета на заключение договоров об оказании услуг подвижной…</description>
-      <content:encoded><![CDATA[Госдума не доверяет КЭП?  А какой ещё можно сделать вывод на такое замечание из заключения на законопроект об Антифроде 2.0: В соответствии с пунктом 72 статьи 45 Федерального закона «О связи», снятие запрета на заключение договоров об оказании услуг подвижной…]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5643</guid>
-      <pubDate>Wed, 30 Sep 2026 12:10:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>✍️</title>
-      <link>https://telegram.me/ep_uc/5641</link>
-      <description>✍️
-Сказки об электронной подписи 
-
-Какие только 
-сказки
- не придумают:
-
-Пока человек расписывается стилусом или пальцем, на устройстве в фоновом режиме инициируется сложный криптографический процесс генерации неквалифицированной электронной подписи.
-
-Ладно переврали работу биоДСЧ, но эти новости цитируют уже разные 
-службы новостей
-, распространяя очередной миф о нашей сфере.
-
-Ничего из написанного:
-
-Как только цифровой идентификатор оказывается в руках преступников, счет идет на минуты. Используя полученный доступ, они дистанционно формируют генеральную доверенность, договор купли-продажи или договор дарения, подставляя в документы данные подконтрольных им черных риелторов.
-
-Зашифрованный пакет документов мгновенно уходит по электронным каналам в Росреестр. 
-Благодаря автоматизации государственных сервисов право собственности на квартиру переходит к новым владельцам в течение нескольких часов.
-
-не имеет отношения к электронной подписью, а является больной фантазией журналистов.
-
-✍️
-Об ЭП и УЦ</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/GXQIBblX0ymkN5mk32yiYbWB8YvPgMlut-j5mGM_S_vnTrOJu2-F5Iaf0Ido2kin9-DkoxXzVkqvoy-oeRJPAkuuxDQmV9FY9RaaVuemgvNNAj4NfgNImc8Q8kpmelRbPKnfXGBO7SmY96KZg5nZ6ukW_LU4azMRKFm6Yejb9mxCJjC6r-a4-B2yOmK6PBSOp0Q1mR-YBFQIU6R1Yv8B5nN-Y5KPCeRMiUCjKSvoVwtx3urnYeE4qz8RJ5LtJsratUxxgcm05KJCYlPFo0Lw1rUi3bspAwIiR9TorFoeNiQ4URUkfti-SgkJYo53LMxUsZI6MlncwNYYtrq4k51yzw.jpg" /></p>
-<tg-emoji emoji-id="5470060791883374114"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><b>Сказки об электронной подписи </b><br/><br/>Какие только <a href="https://dzen.ru/a/ars-XnGFCAuknXl9" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">сказки</a> не придумают:<br/><blockquote>Пока человек расписывается стилусом или пальцем, на устройстве в фоновом режиме инициируется сложный криптографический процесс генерации неквалифицированной электронной подписи.<br/><br/></blockquote>Ладно переврали работу биоДСЧ, но эти новости цитируют уже разные <a href="https://www.osnmedia.ru/obshhestvo/moshenniki-nachali-lishat-lyudej-zhilya-pod-vidom-proverki-schyotchikov/amp/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">службы новостей</a>, распространяя очередной миф о нашей сфере.<br/><br/>Ничего из написанного:<br/><blockquote>Как только цифровой идентификатор оказывается в руках преступников, счет идет на минуты. Используя полученный доступ, они дистанционно формируют генеральную доверенность, договор купли-продажи или договор дарения, подставляя в документы данные подконтрольных им черных риелторов.<br/><br/><b>Зашифрованный пакет документов мгновенно уходит по электронным каналам в Росреестр. </b>Благодаря автоматизации государственных сервисов право собственности на квартиру переходит к новым владельцам в течение нескольких часов.<br/><br/></blockquote>не имеет отношения к электронной подписью, а является больной фантазией журналистов.<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Об ЭП и УЦ</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5641</guid>
-      <pubDate>Wed, 30 Sep 2026 05:15:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>✍️</title>
-      <link>https://telegram.me/ep_uc/5640</link>
-      <description>✍️
-Эксперимент Минтруда по подписанию кадровых документов
-
-Минтруд до середины декабря проводит апробацию механизма подписания электронных кадровых документов с использованием 
-Скама
- многофункционального сервиса обмена информацией - приказ 
-Минтруда России от 17.09.2026 № 423.
-
-Этапы
-
-🔹
-21-28 сентября: сбор заявок от операторов ЭКДО, информирование о возможностях подписания.
-
-🔹
-29 сентября-29 октября: техническая доработка систем операторов и подача заявок от организаций (два спринта, должны успеть).
-
-🔹
-30 октября-15 ноября: Внедрение доработанного ПО и рекомендации по организации процесса.
-
-🔹
-16-30 ноября: сбор предложений по изменению нормативки и доработке функционала.
-
-🔹
-1-15 декабря: подведение Минтрудом итогов и формирование отчета.
-
-Нафига козе боян
- Для чего так усложнять процесс подписания кадровых документов НЕквалифицированной подписью - установи Госключ , получи НЭП, установи ещё одно непонятное приложение и найди там бот, ответа нет, но есть поручение - нужно выполнять. Вместо нормальной мобильной подписи - какие-то костыли, при этом подписание кадровых документов НЭП вполне может быть "облачной" технологией.
-
-✍️
-Об ЭП и УЦ</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/bz5xj0DvldQWLcYGvjXkHk6K5ylV50cHBwtsEjGkuROTJMxCZsNnsS4BoRe2YUfRcFckUC2mFZYkVjR5nho0ZZ479oOaxTJ5Pp5Q16hZ9DdUj2wz7mWN5dFHW0OjJvB04Zl_MM1bFTwuVnGVDvv2R8jkuZgmLnbGQgBxNAW2CG23Ffhy-1UM2fsx4Um-7CpI-249evutr2hmqI44xuAK24g3isWy0kngiEsC5j-IiJk7ZtNKAL7RAy6o-2F3i0hJDYKMpFs1rwDrs39GFsnP8uuSsZZmxgOLjsAtbfHuv61pb1neCf2MH33uQPAepMp8amG3f8hrL_uXDHt8xVlwvw.jpg" /></p>
-<tg-emoji emoji-id="5470060791883374114"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><b>Эксперимент Минтруда по подписанию кадровых документов</b><br/><br/>Минтруд до середины декабря проводит апробацию механизма подписания электронных кадровых документов с использованием <s>Скама</s> многофункционального сервиса обмена информацией - приказ <a href="https://mintrud.gov.ru/docs/mintrud/orders/3231" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Минтруда России от 17.09.2026 № 423.</a><br/><br/><b>Этапы</b><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>21-28 сентября: сбор заявок от операторов ЭКДО, информирование о возможностях подписания.<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>29 сентября-29 октября: техническая доработка систем операторов и подача заявок от организаций (два спринта, должны успеть).<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>30 октября-15 ноября: Внедрение доработанного ПО и рекомендации по организации процесса.<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>16-30 ноября: сбор предложений по изменению нормативки и доработке функционала.<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>1-15 декабря: подведение Минтрудом итогов и формирование отчета.<br/><br/><s>Нафига козе боян</s> Для чего так усложнять процесс подписания кадровых документов НЕквалифицированной подписью - установи Госключ , получи НЭП, установи ещё одно непонятное приложение и найди там бот, ответа нет, но есть поручение - нужно выполнять. Вместо нормальной мобильной подписи - какие-то костыли, при этом подписание кадровых документов НЭП вполне может быть "облачной" технологией.<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Об ЭП и УЦ</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5640</guid>
-      <pubDate>Tue, 29 Sep 2026 18:05:17 +0000</pubDate>
+      <title>Пост — Об ЭП и УЦ</title>
+      <link>https://telegram.me/ep_uc/5657</link>
+      <description>Пост — Об ЭП и УЦ</description>
+      <content:encoded><![CDATA[(нет текста)]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5657</guid>
+      <pubDate>Fri, 02 Oct 2026 16:43:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
