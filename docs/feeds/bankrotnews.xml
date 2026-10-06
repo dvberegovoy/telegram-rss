@@ -8,6 +8,44 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 05 Oct 2026 12:26:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 12:07:58 +0000</lastBuildDate>
+    <item>
+      <title>Новости</title>
+      <link>https://telegram.me/bankrotnews/1849</link>
+      <description>Новости 
+ПАУ
+
+Сегодня, 6 октября, вышел релиз 6.4
+
+В нём:
+
+·
+ Отправка запросов с помощью API Почты России
+
+· Отправка заявки на открытие счетов в банк
+
+· Автоматическая подготовка и отправка отчётов финансового управляющего
+
+· Автоматический учёт расходов из Ъ-публикатора
+
+· Подача сообщений о введении процедур в ЕФРСБ из одного окна
+
+· 
+Сведения об окончании процедуры
+
+· Добавление фото в лоты
+
+· Заявления на включение в РТК
+
+Подробно о всех изменениях — 
+https://russianit.ru/products/pau/version/64/
+
+🔻
+Скачать обновление 
+https://rsit.ru/#load-ama</description>
+      <content:encoded><![CDATA[<b>Новости </b><a href="https://russianit.ru/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b>ПАУ</b></a><br/><br/>Сегодня, 6 октября, вышел релиз 6.4<br/><br/>В нём:<br/><b>·</b> Отправка запросов с помощью API Почты России<br/>· Отправка заявки на открытие счетов в банк<br/>· Автоматическая подготовка и отправка отчётов финансового управляющего<br/>· Автоматический учёт расходов из Ъ-публикатора<br/>· Подача сообщений о введении процедур в ЕФРСБ из одного окна<br/><b>· </b>Сведения об окончании процедуры<br/>· Добавление фото в лоты<br/>· Заявления на включение в РТК<br/><br/>Подробно о всех изменениях — <a href="https://russianit.ru/products/pau/version/64/" rel="noopener" target="_blank">https://russianit.ru/products/pau/version/64/</a><br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')"><b>🔻</b></i>Скачать обновление <a href="https://rsit.ru/#load-ama" rel="noopener" target="_blank">https://rsit.ru/#load-ama</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/bankrotnews/1849</guid>
+      <pubDate>Tue, 06 Oct 2026 08:03:53 +0000</pubDate>
+    </item>
   </channel>
 </rss>

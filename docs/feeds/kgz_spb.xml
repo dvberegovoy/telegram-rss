@@ -8,7 +8,155 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 05 Oct 2026 12:27:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 12:08:46 +0000</lastBuildDate>
+    <item>
+      <title>Как и обещал, делюсь результатами нашего Хакатона, который прошел в  рамках Форума контрактных от…</title>
+      <link>https://telegram.me/kgz_spb/3500</link>
+      <description>Как и обещал, делюсь результатами нашего Хакатона, который прошел в  рамках Форума контрактных отношений.
+ 
+
+В течение двух дней команды разрабатывали прототип интеллектуального сервиса для поиска релевантных поставщиков, производителей и дистрибьюторов для АИС ГЗ и электронного магазина Санкт-Петербурга. Лучшие проекты разделили между собой призовой фонд в размере 525 000 рублей.
+
+Использовать внешние нейросетевые API было нельзя, из-за чего разработчикам  пришлось проявить максимум инженерной смекалки.  
+
+Поздравляю команды, занявшие призовые места, и благодарю всех ребят за участие! 
+
+1 место – Nam Ne ProDano
+
+2 место – Pragmatism Forever
+
+3 место – Underfined squad
+
+Какие подходы будут рассматриваться в рамках дальнейшей доработки Электронного магазина Санкт-Петербурга?
+
+👉
+ Подходы команд по точному сопоставлению товаров и подбору поставщиков берутся за основу для дальнейшего развития нашей поисковой системы.
+
+👉
+ Решения по автоматическому сбору данных о компаниях приняты в разработку для оптимизации процессов проверки и добавления новых поставщиков.
+
+👉
+ Логика алгоритмов, объясняющих причины рекомендаций и присвоения статусов поставщикам, взята в проработку для формирования прозрачного механизма отбора.</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/afDkTusIzr24t9bFojiG3Xt0tI_p6SQrFtVkTb8tuhthHfczBClnfSA2sB7m_EeZjfgf9-2VuUGkbIwp0Vqbk_afypnAjrt5kwCga3SQEj1i5pvRiELNJR66mdh9CDB7kJxQ1PWlRWe-uqVbsMp5lkd2NcjNkBWjBVzMi1-bSfCOvz0CRhXzHZA-T_elcAraiO8qqlcqeHxEx7NkhEVpi9hB8lQidhZbdCCZR5ZHGfaDxH_PDrGn0ZBb1U2-VKzyKEeIkPBol2PlSeFytl_VL_YmO_bG-GvEPuG4_XPM4KH9Rck3vKBRarbhauX4-zOQ2sF6MV7Q-Ophw4uAUPUtZw.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/N3MQ1Xe28gqG_jZYF1Y59MHQtQdCMpemZjo_ITlzjn54HsZF84kUtVROq1suAwIGwK1lC2QEWkWJlIQVTTEAxFwtYHkiGP9t1XyE3C7z2HP4G2r4ShyJdaaTyWfV1Sxq9p4_m_ZMgpu2RARMBokXV6LfLDiw0HYMB9f4AY86jAinY7GTOWa5QmV0IpT93kvaIkPpE7azvYVwEySZbqfyA5HYmMSoqdiktg9jDddi7ir87IjCXcvkp1OuiYh1sHrDL4m5zfp_76QbHeh5rURfkjyeBCfqV8CS7R6CM0QshRfRuS6Gjxrihb2CCvKn1bQKJDPHjaeebByipAGNbIla1A.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/CWI5oVMYjwVeYxAYLHlqqGovQHWDE3oa0N8ukSZvYjmMSQ8mhRhSIH9H5Hah-qxqHkUj7tU6Bvs8KeFMDuoMiEoOAwcCIm5sgVHKIlMoDZiWJa5ywXli_Sd60yg6tuhSVlPi5Uq1C102daDrGZN9hvv7QtFvTWxmSt1FkxV58H9EDmSYckWb9HQoc8U6Dje-6x655hbIh5GjnvuQI7kQmBFz2izKav8xZhmI9W1hqUf4_U0lpk4Mb59okNTgv8aa-Q78OcIHNZakLvIp1rhepN2cnUxJc9GM_-eeDVFj30ikaBfzL7kobt5T6Q6k6vFyVNmoG7TMEuQuSaTT8zQUiw.jpg" /></p>
+<div class="tgme_widget_message_text js-message_text" dir="auto"><b>Как и обещал, делюсь результатами нашего Хакатона, который прошел в  рамках Форума контрактных отношений.</b> <br/><br/>В течение двух дней команды разрабатывали прототип интеллектуального сервиса для поиска релевантных поставщиков, производителей и дистрибьюторов для АИС ГЗ и электронного магазина Санкт-Петербурга. Лучшие проекты разделили между собой призовой фонд в размере 525 000 рублей.<br/><br/>Использовать внешние нейросетевые API было нельзя, из-за чего разработчикам  пришлось проявить максимум инженерной смекалки.  <br/><br/>Поздравляю команды, занявшие призовые места, и благодарю всех ребят за участие! <br/><br/>1 место – Nam Ne ProDano<br/>2 место – Pragmatism Forever<br/>3 место – Underfined squad<br/><br/><b>Какие подходы будут рассматриваться в рамках дальнейшей доработки Электронного магазина Санкт-Петербурга?</b><br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"><b>👉</b></i> Подходы команд по точному сопоставлению товаров и подбору поставщиков берутся за основу для дальнейшего развития нашей поисковой системы.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"><b>👉</b></i> Решения по автоматическому сбору данных о компаниях приняты в разработку для оптимизации процессов проверки и добавления новых поставщиков.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"><b>👉</b></i> Логика алгоритмов, объясняющих причины рекомендаций и присвоения статусов поставщикам, взята в проработку для формирования прозрачного механизма отбора.</div>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/kgz_spb/3500</guid>
+      <pubDate>Tue, 06 Oct 2026 09:43:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇷🇺</title>
+      <link>https://telegram.me/kgz_spb/3499</link>
+      <description>🇷🇺
+ 
+Признание бережливых практик Комитета по государственному заказу Санкт-Петербурга
+
+🛜
+ Подведены итоги оценки заявок и конкурсных материалов регионального конкурса «Эффективный регион – 2026».
+
+🥇
+ Первое место в номинации 
+«Лучший бережливый проект с применением цифровых технологий»
+ присуждено СПб ГБУ «Информационно-методический центр» за проект 
+«Оптимизация процесса оказания поддержки пользователей АИС ГЗ путем телефонной консультации»
+.
+
+📝
+ Результаты реализации проекта:
+
+— доля пропущенных звонков снижена в 7 раз — с 57% до 8%;
+
+— средняя длительность обработки звонка сокращена в 5 раз — с 25 до 5 минут;
+
+— количество обработанных звонков одним оператором увеличено почти в 2 раза — с 40 до 70 за смену;
+
+— время ожидания на линии снижено в 4 раза — с 8 до 2 минут.
+
+📌
+ Таким образом, проект направлен на совершенствование процесса оказания консультационной поддержки пользователям АИС ГЗ и повышение эффективности взаимодействия с ними.
+
+✅
+ Эта победа стала еще одним результатом работы Комитета по государственному заказу Санкт-Петербурга по внедрению инструментов бережливого управления и развитию практик, направленных на повышение эффективности процессов в сфере государственного заказа.
+
+⚡️
+ Напомним, 2 октября Комитету был 
+присвоен высший статус образца бережливого управления «Федеральный
++». Высокая оценка экспертного сообщества и победа в конкурсе подтверждают востребованность и практическую значимость реализуемых Комитетом решений.
+
+👏
+ Поздравляем коллег из Информационно-методического центра с заслуженной победой!
+
+🛜
+ Продолжаем развивать бережливые практики, совершенствовать процессы и внедрять решения, которые делают работу контрактной системы города эффективнее.
+
+👻
+ 
+Следите за новостями Комитета по государственному заказу Санкт-Петербурга в MAX</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/H0Xzr2dXWZXqD9VvrxyKnvuOzFt5ljK-Ol8D7vo-slJljytrOY9CG1PXxvYGMSjz19r-89vVjdqFmGvU82j-GCPPLGPNL8b7XkUDh0NmxsDGogjxj1Kh7zrjOtAs8l1wXE3mpWNXXtoTqzyaPR8UubolEHF7IW8k-w9xJZnVwnMINtd9Xj6GzitLJ0je-7wjvGvydGBjl-XaYaG3R44rShl05f0XMM3myzJGCowIe97-jQ6iiU6Oa8jz5G3LbZl62fseS-296pECeRA2F4n5KZ4yqiwebzcpguJdRD2vUYU8JF_VZErLPrFC5E2xyM74GRx43TjcX4L6jrdL8QD6xw.jpg" /></p>
+<tg-emoji emoji-id="5294531190802382167"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F87B7F09F87BA.png')"><b>🇷🇺</b></i></tg-emoji> <b>Признание бережливых практик Комитета по государственному заказу Санкт-Петербурга</b><br/><br/><tg-emoji emoji-id="5296281600428900666"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9B9C.png')"><b>🛜</b></i></tg-emoji> Подведены итоги оценки заявок и конкурсных материалов регионального конкурса «Эффективный регион – 2026».<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA587.png')"><b>🥇</b></i> Первое место в номинации <b>«Лучший бережливый проект с применением цифровых технологий»</b> присуждено СПб ГБУ «Информационно-методический центр» за проект <b>«Оптимизация процесса оказания поддержки пользователей АИС ГЗ путем телефонной консультации»</b>.<br/><br/><tg-emoji emoji-id="5257965174979042426"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F939D.png')"><b>📝</b></i></tg-emoji> Результаты реализации проекта:<br/>— доля пропущенных звонков снижена в 7 раз — с 57% до 8%;<br/>— средняя длительность обработки звонка сокращена в 5 раз — с 25 до 5 минут;<br/>— количество обработанных звонков одним оператором увеличено почти в 2 раза — с 40 до 70 за смену;<br/>— время ожидания на линии снижено в 4 раза — с 8 до 2 минут.<br/><br/><tg-emoji emoji-id="5296702391259792940"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938C.png')"><b>📌</b></i></tg-emoji> Таким образом, проект направлен на совершенствование процесса оказания консультационной поддержки пользователям АИС ГЗ и повышение эффективности взаимодействия с ними.<br/><br/><tg-emoji emoji-id="5296689811300580903"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C85.png')"><b>✅</b></i></tg-emoji> Эта победа стала еще одним результатом работы Комитета по государственному заказу Санкт-Петербурга по внедрению инструментов бережливого управления и развитию практик, направленных на повышение эффективности процессов в сфере государственного заказа.<br/><br/><tg-emoji emoji-id="5298824560370545986"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29AA1.png')"><b>⚡️</b></i></tg-emoji> Напомним, 2 октября Комитету был <a href="https://telegram.me/kgz_spb/3448" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">присвоен высший статус образца бережливого управления «Федеральный</a>+». Высокая оценка экспертного сообщества и победа в конкурсе подтверждают востребованность и практическую значимость реализуемых Комитетом решений.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F918F.png')"><b>👏</b></i> Поздравляем коллег из Информационно-методического центра с заслуженной победой!<br/><br/><tg-emoji emoji-id="5301169496550046363"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9B9C.png')"><b>🛜</b></i></tg-emoji> Продолжаем развивать бережливые практики, совершенствовать процессы и внедрять решения, которые делают работу контрактной системы города эффективнее.<br/><br/><tg-emoji emoji-id="6237701868655484238"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F91BB.png')"><b>👻</b></i></tg-emoji> <a href="https://max.ru/id7842304108_gos" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Следите за новостями Комитета по государственному заказу Санкт-Петербурга в MAX</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/kgz_spb/3499</guid>
+      <pubDate>Tue, 06 Oct 2026 09:17:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Как я ранее</title>
+      <link>https://telegram.me/kgz_spb/3498</link>
+      <description>Как я ранее 
+говорил
+, 
+вопрос трудоустройства ветеранов СВО выходит сегодня на первый план
+. Мы систематизируем эту работу и создаем условия, чтобы наши бойцы могли найти себя в мирной жизни в самых разных сферах городской экономики.
+
+✅
+ 
+Дали старт важному для города образовательному проекту – «Госзаказ для СВОих. Санкт-Петербург»
+. 
+
+Его цель - профессиональная переподготовка ветеранов СВО и членов их семей для работы в сфере госзакупок. Интерес у наших ребят и их близких к этому направлению высокий. На участие в обучении по новой программе, рассчитанной на полгода,  уже подано 133 заявки. 
+Регистрация
+ на программу еще доступна. Обучение стартует 12 октября. 
+
+Этот проект станет частью сквозной системы подготовки кадров для сферы государственных закупок, наравне с такими проектами, как:
+
+🔹
+ «Госзакупки: международный проект», 
+
+🔹
+ «Контрактный управляющий. Дорогу молодым», 
+
+🔹
+ «Лидеры госзаказа Санкт-Петербурга».
+
+📹
+ 
+О важности проекта «Госзаказ для СВОих. Санкт-Петербург»
+ - руководитель петербургского отделения Государственного фонда «Защитники Отечества» 
+Александр Павлов
+.</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/TrJJnQXuk3J-VRxcgFfg_OYuMYddo-tyCpdn5WL32V_jdFDJNRhwOidq27phMmDasyVycxli5g4RX4gBgoqgsKR4qdDejdlf1wfzVH6zWHtXjdRP9iYV4HjYD9I-qchBT5iDmBIdJid6fQ7uk3A5LIP4hBAXRsqbsyaUOINx-5I5bKRsgCZb8sx90nZRpiPEnYkrTftVfy5Hx1P8evs3LEcvvYCS5G-52p1-f5JBUKgP7doi4Z2wGgWeNZF7bvawOsCTKEMLPmAn7ajyVbm-t2z47KASTh0mnQ6aIr6bbxSIuL_cWPN4sVYh4-qW1jLVzUZTJwqobtobmNF4X1OwmA" /></p>
+Как я ранее <a href="https://telegram.me/moskalenkovalery/3447" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">говорил</a>, <b>вопрос трудоустройства ветеранов СВО выходит сегодня на первый план</b>. Мы систематизируем эту работу и создаем условия, чтобы наши бойцы могли найти себя в мирной жизни в самых разных сферах городской экономики.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C85.png')"><b>✅</b></i> <b>Дали старт важному для города образовательному проекту – «Госзаказ для СВОих. Санкт-Петербург»</b>. <br/><br/>Его цель - профессиональная переподготовка ветеранов СВО и членов их семей для работы в сфере госзакупок. Интерес у наших ребят и их близких к этому направлению высокий. На участие в обучении по новой программе, рассчитанной на полгода,  уже подано 133 заявки. <a href="https://www.rts-tender.ru/gos_leaders_spb" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Регистрация</a> на программу еще доступна. Обучение стартует 12 октября. <br/><br/>Этот проект станет частью сквозной системы подготовки кадров для сферы государственных закупок, наравне с такими проектами, как:<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> «Госзакупки: международный проект», <br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> «Контрактный управляющий. Дорогу молодым», <br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> «Лидеры госзаказа Санкт-Петербурга».<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93B9.png')"><b>📹</b></i> <b>О важности проекта «Госзаказ для СВОих. Санкт-Петербург»</b> - руководитель петербургского отделения Государственного фонда «Защитники Отечества» <b>Александр Павлов</b>.]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/kgz_spb/3498</guid>
+      <pubDate>Tue, 06 Oct 2026 08:00:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Телеканал «Россия 1»</title>
+      <link>https://telegram.me/kgz_spb/3497</link>
+      <description>Телеканал «Россия 1» 
+освещал торжественное открытие образовательного проекта 
+«Госзаказ для СВОих»
+ в рамках X Санкт‑Петербургского международного форума контрактных отношений – предлагаем Вашему вниманию телевизионный сюжет.
+
+В рамках меропрития состоялось торжественное подписание пятистороннего соглашения о сотрудничестве между Комитетом по государственному заказу Санкт-Петербурга, Государственным фондом «Защитники Отечества», АНО «ОБЩЕЕ ДЕЛО», ООО «РТС-Академия» при поддержке электронной торговой площадки РТС-тендер. 
+
+Соглашение направлено на реализацию образовательной программы, ориентированнной на профессиональную и социальную адаптацию ветеранов специальной военной операции и членов их семей.
+
+«Проект «Госзаказ для СВОих» даст нашим ветеранам СВО и членам их семей востребованную профессию и уверенность в будущем. Он также обеспечит город мотивированными и квалифицированными специалистами, способными эффективно работать в сфере государственных закупок. Наша цель — создать не просто образовательную программу, а охватить весь цикл подготовки кадров. От знакомства с профессией и практики – до кадрового резерва Смольного и трудоустройства в органы власти», — подчеркнул Губернатор 
+Александр Беглов
+.</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/jZ4iYAkX_b7z3S9UAXo9rPFDMPdceunKzKbzkPjrLkQ5zGpqwjM87chTqNv0MwRCD0mPQwDjH9O2Z3Iw1_HE0p-7mgJD27-sLo4ga-QS-f40i0EFDoxusQ_NPtAu-BMKmcLD7l_LHwfl7-346VlE9selLrY9Vz-HGhCn2IWTRSPjPoL1I0z23W0F5WnD71vAgU157w_qPmRxi_tf9wY9_OiBWPxYWfODA-VixO4wQhXSfBiiLL7I25RJzJn9KukyCQUpeK--ViV_lfq9l60EMP-WJLoZ1XAMpp8stjvqOuMWvM7Rr74rkFQhFpafrxsDqnNxvfK1DYViHEnNSkcZMQ" /></p>
+<b>Телеканал «Россия 1» </b>освещал торжественное открытие образовательного проекта <b>«Госзаказ для СВОих»</b> в рамках X Санкт‑Петербургского международного форума контрактных отношений – предлагаем Вашему вниманию телевизионный сюжет.<br/><br/>В рамках меропрития состоялось торжественное подписание пятистороннего соглашения о сотрудничестве между Комитетом по государственному заказу Санкт-Петербурга, Государственным фондом «Защитники Отечества», АНО «ОБЩЕЕ ДЕЛО», ООО «РТС-Академия» при поддержке электронной торговой площадки РТС-тендер. <br/><br/>Соглашение направлено на реализацию образовательной программы, ориентированнной на профессиональную и социальную адаптацию ветеранов специальной военной операции и членов их семей.<br/><br/><blockquote>«Проект «Госзаказ для СВОих» даст нашим ветеранам СВО и членам их семей востребованную профессию и уверенность в будущем. Он также обеспечит город мотивированными и квалифицированными специалистами, способными эффективно работать в сфере государственных закупок. Наша цель — создать не просто образовательную программу, а охватить весь цикл подготовки кадров. От знакомства с профессией и практики – до кадрового резерва Смольного и трудоустройства в органы власти», — подчеркнул Губернатор <b>Александр Беглов</b>.</blockquote>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/kgz_spb/3497</guid>
+      <pubDate>Mon, 05 Oct 2026 15:55:27 +0000</pubDate>
+    </item>
     <item>
       <title>Александр Беглов: Проект «Госзаказ для СВОих» даст ветеранам СВО востребованную профессию и увере…</title>
       <link>https://telegram.me/kgz_spb/3496</link>
@@ -27,7 +175,7 @@
 🔎
  Подробнее на 
 Официальном сайте Администрации Санкт-Петербурга</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/QFAHNT4GjaYPuBA8kw5X9_jYTEyQbYIHZeJm1CXUZLp8DujC0oOEXiuqAKggFBRjlp8Ul5jus0H3U1bmCZThLIfbNWWaPYoHKbsJ7QonVm60STQLfBpq24Zw72ROqG-d-TlKdQTiPtiWLo_dmR-ylIErnKH188iRjdwD923wI5pkOgqZz6jzwgT3Gx1tt_xeBjjzNYQlEctBS2wHz2iiQZWkQi9FOvcCjOuJYa1qBtyaDYQdJL6JtW-eX5R-iXwY0FpbLKvFXeP9YYezZjab9BDJvFBXA0X0kjbTxNMbKWINB6TC_lm74X7riTLqf2iHlYUX5mmCfn_MsVvYVJkjPQ.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/jKKdHrYASsbK3JWdJYYLPYOwUzcyHYk9acqnE7TFLN0mZ8MDVuuIqMPi_SDW0_ZMHmxYz0ZDOctKnFWjvAvsquVUCUhcgg3OojhrPRk1hUq71-tZkLqzTpiFfm7HmtraNTxSTiM0LIIpkugK5VMdemzYBWYXeFE3xYMTvRYPbNpLX3VH9jpsAw1qN5VWhMvfx69td5aLFsamdDUiTecYHCKKb2yMDXIikqLcLEyq7SApJE3RV2PaPIrFuGDjwPapdHO9QEYcSi2NpY9XU9PW4wZMOXigT6rJzK-KjPXLtNjSt4vrKLTD84dFOj4V2-Hp7tLqgnZto5ShfldblkndnA.jpg" /></p>
 <b>Александр Беглов: Проект «Госзаказ для СВОих» даст ветеранам СВО востребованную профессию и уверенность в будущем</b><br/> <br/>В Петербурге дан старт новому образовательному проекту «Госзаказ для СВОих Санкт-Петербург». Он организует профессиональную подготовку ветеранов специальной военной операции и членов их семей для работы в сфере государственных закупок.<br/> <br/>«Проект «Госзаказ для СВОих» даст нашим ветеранам СВО и членам их семей востребованную профессию и уверенность в будущем. Он также обеспечит город мотивированными и квалифицированными специалистами, способными эффективно работать в сфере государственных закупок. Наша цель — создать не просто образовательную программу, а охватить весь цикл подготовки кадров. От знакомства с профессией и практики – до кадрового резерва Смольного и трудоустройства в органы власти», — подчеркнул губернатор Александр Беглов.<br/> <br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F948E.png')"><b>🔎</b></i> Подробнее на <a href="https://www.gov.spb.ru/press/governor/321457/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Официальном сайте Администрации Санкт-Петербурга</a>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/kgz_spb/3496</guid>
       <pubDate>Mon, 05 Oct 2026 12:06:14 +0000</pubDate>
@@ -48,236 +196,10 @@
 
 2. Каранатова Л.Г.
 , декан факультета экономики и финансов СЗИУ РАНХИГС</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/SJVXgII92aHvfSFdgVUC4xNRP5fUBFu2k83W6VBUvypxxumvqbShwr52D9Nacy-rr-2of8N2snCwI2HNAcR81q_OojwnU4wnUfZVYUhaF7kXSVwnAgozPWmkTsiOBz5ytTnNyR_DZ6EjMWFyaGcD2Mulf-oUEYIddTCyIVHhXaAdjOHCgbGGQQccR3Q7fdqU2VXrLoI-ucQrrtbVB10V3xDEV0VPRs_06rdDBd0IPm6rfSUOJ94sDYtLzUVgWpx88PXjEfqWWX0Pu_7K6oPsXp1oyXhZmPrrli7_9iOS3Z5wlnffkSmGUwovm9PNjFgN9F29LHbz9bzCI8TOr9I4aw" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/D6Iau7oIrKWwVf8K2PqrU9ak667WqPM-4Rh81nb-__lshUb1zcWBRrLgLAHX1fL8a-1GIXU-jLen2IwUo1pvanx4dFpJTHpkO4kMUCs1wvZjzTYzLih3ckKxi3cpbRZ7yzEaziEIzCd-CIu8qNA50P0dWW8HYCfhpKoNEv4UkkYfo81gZn-iMAS8Uz3PjpAktLsZmCIp2Zq4h-gkDbhtytr9vijgikdiVntHnTtsJ8MejHZN3bGCH-58BB_w-dRBKbUXyPPSyp9Z587Ne2jdhEMf_NqOLPz0NmLH3-HUmI0LdFlHeeRe2mL90bhGRgg68_rcDtyghjcAkcq53guwEA" /></p>
 <tg-emoji emoji-id="5296281600428900666"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9B9C.png')"><b>🛜</b></i></tg-emoji> <b>Телеканал «Санкт‑Петербург»</b> освещал торжественное открытие второго потока образовательного проекта «Госзакупки: международный проект 2.0» в рамках X Санкт‑Петербургского международного форума контрактных отношений – предлагаем к просмотру телевизионный сюжет.<br/><br/><tg-emoji emoji-id="5301169496550046363"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9B9C.png')"><b>🛜</b></i></tg-emoji> В выпуске:<br/><b>1. Лаврикова М.Ю.</b>, проректор по учебной работе Санкт-Петербургского государственного университета<br/><b>2. Каранатова Л.Г.</b>, декан факультета экономики и финансов СЗИУ РАНХИГС]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/kgz_spb/3495</guid>
       <pubDate>Mon, 05 Oct 2026 07:10:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Второй день X Санкт‑Петербургского международного форума контрактных отношений завершен.</title>
-      <link>https://telegram.me/kgz_spb/3487</link>
-      <description>Второй день X Санкт‑Петербургского международного форума контрактных отношений завершен.
-
-Сегодня на площадке форума состоялось важное событие - Комитету по государственному заказу Санкт-Петербурга присвоен высший статус образца бережливого управления «
-Федеральный
-+». Это признание стало результатом системной работы Комитета по внедрению принципов бережливого управления и, прежде всего, реализации «Сквозного потока подготовки контрактных управляющих в сфере закупок», направленного на решение одной из ключевых задач контрактной системы — обеспечения отрасли квалифицированными кадрами.
-
-Деловая программа второго дня продолжилась специальной сессией «
-Особенности закупок в здравоохранении. Актуальные изменения законодательства
-». Модератором выступила заместитель директора департамента обучения электронной площадки РТС-тендер Ворожцова Н.В. Эксперты обсудили актуальные изменения законодательства и особенности закупок в отрасли.
-
-На секции «
-Роль искусственного интеллекта в оптимизации закупочных процедур
-», модератором которой выступила генеральный директор БФТ-Холдинга, председатель Комитета по цифровизации и применению ИИ Союза закупщиков Зейтениди Н.Ю., обсудили практику применения ИИ в закупках. В центре внимания - масштабирование 
-
-работающих сценариев, безопасность и качество данных, а также вопросы передачи отдельных полномочий искусственному интеллекту. 
-
-Также прошла секция «
-Регулирование корпоративных закупок по 223‑ФЗ: актуальные поправки и механизмы контроля
-», модераторами которой выступили Альбицкий П.К., директор департамента обучения электронной площадки РТС-тендер, Храмкин А.А., ректор Института государственных и регламентированных закупок, конкурентной политики и антикоррупционных технологий.
-
-В продолжение круглого стола первого дня состоялась сессия «
-Регулирование закупок в строительной отрасли: особенности и актуальные изменения
-». Модераторами выступили Гончаров А.Ю., директор Департамента ценообразования и ресурсного обеспечения строительства Минстроя России и Кириленко С.С. эксперт в сфере закупок. Особое внимание уделили вопросам расчета НМЦК и цены контракта.
-
-Отдельная секция «
-Роль поставщика в контрактной системе РФ» проведена
- Созаевой Д.А., д.э.н., доцентом, руководителем отдела образовательных программ площадки Росэлторг.
-
-Руководитель Комитета по государственному заказу Санкт-Петербурга Андрей Игоревич Яковлев провел секцию, 
-посвященную лучшим региональным практикам и бережливым технологиям в сфере госзакупок
-. Участники обсудили привлечение и подготовку кадров, оптимизацию закупочных процессов, развитие Концепции совершенствования закупок малого объема, а также цифровизацию быстрых закупок. Отдельное внимание уделили обмену практическим опытом между регионами и возможностям масштабирования успешных решений.
-
-Итоги форума
- — более 3 300 участников: свыше 1 300 человек приняли участие очно, еще порядка 2 000 подключились к онлайн-трансляции.
-
-Два дня объединили профессиональное сообщество регионов, экспертов и участников контрактной системы вокруг практических решений и новых подходов к развитию государственных закупок. Санкт-Петербург продолжает эту работу, создавая пространство для обмена опытом, масштабирования лучших практик и совместного развития контрактной системы страны.</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/hDBpMigZDaLpp8y7jrKK10qexhMT1PL6mJbluZqJ6GFw5gGm1jglCoUsNuaw5kT0pDNXXLbp4ko5qKpxCSujNpNomLIKwr_1EKDns9C9rzKnc1yaIL2Oiz4MpmN8Upf4KPBgHds0JqgeU15d1gNqSOMnc-e5DfWHo7AbxmPzPMLPGGIkX1yDvLsSzbQWMvAzENBChN4K4bJZ_fEhWU0Q8HU7qGQOqYI-UAK5p8UMh1TVFIBgEFxczcUELt3PjGwfEw7ChVZRy4-JkrdVc0BDyqtz4KP2I9KSBKZjjRDf_cIetvZ-M137nZjBGrsY0I8ppjRXPHctQ_5_xXUghP4cxw.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/hfXIRMuMUd4R0Wt1BGRI7ZlwpEX4qf7thQ8sUX7N3wQxmitHLpSEuzBvhujvSZP3uCfZOR-6zQRFlrXBwZCOjWmm1VuWYEatQHX0rBwYOSKXcIJvax_KHzIuR5E-l2Mg3h0QIeOZ1Kj0HwdCo_QtIPTHJxtZI33CMEyQnL8V88Pg788wB1Nj2VEdl4g1D3MWEgtqK3VfGj9FwJGf8EXed9VgrS8LDrGonWx6jXLQ7d1uG_7EEtD8bA4OFvl1DfdqjK_dyM8nWuAG8Xtv47iO-EjogVIOun3rCM8Kkw2E1Nywa9_REQGzm_IlYuTEkOohs_BdtAYS2liUPC6qixM5mw.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/Q9Nlczw9hVN2knNSXij3u22b7diaBhIES73tkarya73VsUglcqFBsNlcVg84wHacL8SgT4hlqMI7i2Gxsesv86ltQjdQfRSrpwMG_RfT4JB1t1X0lDGnfIDQcULeF9r9V4_Sgl8ZZm5g2pIbeHXMDTWwFhx9V6I0Db5ShIVo8xV__BqE_IcqGY5SaHYmmq4bkv2rFN0y3TkAyh7-It0MSjw60amGqVju4Vnj_DiJLPw2uvBSOnQtp5bUZ4MMPS53XcIF__l2oQhSihYXT-nCam0UJA8Vj2C-3UoW4oNMFRX3abULTW0wLkRKdS9VqySbrZlrMYxi-5QBrO7QRECdjQ.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/TG6VBckXV4PcnULAmp1CzzU7JpoPpjqxJZd-7zP4oi5Li1w5w8U2AyEqKWk_A4sMzOZkacABbny8yGmeyWW1bGUBpuNVQ5UVp15ht173Fz_f-Pvg8FQmTiiN2svF5e-6KRnXOuiknNdd9NMKhtT_91b1-wupshR96qufezzNQ6fviy6ZFRKSY4fu7ffQ-QtEj2qK9W8PR2yEpbr5H5xemy_gidQ4zJr3L1r2n6CLWOVOzWdj7kTlXbaY1dAu9fmkQEmf0sy_lop5aB7UeZx1psfYR1MAAVXVuCqPnlzNf-reRj72_SqDe7S4iHA-sg1vXokq2m_lsAceg497s3sXOw.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/eXWccdcNAbbAWTJjBymnzMKqu5pA0n_ZTMeoGG3E5LxszyyqoOEQbR5kSS9VPpBUKXB6QHl-8JIGtDm_RejKDXdmciYgjW3J_wU7WH7cM5rmMYPqdgFEAKdjNGwvyhdblYaSkYFTRDTbgevNlFTDVrjYGF5Wfn9vOkrX9SMAzj_AsMg77f_0s3NCUKMkxgycUUqOr0uKx6GYYOv15DqmDER8X6mej2Msslh6E_-QHZJflnxhzsIHZ_fm0xvvFzAn9zCaJIJceED4KREw0CmkAl-JQ6pokc56KPe2mU-0Lenmt-J2MJKmesZWRrhfJrOEDmsliwdsHwS46AiDw52c0Q.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/olFJvKIRTgBIJi9bFyeiugnN0EQ2Lio0YR7kC8Kct2TEzkYH27JmxxhDJqOfgyzmC7EdJk0GQs78xKKvJIkYRDdQtIfrRPbO2yWAvVQn5paj8igupWG9hCPsK_yUVWkUjIn-x6swjvwb4CaLDWBhEah7-_vkQBqo38xvRejBve3AgQEL7jBRaok76-jMMb1uJhKPopypFPfCV72OTogT004gz3PHLgFg2f--G8qXTJSMDh8vW6Q2u9YOoemvaeU-5XqvwK9PB2ldACdPnnAKUVIrHE950MblzE4rCdI-xZOntMH9P69MjAcMD1rIuNx34yRpS98kKFR9GXJGlVKrMA.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/HGjYvZBmkeod8LRuQgTa6awLA4X4curC2zMJm52n1jX0QKFLsy1e4LNEmsq1B5ZLUQaZLao3tQslSZaPng-mZyWZQMudWb4ge6aCgBZHKqe5Sm0lf7VADRP8uFVQT6pMcfc1lZP8iRKXp9A3UZvFbPDnWdXefDHhOGgP1VgswZQxCP1o7lpgLfdOobotIULw-1JSgD_JdAR2kEMEElldmtBtMLIOgPLbCeJ2L-BtHSbGtv9d2nVb36sfzs0vFtXKsi2afeQgY1at_smYtMfRDBXdmz1UlG8ijB2QocnpD7OC5VRmieomwdn3rivElva8DGswiIrBlB7niFXdF2QEQA.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/drtLg0d9aohrqA5x6xgnSP8486J17mJsrZdu518BlB_FGLzVMmkkMh5hJmcgu8Ebi7Bgb0eLgnHJyk80KZYrveq9gmZWIebAYNKZVkLQqG2B9P2gPE1yWQ-fzUtNvIs25U3a7DQKLXsFAiiDryo5kcwf68rKmtpv-kzfT-Mf0vxE8Mso_juz1wk781sURiUnhCn-dlV9AmB_Vi1TkitA2I3BKQ3roIKQ6b9oo32WjnhIgV-Li22UZ5IWmaCC87pLN-AQfQa4pgTwZthC66VDs1BTz2TWmfW2Uz3DQ4RfctDYpzj0U8gIwH9HHAOn4hNiyhFNieRDuqPtmMHiXfcgaQ.jpg" /></p>
-<div class="tgme_widget_message_text js-message_text" dir="auto"><b>Второй день X Санкт‑Петербургского международного форума контрактных отношений завершен.</b><br/><br/>Сегодня на площадке форума состоялось важное событие - Комитету по государственному заказу Санкт-Петербурга присвоен высший статус образца бережливого управления «<a href="https://telegram.me/kgz_spb/3448" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Федеральный</a>+». Это признание стало результатом системной работы Комитета по внедрению принципов бережливого управления и, прежде всего, реализации «Сквозного потока подготовки контрактных управляющих в сфере закупок», направленного на решение одной из ключевых задач контрактной системы — обеспечения отрасли квалифицированными кадрами.<br/><br/>Деловая программа второго дня продолжилась специальной сессией «<a href="https://telegram.me/kgz_spb/3463" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Особенности закупок в здравоохранении. Актуальные изменения законодательства</a>». Модератором выступила заместитель директора департамента обучения электронной площадки РТС-тендер Ворожцова Н.В. Эксперты обсудили актуальные изменения законодательства и особенности закупок в отрасли.<br/><br/>На секции «<a href="https://telegram.me/kgz_spb/3453" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Роль искусственного интеллекта в оптимизации закупочных процедур</a>», модератором которой выступила генеральный директор БФТ-Холдинга, председатель Комитета по цифровизации и применению ИИ Союза закупщиков Зейтениди Н.Ю., обсудили практику применения ИИ в закупках. В центре внимания - масштабирование <br/>работающих сценариев, безопасность и качество данных, а также вопросы передачи отдельных полномочий искусственному интеллекту. <br/><br/>Также прошла секция «<a href="https://telegram.me/kgz_spb/3470" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Регулирование корпоративных закупок по 223‑ФЗ: актуальные поправки и механизмы контроля</a>», модераторами которой выступили Альбицкий П.К., директор департамента обучения электронной площадки РТС-тендер, Храмкин А.А., ректор Института государственных и регламентированных закупок, конкурентной политики и антикоррупционных технологий.<br/><br/>В продолжение круглого стола первого дня состоялась сессия «<a href="https://telegram.me/kgz_spb/3475" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Регулирование закупок в строительной отрасли: особенности и актуальные изменения</a>». Модераторами выступили Гончаров А.Ю., директор Департамента ценообразования и ресурсного обеспечения строительства Минстроя России и Кириленко С.С. эксперт в сфере закупок. Особое внимание уделили вопросам расчета НМЦК и цены контракта.<br/><br/>Отдельная секция «<a href="https://telegram.me/kgz_spb/3484" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Роль поставщика в контрактной системе РФ» проведена</a> Созаевой Д.А., д.э.н., доцентом, руководителем отдела образовательных программ площадки Росэлторг.<br/><br/>Руководитель Комитета по государственному заказу Санкт-Петербурга Андрей Игоревич Яковлев провел секцию, <a href="https://telegram.me/kgz_spb/3482" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">посвященную лучшим региональным практикам и бережливым технологиям в сфере госзакупок</a>. Участники обсудили привлечение и подготовку кадров, оптимизацию закупочных процессов, развитие Концепции совершенствования закупок малого объема, а также цифровизацию быстрых закупок. Отдельное внимание уделили обмену практическим опытом между регионами и возможностям масштабирования успешных решений.<br/><br/><b>Итоги форума</b> — более 3 300 участников: свыше 1 300 человек приняли участие очно, еще порядка 2 000 подключились к онлайн-трансляции.<br/><br/>Два дня объединили профессиональное сообщество регионов, экспертов и участников контрактной системы вокруг практических решений и новых подходов к развитию государственных закупок. Санкт-Петербург продолжает эту работу, создавая пространство для обмена опытом, масштабирования лучших практик и совместного развития контрактной системы страны.</div>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/kgz_spb/3487</guid>
-      <pubDate>Fri, 02 Oct 2026 20:12:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Состоялась секция «Роль поставщика в контрактной системе российской федерации»</title>
-      <link>https://telegram.me/kgz_spb/3484</link>
-      <description>Состоялась секция «Роль поставщика в контрактной системе российской федерации»
-
-Модератором выступила 
-Созаева Д.А. 
-д.э.н., доцент, руководитель отдела образовательных программ площадки Росэлторг. 
-
-Участники подняли вопросы медиации в закупках, рассмотрели актуальные направления законодательного регулирования проблемы неплатежей по государственным и коммерческим контрактам, а также изучили судебную практику. 
-
-Сбербанк представил русскоязычную нейросеть ГигаЧат. 
-
-Также на секции шла речь о том, как поставщикам избежать попадания в реестр недобросовестных. Секция предложила не только аналитические данные, но и практические рекомендации участникам.
-
-Ознакомиться с презентациями спикеров можно по ссылке: 
-https://disk.yandex.ru/d/L0ORDqdQuEtJpQ</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/qPRJRmkPPlqF-4-XvsnEKgtu-oXGfgIyW9bLg1w4B5zdP_E-c_54-FKrW1nTkrhqS5R8W_gxhSAvytbPWwMWnNl4fZ9x-YdTZwTHf0JdSsnzqhS30KyvBhlvxX03UqiuR9DXaZHLSoF9UnPxx85YMzhXbWvJILZq3LJl_9AyheQOstl2U1U8wsT07rlNfY2sWKZ_qEVOqWOmCWoJcQhm4gh-uBljhlzOdeUQwYWIRYn5IUAjFog8W8z1ULo7Zr942_09RtDxIbdLpaL1KeB-81HdfrEBdWnTEkTgzgKH4AvLgl6-QYZVzOSvxZzCW_nCUcn1NT0gO-bJK_IQWABXJw.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/cn3IFzIctBOjr5TkTSAOnnkqeq-yV7Q91IizulRDl2zhN1ob33e9jxjyuwsRYqcREuHr78SqAT3UkcmAECdSO7mc0Rbv8QRIBhdh01BFlaKGUCGZUcRgCchkzcjC_Na55HMchZAHCBMDvlazp8uLGvRU7fRR-njnE6Uc-1qbx1mKpGqpJ1CPKPB-kXAXKU8TQ9Tn7K5jiqcJjQxosqCYZcqrvirmiXyj8c5z-a9aY4R1QaMWUYcYv3JRcFwexqzJwrRHbFIIgMmur-YTTyMCUDzpNqH0M2yYjJ8P0ZNNRGrIirJw5ej5al7wlNN6d1Ck187SJ7AbiZnwO7oGYs3EiA.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/mApqsD4Uj_WdxnbvtJVIOBiGryjL85J-3fWgnJIIkgELdzcS6YCGe2FE3KU5vTdv49g5ussAkmBjpdwcm3vbJ9FcoNPwfJyStkxU0C7m1HvyBVP9-W0-t6z8RGFcsvUDf0eK_NQe_wHbuIPzIbZB7TjIkqJs6dmAp0pqx1hrLSCI93VMo_gvnIYeJDyOplfhBNMnRcqqD24WNKBA4FS3-40YqEPJOEv-H_Qh65I5zHWG9mnux4Qbu27oO0TjPta4-Vmjwr_Q5ToM64XeO5dP9tFbttAtq_szQVIjc94GRjjNwGwUcSqIP-Ta2MFoHvSuC9YPMqM-Z-ogb6CEtCUz7A.jpg" /></p>
-<div class="tgme_widget_message_text js-message_text" dir="auto"><b>Состоялась секция «Роль поставщика в контрактной системе российской федерации»</b><br/><br/>Модератором выступила <b>Созаева Д.А. </b>д.э.н., доцент, руководитель отдела образовательных программ площадки Росэлторг. <br/><br/>Участники подняли вопросы медиации в закупках, рассмотрели актуальные направления законодательного регулирования проблемы неплатежей по государственным и коммерческим контрактам, а также изучили судебную практику. <br/><br/>Сбербанк представил русскоязычную нейросеть ГигаЧат. <br/><br/>Также на секции шла речь о том, как поставщикам избежать попадания в реестр недобросовестных. Секция предложила не только аналитические данные, но и практические рекомендации участникам.<br/><br/>Ознакомиться с презентациями спикеров можно по ссылке: <a href="https://disk.yandex.ru/d/L0ORDqdQuEtJpQ" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">https://disk.yandex.ru/d/L0ORDqdQuEtJpQ</a></div>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/kgz_spb/3484</guid>
-      <pubDate>Fri, 02 Oct 2026 16:53:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Сессия «Лучшие региональные практики и бережливые технологии в госзакупках: трансформация отрасли…</title>
-      <link>https://telegram.me/kgz_spb/3482</link>
-      <description>Сессия «Лучшие региональные практики и бережливые технологии в госзакупках: трансформация отрасли» прошла в рамках X Санкт-Петербургского международного форума контрактных отношений. 
-
-Модераторами секции выступили: руководитель Комитета по государственному заказу Санкт-Петербурга Андрей Игоревич Яковлев и заместитель председателя Комитета по государственному заказу Санкт-Петербурга Елена Владимировна Егорова.
-
-На сессии шла речь о привлечении кадров в профессию контрактных управляющих. Опытом совершенствования системы закупок в столице поделился Александр Зинин - заместитель руководителя Департамента города Москвы по конкурентной политике.
-
-Важную тему особенностей проведения экспертизы поопределению соответствия поставленного товара или выполненных работ требованиям государственного контракта, заключенного в рамках 44-ФЗ затрагивал доклад Виолетты Короткиной - директора Департамента экспертизы и сертификации Союза «Санкт-Петербургская ТПП».
-
-Руководитель управления по развитию электронного торгового портала ЭТП ГПБ Виктор Несякин представил концепцию совершенствования ЗМО и новые вызовы для региональных практик цифровизации быстрых закупок.
-
-«Закаленные Байкалом: как в Иркутской области выбирали лучших закупщиков» - с таким докладом на сессии выступила Оксана Недорубкова, руководитель Министерства по регулированию контрактной системы в сфере закупок Иркусткой области.
-
-Ознакомиться с презентациями спикеров можно по ссылке: 
-https://disk.yandex.ru/d/CG6310z1QZXbXw</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/YKvSgqce5werd55y3X4inrSsLTuZA9DsYG3JyQROddFR3D5T7h8beJEm9Y2FVzPyzF4i0uWsq0Jk6JpC8uMxECioIt4_jovMobmGMUfovERpn8Zaa75sEDgXyaSxkMkhPFCdVnsY6QpljRcBKfznr7FK9YUHOTzc4JrZmfBnBd-MkuXiByTtm4wgu6n7MivpVNsH7dihtZip8sYhArB6FAe3Y5nU-jNfCjkrED0FGTTrpnrNV-mEHxK8JK-DwEUhZHr6DcoE86LWIi0oiahjahVzMJdVGR0O2IxkChrJb--pVNFSY_sWQykhurDX6K0DOIm9B5hVZCmC0UDydJGgYA.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/BQQUk8JiuHICzJUHAMYRwhFfPo1-j494Z0e6DHfRC4fSUHrV6hjFN6pzNMTnjuhGDTy98fT2x5TmiwXcyeaRjZlNpUkWRifg0lVkB2oXyP3cXbC4jUnCNH-AFpUDEFhFiHrwE46VRkYMAkEZShIeOVo4XOvYyGLoE5khPlEblKWnHraHjzPB7mbiW1dguxakuI7njA8AQPvusCYunITXtpAJesBKTVkvs_4klzvdXWCGw6uLQr8jYQxT37jkR7xIXd4DUNGv5nYzTnlJ6wKEqnSXpfwyCjJwTQUC5M_5GoeALJZNNcUs5P0h50val7mA8JZixamWesGdBUUjNPYnhA.jpg" /></p>
-<div class="tgme_widget_message_text js-message_text" dir="auto">Сессия «Лучшие региональные практики и бережливые технологии в госзакупках: трансформация отрасли» прошла в рамках X Санкт-Петербургского международного форума контрактных отношений. <br/><br/>Модераторами секции выступили: руководитель Комитета по государственному заказу Санкт-Петербурга Андрей Игоревич Яковлев и заместитель председателя Комитета по государственному заказу Санкт-Петербурга Елена Владимировна Егорова.<br/><br/>На сессии шла речь о привлечении кадров в профессию контрактных управляющих. Опытом совершенствования системы закупок в столице поделился Александр Зинин - заместитель руководителя Департамента города Москвы по конкурентной политике.<br/><br/>Важную тему особенностей проведения экспертизы поопределению соответствия поставленного товара или выполненных работ требованиям государственного контракта, заключенного в рамках 44-ФЗ затрагивал доклад Виолетты Короткиной - директора Департамента экспертизы и сертификации Союза «Санкт-Петербургская ТПП».<br/><br/>Руководитель управления по развитию электронного торгового портала ЭТП ГПБ Виктор Несякин представил концепцию совершенствования ЗМО и новые вызовы для региональных практик цифровизации быстрых закупок.<br/><br/>«Закаленные Байкалом: как в Иркутской области выбирали лучших закупщиков» - с таким докладом на сессии выступила Оксана Недорубкова, руководитель Министерства по регулированию контрактной системы в сфере закупок Иркусткой области.<br/><br/>Ознакомиться с презентациями спикеров можно по ссылке: <a href="https://disk.yandex.ru/d/CG6310z1QZXbXw" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">https://disk.yandex.ru/d/CG6310z1QZXbXw</a></div>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/kgz_spb/3482</guid>
-      <pubDate>Fri, 02 Oct 2026 16:17:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>В рамках X Санкт-Петербургского международного форума контрактных отношений состоялась сессия, по…</title>
-      <link>https://telegram.me/kgz_spb/3475</link>
-      <description>В рамках X Санкт-Петербургского международного форума контрактных отношений состоялась сессия, посвященная особенностям и актуальным изменениям в регулировании закупок в строительной отрасли.
-
-Модераторами сессии выступили Гончаров Александр Юрьевич — директор Департамента ценообразования и ресурсного обеспечения строительства Минстроя России — и Кириленко Сергей Сергеевич — эксперт в сфере закупок.
-
-В ходе сессии прозвучали доклады, охватывающие широкий спектр вопросов регулирования строительных закупок. Участники обсудили современное состояние отрасли, перспективы ее регулирования и актуальные вопросы закупок.
-
-Отдельное внимание было уделено злободневным вопросам обоснования НМЦК при осуществлении закупок строительных работ, а также региональному опыту по созданию Единого регионального заказчика в сфере строительства.
-
-Кроме того, в ходе сессии был представлен обзор изменений законодательства в градостроительной сфере и их влияния на закупки строительных работ, а также освещены основные подходы Минстроя к классификации работ в области строительства и категорированию объектов капитального строительства.
-
-Сессия стала площадкой для открытого диалога и обмена опытом между представителями органов власти, экспертного сообщества и бизнеса, а также обозначила ключевые векторы развития регулирования закупок в строительной отрасли.
-
-Ознакомиться с презентациями спикеров можно по ссылке: 
-https://disk.yandex.ru/d/U4z6KZpuQFvs3w</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/GeZqMdlburboiqYN7zAczIqS_sY0oMGE-nx6LLKc7KxbSN42F-mcTNMrszfyFeNLlHDrfwhFvrUhip7ixXwbHhxz28yCM7n6ycIRTYuN_JWVaPRdpETyt0UtX05UgNL-tsDaAc7bCIoaA8JXBrd5cE8VL-EWxTRz3uP-II4SAhT659IA7D8I5vrz7yjxNpNZ9P1oR5J9Q0cl38itqmdMGkvqOvSWHnpIqO5UPnzbcdcoag5__Yh51Ntk62_YVNMVnmBFke1pY9jmo3SwBKwsvGWzCYsM8Imd4E5QuphhV56QHruDPGSD6C9zCEmmhQUfSalavi2HKhsiatKJJNv-vA.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/lMSUgO-Uv7YU7Y6vVrN2jBRUdaKU0jNhWIo_78ivPuV20xh2B_sKdUqd3zJimUbXrDv7ZvCikhrdviqnNEMfpoCyTGHUgdIxAwwNwcXAPjHvJAjUgoPnWbWlhZSirBOkrrehyIBb6GEXSiEGET0NONvFAO6Qtg-QVxBumeue_Q8edJcxjk3skQfp_HjXamECzoNso-1oafb29DQr2MmtJZXEGRiUzfafbBcaRluvXLfho-l_BoCEKVQ-oXHRFgzwy2pJr1ctm-3rnHXfBY01Zk21zQekHWh0cViZly_nJhUTElmcTdAVnir8gRFcH1ttdwCKsyQnEUTdwhse4adnbQ.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/n-p0f9ZFv1JUYSYG_RJbGbCjd5GK3_Wq1IEFLa0Jquv93De1fAi5ozcNrNr9PP-OR887q2zaL6RYUXZzdW9poT87owZil8QILK2uTnA6nCQ6LlfR7RlGJ7OBrbDxMspPTEDDbclMuExjWmtoN7didV7AP_QFaHL3JKOZS99wLXZkRnpkmdII0KeqXOsqYkd1x3lBdMsxB8MyIMwhhRF9yl0jqfS2xBoC-ueuW-M7sFYmsVNz-uJntD9Ihh9UPfHkQpQA5GKCA4ubOvOQa2kwJ4ZbyMzbEj2l19oZTNDWJ9Tu-zyppD0RoozN1Rf-14GD6iBBCeVVH7NUplnwMJFhow.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/bDvodloFPw_DaXUd6QYG6MLShSYZgmrZk2yZqLZ2bj4D_bACGae7ocIqbDmdfx23WH_ZxwMZ4IsCDKPY8y5h9vLO-V8szsTHoBdH3JvXm0KQBddNYGZxgPTi0VhVgV50P55VqM3HUAT-js6_JEDf8Mjkl61vFot8ueJSY_aQn6srX7xclqsjijNgh0AwMhMcJf02-oXB59xpy4mKhqsKQcPN4a0DVyK62PFaQrjCf0bZgbr2v8AFQpTmCwk7ilB1pkr9rrInucrJva2mBuGA1CQE3gZa542UntIKFf2iGbgVcMu4UuEHyD-4-4oP1PWQnIL1-uSKulr9HASq_MVNpg.jpg" /></p>
-<div class="tgme_widget_message_text js-message_text" dir="auto">В рамках X Санкт-Петербургского международного форума контрактных отношений состоялась сессия, посвященная особенностям и актуальным изменениям в регулировании закупок в строительной отрасли.<br/><br/>Модераторами сессии выступили Гончаров Александр Юрьевич — директор Департамента ценообразования и ресурсного обеспечения строительства Минстроя России — и Кириленко Сергей Сергеевич — эксперт в сфере закупок.<br/><br/>В ходе сессии прозвучали доклады, охватывающие широкий спектр вопросов регулирования строительных закупок. Участники обсудили современное состояние отрасли, перспективы ее регулирования и актуальные вопросы закупок.<br/><br/>Отдельное внимание было уделено злободневным вопросам обоснования НМЦК при осуществлении закупок строительных работ, а также региональному опыту по созданию Единого регионального заказчика в сфере строительства.<br/><br/>Кроме того, в ходе сессии был представлен обзор изменений законодательства в градостроительной сфере и их влияния на закупки строительных работ, а также освещены основные подходы Минстроя к классификации работ в области строительства и категорированию объектов капитального строительства.<br/><br/>Сессия стала площадкой для открытого диалога и обмена опытом между представителями органов власти, экспертного сообщества и бизнеса, а также обозначила ключевые векторы развития регулирования закупок в строительной отрасли.<br/><br/>Ознакомиться с презентациями спикеров можно по ссылке: <a href="https://disk.yandex.ru/d/U4z6KZpuQFvs3w" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">https://disk.yandex.ru/d/U4z6KZpuQFvs3w</a></div>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/kgz_spb/3475</guid>
-      <pubDate>Fri, 02 Oct 2026 15:18:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>В рамках X Санкт-Петербургского международного форума контрактных отношений состоялась сессия, по…</title>
-      <link>https://telegram.me/kgz_spb/3470</link>
-      <description>В рамках X Санкт-Петербургского международного форума контрактных отношений состоялась сессия, посвященная регулированию корпоративных закупок по 223-ФЗ. 
-Рассматривались актуальные поправки и механизмы контроля.
-
-Модераторами сессии выступили 
-Павел Альбицкий
- — директор департамента обучения электронной площадки РТС-тендер  и 
-Андрей Храмкин
- — ректор Института государственных и регламентированных закупок, конкуретной политики и антикоррупционных технологий.
-
-В ходе сессии прозвучали доклады, охватывающие спектр вопросов по закупкам у единственного поставщика, нарушение сроков оплаты, оптимизации закупочного процесса по 223-ФЗ, регионального контроля в сфере закупок, cудебной практики.
-
-Отдельное внимание спикеры уделили вектору развития и основным рекомендациям по работе с закупками у единственного поставщика, копоративным закупкам Подмосковья, а также закупкам на маркетплейсах и в электронных магазинах.
-
-Сессия стала площадкой для обмена опытом между представителями органов власти, экспертного сообщества и бизнеса.
-
-Ознакомиться с презентациями спикеров можно по ссылке: 
-https://disk.yandex.ru/d/BbJKlorwCI8Fkg</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/Vo5cEdpwNZnkmaQHcEJvtVtHu-Zw-M4QD-86MZEV2LnyAHi6VKXHbB5ardlLxePIKUa0JEwaGalUPcIJDPOCuRnPMyPwciabZ5yaN7b0uocj4fMYcMvGXEzGuCGpFb4hawuBSawrcA4GVBqo2az9VbCCto3F8HA7_7KS6G_id4WzSqriuTFNCxfTMP7eNv4B8rtbIqdAWH1o8qXI-i6tSQ2k9rzq8F1pcZSVVFX_sheEjj7z-sNjGKZm8eJ29mhSewgpzOqt7cUbfXIQ7CCNemf6niX-Qyl9kEzC8DGDnmmZ7jMt8NXk8OqP3q97yq3JCX-EtP8N-dMChFOe7E-0bw.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/izKcsO5Ta5nGUxKOvzj4nsh7WT5B0JMFyQwoxvU1ZJakH5XDspGJIMyAvr5oJxH6HIwSV7P7O1q5a0ipwAZs2Ul-falwdY8m1MCd_XVh4YSIUnA8WvTs12ZgHq-pEs0GTRZcfoJHbPS2cSyTk2UOBIyrp0YrrIx1gnYmlr8xGeh0wNbeuMmTn41-Q2fmBUITq4SHomG1zdyhzTcM9JrwS1cz1_rHgrowTFDo09UXFSdHZC7c2da2ILTJurWkZP5YTA3byMKqSOivtzM1HxQoGpK4YJ5R2A596iTyP9w1opw8tQbyjvJby9Rf_y8dm2tqYLGKmEQrg68yrPg4RRYHJQ.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/K8ntb56VvLvEIjC6JQO2Ob1g_Pfzrtp_Zg_5UpLDKpQu-MR7rdiPByQwiBcSVhF1OMihxY0xArFbrrJx-D1JALCB8O1UpWCmqujNrZIc4pOn3HF9OewZmMTi01PtlM_wOJPY1tPVSUD4sN2mkiaw_wjhxUf-dPMSx7oGS1M9Jkf0ICo03Pmo4vaAvE8-K8qMj0RAcxfmfiIda3o279A5g__X3V-bLCSlY3QIX-wPNbnQBURkQauHposHpYjc8vPKBVt_yhejlAbnkIHodsEcdsBbNNTeNoQkXqPB0xsL0pd2UyiHQ-g2oDV4G0s-8bcbHgLVnxjjF2_LaXK-4A9ByA.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/Nn73h8qRAaPXbsHJ2WalApH2KDTjYEBYtz19bKoTwuD03tJok-myQZWyDQXDSci9nE7tT1j3KMoL-EKeeNhfyTeIa7kN6r_unTOgpOrp9gJZOHiUGI2En60hf4mhXgjvrTUUYxOV9uTaB5jOWVs17FKtMhHio1yg5JPRQq3wo733c_2Xig_bLsm_O-uRF95Z6pwE-ue_FSVmERLDGYfAoIklSiUV2v8Mv01To4F05Mo315jMFpwU4LnYfzpRbRmpOY5cO2MJDMHhDU7_8Lf0EL7lgWgx0x8Gf-fiby4hmQQhwM50askbEcv3evqS4CFfw57bckHT6tagPowXe6W7vw.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/slGbGXUQQ0zTaI7yLv6t6sJwP5gxoyO32O5jxZeFyowyRRhyheb1-j9PRqFz0ADDfMNG7i5Dn4oNAXoa_Eye3pIYgK9DEMLRKqeY7hLdQeLbqfOXE9-Z8Dlhd_N7ktwdNthmDgR1e2meruHPp89EmdJaoc638eJKYnFfkZ2MkDowhBSTCDANNXF2lQNF7JIzkGPpcezf-VFdbQ5ama8imGHy8x_oMnqtTbl4vXY_LgGgvQeJYCIXhmtkbtE0Fe8yngdCvVhYLJRiW8E-pR-0Zrcq9K4SezjQLIzB-Unu0JgfXJVrQE8KAGQoyBQsMB9qjszLcn-Y9Bk_jJdHT_L7YQ.jpg" /></p>
-<div class="tgme_widget_message_text js-message_text" dir="auto"><b>В рамках X Санкт-Петербургского международного форума контрактных отношений состоялась сессия, посвященная регулированию корпоративных закупок по 223-ФЗ. </b>Рассматривались актуальные поправки и механизмы контроля.<br/><br/>Модераторами сессии выступили <b>Павел Альбицкий</b> — директор департамента обучения электронной площадки РТС-тендер  и <b>Андрей Храмкин</b> — ректор Института государственных и регламентированных закупок, конкуретной политики и антикоррупционных технологий.<br/><br/>В ходе сессии прозвучали доклады, охватывающие спектр вопросов по закупкам у единственного поставщика, нарушение сроков оплаты, оптимизации закупочного процесса по 223-ФЗ, регионального контроля в сфере закупок, cудебной практики.<br/><br/>Отдельное внимание спикеры уделили вектору развития и основным рекомендациям по работе с закупками у единственного поставщика, копоративным закупкам Подмосковья, а также закупкам на маркетплейсах и в электронных магазинах.<br/><br/>Сессия стала площадкой для обмена опытом между представителями органов власти, экспертного сообщества и бизнеса.<br/><br/>Ознакомиться с презентациями спикеров можно по ссылке: <a href="https://disk.yandex.ru/d/BbJKlorwCI8Fkg" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">https://disk.yandex.ru/d/BbJKlorwCI8Fkg</a></div>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/kgz_spb/3470</guid>
-      <pubDate>Fri, 02 Oct 2026 13:49:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Продолжилась программа специальной сессией: «Особенности закупок в здравоохранении. Актуальные из…</title>
-      <link>https://telegram.me/kgz_spb/3463</link>
-      <description>Продолжилась программа специальной сессией: «Особенности закупок в здравоохранении. Актуальные изменения законодательства», модератором секции выступила заместитель директора департамента обучения электронной площадки РТС-тендер – Ворожцова Н.В. Её доклад был посвящен особенностям закупок лекарственных препаратов.
-
-Затем Эксперт в сфере закупок Валентина Кошелева рассмотрела различные бизнес-модели при закупке медоборудования: аренда, лизинг и другие формы.
-
-Принципы обеспечения гарантийного обслуживания медтехники легли в основу доклада Игоря Архипова - члена правления РА РАПМЕД, председателя Ассоциации юридических и физических лиц в сфере обращения медицинских изделий «МЕДЭКСП».
-
-Об особенностях правоприменительной практики в применении национального режима в закупках медицинских изделий был доклад начальника осуществления закупок контрактной службы ФГБУ «НПИЦ онкологии им. Н.Н.Петрова» Министерства здравоохранения РФ Дмитрия Полехова.
-
-Проблемы определения НМЦК и цены контракта, заключаемоого с ед.поставщиком в сфере здравоохранения обозначил в своем выступлении Григорий Александров, эксперт по закупкам в здравоохранении УЦ 
-ПРОГОСЗАКАЗ.РФ
-.
-
-Владелец продукта ЭТП РАД по 44-ФЗ Елена Мухина сделала обзор наиболее частых вопросов при закупке «с полки» лекарственных препаратов - что нудно знать заказчикам и участникам закупок.
-
-Новые горизонты 44-ФЗ, а именно ключевые изменения в сфере закупок лекарственных препаратов и медицинских изделий в 2026-2027 годах, рассмотрела в своем докладе эксперт-аналитик, руководитель направления, БФТ-Холдинг Ольга Панфилова.
-
-Будьте здоровы, дорогие участники форума!
-
-Ознакомиться с презентациями спикеров можно по ссылке: 
-https://disk.yandex.ru/d/W43FPjvXNZpBog</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/rWEsLkGvwPmg3J7rc3zuocAM_EYjwbiGLYVtf870NSVHj7LB33GK1xdCe_GHkXvQXvUyp44bm79B4VOZKbfkF82uDNHe_VQ_yhqhmokpzyeAoW9PNMkgH9etZc4DOHrloBybo26hrwmDqK8AyiO8PwLSlQFDzGC90-ICcN6fP_R-MVK5nfqpwST5x7rGVw8pgUuRlsZjkqAkdcMvFW0vYuc49xGuPzfV7ChOQOMn8X_k86NWNHgYE_eh_4WFEttMEE9zfPww_pbOFeQPRGoCPbJNgm14PPqakEqEpAT09jW7-lOK4tFCXBH22BrfM5vl9rGzNThPJV46HmtOiYSCig.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/bipBqluUK-EaKljf3HV4fFFKx79wJ5Z5ZPhja3TuinyEk8fxzYqHVGpEkZHoiEHb2nXx18qX3sMJ2HjI9Y0W-mtNWPwK6O8XQtuT5AzIZwKbOpM7CgDfTT26Y3NFH5vDdxMOsRbLW8FXRFRQMOFfmhKLFWDicRRKSv-d4GW-fNSVkDmLDkaE9_AZAULMN-KPviY8VstH7tpRw1kiXKcHk7p0g35xYCBBVqJWMC_izfB5HPsKTaKaupd8NB_CKLqgJrrRm6XME_eqX6Pn26ndMUGqjO_mdsLjE_3EA1rrktpUuLApeyUBt6dh0Pgf_btzURkzK48IDqjVW39Ep0gVzg.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/vfXP8JM-sOTXID7VunHNzo-2FmFm6H8gteVViqIzYFZY60mDNw2dUJ_HkzDPtUtMLP5OtD5faL4cINmyHD3i4NVbk2WkdM54n87JB4eUqPxT07KyEpPWWPgw7Sao-z3R7Tlv0PhQOr2zov0o04dc8352KCu2RkUPDL7qzbMeudx_rkTVcnB6cYpXod7Qtw6sU5mXysK-K79CtgDNdS5_IiubnClqKuaVSdkylSApAKY_l7fZP1O5ZWrTbh4BDgjHywtNTFddSp4XhBxdeWUbw117ICoGDI0IX7BJHoLDNn2S7CROaV9p0XRXoqngu_LfnQGD9FLwcMEJn5mwNFqdBw.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/SJCbt9fmrYXwwpNCrDF9uX4rAtIjBjGU1kbBsZw81od6O1pU3D3clJ2UQ2k3zVSmwp4DzfFX8VkBWwz5zJgS8zRMcgla4G7UqGR3VI4oqfUPTS1LpIwisj6UEJBgs-aWo5AO-T9_Donppr1r5XDO86mWsJMiFI4a58mRmQFYfedZBOI6k_dhz78Is3ltE81ze_EbtsiEC8jfIjgRF7qmthHIFjW1LKDC4l1Psx985OlhyPJ0TzMRenr1QNFbhpoelcwQwgeLbBsbieoJKR7jSWTgxk-KBLl4jIQ9dWn7uKem4zCLadGV9hhJhgy2-1YPD3Jv8JzyXDXAD-4pLzNP0g.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/Jkpf4pplf1p9dKaAxmTXr5HgoPlWLSl5JGX8rf7IRThVuU34qyCW9n6wJA_WZgphLlLU5g1AeUrMxk0nu2Na12MEjKCxvp00-MQRyoGauurX6ecaLujwugBC3Qqzrkz8PC7pCcYl0zD02wWFmBdnHIykDtMgYwpD_bjAWosk-Rx8UK-cDDXHVHChlzoqeyFY-H4wp99uPWIrDCkcACoU9csuwI5gRkFVBzp9m0xvJWteXB8ZlhThlwR87bbeOG65c4Kj8P2u1_Oa4nDKSpvVdziGm7V0lP45rjj50YnCQwN-sYZEvbhXKkkE4RO8ZN6PNxpJEhTMsa7IN_PYmfPuYw.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/sOxysNVkJpiDJLVpHO-S-WNSKfK0j20sCA_xkkix3yShNBPW5vmKj9eEHpdGQGKJYheOoj3M2hdEWFdI5qrTGw7EvKdSMyTGc2JCWCvXohrsgAfe3gpcZhhbbziGjX1umKfsMaHVKKO6PQ2N9Gz2KwHpP0IO5kacuCy-WrLf3Qen-h6q1QqieEaWLJu9VYd9mCYqdLlp-BIo1QtNEb4_5LwdcWbIo-2UZLIQLSlnwM4-8WXI3e78bd7-xPstYMQkMzFnLkCoeH6YQy7QJRhMMnq88i2YmzXD-reiaQtcDfRt5Qr20vPc2LEUIjUG9lauk-cYCpdbPZewc7AABJj1mw.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/M6cr7Q_p0GYDJEp380ASqMCtfZJSR-DtdUG6wR-HQpMof8-8jV150CvlCOfjzFXkkJwi49Ns-xf7rayjNcGfdjTyq6KeXQ6K0-QvsuyL9cozWaXNDQ8UI6eNLTJTDG2UPuAlVyRvAoHiuRewjGyaLstlQg8sOd2fZX4mIApx1Yr_ZkJFav1wvM6PBn-BKV3JDce7gYLH97NnKuKd3tDBIKNn9Y96MOL4u3HoMViwIxcB5Vu5d4277wrWEfQF0zalbi_myqOKDtz9VnjTd2udqz-XIFcMNMQOa1n-l39YFMsVVNJ5L7YiNndmP7dUKqshvL1e8vFvc8q5d6TkuDfBtw.jpg" /></p>
-<div class="tgme_widget_message_text js-message_text" dir="auto">Продолжилась программа специальной сессией: «Особенности закупок в здравоохранении. Актуальные изменения законодательства», модератором секции выступила заместитель директора департамента обучения электронной площадки РТС-тендер – Ворожцова Н.В. Её доклад был посвящен особенностям закупок лекарственных препаратов.<br/><br/>Затем Эксперт в сфере закупок Валентина Кошелева рассмотрела различные бизнес-модели при закупке медоборудования: аренда, лизинг и другие формы.<br/><br/>Принципы обеспечения гарантийного обслуживания медтехники легли в основу доклада Игоря Архипова - члена правления РА РАПМЕД, председателя Ассоциации юридических и физических лиц в сфере обращения медицинских изделий «МЕДЭКСП».<br/><br/>Об особенностях правоприменительной практики в применении национального режима в закупках медицинских изделий был доклад начальника осуществления закупок контрактной службы ФГБУ «НПИЦ онкологии им. Н.Н.Петрова» Министерства здравоохранения РФ Дмитрия Полехова.<br/><br/>Проблемы определения НМЦК и цены контракта, заключаемоого с ед.поставщиком в сфере здравоохранения обозначил в своем выступлении Григорий Александров, эксперт по закупкам в здравоохранении УЦ <a href="http://%D0%9F%D0%A0%D0%9E%D0%93%D0%9E%D0%A1%D0%97%D0%90%D0%9A%D0%90%D0%97.%D0%A0%D0%A4/" rel="noopener" target="_blank">ПРОГОСЗАКАЗ.РФ</a>.<br/><br/>Владелец продукта ЭТП РАД по 44-ФЗ Елена Мухина сделала обзор наиболее частых вопросов при закупке «с полки» лекарственных препаратов - что нудно знать заказчикам и участникам закупок.<br/><br/>Новые горизонты 44-ФЗ, а именно ключевые изменения в сфере закупок лекарственных препаратов и медицинских изделий в 2026-2027 годах, рассмотрела в своем докладе эксперт-аналитик, руководитель направления, БФТ-Холдинг Ольга Панфилова.<br/><br/>Будьте здоровы, дорогие участники форума!<br/><br/>Ознакомиться с презентациями спикеров можно по ссылке: <a href="https://disk.yandex.ru/d/W43FPjvXNZpBog" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">https://disk.yandex.ru/d/W43FPjvXNZpBog</a></div>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/kgz_spb/3463</guid>
-      <pubDate>Fri, 02 Oct 2026 12:59:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Сегодня в рамках деловой программы форума отдельная сессия была посвящена искусственному интеллек…</title>
-      <link>https://telegram.me/kgz_spb/3453</link>
-      <description>Сегодня в рамках деловой программы форума отдельная сессия была посвящена искусственному интеллекту в закупках
-
-Секцию «Роль искусственного интеллекта в оптимизации закупочных процедур» модерировала 
-Наталья Зейтениди
-, генеральный директор БФТ-Холдинга, председатель Комитета по цифровизации и применению ИИ Союза закупщиков.
-
-Разговор начали с базовых условий внедрения. 
-Наталья Зейтениди
- представила актуальный нормативный контур, требования к защите информации и основные барьеры: неготовность инфраструктуры и данных, безопасность, дефицит компетенций. Регулирование становится конкретнее, и вместе с ним растут требования к тому, как ИИ должен быть встроен в информационные системы и рабочие процессы.
-
-Андрей Сытник
-, председатель Комитета цифрового развития Ленинградской области, рассмотрел ИИ в контексте государственного управления. 
-Дмитрий Казанцев
-, руководитель направления методологии закупок ЭТП ГПБ, член Совета ТПП РФ по развитию системы закупок в России, поднял один из принципиальных для закупочной сферы вопросов: как распределять задачи между ИИ и контрактным управляющим в рамках действующего законодательства. 
-Михаил Комаров
-, директор по развитию бизнеса в области данных и ИИ ПАО «Ростелеком», представил взгляд госкорпорации на подходы и барьеры внедрения ИИ.
-
-Практическую часть дискуссии открыли кейсы Москвы и Московской области. 
-Ольга Проскурякова
-, начальник Управления решений в сферах закупок малого объема и управления инвестиционной деятельностью ДИТ Москвы, представила опыт внедрения ИИ-сервисов на Портале поставщиков. 
-Кристина Хромова
-, начальник Управления подготовки земельно-имущественных торгов ГКУ «РЦТ» Московской области, рассказала о применении ИИ в трансформации земельно-имущественных торгов.
-
-Еще один срез практики дали ИТ-разработчики. БФТ-Холдинг, «Кейсистемс», РТС-тендер и СберB2B представили собственные разработки. И здесь хорошо виден общий вектор развития: ИИ уже работает с нормативной базой и документацией, помогает готовить закупки и анализировать заявки, выявлять расхождения и риски, автоматизировать контроль. Следующий шаг – ИИ-агенты, способные брать на себя не одну операцию, а последовательность связанных задач.
-
-Общий итог секции:
- практика применения ИИ в закупках уже сформировалась на разных уровнях – от государственных и региональных проектов до решений ИТ-разработчиков. Теперь в центре внимания масштабирование работающих сценариев, безопасность и качество данных, а также границы полномочий, которые можно передать ИИ.
-
-Ознакомиться с презентациями спикеров можно по ссылке: 
-https://disk.yandex.ru/d/OyKmeP1TCUNQhg</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/aNCSWQst63sAMkRRBjNeJH11987Bjx_0rLHMaG2Cb4iUKT9o4U3h_ecuWecE-C7iPstS_AuORTd0IoNYjNwIaPvne8dhx4NB1GAGvylJFOGEG2faUe7KKKfWh56QUAMcdfpUjgcXReyeHY-edsaQbHTKK1sLyKx2DJTR0s3iTvtjIymE06zhGN4G1qh2y166_VzY7fUltX5Fr-Bmg8v4SBhjBEkzXj0QGADVxwrXvbDSZg7LKd4BHw57TC_ffD3yeuNfF20GDCDmdT_fEgcUelzQdQBaaDV0dHNPGxWrdKJWufOOjcd2DwEiGocZEcRHgl2vXCXCJcxGjGzE1WXqiA.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/veQpQ8YeWWvikF4F6Fkfd4tU09yuXFGr9Mn0XAc-x_EMkhYw461PDd06v-Op_sguOUeZPFhoOtPn9Zm1fa8Rt3Tb25obFmVbL3i6OAWbKoFObydqfBTItQhF_1k0MqkH0rlXn1z6TqPNvdsrdRmev7BYqFYdA3UJ-FnjQpgGjd2Vt3yEGkBsmITl8z0TUDR8K8zpY1dvb7F8aiIzeAtTCf7azcDZGAr86Bg6rQwK3HGODzFpA65T1hFkve5e1ymipbtm4kyluSmgQ3FqV39HEajOVULOFYTeGseD5yqRy87uNsk4SrNXbmEMUP6XMmqtAA_aIYT7mfpRZXBW33FWDA.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/JJysbVN4KTKJi_e2V9FhOyl5JNXPMHZD-X3vQwSglDaaQYHJyh4IaiQVWEsUyMO-Ycob33IlhZMti9hftAI9720k8Cp5zQapRXVJl7nv0xMUr2CIYOF2-n_vPSjfyqQRrgb2ZLoG-ey4HIopbvX9yFqSmZr0bRJUh07VtOvczd61ktC3QL5MGwM_xPq7vd9r7IN2Mw1T9IYg8hXN0kVgytWwR29rSFw8FtyEyTfeZPMeUYAB0gfgFLbEwliBazoHbp42r5t7YPoRofWt-zJLUl-rQHO2bWR8wa3jtNaHEGQCu6Szyj75YjpGVXXMh_6v7HLJ_Jxm9oiNKUPS4LJ4Nw.jpg" /></p>
-<div class="tgme_widget_message_text js-message_text" dir="auto"><b>Сегодня в рамках деловой программы форума отдельная сессия была посвящена искусственному интеллекту в закупках</b><br/><br/>Секцию «Роль искусственного интеллекта в оптимизации закупочных процедур» модерировала <b>Наталья Зейтениди</b>, генеральный директор БФТ-Холдинга, председатель Комитета по цифровизации и применению ИИ Союза закупщиков.<br/><br/>Разговор начали с базовых условий внедрения. <b>Наталья Зейтениди</b> представила актуальный нормативный контур, требования к защите информации и основные барьеры: неготовность инфраструктуры и данных, безопасность, дефицит компетенций. Регулирование становится конкретнее, и вместе с ним растут требования к тому, как ИИ должен быть встроен в информационные системы и рабочие процессы.<br/><br/><b>Андрей Сытник</b>, председатель Комитета цифрового развития Ленинградской области, рассмотрел ИИ в контексте государственного управления. <b>Дмитрий Казанцев</b>, руководитель направления методологии закупок ЭТП ГПБ, член Совета ТПП РФ по развитию системы закупок в России, поднял один из принципиальных для закупочной сферы вопросов: как распределять задачи между ИИ и контрактным управляющим в рамках действующего законодательства. <b>Михаил Комаров</b>, директор по развитию бизнеса в области данных и ИИ ПАО «Ростелеком», представил взгляд госкорпорации на подходы и барьеры внедрения ИИ.<br/><br/>Практическую часть дискуссии открыли кейсы Москвы и Московской области. <b>Ольга Проскурякова</b>, начальник Управления решений в сферах закупок малого объема и управления инвестиционной деятельностью ДИТ Москвы, представила опыт внедрения ИИ-сервисов на Портале поставщиков. <b>Кристина Хромова</b>, начальник Управления подготовки земельно-имущественных торгов ГКУ «РЦТ» Московской области, рассказала о применении ИИ в трансформации земельно-имущественных торгов.<br/><br/>Еще один срез практики дали ИТ-разработчики. БФТ-Холдинг, «Кейсистемс», РТС-тендер и СберB2B представили собственные разработки. И здесь хорошо виден общий вектор развития: ИИ уже работает с нормативной базой и документацией, помогает готовить закупки и анализировать заявки, выявлять расхождения и риски, автоматизировать контроль. Следующий шаг – ИИ-агенты, способные брать на себя не одну операцию, а последовательность связанных задач.<br/><br/><b>Общий итог секции:</b> практика применения ИИ в закупках уже сформировалась на разных уровнях – от государственных и региональных проектов до решений ИТ-разработчиков. Теперь в центре внимания масштабирование работающих сценариев, безопасность и качество данных, а также границы полномочий, которые можно передать ИИ.<br/><br/>Ознакомиться с презентациями спикеров можно по ссылке: <a href="https://disk.yandex.ru/d/OyKmeP1TCUNQhg" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">https://disk.yandex.ru/d/OyKmeP1TCUNQhg</a></div>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/kgz_spb/3453</guid>
-      <pubDate>Fri, 02 Oct 2026 12:28:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
