@@ -8,7 +8,70 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 07 Oct 2026 11:53:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 12:08:42 +0000</lastBuildDate>
+    <item>
+      <title>✍️</title>
+      <link>https://telegram.me/ep_uc/5683</link>
+      <description>✍️
+Внесены изменения в требования к формату нотариально оформляемого документа в электронной форме
+
+Приказом Минюста от 29.09.2026 № 268
+ внесены изменения в пункты 3 и 8 
+Требований к формату нотариально оформляемого документа в электронной форме.
+
+Пункт 3 переписан полностью, если для документа предусмотрена XML-схема, то нотариус направляет получателю два файла:
+
+🔹
+XML - для информационных систем, подписывается КЭП нотариуса.
+
+🔹
+PDF - для визуализации XML-документа, содержит 
+отметку об электронной подписи.
+
+Из пункта 8 исключено второе предложение о том, что ранее пакет из XML и PDF подписывался КЭП Нотариуса, про визуализацию речи не было.
+
+Первое предложение пункта 8 вызывает вопросы:
+
+Документ в электронной форме подписывается усиленной квалифицированной электронной подписью нотариуса, консульского должностного лица в формате PKCS#7 (отделенная электронная подпись в кодировке DER)
+
+PKCS#7 - устаревший формат, 
+который не проходит проверку
+ сервисом Головного УЦ. Не хочет Минюст ссылаться на 
+472 приказ Минцифры
+.
+
+Вот и думайте, какой смысл от экспертных советов с приглашением 
+толпы людей
+, рабочих групп, форумов и конференций, если приказы министерств годами содержат грубейшие ошибки.
+
+✍️
+"Об ЭП и УЦ"</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/N1Jf9bNOGQEQvF1T4t0GPZz6KEeknMpWGo2kp5nTk-fPuVUH6__BxDZiVIID91wGCEDN5GCBACccV1anHat_h6-_wjKwqoKtXyPKsMN5kSCXSLMsWwUDOpp5w_EQe5Nk4ibb5B8t21P_AT5kpweafYRbLOHJ4J809iDWTd1F3hvszD1i2M-1ZElgwUqBrRBkvUxbvkXFk_lyx9rEGr_GUhNhfhdQeU9BI252Lx0SuRBggAKpwdE5jLqG2qn8YLj9XCwLo03QJPefErQ-0AaXlyVuKbTeOfoE4L7z3Dvg995eBR4tYIXCL3AiroRHry_zA_oDFLCiPI9rSvoU8_iu3Q.jpg" /></p>
+<tg-emoji emoji-id="5470060791883374114"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><b>Внесены изменения в требования к формату нотариально оформляемого документа в электронной форме</b><br/><br/><a href="http://publication.pravo.gov.ru/document/0001202610060011?index=2" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Приказом Минюста от 29.09.2026 № 268</a> внесены изменения в пункты 3 и 8 <a href="https://docs.cntd.ru/document/565912478" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Требований к формату нотариально оформляемого документа в электронной форме.</a><br/><br/>Пункт 3 переписан полностью, если для документа предусмотрена XML-схема, то нотариус направляет получателю два файла:<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>XML - для информационных систем, подписывается КЭП нотариуса.<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>PDF - для визуализации XML-документа, содержит <a href="https://telegram.me/ep_uc/3802?single" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">отметку об электронной подписи.</a><br/><br/>Из пункта 8 исключено второе предложение о том, что ранее пакет из XML и PDF подписывался КЭП Нотариуса, про визуализацию речи не было.<br/><br/>Первое предложение пункта 8 вызывает вопросы:<br/><blockquote>Документ в электронной форме подписывается усиленной квалифицированной электронной подписью нотариуса, консульского должностного лица в формате PKCS#7 (отделенная электронная подпись в кодировке DER)<br/></blockquote><br/>PKCS#7 - устаревший формат, <a href="https://telegram.me/ep_uc/4977?single" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">который не проходит проверку</a> сервисом Головного УЦ. Не хочет Минюст ссылаться на <a href="https://telegram.me/ep_uc/5555" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">472 приказ Минцифры</a>.<br/><br/>Вот и думайте, какой смысл от экспертных советов с приглашением <a href="https://telegram.me/ep_uc/5591?comment=230955" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">толпы людей</a>, рабочих групп, форумов и конференций, если приказы министерств годами содержат грубейшие ошибки.<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5683</guid>
+      <pubDate>Thu, 08 Oct 2026 05:43:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Пост — Об ЭП и УЦ</title>
+      <link>https://telegram.me/ep_uc/5682</link>
+      <description>Пост — Об ЭП и УЦ</description>
+      <content:encoded><![CDATA[(нет текста)]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5682</guid>
+      <pubDate>Wed, 07 Oct 2026 18:45:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>📣</title>
+      <link>https://telegram.me/ep_uc/5680</link>
+      <description>📣
+Для всех пользователей 
+Рутокен S
+ (вдруг такие ещё остались)</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/gI0RJ3hsbgQTrm-lsyv_v9eqsZ85dy43hWRbW2VgJohIP6ivycxm0SynTvPRCcedkhTo1tNiScE8iSjF0J0SzoiFD1agvMlDcQht0io7n8JZppwPVGC7iRdPASv6QVS77PX5frXFy4IQZ-ht8pF6sYO0ioJxop3Xzv7HjkVeu6p6T0aez-X3DoHGO0TZ0MajzHq_pyVXWTNE10hKWxYpGDW0VwMhEUvbp0oAI1hPZO-VMk0qnf8H6PiTnUeFCJwgmLqMY-dNgL1gaXy-AVia0nCOBEe1VHZDIk7jfCPuJ90IEDfgcnwqRYcEqiCfzZ9wjgvWTIKpvnd45lz_MpGtQg.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/QAjzlwKDYsmPVKdVg5bzR6InGKqM4KWRaYlxJWF5CwDwrHdJW1_pwhRdKWmdQR-41LJckqGvRiK6VGFAKfKPGXnKzvKS2W_7L6uwa32QWOhODxrweT92611UhTDRDcHOW5DV3LxFnOj8wCEAfVA-4XqiYak56uDmMelAYWs7c-ZnOSMP77j8pXKR4mwSNh4NHIiQkZD-DPq2oKfPR2L1OyFpiA4a_vAeVMUylcgESwLytRj_EonlO25ghfcS2VcQnsYVC5h91RDAd1FQJf79sCOiWIYyefb2o9djPxm6Jr_gvVDegTFt7OAxYr96uWdHax6EHqxamtSzyniWjdpNRg.jpg" /></p>
+<tg-emoji emoji-id="5470094069289984325"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93A3.png')"><b>📣</b></i></tg-emoji>Для всех пользователей <a href="https://www.rutoken.ru/products/all/rutoken-s/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Рутокен S</a> (вдруг такие ещё остались)]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5680</guid>
+      <pubDate>Wed, 07 Oct 2026 17:43:06 +0000</pubDate>
+    </item>
     <item>
       <title>🛡</title>
       <link>https://telegram.me/ep_uc/5678</link>
@@ -49,7 +112,7 @@
 Телеграм-канал 
 "Об ЭП и УЦ"
  выступает медиа партнёром конференции</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/i0kH-Nu3agIu_DzIV3b1tKZ_NayusGoNGxQICwoBppo6GXCaIJf5uRqPutY40xsnTyJh8sgdvB7QxLp10Cs1DtLJQbD6dr6KTx-eAxSxqjlyn8qh-3V8dnwvIhZK7VHsDwdgR6-DgvvdOWksV4GnT1PrMmfSu2d95MrZ02F-618xD7PLeOBQ4K422EroXQS3Ia4K7QqcJCoGNglycTpVgLHPG6o5oY29VSLYlZfujkZpu3RVvjkfPt9JWXSMvQNgRC07yZRUxkEM3hINOPFEvEYV5MoeThVQY07BRSFU_2EW1YLP9iuViOi1Q_-HG3D5ubM2-ldRTZK9hGKzVr9OHQ.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/rYdIjZ-DGw34tUYz2fl_V7rMa5A5h05L51V_r8orztEzVG-y9DlDay4Ak1aj_yxrCZINRDilGjnslQ1odVxcUcIUi91rn2nbxlv264e83CfAgewfBM12YIXfjpSfJKDuqDqZAGXPOCcCIMi0nIYP12ldC_F2MPX1p84pvjp8Gevp6ATx5XoyRZCf8MR3ihFd_7tLvHdxj5O3eWjKs40-t9gnm9RcMYRu0ayLgCqKh_kxlfZCjKbYPfTP_qtTPD5UoGxQuhc3d4B-QJ9zm5nQnJIHdkenbLkzlTETFWALM8oC5KbrPilDCrpF_vnjem0__Atif7VBjOeiReqQ8MU1Wg.jpg" /></p>
 <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9BA1.png')"><b>🛡</b></i><b> «Проверка на прочность»: «мы проверяемся» ≠ «мы понимаем свои риски»</b><br/><br/>Аудит пройден, пентест проведён, отчёт подписан. А утечка всё равно случилась. <br/><br/>14 октября в Москве <a href="https://www.comnews-conferences.ru/ru/conference/breakme2026?utm_source=tg&amp;amp;utm_medium=free&amp;amp;utm_campaign=ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">форум «Проверка на прочность»</a> разберётся, как не перепутать активность с результатом.<br/><br/>На стыке права, данных и безопасности:<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> что на самом деле хочет регулятор (CISO Билайна, Т-Банка, МТС Банка, Райффайзена, HeadHunter, Почты России)<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> право на взлом: где граница между этичным хакером и нарушителем<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> ИИ в оценке защищённости: где помогает, а где создаёт новую иллюзию<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> подрядчики, которые могут уронить вас быстрее хакера<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> интерактивный мастер-класс Алексея Лукацкого «50 оттенков зелёного»: как метрики ИБ создают иллюзию защищённости<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938D.png')"><b>📍</b></i> 14 октября, Холидей Инн Сокольники, 9:00–18:00<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"><b>👉</b></i> Программа и регистрация:<a href="https://www.comnews-conferences.ru/ru/conference/breakme2026?utm_source=tg&amp;amp;utm_medium=free&amp;amp;utm_campaign=ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"> breakme-forum.ru</a><br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji>Телеграм-канал <a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a> выступает медиа партнёром конференции]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5678</guid>
       <pubDate>Wed, 07 Oct 2026 06:00:35 +0000</pubDate>
@@ -77,7 +140,7 @@ CA/Browser Forum обновлены базовые требования - AIA, �
 
 ✍️
 Об ЭП и УЦ</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/lVcyj9jrXRIQpkOjSAbkZAEf_dDFt8unEJwbFbmQeWymSAWjO_Akrentrt-H6vy-UYf0-OhGJQn9Epxch-Vkp0ZlOPVXhIHXh302BDovOvFPQ8H43DbPmiMEzARRwXZ5ASXa6Pzqbq3mRnf5g5ZFzgeIg_Tl9MxirLE1xaHX8rM9USJ1TnLFkBehXzNSO-akQsw-CGKtHkX1UgmHJH2Nr_1oUlypVq86mYyWipUnxYwq5J0mjZLhW1zHNzMaZPweTPtTq6J3UBiUOhEFnv116opCje-zTsPbYxoTKQN2QEeKNGvWagX-JKTkgE54aQNe-HE_38Iroq20hPKSgKmi6Q.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/IHBuQ9vZgtASoU4fhQOMBmp980s99wZe6QlXGVg3EwMD4GrcsEiJPArl4fdn4igHKWBweiF2qxosZpjIB8hE2waohXEsRBtBGVyzToWQImNHU7yleiJLYKdpgpk4NLNae3U-KbMdnn-Yi_Exeyo6nLm1IKHavsEogO31CudDXjO-gqb6xn25hLUXRtktZuf7mDwEvwQhw-XRYiuGI--Ln9YI9NN23soXb3tIl0sT2WgoLLqbKNqmECkXtyKpmkzHjQ3znUoNFb4_RjFUyUukx4HQughd3EuOXraRExGEGBBpZy3TAm1CXuMdv3BixnuqSSwIkbC9l_ymx5r4GJudMQ.jpg" /></p>
 <tg-emoji emoji-id="5470060791883374114"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><b>CA/Browser Forum обновлены базовые требования - AIA, как опция</b><br/><br/>По итогу голосования в рамках <a href="https://cabforum.org/2026/09/03/ballot-sc104-set-presence-of-aia-extension-to-should-for-subscriber-certificates/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">бюллетеня SC104</a> наличие расширения AIA <a href="https://cabforum.org/working-groups/server/baseline-requirements/documents/CA-Browser-Forum-TLS-BR-2.3.1-redlined.pdf" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">установлено</a> в значение SHOULD (необязательное), ранее было MUST. Также требование о наличии хотя бы одного параметра внутри расширения дополняется оговоркой "If present" (если присутствует).<br/><br/>Объяснение данной корректировки простое - внутри расширения AIA уже существуют разные уровни обязательности для методов доступа.<br/><br/>Расширение AIA (Authority Information Access) в сертификате показывает дополнительную информацию об удостоверяющем центре, выдавшем этот сертификат. В обязательном порядке включает адрес OCSP-службы для проверки статуса сертификата (метод id-ad-ocsp) и как опцию ссылку на сертификат УЦ (метод id-ad-caIssuers). Например, если в TLS-рукопожатии клиенту не хватает промежуточного сертификата, AIA может указать, где его скачать.<br/><br/>Если ссылка на сертификат издателя опциональна, а адрес OCSP - обязательный, то обязательность AIA теряет смысл, указание адреса OCSP - потребует наличие расширения AIA, но если AIA отсутвует, то ни OCSP, ни ссылки на сертификат УЦ в сертификате не будет.<br/><br/>Новая версия базовых рекомендаций 2.3.1 <a href="https://cabforum.org/working-groups/server/baseline-requirements/documents/CA-Browser-Forum-TLS-BR-2.3.1.pdf" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">опубликована 04.10.2026.</a><br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Об ЭП и УЦ</a>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5677</guid>
       <pubDate>Wed, 07 Oct 2026 05:12:06 +0000</pubDate>
@@ -98,7 +161,7 @@ CA/Browser Forum обновлены базовые требования - AIA, �
 Не слишком ли избыточный обрабатываемый 
 состав персональных данных
 ? Это точно ИТ-Форум? Может к регистрации просто прикрутить вход через ЕСИА?</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/kiaagl2pkBVPndcQUd9Vzem_QmquEEwjNsXtblfPY8PuKp-c1szyhjN0vj2QfYrgWMRcpgxiBtcRF0nBNEABDpBaGo8vH-jJm_hmVeSDoAFSszqisTIW7gr6sdf62dJGYjOxo2e0GDuHXpTmM9qL04WO1lcvJsVWy5XMnbZLgWW_v0wZILJd3eraxYvnp_RbFB7aQCt2H8sXJwtVo-W3X8Td7Z6EJyIGqmm0Ju-RgGOiByKpGrCUgCJiZtqazjkMYObSuUPEIfTtHgTsfrdc8uWptRBQMEbzZVv0S3WDdZVTE35I2JewpuXYXvhKq7AR3q2-wJYRUppYaXh8D0CJvA.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/oh8cJv6kBlWjT4rIKYjEaWysGQKiMK8Yol36x_32h6qX2JkkhKliUQInWMM7LY3bi4w5Cot2iUGJj8xEKZ2Ehqgwkp4NdrOFcVi50bSo-aY4X9QvLWncf-7ttWwcbJ3M6VTkGz7zHXjSrX7TtYV-67pY3vJPugSIE3YTF_cKzhto2HGy4Y1_xJzJapCn6ulg6LYZDPrXWv7_VDCOy6Cg73hRQSaJanZpxiJRKgwTAGnR4Og1s-pTZnH-B6nd8Txvsh5MX-ZZtt3p2NdyNfxgQ6GX4Z_UTVsSAiHWP-9HHrltFhaDx8cWa9fEqVdw4ZzHKU5Q6ficuDczMoPjnhXRpQ.jpg" /></p>
 Пока премьер-министр страны на <br/>ИТ-форуме "Цифровые решения" <a href="https://www.pnp.ru/social/mishustin-poruchil-prorabotat-dopolnitelnye-usloviya-dlya-vkhoda-na-gosuslugi.html" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">поручает Минцифры проработать</a> дополнительные возможности входа на портал Госуслуг или для восстановления доступа сама <a href="https://russia.accreditation.ru/digital_solutions_06-10.10.2026/participants/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">регистрация</a> на ИТ-форум "Цифровые решения" представляет из себя... <br/>ручное указание личных данных, загрузка скан-копии паспорта. <br/><br/>Не слишком ли избыточный обрабатываемый <a href="https://newrussiaserver.accreditation.ru/cdn/d4nmfbnnurqsdnnak4xncv2swe/KH4gbjmvvXy27NyF2ANqnd" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">состав персональных данных</a>? Это точно ИТ-Форум? Может к регистрации просто прикрутить вход через ЕСИА?]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5675</guid>
       <pubDate>Tue, 06 Oct 2026 16:52:28 +0000</pubDate>
@@ -191,52 +254,6 @@ PKI-Форум 2026. Итоги  Опубликованы презентации
       <content:encoded><![CDATA[<tg-emoji emoji-id="5327952221118164589"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9490.png')"><b>🔐</b></i></tg-emoji>PKI-Форум 2026. Итоги  Опубликованы презентации докладчиков по секциям и экспертным панелям PKI-Форума - есть интересные, есть проходные, а есть и откровенная халтура.  <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>Электронная подпись стала массовой за счёт внедрения мобильных решений. Интеграция Госключа…]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5670</guid>
       <pubDate>Mon, 05 Oct 2026 16:50:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>✍️</title>
-      <link>https://telegram.me/ep_uc/5669</link>
-      <description>✍️
-ГОСТ сертификаты НУЦ: зазор есть, CT-логов нет
-
-С нашим каналом своим экспертным комментарием поделился Николай Лобанов, автор канала 
-"На стадии обсуждения"
-. Николай 
-также направлял
- свои предложения к проекту приказа Минцифры о требованиях к сертификатам безопасности.
-
-Минцифры обработало мои предложения к 
-проекту приказа о требованиях к сертификатам безопасности НУЦ
-. Кроме типового "Документ приведен в соответствие с требованиями законодательства РФ", в ответе нашлось одно место по существу, про журналы прозрачности:
-
-Гост сертификаты выпускаются через воздушный зазор. У подсистемы ГОСТ нету доступа к публичным логам.
-
-Что в проекте. DV и OV сертификаты на RSA должны содержать три SCT-метки, то есть пресертификат учитывается в CT-логе до выдачи (п. 117 и 169 приложения 1, дополнение 1.3.6.1.4.1.11129.2.4.2). В профилях DV и OV на ГОСТ такого требования нет.
-
-Зачем это владельцу домена. По CT-логу он видит сертификат, выпущенный на его домен без его ведома (
-RFC 6962
-, раздел 1). Если ГОСТ сертификаты НУЦ в логи не попадают, такой сертификат он не увидит.
-
-Почему зазор не довод. Встроить SCT-метку он действительно мешает: для этого пресертификат должен уйти в лог и вернуться с меткой до выдачи. Но учесть сертификат в логе можно и после выдачи, подать его туда может кто угодно (раздел 3.1 того же RFC). Выданный сертификат всё равно выходит из закрытого контура к владельцу. Тем же путём он может уйти и в лог.
-
-Какой лог его примет, отдельный вопрос: лог проверяет подпись цепочки и принимает только цепочки до корней из своего опубликованного списка (там же). Поэтому я предлагал, чтобы журнал вёл сам НУЦ или определённый им российский оператор, а сведения о журналах были записаны в порядке выдачи сертификатов.
-
-Ответ на это: "Предложения указанные в приложении будут учитываться при развитии". Статус: Частично учтено.
-
-Тема воздушного зазора актуальна не только в деятельности НУЦ, но и для АУЦ.
-
-Аккредитованный УЦ должен включить в Регламент перечень аппаратных средств, которые запрещается подключать к сетям общего пользования.
-
-- из 
-презентации PKI-Форума 2017
-.
-
-Воздушный зазор между центром регистрации и центром сертификации, на флешке в одну сторону передаются файлы запросов на сертификаты, а в другую файлы сертификатов и CRL (однонаправленный шлюз не предлагать). Если бы это нашло применение на практике, то удалось бы АУЦ выйти на текущий уровень автоматизации выдачи сертификатов - около 70 тыс. в сутки?
-
-✍️
-Об ЭП и УЦ</description>
-      <content:encoded><![CDATA[<tg-emoji emoji-id="5470060791883374114"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><b>ГОСТ сертификаты НУЦ: зазор есть, CT-логов нет</b><br/><br/>С нашим каналом своим экспертным комментарием поделился Николай Лобанов, автор канала <a href="http://t.me/na_stadii" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"На стадии обсуждения"</a>. Николай <a href="https://telegram.me/ep_uc/5668?single" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">также направлял</a> свои предложения к проекту приказа Минцифры о требованиях к сертификатам безопасности.<br/><blockquote>Минцифры обработало мои предложения к <a href="http://regulation.gov.ru/projects/170667" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">проекту приказа о требованиях к сертификатам безопасности НУЦ</a>. Кроме типового "Документ приведен в соответствие с требованиями законодательства РФ", в ответе нашлось одно место по существу, про журналы прозрачности:<br/><br/>Гост сертификаты выпускаются через воздушный зазор. У подсистемы ГОСТ нету доступа к публичным логам.<br/><br/>Что в проекте. DV и OV сертификаты на RSA должны содержать три SCT-метки, то есть пресертификат учитывается в CT-логе до выдачи (п. 117 и 169 приложения 1, дополнение 1.3.6.1.4.1.11129.2.4.2). В профилях DV и OV на ГОСТ такого требования нет.<br/><br/>Зачем это владельцу домена. По CT-логу он видит сертификат, выпущенный на его домен без его ведома (<a href="http://rfc-editor.org/rfc/rfc6962" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">RFC 6962</a>, раздел 1). Если ГОСТ сертификаты НУЦ в логи не попадают, такой сертификат он не увидит.<br/><br/>Почему зазор не довод. Встроить SCT-метку он действительно мешает: для этого пресертификат должен уйти в лог и вернуться с меткой до выдачи. Но учесть сертификат в логе можно и после выдачи, подать его туда может кто угодно (раздел 3.1 того же RFC). Выданный сертификат всё равно выходит из закрытого контура к владельцу. Тем же путём он может уйти и в лог.<br/><br/>Какой лог его примет, отдельный вопрос: лог проверяет подпись цепочки и принимает только цепочки до корней из своего опубликованного списка (там же). Поэтому я предлагал, чтобы журнал вёл сам НУЦ или определённый им российский оператор, а сведения о журналах были записаны в порядке выдачи сертификатов.<br/><br/>Ответ на это: "Предложения указанные в приложении будут учитываться при развитии". Статус: Частично учтено.<br/></blockquote>Тема воздушного зазора актуальна не только в деятельности НУЦ, но и для АУЦ.<br/><blockquote>Аккредитованный УЦ должен включить в Регламент перечень аппаратных средств, которые запрещается подключать к сетям общего пользования.</blockquote><br/>- из <a href="https://archive.pki-forum.ru/files/files/2017/04_Aristarkhov.pdf" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">презентации PKI-Форума 2017</a>.<br/><br/>Воздушный зазор между центром регистрации и центром сертификации, на флешке в одну сторону передаются файлы запросов на сертификаты, а в другую файлы сертификатов и CRL (однонаправленный шлюз не предлагать). Если бы это нашло применение на практике, то удалось бы АУЦ выйти на текущий уровень автоматизации выдачи сертификатов - около 70 тыс. в сутки?<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Об ЭП и УЦ</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5669</guid>
-      <pubDate>Mon, 05 Oct 2026 05:18:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
