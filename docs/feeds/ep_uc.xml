@@ -8,185 +8,138 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 09 Oct 2026 11:59:52 +0000</lastBuildDate>
-    <item>
-      <title>📊</title>
-      <link>https://telegram.me/ep_uc/5686</link>
-      <description>📊
- 
-Топ-10 аккредитованных удостоверяющих центров за девять месяцев 2026 года
-
-Общий рост выдачи по сравнению с 
-прошлым годом
-, прогноз по итогам года - 23 млн. Рост Госключа (ИИТ) - сказывается 
-переход
- на электронные транспортные документы. Пока топ-10 без 
-изменений
-, они будут по итогам октября.
-
-✍️
-"Об ЭП и УЦ"</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/JyncyRwj8E4Yiub426ZT1sbdbod7adjAvVANqFe118rKPymtu0PrmHJVeWqMc0CNYTssYzKkA0lqVjZedbrzMe4vV_rIWx9WJu9aQ7WbBEM-4wmWhJIM55zRxU-hhfTmAwW6ICctLbG4irCO-9uUnblP1qOfvh7Y_4sVfsmBfG6Do3qNJG-TYELGVFjRNHBAj-_ocU7kAG8Yo6c3ut15ls1MQO13i4zZTf0Ag1oS9XidOrLrihNcmvqh2IGaxOU3ps7EXr21LOQKoR4iF_TH0agTTXN6NjGjOIzG2MSwbs6vn1-3gnFZB8z5BxVNiwLiLX-NG0ahmb-B7a17ysnYxA.jpg" /></p>
-<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938A.png')"><b>📊</b></i> <b>Топ-10 аккредитованных удостоверяющих центров за девять месяцев 2026 года<br/></b><br/>Общий рост выдачи по сравнению с <a href="https://telegram.me/ep_uc/4101?single" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">прошлым годом</a>, прогноз по итогам года - 23 млн. Рост Госключа (ИИТ) - сказывается <a href="https://telegram.me/ep_uc/5469" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">переход</a> на электронные транспортные документы. Пока топ-10 без <a href="https://telegram.me/ep_uc/5569" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">изменений</a>, они будут по итогам октября.<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5686</guid>
-      <pubDate>Fri, 09 Oct 2026 04:59:56 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 12 Oct 2026 13:21:32 +0000</lastBuildDate>
     <item>
       <title>✍️</title>
-      <link>https://telegram.me/ep_uc/5683</link>
+      <link>https://telegram.me/ep_uc/5696</link>
       <description>✍️
-Внесены изменения в требования к формату нотариально оформляемого документа в электронной форме
+PKCS#7 отменить нельзя оставить
+ (поставьте запятую, где считаете нужным)
 
-Приказом Минюста от 29.09.2026 № 268
- внесены изменения в пункты 3 и 8 
-Требований к формату нотариально оформляемого документа в электронной форме.
+Простой 
+поиск выдаёт
+ десятки нормативных актов, содержащих формат подписи 
+PKCS#7
+. Почему так получилось? Кто-то первым написал, другие бездумно скопировали.
 
-Пункт 3 переписан полностью, если для документа предусмотрена XML-схема, то нотариус направляет получателю два файла:
+В перечне и постановление Правительства с
 
-🔹
-XML - для информационных систем, подписывается КЭП нотариуса.
+Наличие на электронном документе одной или нескольких усиленных квалифицированных электронных подписей, исполненных в формате отделенной электронной подписи (PKCS#7) должностными лицами органа, выдавшего исполнительный документ.
 
-🔹
-PDF - для визуализации XML-документа, содержит 
-отметку об электронной подписи.
+а также приказы ФНС, ФССП, Судебного департамента, 
+Минюста
+, СФР, метод.рекомендации ЕСИА и др.
 
-Из пункта 8 исключено второе предложение о том, что ранее пакет из XML и PDF подписывался КЭП Нотариуса, про визуализацию речи не было.
+PKCS#7 был разработан в 1991 году и в 1998 стал стандартом в рамках 
+RFC 2315
+. Но уже в 1999 году на его основе разработан формат CMS и утвержден RFC 2630, актуальная версия CMS в настоящее время утверждена 
+RFC 5652
+ в 2009 году.
 
-Первое предложение пункта 8 вызывает вопросы:
-
-Документ в электронной форме подписывается усиленной квалифицированной электронной подписью нотариуса, консульского должностного лица в формате PKCS#7 (отделенная электронная подпись в кодировке DER)
-
-PKCS#7 - устаревший формат, 
-который не проходит проверку
- сервисом Головного УЦ. Не хочет Минюст ссылаться на 
-472 приказ Минцифры
-.
-
-Вот и думайте, какой смысл от экспертных советов с приглашением 
-толпы людей
-, рабочих групп, форумов и конференций, если приказы министерств годами содержат грубейшие ошибки.
+CMS - эволюционное развитие PKCS#7: та же базовая структура SignedData, но с исправлениями для гибкости, однозначности кодирования и поддержки современных алгоритмов (включая российские ГОСТ). Именно поэтому 472 приказ Минцифры ссылается на CMS, а не на PKCS#7 (если бы не 
+известные ошибки
+).
 
 ✍️
 "Об ЭП и УЦ"</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/gXBLaUXkxPqtmwGY_B_W7ZAWFpcld-MPbevu2w99WbwCck-C-ftR24ON2WkXas5iEp0ryGpavNEbr7Sk0Aj5sZOLlWf0q5Fm4295L3LMBuBED51Do7EUUyWVPkMohnxx2OgOe3x_9sE0LiVnNKmiH20bCMPYbFa1k9oAn6UP2-4EBJxccdLyovV8fvm3_4v7bHUKdYMcXkeuJ7mp9G2e7HFLlKWkn13ke4Fv9YhLaqpj-hrJW6b_YnSAU5Eq2CXLz8PRmUQ1fHHLymmo-461cWRgQKI_tvgWvjadNiR5nc0eee3ytqnenLxmljVBJ5PJp1J4qWoTviWW_8mv25lT9Q.jpg" /></p>
-<tg-emoji emoji-id="5470060791883374114"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><b>Внесены изменения в требования к формату нотариально оформляемого документа в электронной форме</b><br/><br/><a href="http://publication.pravo.gov.ru/document/0001202610060011?index=2" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Приказом Минюста от 29.09.2026 № 268</a> внесены изменения в пункты 3 и 8 <a href="https://docs.cntd.ru/document/565912478" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Требований к формату нотариально оформляемого документа в электронной форме.</a><br/><br/>Пункт 3 переписан полностью, если для документа предусмотрена XML-схема, то нотариус направляет получателю два файла:<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>XML - для информационных систем, подписывается КЭП нотариуса.<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>PDF - для визуализации XML-документа, содержит <a href="https://telegram.me/ep_uc/3802?single" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">отметку об электронной подписи.</a><br/><br/>Из пункта 8 исключено второе предложение о том, что ранее пакет из XML и PDF подписывался КЭП Нотариуса, про визуализацию речи не было.<br/><br/>Первое предложение пункта 8 вызывает вопросы:<br/><blockquote>Документ в электронной форме подписывается усиленной квалифицированной электронной подписью нотариуса, консульского должностного лица в формате PKCS#7 (отделенная электронная подпись в кодировке DER)<br/></blockquote><br/>PKCS#7 - устаревший формат, <a href="https://telegram.me/ep_uc/4977?single" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">который не проходит проверку</a> сервисом Головного УЦ. Не хочет Минюст ссылаться на <a href="https://telegram.me/ep_uc/5555" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">472 приказ Минцифры</a>.<br/><br/>Вот и думайте, какой смысл от экспертных советов с приглашением <a href="https://telegram.me/ep_uc/5591?comment=230955" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">толпы людей</a>, рабочих групп, форумов и конференций, если приказы министерств годами содержат грубейшие ошибки.<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5683</guid>
-      <pubDate>Thu, 08 Oct 2026 05:43:06 +0000</pubDate>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/M16fkixIgKyon_YHVIvyMbO6OMR8jWKRr3rC0LV5FFt_Ukh0itPBLPw1hgwh2m1EqdbAKEgiDT3rgp35UK7IB8eCat9XGp-1ntDeKsuj59rtw7l4IlWQbNFTNft1FxGL_o-Zc-qQ-mKyAxju5uUQCKs8fn5jPEaCw91GI4WFyxWL_A4ENSy6AmOtgf-kb0TJ27D8HPNFvaBHQ6XxBBQ1AGvjtVNo6BVrkU6mAP9wy49LH4z4xtiuoA5K_gE_V5xkMBaMkrxNcUohkkBFPd1GCEDIkUvNdJSBUFP72RySeFgdWxLXV7x1p13j7-jnvQwcgq8eZlBZIVKKITiyP9DblQ.jpg" /></p>
+<tg-emoji emoji-id="5470060791883374114"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><b>PKCS#7 отменить нельзя оставить</b> (поставьте запятую, где считаете нужным)<br/><br/>Простой <a href="https://www.consultant.ru/search/?q=PKCS%237" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">поиск выдаёт</a> десятки нормативных актов, содержащих формат подписи <b>PKCS#7</b>. Почему так получилось? Кто-то первым написал, другие бездумно скопировали.<br/><br/>В перечне и постановление Правительства с<br/><blockquote>Наличие на электронном документе одной или нескольких усиленных квалифицированных электронных подписей, исполненных в формате отделенной электронной подписи (PKCS#7) должностными лицами органа, выдавшего исполнительный документ.<br/></blockquote><br/>а также приказы ФНС, ФССП, Судебного департамента, <a href="https://telegram.me/ep_uc/5683" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Минюста</a>, СФР, метод.рекомендации ЕСИА и др.<br/><br/>PKCS#7 был разработан в 1991 году и в 1998 стал стандартом в рамках <a href="https://www.rfc-editor.org/info/rfc2315/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">RFC 2315</a>. Но уже в 1999 году на его основе разработан формат CMS и утвержден RFC 2630, актуальная версия CMS в настоящее время утверждена <a href="https://www.rfc-editor.org/info/rfc5652/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">RFC 5652</a> в 2009 году.<br/><br/>CMS - эволюционное развитие PKCS#7: та же базовая структура SignedData, но с исправлениями для гибкости, однозначности кодирования и поддержки современных алгоритмов (включая российские ГОСТ). Именно поэтому 472 приказ Минцифры ссылается на CMS, а не на PKCS#7 (если бы не <a href="https://telegram.me/ep_uc/5555" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">известные ошибки</a>).<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5696</guid>
+      <pubDate>Mon, 12 Oct 2026 05:45:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Об электронной подписи - что, если... ? Исторический пост</title>
+      <link>https://telegram.me/ep_uc/5694</link>
+      <description>Об электронной подписи - что, если... ? Исторический пост
+
+"Что, если…?- мультфильмы от Marvel, в которых рассматриваются альтернативные истории развития её вселенной.
+
+А что, если бы 
+476-ФЗ
+ был принят в другой редакции - с нормой про полномочные сертификаты? 8 лет назад обсуждалась другая концепция развития сферы электронной подписи, где полномочия подтверждались бы не только МЧД.
+
+Итак, представим:
+
+🔹
+Аккредитованными УЦ являются только - Казначейство или подвед, Минцифры или подвед, Налоговая или подвед.
+
+🔹
+Казна выдает сертификаты государственным органам, органам местного самоуправления и их должностным лицам, Минцифры - физическим лицам, Налоговая - юридическим лицам, индивидуальным предпринимателям и их должностным лицам.
+
+🔹
+Подтверждение полномочий физлиц осуществляется через полномочный сертификат.
+
+ 
+🔹
+Полномочные сертификаты органов госвласти, Банка России, внебюджетных фондов, иных госорганов, а также органов местного самоуправления выдает УЦ Казначейства, а полномочные сертификаты для сотрудников юрлиц - УЦ Минцифры.
+
+🔹
+Сведения о созданных полномочных сертификатах передаются в федеральную государственную информационную систему, определенную Правительством.
+
+🔹
+Доверенными лицами аккредитованных УЦ являются только МФЦ и нотариусы.
+
+🔹
+Установлена госпошлина за выдачу квалифицированных сертификатов (кроме госорганов).
+
+🔹
+Услуги ДТС для госсектора оказывает Минцифры (вправе привлекать иные организации), а для остальных -  аккредитованные коммерческие организации.
+
+✍️
+"Об ЭП и УЦ"</description>
+      <content:encoded><![CDATA[<b>Об электронной подписи - что, если... ? Исторический пост</b><br/><br/>"Что, если…?- мультфильмы от Marvel, в которых рассматриваются альтернативные истории развития её вселенной.<br/><br/>А что, если бы <a href="http://publication.pravo.gov.ru/document/view/0001201912280086" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">476-ФЗ</a> был принят в другой редакции - с нормой про полномочные сертификаты? 8 лет назад обсуждалась другая концепция развития сферы электронной подписи, где полномочия подтверждались бы не только МЧД.<br/><br/>Итак, представим:<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>Аккредитованными УЦ являются только - Казначейство или подвед, Минцифры или подвед, Налоговая или подвед.<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>Казна выдает сертификаты государственным органам, органам местного самоуправления и их должностным лицам, Минцифры - физическим лицам, Налоговая - юридическим лицам, индивидуальным предпринимателям и их должностным лицам.<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>Подтверждение полномочий физлиц осуществляется через полномочный сертификат.<br/> <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>Полномочные сертификаты органов госвласти, Банка России, внебюджетных фондов, иных госорганов, а также органов местного самоуправления выдает УЦ Казначейства, а полномочные сертификаты для сотрудников юрлиц - УЦ Минцифры.<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>Сведения о созданных полномочных сертификатах передаются в федеральную государственную информационную систему, определенную Правительством.<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>Доверенными лицами аккредитованных УЦ являются только МФЦ и нотариусы.<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>Установлена госпошлина за выдачу квалифицированных сертификатов (кроме госорганов).<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>Услуги ДТС для госсектора оказывает Минцифры (вправе привлекать иные организации), а для остальных -  аккредитованные коммерческие организации.<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5694</guid>
+      <pubDate>Sun, 11 Oct 2026 12:50:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>❌</title>
+      <link>https://telegram.me/ep_uc/5690</link>
+      <description>❌
+С выписками есть проблемы
+
+Озвученная на форуме КриптоПро 
+проблема
+ - довольно серьёзная. Причина - не сам устаревший формат 
+PKCS#7
+, а использование неправильного алгоритма, поэтому КриптоПро CSP не смог корректно обработать структуру подписи, в которой заявлен комбинированный OID.
+
+Формат PKCS#7 предполагает, что в поле signatureAlgorithm (алгоритм подписи) должен указываться именно алгоритм подписи, в нашем случае 1.2.643.7.1.1.1.1 - смотрим скрин без ошибки. Алгоритм хэширования (1.2.643.7.1.1.2.2) обычно указывается отдельно внутри структуры digestAlgorithm.
+
+На скрине с ошибкой в поле signatureAlgorithm записан комбинированный OID 1.2.643.7.1.1.3.2, но КриптоПро CSP ожидает увидеть там 1.2.643.7.1.1.1.1 и, не найдя его, выдает соответствующую ошибку "неправильный алгоритм".
+
+Откуда мог взяться комбинированный OID? Такое могут генерировать сторонние библиотеки (например, OpenSSL, какие-нибудь самописные решения), которые пытаются объединить алгоритм хэширования и подписи в один идентификатор. КриптоПро CSP ожидает строго разделения этих полей. Теперь понимаете для чего проводятся оценки влияния ППО на СКЗИ? Чтобы такого не было, говорить о юридической значимости здесь не приходится.
+
+✍️
+"Об ЭП и УЦ"</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/nAamKOIhGQoI3K3uYpiCZtPDvJDnDyyVhkWbAiX0sDgDaoj4dCf-rG-Y3mvSDOtqbBrQRnctwU7WT-WBVOH4muNJmMHMdGnW00Yw3asuBlNTefSIuuL1AMFd2U_PlNh7UIXuAAkYeJt1AgQWdZjNRgTf-OwMFCLM4Tdbfapk2I-AJ4IzfvrEHJOfoGElO7nnXNaC8v-288IvwUFa1C507NJgk0in36MrhzZiREJuDLk48lIpnnMNBCtM-3AfvX3r_Zb-txoL56aGn2I3grUWRyCykIHOVaTuEB3Lk0k-H7PPXUV_7937iTrREeMMNtEixTGVZCnfG9JB8juKFfl02Q.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/Cm2S_SHPkrXgaHlXxoZdeBhH5_q2okzTIiowOkPRwunlknGGXT7p0Tf2G3JlB8TRPIeCwd5hUc0VTUXkzgoda9TLC5NiSrQqJqEusNOAEJCZzTmp1kDl2Fc1RJqJ_rHrXWe4Wi0pmUzjtlTj43PGg0LtHQEeiLoauV9Mmc7CYzIz3V5ee3__uWn4RpjRlVhq9lCnymR_BaAieAAqaCTfJckx6BvWswNA2DD3OLrgeFa2ZgJzS7SGO5VHfhZhd25WiNpTMZhWjIzccfg5M5_fR15eQruaUOrIt40AOaP13Smwut2unDq5iCt0wqBZTItkticZBk2aSVqUAaoEIsg-VA.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/D18UKbpaLKrjucAVR-C94N7RpT_iKvzQba-nYU2llpoF3shciLG7N5bn7pZ65-e00j-Gwiw_yerUMWCQ2Fa7kQbIGetO8GZfAGXigEIozkM3h5q_W5zWLDUS2_YYPAx8yxDpA9wTDlHhBTTWDBtJfsThwa4SH_uaoHgyS1CxaC-AeCGEacfGUTeQLP2RdJc_qTcLSYKF2q_GkuOkzscA_NUgeBvRGPj9XhjzNKxnKoFw8Eqn9b8Yp3TKc5I9xsrqZXNYd3juU2aazoV4QIq8hZLlcWN0OlFrMdcCfIlc5G1QdnsRvrgJf1PgfiSuknShIW7OUA9tg5c1ewK0T70IDw.jpg" /></p>
+<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29D8C.png')"><b>❌</b></i><b>С выписками есть проблемы</b><br/><br/>Озвученная на форуме КриптоПро <a href="https://cryptopro.ru/forum2/default.aspx?g=posts&amp;amp;t=26160" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">проблема</a> - довольно серьёзная. Причина - не сам устаревший формат <a href="https://telegram.me/ep_uc/4977?single" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">PKCS#7</a>, а использование неправильного алгоритма, поэтому КриптоПро CSP не смог корректно обработать структуру подписи, в которой заявлен комбинированный OID.<br/><br/>Формат PKCS#7 предполагает, что в поле signatureAlgorithm (алгоритм подписи) должен указываться именно алгоритм подписи, в нашем случае 1.2.643.7.1.1.1.1 - смотрим скрин без ошибки. Алгоритм хэширования (1.2.643.7.1.1.2.2) обычно указывается отдельно внутри структуры digestAlgorithm.<br/><br/>На скрине с ошибкой в поле signatureAlgorithm записан комбинированный OID 1.2.643.7.1.1.3.2, но КриптоПро CSP ожидает увидеть там 1.2.643.7.1.1.1.1 и, не найдя его, выдает соответствующую ошибку "неправильный алгоритм".<br/><br/>Откуда мог взяться комбинированный OID? Такое могут генерировать сторонние библиотеки (например, OpenSSL, какие-нибудь самописные решения), которые пытаются объединить алгоритм хэширования и подписи в один идентификатор. КриптоПро CSP ожидает строго разделения этих полей. Теперь понимаете для чего проводятся оценки влияния ППО на СКЗИ? Чтобы такого не было, говорить о юридической значимости здесь не приходится.<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5690</guid>
+      <pubDate>Sat, 10 Oct 2026 06:00:07 +0000</pubDate>
     </item>
     <item>
       <title>Пост — Об ЭП и УЦ</title>
-      <link>https://telegram.me/ep_uc/5682</link>
+      <link>https://telegram.me/ep_uc/5689</link>
       <description>Пост — Об ЭП и УЦ</description>
       <content:encoded><![CDATA[(нет текста)]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5682</guid>
-      <pubDate>Wed, 07 Oct 2026 18:45:08 +0000</pubDate>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5689</guid>
+      <pubDate>Sat, 10 Oct 2026 05:25:17 +0000</pubDate>
     </item>
     <item>
-      <title>📣</title>
-      <link>https://telegram.me/ep_uc/5680</link>
-      <description>📣
-Для всех пользователей 
-Рутокен S
- (вдруг такие ещё остались)</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/d02Px5Ym7tulg3zFfQtNmHv7JTDku0r17sADKeiRYA3Mf7F_zowHmH_Y6YmnIqbDaqwOpf7thCdr0hKE3nqQaXhN_AghPgt8Gj4v5hIll6w2y7qZJxoupVcw3BLSYOm46Uo4S6vOq0Fnrfud9RZIx79NCsbHv6bpofJqmZ81y6Q9nYpW7YeAeP6qbrbb72qtOdJUuYlqMCXRCoi0taGo6DSYHY7uoE95CqFctWOLEZeWYGku1OtzZ--Ae_N4WAYoYAQMbANEkM0jk6o7DVdpMHMCFL8y92n07gNsFwgXCmFSDwgW_h-XwFoJ2x9ZPJhZ4p4xPJQrfqEAfCjcq4Yu9A.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/BfjAnPGKMBZm9fDmt8GL-GJDj2G-uZZo4HEw1MMpof3fKVdSQox_M1VY65XMyEsp8iAvGE2LYffcNGts496sAD01AVn-4AmxHvIUTOzfulkbHBUoNnQhZoRfVVFIz7wuz2T8BE6A_JqPTyB33t4Lc1phW1aneselJRguM3_HpotcgeS7QVI9krpv2eR58L64ywlqLXEsms0Pr0Kfkf_YAD1N7fSPjgmoP61wrl5WTNsvpBytX_f1JS3b-k7fHbv60tfvxDFFb9l8Ry8Qgliz6UjH5IgALYHKj_Y5VAs3jVmw2nwKD_Igvq6NEgGueyX3L4nCKc6jKkxsN-ClVijeCw.jpg" /></p>
-<tg-emoji emoji-id="5470094069289984325"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93A3.png')"><b>📣</b></i></tg-emoji>Для всех пользователей <a href="https://www.rutoken.ru/products/all/rutoken-s/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Рутокен S</a> (вдруг такие ещё остались)]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5680</guid>
-      <pubDate>Wed, 07 Oct 2026 17:43:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>🛡</title>
-      <link>https://telegram.me/ep_uc/5678</link>
-      <description>🛡
- «Проверка на прочность»: «мы проверяемся» ≠ «мы понимаем свои риски»
+      <title>А почему вообще ГосУЦ выдают сертификаты для</title>
+      <link>https://telegram.me/ep_uc/5687</link>
+      <description>А почему вообще ГосУЦ выдают сертификаты для 
+подписи кода
+?
 
-Аудит пройден, пентест проведён, отчёт подписан. А утечка всё равно случилась. 
-
-14 октября в Москве 
-форум «Проверка на прочность»
- разберётся, как не перепутать активность с результатом.
-
-На стыке права, данных и безопасности:
-
-🔹
- что на самом деле хочет регулятор (CISO Билайна, Т-Банка, МТС Банка, Райффайзена, HeadHunter, Почты России)
-
-🔹
- право на взлом: где граница между этичным хакером и нарушителем
-
-🔹
- ИИ в оценке защищённости: где помогает, а где создаёт новую иллюзию
-
-🔹
- подрядчики, которые могут уронить вас быстрее хакера
-
-🔹
- интерактивный мастер-класс Алексея Лукацкого «50 оттенков зелёного»: как метрики ИБ создают иллюзию защищённости
-
-📍
- 14 октября, Холидей Инн Сокольники, 9:00–18:00
-
-👉
- Программа и регистрация:
- breakme-forum.ru
-
-✍️
-Телеграм-канал 
-"Об ЭП и УЦ"
- выступает медиа партнёром конференции</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/QFpUE9ocWOLbUYJ1zKJnR2GGcqGqah-9M905EOaoR39Y5xHJJKAX0v83PNoDqw5bxKcGb5PU9t5Xc8Sa3WrcK2hoc1_runwpfTA9q0q1sEeRF0Iq15qgMRsBmxPbcnF8ZtsFVnT1Coa7HV_q4uCYBgLTvyLu2v4X3hYQ7Yyf-fZ1E9HcNFVvNFKraCHgulaXnDuzKiHG2XIz_r3nXh03HUgSRybDh5YN5k1eO5JRNFrEF2hHuOf8D-zr3Ys92avWUB0Jdmj3g3RTdi2m5R1pkuSm-snVp6FElL1PiNSyOJU8UD1lpl4IdVcuu8oM_yqKOoU2yBN4t_AOUVSwB1dneA.jpg" /></p>
-<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9BA1.png')"><b>🛡</b></i><b> «Проверка на прочность»: «мы проверяемся» ≠ «мы понимаем свои риски»</b><br/><br/>Аудит пройден, пентест проведён, отчёт подписан. А утечка всё равно случилась. <br/><br/>14 октября в Москве <a href="https://www.comnews-conferences.ru/ru/conference/breakme2026?utm_source=tg&amp;amp;utm_medium=free&amp;amp;utm_campaign=ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">форум «Проверка на прочность»</a> разберётся, как не перепутать активность с результатом.<br/><br/>На стыке права, данных и безопасности:<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> что на самом деле хочет регулятор (CISO Билайна, Т-Банка, МТС Банка, Райффайзена, HeadHunter, Почты России)<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> право на взлом: где граница между этичным хакером и нарушителем<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> ИИ в оценке защищённости: где помогает, а где создаёт новую иллюзию<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> подрядчики, которые могут уронить вас быстрее хакера<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> интерактивный мастер-класс Алексея Лукацкого «50 оттенков зелёного»: как метрики ИБ создают иллюзию защищённости<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938D.png')"><b>📍</b></i> 14 октября, Холидей Инн Сокольники, 9:00–18:00<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"><b>👉</b></i> Программа и регистрация:<a href="https://www.comnews-conferences.ru/ru/conference/breakme2026?utm_source=tg&amp;amp;utm_medium=free&amp;amp;utm_campaign=ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"> breakme-forum.ru</a><br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji>Телеграм-канал <a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a> выступает медиа партнёром конференции]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5678</guid>
-      <pubDate>Wed, 07 Oct 2026 06:00:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>✍️</title>
-      <link>https://telegram.me/ep_uc/5677</link>
-      <description>✍️
-CA/Browser Forum обновлены базовые требования - AIA, как опция
-
-По итогу голосования в рамках 
-бюллетеня SC104
- наличие расширения AIA 
-установлено
- в значение SHOULD (необязательное), ранее было MUST. Также требование о наличии хотя бы одного параметра внутри расширения дополняется оговоркой "If present" (если присутствует).
-
-Объяснение данной корректировки простое - внутри расширения AIA уже существуют разные уровни обязательности для методов доступа.
-
-Расширение AIA (Authority Information Access) в сертификате показывает дополнительную информацию об удостоверяющем центре, выдавшем этот сертификат. В обязательном порядке включает адрес OCSP-службы для проверки статуса сертификата (метод id-ad-ocsp) и как опцию ссылку на сертификат УЦ (метод id-ad-caIssuers). Например, если в TLS-рукопожатии клиенту не хватает промежуточного сертификата, AIA может указать, где его скачать.
-
-Если ссылка на сертификат издателя опциональна, а адрес OCSP - обязательный, то обязательность AIA теряет смысл, указание адреса OCSP - потребует наличие расширения AIA, но если AIA отсутвует, то ни OCSP, ни ссылки на сертификат УЦ в сертификате не будет.
-
-Новая версия базовых рекомендаций 2.3.1 
-опубликована 04.10.2026.
-
-✍️
-Об ЭП и УЦ</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/GNmQvlUYYJekB9iAgRbj2QZ9vn2uC0HbO9qkvbaginiiofQIvk2W0Sf6tzcB5Yr17AmKKbiiM028FfeZHpZWqZCHvcWVf9HY6ZighsARgMoXC0124Kovx9hz0jsXuimOinGprlyo7LguALpKLHMQA_d9NUdRjQhybBrqOPc4oYRR9NEv3QUZa5Ki7pC8HDCbKrVe7wLFxMgWAw1U0EPPQorfd3L4JrTlUtOuFKvuutfn3wAflaV2pVAqDIPdoHoDgy5sVhb3gLefMVYsIbdZCaFP2ZcvK3KS1Oyto7HNnj4m5CMda1AXUQki6uzUyPqpAiCx12cy2gOnoaKAQjWNFw.jpg" /></p>
-<tg-emoji emoji-id="5470060791883374114"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><b>CA/Browser Forum обновлены базовые требования - AIA, как опция</b><br/><br/>По итогу голосования в рамках <a href="https://cabforum.org/2026/09/03/ballot-sc104-set-presence-of-aia-extension-to-should-for-subscriber-certificates/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">бюллетеня SC104</a> наличие расширения AIA <a href="https://cabforum.org/working-groups/server/baseline-requirements/documents/CA-Browser-Forum-TLS-BR-2.3.1-redlined.pdf" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">установлено</a> в значение SHOULD (необязательное), ранее было MUST. Также требование о наличии хотя бы одного параметра внутри расширения дополняется оговоркой "If present" (если присутствует).<br/><br/>Объяснение данной корректировки простое - внутри расширения AIA уже существуют разные уровни обязательности для методов доступа.<br/><br/>Расширение AIA (Authority Information Access) в сертификате показывает дополнительную информацию об удостоверяющем центре, выдавшем этот сертификат. В обязательном порядке включает адрес OCSP-службы для проверки статуса сертификата (метод id-ad-ocsp) и как опцию ссылку на сертификат УЦ (метод id-ad-caIssuers). Например, если в TLS-рукопожатии клиенту не хватает промежуточного сертификата, AIA может указать, где его скачать.<br/><br/>Если ссылка на сертификат издателя опциональна, а адрес OCSP - обязательный, то обязательность AIA теряет смысл, указание адреса OCSP - потребует наличие расширения AIA, но если AIA отсутвует, то ни OCSP, ни ссылки на сертификат УЦ в сертификате не будет.<br/><br/>Новая версия базовых рекомендаций 2.3.1 <a href="https://cabforum.org/working-groups/server/baseline-requirements/documents/CA-Browser-Forum-TLS-BR-2.3.1.pdf" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">опубликована 04.10.2026.</a><br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Об ЭП и УЦ</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5677</guid>
-      <pubDate>Wed, 07 Oct 2026 05:12:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Пока премьер-министр страны на</title>
-      <link>https://telegram.me/ep_uc/5675</link>
-      <description>Пока премьер-министр страны на 
-
-ИТ-форуме "Цифровые решения" 
-поручает Минцифры проработать
- дополнительные возможности входа на портал Госуслуг или для восстановления доступа сама 
-регистрация
- на ИТ-форум "Цифровые решения" представляет из себя... 
-
-ручное указание личных данных, загрузка скан-копии паспорта. 
-
-Не слишком ли избыточный обрабатываемый 
-состав персональных данных
-? Это точно ИТ-Форум? Может к регистрации просто прикрутить вход через ЕСИА?</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/PTNu1oKxW3so7P72jfiPLRpg1qBNhIjDmL33OYxCW0-9xxoTo2Su5p7dqVgbFaN0VZcWWNcLT0R-tzOPTUhxtdhdWje8oAf9XfO3BgBsbLea_OJzgYqzn6Squd5U6qFCDN77zBt1QViH-3jfqXG8RAh8Eq7p6BQC8eigcb-x_fs2oU8RQqNXxOK8pHbofbMmPdhkIpu8fp-cK8T8n9MFbfwjvVYS33LAcUl2zXscWtu6J2TDhy6EBqjFdPU91rtQ-320aIJgDFwjhvPvRZwp2mEBFJz5DmBJDzYFf7PB-Uqu0ZB7RsC4BCrJdQ_1sJlCLXo4owgigjmyTGXvpIxxhQ.jpg" /></p>
-Пока премьер-министр страны на <br/>ИТ-форуме "Цифровые решения" <a href="https://www.pnp.ru/social/mishustin-poruchil-prorabotat-dopolnitelnye-usloviya-dlya-vkhoda-na-gosuslugi.html" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">поручает Минцифры проработать</a> дополнительные возможности входа на портал Госуслуг или для восстановления доступа сама <a href="https://russia.accreditation.ru/digital_solutions_06-10.10.2026/participants/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">регистрация</a> на ИТ-форум "Цифровые решения" представляет из себя... <br/>ручное указание личных данных, загрузка скан-копии паспорта. <br/><br/>Не слишком ли избыточный обрабатываемый <a href="https://newrussiaserver.accreditation.ru/cdn/d4nmfbnnurqsdnnak4xncv2swe/KH4gbjmvvXy27NyF2ANqnd" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">состав персональных данных</a>? Это точно ИТ-Форум? Может к регистрации просто прикрутить вход через ЕСИА?]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5675</guid>
-      <pubDate>Tue, 06 Oct 2026 16:52:28 +0000</pubDate>
+Пока нет для этого НУЦ, выдачу может осуществлять, например, 
+ОТУЦ
+.</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/Pn9tkdPQxxX7RF_gaJHiMXqWniwVF1BoDFsLfsJRUdSh6H2p__n_YVARBtqVvnAPqN0hmTbzsgleoL66MuXWsWyH37n0csEuuR6y1rYPnU4B6E_V0bGMYlI5L3i_wDsgNaU_ZAScSXZokcXOpa0le9rpNANoxrnA9bevzinSJ8IVO_IRsN2WtBzqqPmZiMcuXVCPN2XDvemAPL7vcmtIM2-aBTquA0--tKrjEIF7fqGCdhhSOH5AFhXOJx3Zbwb0Ye_Afta5NzE5-l28z_FrUTTfFRHQmS2atRoogrEBmGWJOBzht21QVS_nW8zuQ0Z5kXc1prcnKyNJ8_9UqnlKfg.jpg" /></p>
+А почему вообще ГосУЦ выдают сертификаты для <a href="https://cryptopro.ru/forum2/default.aspx?g=posts&amp;amp;m=158805#post158805" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">подписи кода</a>?<br/>Пока нет для этого НУЦ, выдачу может осуществлять, например, <a href="https://telegram.me/ep_uc/5140" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">ОТУЦ</a>.]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5687</guid>
+      <pubDate>Fri, 09 Oct 2026 16:08:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
