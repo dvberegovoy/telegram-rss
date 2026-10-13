@@ -8,7 +8,48 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 12 Oct 2026 13:21:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 12:49:43 +0000</lastBuildDate>
+    <item>
+      <title>Злоумышленники получили фейковые TLS-сертификаты для Google и других сервисов  #DNS #взлом #Googl…</title>
+      <link>https://telegram.me/ep_uc/5700</link>
+      <description>Злоумышленники получили фейковые TLS-сертификаты для Google и других сервисов  #DNS #взлом #Google  В Google сообщили о серии атак на национальные доменные зоны .gh, .sl и .as. Атаки позволили злоумышленникам подменять DNS-записи отдельных доменов в этих зонах…</description>
+      <content:encoded><![CDATA[Злоумышленники получили фейковые TLS-сертификаты для Google и других сервисов  #DNS #взлом #Google  В Google сообщили о серии атак на национальные доменные зоны .gh, .sl и .as. Атаки позволили злоумышленникам подменять DNS-записи отдельных доменов в этих зонах…]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5700</guid>
+      <pubDate>Tue, 13 Oct 2026 06:10:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Злоумышленники получили фейковые TLS-сертификаты для Google и других сервисов</title>
+      <link>https://telegram.me/ep_uc/5699</link>
+      <description>Злоумышленники получили фейковые TLS-сертификаты для Google и других сервисов
+
+#DNS
+ 
+#взлом
+ 
+#Google
+
+В Google сообщили о серии атак на национальные доменные зоны .gh, .sl и .as. Атаки позволили злоумышленникам подменять DNS-записи отдельных доменов в этих зонах и получать для них несанкционированные TLS-сертификаты, в том числе для нескольких доменов Google и ряда других крупных сервисов.
+
+LH
+ | 
+News
+ | 
+OSINT
+ | 
+Курсы</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/VMhRgcytuJUJqYodlKr_45m48SQoT25GPKeppEb1_UQzhjcSLpUYsOjrAW52I-x8rCdTNxgZsfU_zpyZHgPpEIdpApgTtKs7lSjyJMzrMOyvN6aCF9WVGKiQ9mHBkh52ixlsgqlI4nUDcaNx5-2K20MdaTIlm1t_VIZju3gsG9syRTWJmm97s9ZlNI3XTKEwyONHRQOvFWbi_LjSEpe0bPXbbQIP_rbO8NnXdWkWrXrsZy4x1kKuxT6L4CVwlz5a-r0TeKLhqOKPlgrKCpuBlJLaqQC_jHrO-bwPwB9U3I1FC2OtkmNzbxcPSJp4hmF5BKo07wT4F2OowI0js1LSsA.jpg" /></p>
+Злоумышленники получили фейковые TLS-сертификаты для Google и других сервисов<br/><br/><a href="?q=%23DNS">#DNS</a> <a href="?q=%23%D0%B2%D0%B7%D0%BB%D0%BE%D0%BC">#взлом</a> <a href="?q=%23Google">#Google</a><br/><br/>В Google сообщили о серии атак на национальные доменные зоны .gh, .sl и .as. Атаки позволили злоумышленникам подменять DNS-записи отдельных доменов в этих зонах и получать для них несанкционированные TLS-сертификаты, в том числе для нескольких доменов Google и ряда других крупных сервисов.<br/><br/><a href="https://max.ru/haccking" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">LH</a> | <a href="https://max.ru/channel_cybersecnews" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">News</a> | <a href="https://max.ru/channel_osint" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">OSINT</a> | <a href="https://max.ru/hacckingbook" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Курсы</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5699</guid>
+      <pubDate>Tue, 13 Oct 2026 06:06:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Пост — Об ЭП и УЦ</title>
+      <link>https://telegram.me/ep_uc/5698</link>
+      <description>Пост — Об ЭП и УЦ</description>
+      <content:encoded><![CDATA[(нет текста)]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5698</guid>
+      <pubDate>Tue, 13 Oct 2026 05:25:02 +0000</pubDate>
+    </item>
     <item>
       <title>✍️</title>
       <link>https://telegram.me/ep_uc/5696</link>
@@ -42,7 +83,7 @@ CMS - эволюционное развитие PKCS#7: та же базовая
 
 ✍️
 "Об ЭП и УЦ"</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/M16fkixIgKyon_YHVIvyMbO6OMR8jWKRr3rC0LV5FFt_Ukh0itPBLPw1hgwh2m1EqdbAKEgiDT3rgp35UK7IB8eCat9XGp-1ntDeKsuj59rtw7l4IlWQbNFTNft1FxGL_o-Zc-qQ-mKyAxju5uUQCKs8fn5jPEaCw91GI4WFyxWL_A4ENSy6AmOtgf-kb0TJ27D8HPNFvaBHQ6XxBBQ1AGvjtVNo6BVrkU6mAP9wy49LH4z4xtiuoA5K_gE_V5xkMBaMkrxNcUohkkBFPd1GCEDIkUvNdJSBUFP72RySeFgdWxLXV7x1p13j7-jnvQwcgq8eZlBZIVKKITiyP9DblQ.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/tbTeR6XFDNCrcmFPnxjg1qx2-A1CB7CKPcoVWbwyub_drDUefttJBbAVOCYOuxcSI4dbqG6LaWc6RXTZG0u71y8qon0Idn0mRyYdrKgXlje-BqbXpqUji-RrVJmWjdzwMFtBPffk9s2WE3FPTk0Cj1LrmQ0fXlrNY6DLrfrFGMeIaKQ-i-Uboh4lVbwsOAdYtXsI9coRk9pgewb5BwxA-JpgGeaspTxceHRn6lmUWiNtqCctqDxWFuOEvZTe9TpIx-kGkBwn-tAcb-PWeZv-6iaTp3PKGpbQLnTTysxEvXoamMoxv1K-q9J2jUOAODQC7cxZYTm3XgcOozpkVDsTLg.jpg" /></p>
 <tg-emoji emoji-id="5470060791883374114"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><b>PKCS#7 отменить нельзя оставить</b> (поставьте запятую, где считаете нужным)<br/><br/>Простой <a href="https://www.consultant.ru/search/?q=PKCS%237" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">поиск выдаёт</a> десятки нормативных актов, содержащих формат подписи <b>PKCS#7</b>. Почему так получилось? Кто-то первым написал, другие бездумно скопировали.<br/><br/>В перечне и постановление Правительства с<br/><blockquote>Наличие на электронном документе одной или нескольких усиленных квалифицированных электронных подписей, исполненных в формате отделенной электронной подписи (PKCS#7) должностными лицами органа, выдавшего исполнительный документ.<br/></blockquote><br/>а также приказы ФНС, ФССП, Судебного департамента, <a href="https://telegram.me/ep_uc/5683" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Минюста</a>, СФР, метод.рекомендации ЕСИА и др.<br/><br/>PKCS#7 был разработан в 1991 году и в 1998 стал стандартом в рамках <a href="https://www.rfc-editor.org/info/rfc2315/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">RFC 2315</a>. Но уже в 1999 году на его основе разработан формат CMS и утвержден RFC 2630, актуальная версия CMS в настоящее время утверждена <a href="https://www.rfc-editor.org/info/rfc5652/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">RFC 5652</a> в 2009 году.<br/><br/>CMS - эволюционное развитие PKCS#7: та же базовая структура SignedData, но с исправлениями для гибкости, однозначности кодирования и поддержки современных алгоритмов (включая российские ГОСТ). Именно поэтому 472 приказ Минцифры ссылается на CMS, а не на PKCS#7 (если бы не <a href="https://telegram.me/ep_uc/5555" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">известные ошибки</a>).<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5696</guid>
       <pubDate>Mon, 12 Oct 2026 05:45:05 +0000</pubDate>
@@ -90,56 +131,6 @@ CMS - эволюционное развитие PKCS#7: та же базовая
       <content:encoded><![CDATA[<b>Об электронной подписи - что, если... ? Исторический пост</b><br/><br/>"Что, если…?- мультфильмы от Marvel, в которых рассматриваются альтернативные истории развития её вселенной.<br/><br/>А что, если бы <a href="http://publication.pravo.gov.ru/document/view/0001201912280086" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">476-ФЗ</a> был принят в другой редакции - с нормой про полномочные сертификаты? 8 лет назад обсуждалась другая концепция развития сферы электронной подписи, где полномочия подтверждались бы не только МЧД.<br/><br/>Итак, представим:<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>Аккредитованными УЦ являются только - Казначейство или подвед, Минцифры или подвед, Налоговая или подвед.<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>Казна выдает сертификаты государственным органам, органам местного самоуправления и их должностным лицам, Минцифры - физическим лицам, Налоговая - юридическим лицам, индивидуальным предпринимателям и их должностным лицам.<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>Подтверждение полномочий физлиц осуществляется через полномочный сертификат.<br/> <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>Полномочные сертификаты органов госвласти, Банка России, внебюджетных фондов, иных госорганов, а также органов местного самоуправления выдает УЦ Казначейства, а полномочные сертификаты для сотрудников юрлиц - УЦ Минцифры.<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>Сведения о созданных полномочных сертификатах передаются в федеральную государственную информационную систему, определенную Правительством.<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>Доверенными лицами аккредитованных УЦ являются только МФЦ и нотариусы.<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>Установлена госпошлина за выдачу квалифицированных сертификатов (кроме госорганов).<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>Услуги ДТС для госсектора оказывает Минцифры (вправе привлекать иные организации), а для остальных -  аккредитованные коммерческие организации.<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5694</guid>
       <pubDate>Sun, 11 Oct 2026 12:50:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>❌</title>
-      <link>https://telegram.me/ep_uc/5690</link>
-      <description>❌
-С выписками есть проблемы
-
-Озвученная на форуме КриптоПро 
-проблема
- - довольно серьёзная. Причина - не сам устаревший формат 
-PKCS#7
-, а использование неправильного алгоритма, поэтому КриптоПро CSP не смог корректно обработать структуру подписи, в которой заявлен комбинированный OID.
-
-Формат PKCS#7 предполагает, что в поле signatureAlgorithm (алгоритм подписи) должен указываться именно алгоритм подписи, в нашем случае 1.2.643.7.1.1.1.1 - смотрим скрин без ошибки. Алгоритм хэширования (1.2.643.7.1.1.2.2) обычно указывается отдельно внутри структуры digestAlgorithm.
-
-На скрине с ошибкой в поле signatureAlgorithm записан комбинированный OID 1.2.643.7.1.1.3.2, но КриптоПро CSP ожидает увидеть там 1.2.643.7.1.1.1.1 и, не найдя его, выдает соответствующую ошибку "неправильный алгоритм".
-
-Откуда мог взяться комбинированный OID? Такое могут генерировать сторонние библиотеки (например, OpenSSL, какие-нибудь самописные решения), которые пытаются объединить алгоритм хэширования и подписи в один идентификатор. КриптоПро CSP ожидает строго разделения этих полей. Теперь понимаете для чего проводятся оценки влияния ППО на СКЗИ? Чтобы такого не было, говорить о юридической значимости здесь не приходится.
-
-✍️
-"Об ЭП и УЦ"</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/nAamKOIhGQoI3K3uYpiCZtPDvJDnDyyVhkWbAiX0sDgDaoj4dCf-rG-Y3mvSDOtqbBrQRnctwU7WT-WBVOH4muNJmMHMdGnW00Yw3asuBlNTefSIuuL1AMFd2U_PlNh7UIXuAAkYeJt1AgQWdZjNRgTf-OwMFCLM4Tdbfapk2I-AJ4IzfvrEHJOfoGElO7nnXNaC8v-288IvwUFa1C507NJgk0in36MrhzZiREJuDLk48lIpnnMNBCtM-3AfvX3r_Zb-txoL56aGn2I3grUWRyCykIHOVaTuEB3Lk0k-H7PPXUV_7937iTrREeMMNtEixTGVZCnfG9JB8juKFfl02Q.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/Cm2S_SHPkrXgaHlXxoZdeBhH5_q2okzTIiowOkPRwunlknGGXT7p0Tf2G3JlB8TRPIeCwd5hUc0VTUXkzgoda9TLC5NiSrQqJqEusNOAEJCZzTmp1kDl2Fc1RJqJ_rHrXWe4Wi0pmUzjtlTj43PGg0LtHQEeiLoauV9Mmc7CYzIz3V5ee3__uWn4RpjRlVhq9lCnymR_BaAieAAqaCTfJckx6BvWswNA2DD3OLrgeFa2ZgJzS7SGO5VHfhZhd25WiNpTMZhWjIzccfg5M5_fR15eQruaUOrIt40AOaP13Smwut2unDq5iCt0wqBZTItkticZBk2aSVqUAaoEIsg-VA.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/D18UKbpaLKrjucAVR-C94N7RpT_iKvzQba-nYU2llpoF3shciLG7N5bn7pZ65-e00j-Gwiw_yerUMWCQ2Fa7kQbIGetO8GZfAGXigEIozkM3h5q_W5zWLDUS2_YYPAx8yxDpA9wTDlHhBTTWDBtJfsThwa4SH_uaoHgyS1CxaC-AeCGEacfGUTeQLP2RdJc_qTcLSYKF2q_GkuOkzscA_NUgeBvRGPj9XhjzNKxnKoFw8Eqn9b8Yp3TKc5I9xsrqZXNYd3juU2aazoV4QIq8hZLlcWN0OlFrMdcCfIlc5G1QdnsRvrgJf1PgfiSuknShIW7OUA9tg5c1ewK0T70IDw.jpg" /></p>
-<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29D8C.png')"><b>❌</b></i><b>С выписками есть проблемы</b><br/><br/>Озвученная на форуме КриптоПро <a href="https://cryptopro.ru/forum2/default.aspx?g=posts&amp;amp;t=26160" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">проблема</a> - довольно серьёзная. Причина - не сам устаревший формат <a href="https://telegram.me/ep_uc/4977?single" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">PKCS#7</a>, а использование неправильного алгоритма, поэтому КриптоПро CSP не смог корректно обработать структуру подписи, в которой заявлен комбинированный OID.<br/><br/>Формат PKCS#7 предполагает, что в поле signatureAlgorithm (алгоритм подписи) должен указываться именно алгоритм подписи, в нашем случае 1.2.643.7.1.1.1.1 - смотрим скрин без ошибки. Алгоритм хэширования (1.2.643.7.1.1.2.2) обычно указывается отдельно внутри структуры digestAlgorithm.<br/><br/>На скрине с ошибкой в поле signatureAlgorithm записан комбинированный OID 1.2.643.7.1.1.3.2, но КриптоПро CSP ожидает увидеть там 1.2.643.7.1.1.1.1 и, не найдя его, выдает соответствующую ошибку "неправильный алгоритм".<br/><br/>Откуда мог взяться комбинированный OID? Такое могут генерировать сторонние библиотеки (например, OpenSSL, какие-нибудь самописные решения), которые пытаются объединить алгоритм хэширования и подписи в один идентификатор. КриптоПро CSP ожидает строго разделения этих полей. Теперь понимаете для чего проводятся оценки влияния ППО на СКЗИ? Чтобы такого не было, говорить о юридической значимости здесь не приходится.<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5690</guid>
-      <pubDate>Sat, 10 Oct 2026 06:00:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Пост — Об ЭП и УЦ</title>
-      <link>https://telegram.me/ep_uc/5689</link>
-      <description>Пост — Об ЭП и УЦ</description>
-      <content:encoded><![CDATA[(нет текста)]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5689</guid>
-      <pubDate>Sat, 10 Oct 2026 05:25:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>А почему вообще ГосУЦ выдают сертификаты для</title>
-      <link>https://telegram.me/ep_uc/5687</link>
-      <description>А почему вообще ГосУЦ выдают сертификаты для 
-подписи кода
-?
-
-Пока нет для этого НУЦ, выдачу может осуществлять, например, 
-ОТУЦ
-.</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/Pn9tkdPQxxX7RF_gaJHiMXqWniwVF1BoDFsLfsJRUdSh6H2p__n_YVARBtqVvnAPqN0hmTbzsgleoL66MuXWsWyH37n0csEuuR6y1rYPnU4B6E_V0bGMYlI5L3i_wDsgNaU_ZAScSXZokcXOpa0le9rpNANoxrnA9bevzinSJ8IVO_IRsN2WtBzqqPmZiMcuXVCPN2XDvemAPL7vcmtIM2-aBTquA0--tKrjEIF7fqGCdhhSOH5AFhXOJx3Zbwb0Ye_Afta5NzE5-l28z_FrUTTfFRHQmS2atRoogrEBmGWJOBzht21QVS_nW8zuQ0Z5kXc1prcnKyNJ8_9UqnlKfg.jpg" /></p>
-А почему вообще ГосУЦ выдают сертификаты для <a href="https://cryptopro.ru/forum2/default.aspx?g=posts&amp;amp;m=158805#post158805" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">подписи кода</a>?<br/>Пока нет для этого НУЦ, выдачу может осуществлять, например, <a href="https://telegram.me/ep_uc/5140" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">ОТУЦ</a>.]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5687</guid>
-      <pubDate>Fri, 09 Oct 2026 16:08:30 +0000</pubDate>
     </item>
   </channel>
 </rss>

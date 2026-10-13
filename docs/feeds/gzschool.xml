@@ -8,7 +8,56 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 12 Oct 2026 13:21:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 12:50:03 +0000</lastBuildDate>
+    <item>
+      <title>ИИ нашел ошибки. Теперь проверьте ошибки самого ИИ</title>
+      <link>https://telegram.me/gzschool/1838</link>
+      <description>ИИ нашел ошибки. Теперь проверьте ошибки самого ИИ
+
+Даже хороший промпт редко срабатывает идеально с первого раза. Нейросеть может пропустить противоречие, неверно понять документ или уверенно придумать то, чего там вообще нет. Очень человеческое поведение для программы, которая вроде бы должна была избавить от человеческих проблем 
+🤖
+
+В уроке разобрали
+, как тестировать промпт на закупочных документах: заранее заложить ошибки, посмотреть, что ИИ нашел и что пропустил, а затем доработать исходный запрос.
+
+Полезный прием: если результат слабый, не просто просить переделать, а выяснять, какой информации модели не хватило и почему она пришла к такому выводу. Так становится понятнее, что именно добавить в промпт: алгоритм, примеры, ограничения или перечень документов.
+
+Отдельно прошли проверку на галлюцинации. Ответ ИИ стоит воспринимать как рабочий черновик, а финальное решение все равно оставлять специалисту.
+
+А в конце дали готовый ИИ-ассистент для НМЦК: загружаете минимум три коммерческих предложения, а он считает цену и формирует обоснование. Наконец-то нейросеть занялась тем, ради чего ее вообще терпят в рабочем процессе 
+🔎
+ 
+
+#ии
+ | 
+📌
+ Подписаться на Высшую Школу Госзакупок
+ | 
+Читать нас в MAX</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/TX_l-fikm59mQuNwp1CDyQcTUUoAht1yfm5DdMZ61KgATFnQfhybCMLNh7y051YX7Q1x6DdBdOsO4GZggeeIgmqc3nCjGsv-Ugf1G6_Iov2Rk47BOmUKfxqeCfhYgZh8Xui93YJKlzm2B18HpQCb-O6lotbYZIpt_Gm0V7ir1xUmFLw0LD-XupVXJqNe81h7HHxPVZzc5lXDdr-ty-Bnpv6BfDij-O3YV_iPoJZmYneazjQ37VdD0usLiasFGaz--huKROz6pXTH44PVFR0LwoL0QqDZY9PglaTJ56As0Kg6iyyopXdo84jpLT13pvsdrbT3o6hYquG5ASpvWMimGg.jpg" /></p>
+<b>ИИ нашел ошибки. Теперь проверьте ошибки самого ИИ</b><br/><br/>Даже хороший промпт редко срабатывает идеально с первого раза. Нейросеть может пропустить противоречие, неверно понять документ или уверенно придумать то, чего там вообще нет. Очень человеческое поведение для программы, которая вроде бы должна была избавить от человеческих проблем <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA496.png')"><b>🤖</b></i><br/><br/><a href="https://academy.gzakypki.ru/programs/228119/48c5e1ef-7c8e-41a6-acc7-b8c54c511155/1c8dbac3-4d09-4887-8867-e675b3f1f24d?utm_source=gzschool&amp;amp;utm_medium=tg&amp;amp;utm_channel=social&amp;amp;utm_campaign=post131026_2" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">В уроке разобрали</a>, как тестировать промпт на закупочных документах: заранее заложить ошибки, посмотреть, что ИИ нашел и что пропустил, а затем доработать исходный запрос.<br/><br/>Полезный прием: если результат слабый, не просто просить переделать, а выяснять, какой информации модели не хватило и почему она пришла к такому выводу. Так становится понятнее, что именно добавить в промпт: алгоритм, примеры, ограничения или перечень документов.<br/><br/>Отдельно прошли проверку на галлюцинации. Ответ ИИ стоит воспринимать как рабочий черновик, а финальное решение все равно оставлять специалисту.<br/><br/>А в конце дали готовый ИИ-ассистент для НМЦК: загружаете минимум три коммерческих предложения, а он считает цену и формирует обоснование. Наконец-то нейросеть занялась тем, ради чего ее вообще терпят в рабочем процессе <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F948E.png')"><b>🔎</b></i> <br/><br/><a href="?q=%23%D0%B8%D0%B8">#ии</a> | <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938C.png')"><b>📌</b></i><a href="https://telegram.me/gzschool" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"> Подписаться на Высшую Школу Госзакупок</a> | <a href="https://max.ru/join/1nrkKKfezaa8hUiD-qXve2yA6cdLzF4BVMw8PhK4ei0" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Читать нас в MAX</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/gzschool/1838</guid>
+      <pubDate>Tue, 13 Oct 2026 08:00:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Приглашаем на онлайн вебинар по закупкам</title>
+      <link>https://telegram.me/gzschool/1837</link>
+      <description>Приглашаем на онлайн вебинар по закупкам
+
+14 октября в 11:00 по Москве проведем вебинар 
+«Как закрыть год и запланировать закупки: экстренные маневры по адаптации к изменениям»
+. Узнаете, как с учётом новых правил закупать охранные услуги и перевозки, проверять контрагентов, формировать лоты и учитывать новые требования к лицензированию. Разберётесь, что уже сейчас нужно изменить в локальных актах и закупочном процессе, чтобы подготовиться к новым лимитам по СМП и СОНКО и избежать административной ответственности.
+
+#вебинары_госзаказ
+ | 
+📌
+ Подписаться на Высшую Школу Госзакупок
+ | 
+Читать нас в MAX</description>
+      <content:encoded><![CDATA[<b>Приглашаем на онлайн вебинар по закупкам</b><br/><br/>14 октября в 11:00 по Москве проведем вебинар <a href="https://edu.pro-goszakaz.ru/seminar/1551-kak-zakryt-god-i-zaplanirovat-zakupki-ekstrennye-manevry-po-adaptatsii-k-izmeneniyam?utm_source=gzschool&amp;amp;utm_medium=tg&amp;amp;utm_channel=social&amp;amp;utm_campaign=post131026_1&amp;amp;utm_content=Webinar" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">«Как закрыть год и запланировать закупки: экстренные маневры по адаптации к изменениям»</a>. Узнаете, как с учётом новых правил закупать охранные услуги и перевозки, проверять контрагентов, формировать лоты и учитывать новые требования к лицензированию. Разберётесь, что уже сейчас нужно изменить в локальных актах и закупочном процессе, чтобы подготовиться к новым лимитам по СМП и СОНКО и избежать административной ответственности.<br/><br/><a href="?q=%23%D0%B2%D0%B5%D0%B1%D0%B8%D0%BD%D0%B0%D1%80%D1%8B_%D0%B3%D0%BE%D1%81%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7">#вебинары_госзаказ</a> | <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938C.png')"><b>📌</b></i><a href="https://telegram.me/gzschool" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"> Подписаться на Высшую Школу Госзакупок</a> | <a href="https://max.ru/join/1nrkKKfezaa8hUiD-qXve2yA6cdLzF4BVMw8PhK4ei0" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Читать нас в MAX</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/gzschool/1837</guid>
+      <pubDate>Tue, 13 Oct 2026 05:00:08 +0000</pubDate>
+    </item>
     <item>
       <title>Неконкурентные закупки по 223-ФЗ: что обязательно прописать в положении</title>
       <link>https://telegram.me/gzschool/1836</link>
@@ -32,7 +81,7 @@
  Подписаться на Высшую Школу Госзакупок
   | 
 Читать нас в MAX</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/u4_2X2Cz7R5V0_VPBIbRQbDLO3xv7eu0OONzMtELhLuVMYFW4tQzh5WbFeeW7Dwm1QK5DWY4M7yeD4CBXIh6uKmPVw-8g_c_Fqi-NaLxzlc0TS3VxZ652WDMrxk4Ev6h2yJ_xQvakMQShGhM5OXRgoqIO3T_j15FdufV2kEvQ6JzJO8ZonA2zrxG8Bcuns9OcDKGOX-EdyY_jLjH0TIQj6exfgJoA-h6OxSrp6TK2CR9tSTs5ypSW4BWjQdZOUMTTqLAemKFAPflA-8bwaOMZtWkJdBeNKoyX6vqj1udfLSNBWhFQ3ChIdA8VfxhmvD5sxF0GRZSBtppPQuFQD2kOg.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/idqtdqseEfGx7xL-ECqatpLNGyaXb_bOYvEA6YfSISGgFhfqcdiZatxF9SYUA-rYK1kl7Apq0Z96Kv0DoXwiSbq_Sic6Ize7A--yZ6f1c9ho72fAOv13dWYdVJuZVMEfwdzHcbaA1mQ0duQg0shwwugFXF4FP602CrYCxP2QWGYzoEg9Y0YR7aSdS8KYIy3F64lOSQrlexRDBhsRPwglZNPLpfQYw2U5CJf1uEsZqg2wbFkg7I56e2RaYPtLCHO0NOLy_Df-QcvSq4CX2RHWvGWXB7xR9KFoSxlsocKfGBhhL7N8GsXyfEx-Kz1InXZgL10ggpREOL_QEEFQEjDTRw.jpg" /></p>
 <b>Неконкурентные закупки по 223-ФЗ: что обязательно прописать в положении</b><br/><br/>В неконкурентных закупках у заказчика гораздо больше свободы, чем в обычных процедурах. Можно придумать свои способы, порядок и даже название документа участника. Но свобода заканчивается там, где начинается слишком расплывчатое положение о закупке <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA7BE.png')"><b>🧾</b></i><br/><br/>Полезный минимум: пропишите сам способ закупки, конкретные случаи его применения, порядок проведения, информационное обеспечение и документ, который должен подать участник. Одного ценового порога недостаточно, контролеры такое упрощение не оценят.<br/><br/>С едпоставщиком та же логика. В положении нужны четкие основания, почему контракт можно заключить без конкуренции. Например, ограниченный рынок, срочная потребность или коммунальные услуги. А проект договора от поставщика можно заранее приравнять к заявке.<br/><br/><a href="https://academy.gzakypki.ru/programs/229551/b7d25860-d947-4346-bfb9-a90a96a40ca5/8fd40bb5-1df8-4f88-955b-4b878b0bc4ed?utm_source=gzschool&amp;amp;utm_medium=tg&amp;amp;utm_channel=social&amp;amp;utm_campaign=post121026_2" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">В уроке разобрали</a>, где у заказчика действительно есть свобода, а какие правила все равно обязательны. Полезно проверить свое положение сейчас, пока неконкурентная закупка не стала очень конкурентной темой на проверке <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F948E.png')"><b>🔎</b></i> <br/><br/><a href="?q=%23%D0%B7%D0%B0%D0%BA%D1%83%D0%BF%D0%BA%D0%B8">#закупки</a> | <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938C.png')"><b>📌</b></i><a href="https://telegram.me/gzschool" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"> Подписаться на Высшую Школу Госзакупок</a>  | <a href="https://max.ru/join/1nrkKKfezaa8hUiD-qXve2yA6cdLzF4BVMw8PhK4ei0" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Читать нас в MAX</a>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/gzschool/1836</guid>
       <pubDate>Mon, 12 Oct 2026 08:00:02 +0000</pubDate>
@@ -61,14 +110,6 @@
       <content:encoded><![CDATA[<b>Новая версия ЕИС 16.3</b><br/><br/>С 11 октября 2026 года запустили новую версию ЕИС. Среди новаций – возможность заключать допсоглашения по новым основаниям. <a href="https://academy.gzakypki.ru/programs/226834/56be45a7-425d-4c48-a57a-363e43a10a0a/099b9dfc-7571-441e-8340-b878d4da5257?utm_source=gzschool&amp;amp;utm_medium=tg&amp;amp;utm_channel=social&amp;amp;utm_campaign=post121026_1&amp;amp;utm_term=link_1" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Мы уже подготовили новый урок, в котором отработаете новые правила.</a><br/><br/>Для заказчиков, которые хотят провести закупку у едпоставщика в 2026 году за счет средств 2027 года также открыта такая возможность. Это возможно при условии, что доведены лимиты бюджетных обязательств на новый финансовый год. Закупку необходимо включить в план-график текущего года. Оплата по таким контрактам производится не ранее 1 января будущего года. <a href="https://academy.gzakypki.ru/programs/225836/6fdda8b5-ea6d-4ded-bbdf-f39e0a2a2cb8/07e4109c-b4eb-45d1-bf1a-12092bd166f6?utm_source=gzschool&amp;amp;utm_medium=tg&amp;amp;utm_channel=social&amp;amp;utm_campaign=post121026_1&amp;amp;utm_term=link_2" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Нельзя заключать такой контракт, если срок его оплаты будет превышать 7 рабочих дней.</a><br/><br/>Если столкнулись столкнулись с проблемой при учете неустоек в реестре закупок малого объема, с версии 16.3 <a href="https://academy.gzakypki.ru/programs/225836/4665de61-4dc5-4ed3-a9e7-a23f33079efe/b0da84ed-90bf-455e-9637-792fc97dd467?utm_source=gzschool&amp;amp;utm_medium=tg&amp;amp;utm_channel=social&amp;amp;utm_campaign=post121026_1&amp;amp;utm_term=link_3" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">ЕИС выпустили доработку, которая позволит добавить контрагента для учета штрафов, неустоек, пеней.</a> <br/><br/><a href="?q=%23%D0%B5%D0%B8%D1%81">#еис</a> | <a href="https://telegram.me/gzschool" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938C.png')"><b>📌</b></i></a><a href="https://telegram.me/gzschool" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"> Подписаться на Высшую Школу Госзакупок</a>  | <a href="https://max.ru/join/1nrkKKfezaa8hUiD-qXve2yA6cdLzF4BVMw8PhK4ei0" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Читать нас в MAX</a>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/gzschool/1835</guid>
       <pubDate>Mon, 12 Oct 2026 05:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>🎥 Видео — Высшая Школа Госзакупок</title>
-      <link>https://telegram.me/gzschool/1834</link>
-      <description>🎥 Видео — Высшая Школа Госзакупок</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/JxeMK-coghKERxBsZetDe2cpH-eLAxX5PTpTARk7SVTYW87jISTCEur6nWYIGszYdJS-ZBvLHqstU0y7FfgaIK-PHTCHgRG0qg7-neWk5ROKcBYnsODUZ94-ibXl4uWJAPuw-W59ZRn9iKmwr8LuBwUmGcYt8L63bKcxlEjy3Zxx9viAd8g0WB1yHrC3Jcrxv7sO8nuEArsCSaJsri_q7zvmJ_kUtacvS4OZoO1MpcX5SPIadCiAEGwGdTEKU5Prmh8dc1x5HmichRUVr_hozNYKPweUWOLrtddYwMUzWyMzwb6WCbqzGG_uzp980oalgZTqCwsiv2ly-Zp0iKklsg" /></p>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/gzschool/1834</guid>
-      <pubDate>Fri, 09 Oct 2026 15:00:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
