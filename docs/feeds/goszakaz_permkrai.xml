@@ -8,7 +8,40 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 13 Oct 2026 12:50:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 10:24:43 +0000</lastBuildDate>
+    <item>
+      <title>❗️</title>
+      <link>https://telegram.me/goszakaz_permkrai/3596</link>
+      <description>❗️
+Вниманию пользователей РИС Закупки ПК
+
+По состоянию на 08:00 14 октября 2026 г. интеграция по планам-графикам восстановлена.
+
+ 
+
+Обращаем внимание:
+ если контроль по ч.5 ст.99 по плану-графику был пройден 12 октября 2026 или 13 октября 2026, то план-график при публикации в ЕИС будет получать ошибку интеграции IDE, АРПГ_10446_0004. 
+
+Для устранения ошибки необходимо:
+
+✔️
+ план-график, который находится в статусе "Ошибка публикации", вернуть в формирование; 
+
+✔️
+ заново направить план-график на согласование ГРБС (при необходимости); 
+
+✔️
+ утвердить план-график;
+
+✔️
+ направить на согласование в ФО (предварительный контроль и контроль по ч.5 ст.99), после прохождения контроля по ч.5 план-график в автоматическом режиме будет направлен на публикацию в ЕИС. В случае успешной публикации в ЕИС план-график в РИС Закупки ПК перейдет в статус "Опубликован". 
+
+📲
+РИС Закупки ПК в МАХ</description>
+      <content:encoded><![CDATA[<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29D97.png')"><b>❗️</b></i><b>Вниманию пользователей РИС Закупки ПК<br/><br/>По состоянию на 08:00 14 октября 2026 г. интеграция по планам-графикам восстановлена.<br/> </b><br/><b><u>Обращаем внимание:</u></b> если контроль по ч.5 ст.99 по плану-графику был пройден 12 октября 2026 или 13 октября 2026, то план-график при публикации в ЕИС будет получать ошибку интеграции IDE, АРПГ_10446_0004. <br/><br/><b><u>Для устранения ошибки необходимо:</u></b><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C94.png')"><b>✔️</b></i> план-график, который находится в статусе "Ошибка публикации", вернуть в формирование; <br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C94.png')"><b>✔️</b></i> заново направить план-график на согласование ГРБС (при необходимости); <br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C94.png')"><b>✔️</b></i> утвердить план-график;<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C94.png')"><b>✔️</b></i> направить на согласование в ФО (предварительный контроль и контроль по ч.5 ст.99), после прохождения контроля по ч.5 план-график в автоматическом режиме будет направлен на публикацию в ЕИС. В случае успешной публикации в ЕИС план-график в РИС Закупки ПК перейдет в статус "Опубликован". <br/><b><br/><br/><u><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93B2.png')"><b>📲</b></i></u></b><a href="https://max.ru/join/M0aYwV2pm7R-YPNYn5S9tgpOtLfD8Aqjbv1_6hOlXFY" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b><u>РИС Закупки ПК в МАХ</u></b></a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/goszakaz_permkrai/3596</guid>
+      <pubDate>Wed, 14 Oct 2026 05:20:55 +0000</pubDate>
+    </item>
     <item>
       <title>❗️</title>
       <link>https://telegram.me/goszakaz_permkrai/3595</link>
