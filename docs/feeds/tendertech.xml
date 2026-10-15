@@ -8,27 +8,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 14 Oct 2026 10:24:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 10:09:51 +0000</lastBuildDate>
     <item>
-      <title>Коллеги и партнеры.</title>
-      <link>https://telegram.me/tendertech/1447</link>
-      <description>Коллеги и партнеры.
+      <title>➡️</title>
+      <link>https://telegram.me/tendertech/1448</link>
+      <description>➡️
+Уважаемые партнёры, мы постепенно восстанавливаем работу платформы Тендертех.
 
-К сожалению, в настоящий момент сервисы Тендертех 
-работают нестабильно
-, в связи с последствием атаки на ЦОД нашего облачного провайдера.
+Уже можно 
+продолжить работу с ранее одобренными заявками в банках Уралсиб, Калуга, Агророс, ТКБ.
 
-Все наши силы направлены на 
-скорейшее восстановление
- полной работоспособности сервисов. 
+Подача новых заявок пока доступна с ограничениями — 
+работаем над восстановлением сервисов.
 
-⬇️
-Ваши кураторы на связи и готовы ответить на любые вопросы.
+🔗
+По всем вопросам обращайтесь к своему куратору или в техническую поддержку: care@tendertech.ru.
 
-Ваш Тендертех!</description>
-      <content:encoded><![CDATA[Коллеги и партнеры.<br/><br/>К сожалению, в настоящий момент сервисы Тендертех <b>работают нестабильно</b>, в связи с последствием атаки на ЦОД нашего облачного провайдера.<br/><br/>Все наши силы направлены на <b>скорейшее восстановление</b> полной работоспособности сервисов. <br/><br/><tg-emoji emoji-id="5406745015365943482"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E2AC87.png')"><b>⬇️</b></i></tg-emoji>Ваши кураторы на связи и готовы ответить на любые вопросы.<br/><br/><i>Ваш Тендертех!</i>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/tendertech/1447</guid>
-      <pubDate>Mon, 12 Oct 2026 04:47:46 +0000</pubDate>
+PS: за это время мы получили много слов поддержки и пожелания по скорейшему восстановлению. 
+
+Всех сердечно благодарим!</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/WL5W5Zs2BvH9wIkk7r5qWTaTrrBWag2_ss3rTbGwjXoww0PZCbHR1BmETL5F0r5Pp95rd5L7jy_D5vAUA34mo8woC8gpSU4udjA6KUr-aDgFSX6VfOwVjqqAgNBdWCZ7BG-E-y1EN2YYFFn1oiarj3TwWiJbyQtxk5TM_MdDPkPKCwjvDH1bxUPmqGppW_wmKYVQKbngjw5V8Zv8wK1rbMD5Mku9FD36Q0YAGEpJIVXzzWwQwwccVgOGAkkb00_K4AWWwcij03IeK0bTNMkd7_hpX2QXCRSidi-iwNrD6Jto_-gQlGENMcyN8LuYhJtkQAzTRs1xuK2v94vRaaQEJQ.jpg" /></p>
+<tg-emoji emoji-id="5416117059207572332"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29EA1.png')"><b>➡️</b></i></tg-emoji>Уважаемые партнёры, мы постепенно восстанавливаем работу платформы Тендертех.<br/><br/>Уже можно <b>продолжить работу с ранее одобренными заявками в банках Уралсиб, Калуга, Агророс, ТКБ.</b><br/><br/>Подача новых заявок пока доступна с ограничениями — <b>работаем над восстановлением сервисов.<br/></b><br/><tg-emoji emoji-id="5271604874419647061"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9497.png')"><b>🔗</b></i></tg-emoji>По всем вопросам обращайтесь к своему куратору или в техническую поддержку: care@tendertech.ru.<br/><br/>PS: за это время мы получили много слов поддержки и пожелания по скорейшему восстановлению. <br/><b>Всех сердечно благодарим!</b>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/tendertech/1448</guid>
+      <pubDate>Wed, 14 Oct 2026 12:53:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
