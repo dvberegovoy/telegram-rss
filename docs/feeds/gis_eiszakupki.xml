@@ -8,86 +8,168 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 16 Oct 2026 09:59:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 11:00:57 +0000</lastBuildDate>
+    <item>
+      <title>⁉</title>
+      <link>https://telegram.me/gis_eiszakupki/3297</link>
+      <description>⁉
+ ВОПРОС
+
+Что делать, если недоступно утверждение и направление плана-графика на контроль?
+
+✔
+ ОТВЕТ
+
+Перед размещением или направлением на контроль плана-графика закупок первоначально следует осуществить системную проверку на наличие блокирующих ошибок. 
+
+Теперь для удобства пользователей запуск проверки осуществляется 
+при нажатии  на кнопку «Подготовить к размещению» в контекстном меню плана-графика закупок или на вкладке «Документы».
+ В зависимости от этапа проверки плану-графику закупок присвоится соответствующий статус:
+
+🔹
+«На проверке» — выполняется проверка плана-графика закупок. До ее завершения работа с планом-графиком закупок недоступна;
+
+🔹
+«Готов к подписанию» — проверка завершена, блокирующие нарушения не выявлены. План-график закупок готов к подписанию и последующему размещению;
+
+🔹
+«Проверка не пройдена» — проверка завершена с выявлением блокирующих ошибок. Пользователю выводится перечень обнаруженных нарушений, которые необходимо исправить.
+
+❕
+Обращаем внимание, что после запуска системной проверки не требуется ожидание ее завершения — пользователь может продолжать работу в других реестрах системы.
+
+📖
+ Подробности работы функционала смотрите в Базе знаний → «Руководства пользователя и видеоролики» → «Планы-графики закупок».
+
+#ЧЗВ
+ 
+
+#ПЛАНИРОВАНИЕ
+
+📱
+ 
+Следите за новостями ГИС ЕИС ЗАКУПКИ в MAX</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/Dzmb63PbxAAdyojdNTHXcYisv7pUZEhK03_qiCm7ho30tv6vXyKZryPllLjirMjrG3natkiih2mFTHT53RX67fmauq95htJaw7qzka7BseUVONjOnxWX08gwQDrrEXyaZhj4DIsKCPDz9TRLvaywWRhNCjZNUCR3_894tLXXlgOLiIxgHr5ssFa4iN3JWm_gkapwa6cTIKjGyYunz0mWFUVB8zEPtZUO2xCPmX3nARIMUsquLrNjIOvZdvh2vjMsFE9s5pRDSDqx1cOcUdi-Uv45vvSV7g4kngqdlz8AOihpheJTQaLxxjn4acu4e82Qd2_53HJBxkmkFtQxdzGoPQ.jpg" /></p>
+<tg-emoji emoji-id="5435994300997443130"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E28189.png')"><b>⁉</b></i></tg-emoji><b> ВОПРОС</b><br/>Что делать, если недоступно утверждение и направление плана-графика на контроль?<br/><br/><tg-emoji emoji-id="5435862449796423200"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C94.png')"><b>✔</b></i></tg-emoji><b> ОТВЕТ</b><br/>Перед размещением или направлением на контроль плана-графика закупок первоначально следует осуществить системную проверку на наличие блокирующих ошибок. <br/><br/>Теперь для удобства пользователей запуск проверки осуществляется <b>при нажатии  на кнопку «Подготовить к размещению» в контекстном меню плана-графика закупок или на вкладке «Документы».</b> В зависимости от этапа проверки плану-графику закупок присвоится соответствующий статус:<br/><br/><tg-emoji emoji-id="5296283477329587350"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji>«На проверке» — выполняется проверка плана-графика закупок. До ее завершения работа с планом-графиком закупок недоступна;<br/><br/><tg-emoji emoji-id="5296283477329587350"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji>«Готов к подписанию» — проверка завершена, блокирующие нарушения не выявлены. План-график закупок готов к подписанию и последующему размещению;<br/><br/><tg-emoji emoji-id="5296283477329587350"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji>«Проверка не пройдена» — проверка завершена с выявлением блокирующих ошибок. Пользователю выводится перечень обнаруженных нарушений, которые необходимо исправить.<br/><br/><tg-emoji emoji-id="5436322999139574951"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29D95.png')"><b>❕</b></i></tg-emoji>Обращаем внимание, что после запуска системной проверки не требуется ожидание ее завершения — пользователь может продолжать работу в других реестрах системы.<br/><br/><tg-emoji emoji-id="5435982738945483816"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9396.png')"><b>📖</b></i></tg-emoji> Подробности работы функционала смотрите в Базе знаний → «Руководства пользователя и видеоролики» → «Планы-графики закупок».<br/><br/><a href="?q=%23%D0%A7%D0%97%D0%92">#ЧЗВ</a> <br/><a href="?q=%23%D0%9F%D0%9B%D0%90%D0%9D%D0%98%D0%A0%D0%9E%D0%92%D0%90%D0%9D%D0%98%D0%95">#ПЛАНИРОВАНИЕ</a><br/><br/><tg-emoji emoji-id="5294059873976200999"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93B1.png')"><b>📱</b></i></tg-emoji> <a href="https://max.ru/gis_eiszakupki" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Следите за новостями ГИС ЕИС ЗАКУПКИ в MAX</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/gis_eiszakupki/3297</guid>
+      <pubDate>Mon, 19 Oct 2026 10:04:00 +0000</pubDate>
+    </item>
     <item>
       <title>📃</title>
-      <link>https://telegram.me/gis_eiszakupki/3293</link>
+      <link>https://telegram.me/gis_eiszakupki/3296</link>
       <description>📃
-Новый порядок учета бюджетных и денежных обязательств получателей средств федерального бюджета
+Внесены изменения в Правила осуществления казначейского сопровождения
 📃
 
-14.10.2026 опубликован приказ Минфина России от 25.06.2026 № 79н (далее — приказ), который заменяет утвержденный приказом Минфина России от 30.10.2020 № 258н действующий порядок учета бюджетных и денежных обязательств (далее — БО и ДО) получателей средств федерального бюджета территориальными органами Казначейства России. 
+16.10.2026 опубликовано постановление Правительства Российской Федерации от 13.08.2026 № 1350 (далее — постановление), которое вносит изменение в Правила осуществления казначейского сопровождения, утвержденные постановлением Правительства Российской Федерации от 24.11.2021 № 2024.
 
-🆕
- 
-Издание приказа направлено на дополнение действующего порядка особенностями учета БО по закупкам в соответствии с пунктами 4 и 5 части 1 статьи 93 Закона № 44-ФЗ (далее — закупки малого объема). 
+ℹ️
+ Постановление утверждает порядок осуществления возврата аванса (остатка аванса, если поставщик (подрядчик, исполнитель) частично исполнил обязательства, предусмотренные государственным контрактом) по государственному контракту с  казначейским сопровождением в случае его расторжения. 
 
-При этом в остальной части порядок постановки на учет БО и ДО сохраняется без существенных изменений, обеспечивая преемственность сложившихся подходов казначейского контроля. 
+🗓️
+ Постановление вступает в силу с 01.01.2027.
 
-ℹ
- Нововведения и особенности, предусмотренные приказом, при постановке на учет БО по закупкам малого объема:
-
-🔹
-формирование принимаемого БО на основании проекта контракта по закупке малого объема, сформированного с использованием ГИС ЕИС ЗАКУПКИ;
-
-🔹
-автоматическая проверка принимаемого БО на непревышение лимитов бюджетных обязательств, доведенных до получателя бюджетных средств (без визуальных проверок);
-
-🔹
-проверка целевого расходования бюджетных средств  и контроль за непревышением предельного размера аванса проводятся при постановке на учет принятого БО.
-
-🗓
- Приказ вступает в силу по истечении 10 дней со дня его официального опубликования, за исключением распространения положений порядка для постановки на учет БО и ДО получателей средств бюджета субъекта РФ (местного бюджета), вступающих в силу с 01.01.2027.
-
-Полный текст приказа по 
+Полный текст постановления по 
 ссылке
  
 ↩
 
 #НОВОСТИ
+ 
 
 #НПА
 
 📱
 Следите за новостями ГИС ЕИС ЗАКУПКИ в MAX</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/a9azYxxW2ey2-cRGiHc9X69JwDEm3O8zi_7ray1enB-gG8nqAPB8yxM0EJibe-U7TF7nLrU4ji1j8cWwxZJ0Ru8wx1kJ1ND9PVNmdgr0C32SUHbMY8n7Nk7gL0ZddsGdyQeLaMtXdEnhoU_EVlzTiN8aeo32-6l1scZo6sRKghlBmP0cGrZMwPvRclN87n3PGKAObCUceVxSvnIkmm6GMLOVvNBQwQD4eNqYM07R8Uqme1jztTH2zGKxfnf3d6xvHlSFBuRhXzxEeKPNUJiAGTQURxd-2vKW5HtcH8cRb7IaRmTG0G9nY1NGFATxLQmeudEQiNZIwsSuwBqSgjg_NA.jpg" /></p>
-<tg-emoji emoji-id="5296518734163228990"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9383.png')"><b>📃</b></i></tg-emoji><b>Новый порядок учета бюджетных и денежных обязательств получателей средств федерального бюджета</b><tg-emoji emoji-id="5296518734163228990"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9383.png')"><b>📃</b></i></tg-emoji><br/><br/>14.10.2026 опубликован приказ Минфина России от 25.06.2026 № 79н (далее — приказ), который заменяет утвержденный приказом Минфина России от 30.10.2020 № 258н действующий порядок учета бюджетных и денежных обязательств (далее — БО и ДО) получателей средств федерального бюджета территориальными органами Казначейства России. <br/><br/><tg-emoji emoji-id="5435904995742457332"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8695.png')"><b>🆕</b></i></tg-emoji> <b>Издание приказа направлено на дополнение действующего порядка особенностями учета БО по закупкам в соответствии с пунктами 4 и 5 части 1 статьи 93 Закона № 44-ФЗ (далее — закупки малого объема). </b><br/><br/>При этом в остальной части порядок постановки на учет БО и ДО сохраняется без существенных изменений, обеспечивая преемственность сложившихся подходов казначейского контроля. <br/><b><br/></b><b><tg-emoji emoji-id="5438355721261425042"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E284B9.png')"><b>ℹ</b></i></tg-emoji></b><b> Нововведения и особенности, предусмотренные приказом, при постановке на учет БО по закупкам малого объема:</b><br/><br/><tg-emoji emoji-id="5296283477329587350"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji>формирование принимаемого БО на основании проекта контракта по закупке малого объема, сформированного с использованием ГИС ЕИС ЗАКУПКИ;<br/><tg-emoji emoji-id="5296283477329587350"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji>автоматическая проверка принимаемого БО на непревышение лимитов бюджетных обязательств, доведенных до получателя бюджетных средств (без визуальных проверок);<br/><tg-emoji emoji-id="5296283477329587350"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji>проверка целевого расходования бюджетных средств  и контроль за непревышением предельного размера аванса проводятся при постановке на учет принятого БО.<br/><br/><tg-emoji emoji-id="5296526512348999459"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9793.png')"><b>🗓</b></i></tg-emoji> Приказ вступает в силу по истечении 10 дней со дня его официального опубликования, за исключением распространения положений порядка для постановки на учет БО и ДО получателей средств бюджета субъекта РФ (местного бюджета), вступающих в силу с 01.01.2027.<br/><br/>Полный текст приказа по <a href="http://publication.pravo.gov.ru/document/0001202610140002" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">ссылке</a> <tg-emoji emoji-id="5436118790624518351"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E286A9.png')"><b>↩</b></i></tg-emoji><br/><br/><a href="?q=%23%D0%9D%D0%9E%D0%92%D0%9E%D0%A1%D0%A2%D0%98">#НОВОСТИ</a><br/><a href="?q=%23%D0%9D%D0%9F%D0%90">#НПА</a><br/><br/><tg-emoji emoji-id="5294059873976200999"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93B1.png')"><b>📱</b></i></tg-emoji><a href="https://max.ru/gis_eiszakupki/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Следите за новостями ГИС ЕИС ЗАКУПКИ в MAX</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/gis_eiszakupki/3293</guid>
-      <pubDate>Thu, 15 Oct 2026 04:59:58 +0000</pubDate>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/PcrQEuWJdcCDGZd4XoHPV4J4r5ux_cee1bwGfAyGs_UYXTbla87wjPLb0COXFVdvCkrl5y38JVU6Dwt8z1DKkW8omWyDla8P5nC7XVe1F7LuvUzCniJRuC4vYASyxQx_iGND3s-eexxTduCtRlCI884uXs118tSFYntFjLpPu-z01Tc-peyZW5_Ech9hkWSPbT4tEa9nrX1T2l-oTUrV6bZyMMuL0bX1thTro5RAFgoi578CABQJoXLfYbysGb2aHr7PsrkIWNMZ_MzVHt8XZTH0957Cl3ovTxsruj55WjLqczlNK73r9Ds4L4mCdKw0R27x16u4pjI0UeDGoPM2yA.jpg" /></p>
+<b><tg-emoji emoji-id="5296518734163228990"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9383.png')"><b>📃</b></i></tg-emoji></b><b>Внесены изменения в Правила осуществления казначейского сопровождения</b><b><tg-emoji emoji-id="5296518734163228990"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9383.png')"><b>📃</b></i></tg-emoji></b><br/><br/>16.10.2026 опубликовано постановление Правительства Российской Федерации от 13.08.2026 № 1350 (далее — постановление), которое вносит изменение в Правила осуществления казначейского сопровождения, утвержденные постановлением Правительства Российской Федерации от 24.11.2021 № 2024.<br/><br/><tg-emoji emoji-id="5438355721261425042"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E284B9.png')"><b>ℹ️</b></i></tg-emoji> Постановление утверждает порядок осуществления возврата аванса (остатка аванса, если поставщик (подрядчик, исполнитель) частично исполнил обязательства, предусмотренные государственным контрактом) по государственному контракту с  казначейским сопровождением в случае его расторжения. <br/><br/><tg-emoji emoji-id="5296526512348999459"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9793.png')"><b>🗓️</b></i></tg-emoji> Постановление вступает в силу с 01.01.2027.<br/><br/>Полный текст постановления по <a href="http://publication.pravo.gov.ru/document/0001202610160037" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">ссылке</a> <tg-emoji emoji-id="5436118790624518351"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E286A9.png')"><b>↩</b></i></tg-emoji><br/><br/><a href="?q=%23%D0%9D%D0%9E%D0%92%D0%9E%D0%A1%D0%A2%D0%98">#НОВОСТИ</a> <br/><a href="?q=%23%D0%9D%D0%9F%D0%90">#НПА</a><br/><br/><tg-emoji emoji-id="5294059873976200999"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93B1.png')"><b>📱</b></i></tg-emoji><a href="https://max.ru/gis_eiszakupki" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Следите за новостями ГИС ЕИС ЗАКУПКИ в MAX</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/gis_eiszakupki/3296</guid>
+      <pubDate>Sat, 17 Oct 2026 09:40:34 +0000</pubDate>
     </item>
     <item>
-      <title>🏠</title>
-      <link>https://telegram.me/gis_eiszakupki/3292</link>
-      <description>🏠
-Цифровой акт со специализацией «Жилые помещения»
+      <title>📃</title>
+      <link>https://telegram.me/gis_eiszakupki/3295</link>
+      <description>📃
+Внесены изменения в порядок предоставления национального режима при осуществлении закупок
+📃
 
-Применяется при исполнении контрактов, предметом которых является приобретение жилых помещений, в том числе при участии в долевом строительстве.
+ 
 
-🟦
- Цифровой акт со специализацией «Жилые помещения» в ГИС ЕИС ЗАКУПКИ реализован с учетом требований форматов ФНС России, а также Федерального закона от 13.07.2015 № 218-ФЗ «О государственной регистрации недвижимости» и принимается в Росреестре для регистрации перехода права собственности.
-
-❕
-Особенности формирования цифрового акта о приемке со специализацией «Жилые помещения»:
+16.10.2026 опубликовано постановление Правительства Российской Федерации от 15.10.2026 № 1353 (далее — постановление), которое вносит изменения в:
 
 🔹
-если в рамках контракта одновременно приобретается несколько жилых помещений в одном многоквартирном доме, то сведения о таких объектах и их характеристики могут быть отражены в одном цифровом акте
+постановление Правительства Российской Федерации от 17.07.2015 № 719, устанавливающее требования к промышленной продукции, предъявляемые в целях ее отнесения к российской промышленной продукции (далее — постановление № 719);
 
 🔹
-если приобретаемое жилое помещение принадлежит нескольким собственникам и оплата по контракту осуществляется каждому из них, то в отношении собственников формируются отдельные цифровые акты.  При этом сведения об объекте закупки в каждом акте указываются с учетом размера доли соответствующего собственника
+постановление Правительства Российской Федерации от 23.12.2024 № 1875, регулирующее порядок предоставления национального режима при осуществлении закупок в рамках Закона № 44-ФЗ и Закона № 223-ФЗ (далее — постановление № 1875).
 
-📖
- Подробности работы функционала смотрите в Базе знаний → «Руководства пользователя и видеоролики».
+ 
 
-#ВАЖНО
+ℹ️
+ Постановление изменяет перечень промышленной продукции и ее балльную систему в следующих разделах перечня промышленной продукции, предусмотренных постановлением № 719:
 
-#ЭЛАКТ
+🔹
+«V. Продукция энергетического машиностроения, электротехнической и кабельной промышленности»;
+
+🔹
+«IX. Продукция радиоэлектроники».
+
+ℹ️
+ Кроме того, постановление дополняет перечень товаров, при осуществлении закупок в рамках Закона № 44 ФЗ и Закона № 223 ФЗ которых, заявки с российской радиоэлектронной продукций, не признанной радиоэлектронной продукцией первого уровня, приравниваются к заявкам с иностранным товаром, если хотя бы одна заявка содержит радиоэлектронную продукцию первого уровня.
+
+🗓
+ Постановление вступает в силу с 01.01.2027.
+
+ 
+
+Полный текст постановления по 
+ссылке
+ 
+↩️
+
+#НОВОСТИ
+
+#НПА
+
+ 
+📱
+Следите за новостями ГИС ЕИС ЗАКУПКИ в MAX</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/m84xBbkb2GbTARfeyPyB1TS4C14TK--Ree1fCmDaHxYwQXqAXIGvYelpFtWWzZ95Wgb_5UMYoit329BKoY6E6532xRQIgmCUY0Avo2ufv2ApXpENuR_l_r62E-66pk8o-Duv4X10j5EaDwgcnSmUywmQOwXdbYOsfM61OJ-JZ7u0_URwh7oD92hj_mnSFx8Q-EgFuGsAwlxmntj0pSJ9Y4xaPnxDPQtYQeKLRrBhR3TS5BXWE6AU29loxOLLRAkGYgv2W9dQb1UnZyt8h86PpxV6OO0ZXaUWAUUcfQAGpXvH3rnPeMleunje2FLHY9DJu6q6T9qbjmPPzaRLMObzkA.jpg" /></p>
+<tg-emoji emoji-id="5296518734163228990"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9383.png')"><b>📃</b></i></tg-emoji><b>Внесены изменения в порядок предоставления национального режима при осуществлении закупок</b><tg-emoji emoji-id="5296518734163228990"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9383.png')"><b>📃</b></i></tg-emoji><br/> <br/>16.10.2026 опубликовано постановление Правительства Российской Федерации от 15.10.2026 № 1353 (далее — постановление), которое вносит изменения в:<br/><br/><tg-emoji emoji-id="5296283477329587350"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji>постановление Правительства Российской Федерации от 17.07.2015 № 719, устанавливающее требования к промышленной продукции, предъявляемые в целях ее отнесения к российской промышленной продукции (далее — постановление № 719);<br/><tg-emoji emoji-id="5296283477329587350"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji>постановление Правительства Российской Федерации от 23.12.2024 № 1875, регулирующее порядок предоставления национального режима при осуществлении закупок в рамках Закона № 44-ФЗ и Закона № 223-ФЗ (далее — постановление № 1875).<br/> <br/><tg-emoji emoji-id="5438355721261425042"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E284B9.png')"><b>ℹ️</b></i></tg-emoji> Постановление изменяет перечень промышленной продукции и ее балльную систему в следующих разделах перечня промышленной продукции, предусмотренных постановлением № 719:<br/><br/><tg-emoji emoji-id="5296283477329587350"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji>«V. Продукция энергетического машиностроения, электротехнической и кабельной промышленности»;<br/><tg-emoji emoji-id="5296283477329587350"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji>«IX. Продукция радиоэлектроники».<br/><br/><tg-emoji emoji-id="5438355721261425042"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E284B9.png')"><b>ℹ️</b></i></tg-emoji> Кроме того, постановление дополняет перечень товаров, при осуществлении закупок в рамках Закона № 44 ФЗ и Закона № 223 ФЗ которых, заявки с российской радиоэлектронной продукций, не признанной радиоэлектронной продукцией первого уровня, приравниваются к заявкам с иностранным товаром, если хотя бы одна заявка содержит радиоэлектронную продукцию первого уровня.<br/><br/><tg-emoji emoji-id="5296526512348999459"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9793.png')"><b>🗓</b></i></tg-emoji> Постановление вступает в силу с 01.01.2027.<br/> <br/>Полный текст постановления по <a href="http://publication.pravo.gov.ru/document/0001202610160043" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">ссылке</a> <tg-emoji emoji-id="5436118790624518351"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E286A9.png')"><b>↩️</b></i></tg-emoji><br/><br/><a href="?q=%23%D0%9D%D0%9E%D0%92%D0%9E%D0%A1%D0%A2%D0%98">#НОВОСТИ</a><br/><a href="?q=%23%D0%9D%D0%9F%D0%90">#НПА</a><br/><br/> <tg-emoji emoji-id="5294059873976200999"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93B1.png')"><b>📱</b></i></tg-emoji><a href="https://max.ru/gis_eiszakupki" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Следите за новостями ГИС ЕИС ЗАКУПКИ в MAX</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/gis_eiszakupki/3295</guid>
+      <pubDate>Sat, 17 Oct 2026 09:01:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>📃</title>
+      <link>https://telegram.me/gis_eiszakupki/3294</link>
+      <description>📃
+Продлена возможность изменения существенных условий контрактов в сфере строительства в связи с увеличением ставки НДС
+📃
+
+16.10.2026 опубликовано постановление Правительства Российской Федерации от 15.10.2026 № 1354 (далее — постановление), которое вносит изменения в постановление Правительства Российской Федерации от 15.04.2026 № 416.
+
+ℹ
+ Постановление продлевает до 01.10.2027 срок, в течение которого по соглашению сторон на основании части 65.1 статьи 112 Закона № 44-ФЗ допускается изменение существенных условий контрактов в сфере строительства, заключенных для обеспечения федеральных нужд до 01.01.2026, если увеличенный размер ставки НДС не был предусмотрен условиями таких контрактов.
+
+🗓
+ Постановление вступает в силу по истечении 7 дней со дня его официального опубликования.
+
+Полный текст постановления по 
+ссылке
+ 
+↩
+
+#НОВОСТИ
+ 
+
+#НПА
 
 📱
 Следите за новостями ГИС ЕИС ЗАКУПКИ в MAX</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/IfI2QN36f4ONOG436pMINxYHJjUJ3_BNiiC-Y0PLcyNw_gMWbVpSCbUMF0d5alrQaQWfRkhe6eKJtwyx2xHkHCMGMyWsApFKgUk0FBeEGO_dp037zZMDescAc4bbfvRP6CZDP9cspoRk10EqsXi264g_FH9W74CaU0RCib0hNQUxKWmwzT2KFb9bVZmeKlT_f3APDeyfJ-mq65cWVB9_7laUHgFxn6hshoxx0PbQuIB4NMgusy_bxnlFrVDnMcNqll8H_f82Bm_5MaG0FPF4uenMaecXfH-qN4-Daus8cGqEKYbSyc5Ofi5UlGJ9t8SzKh7X1dHWwKCTp2yMbHT3ag.jpg" /></p>
-<tg-emoji emoji-id="5296284877488927347"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8FA0.png')"><b>🏠</b></i></tg-emoji><b>Цифровой акт со специализацией «Жилые помещения»</b><br/><br/>Применяется при исполнении контрактов, предметом которых является приобретение жилых помещений, в том числе при участии в долевом строительстве.<br/><br/><tg-emoji emoji-id="5438328856240989389"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9FA6.png')"><b>🟦</b></i></tg-emoji> Цифровой акт со специализацией «Жилые помещения» в ГИС ЕИС ЗАКУПКИ реализован с учетом требований форматов ФНС России, а также Федерального закона от 13.07.2015 № 218-ФЗ «О государственной регистрации недвижимости» и принимается в Росреестре для регистрации перехода права собственности.<br/><br/><tg-emoji emoji-id="5436322999139574951"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29D95.png')"><b>❕</b></i></tg-emoji><b>Особенности формирования цифрового акта о приемке со специализацией «Жилые помещения»:</b><br/><br/><tg-emoji emoji-id="5296283477329587350"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji>если в рамках контракта одновременно приобретается несколько жилых помещений в одном многоквартирном доме, то сведения о таких объектах и их характеристики могут быть отражены в одном цифровом акте<br/><br/><tg-emoji emoji-id="5296283477329587350"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji>если приобретаемое жилое помещение принадлежит нескольким собственникам и оплата по контракту осуществляется каждому из них, то в отношении собственников формируются отдельные цифровые акты.  При этом сведения об объекте закупки в каждом акте указываются с учетом размера доли соответствующего собственника<br/><br/><tg-emoji emoji-id="5435982738945483816"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9396.png')"><b>📖</b></i></tg-emoji> Подробности работы функционала смотрите в Базе знаний → «Руководства пользователя и видеоролики».<br/><br/><a href="?q=%23%D0%92%D0%90%D0%96%D0%9D%D0%9E">#ВАЖНО</a><br/><a href="?q=%23%D0%AD%D0%9B%D0%90%D0%9A%D0%A2">#ЭЛАКТ</a><br/><br/><tg-emoji emoji-id="5294059873976200999"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93B1.png')"><b>📱</b></i></tg-emoji><a href="https://max.ru/gis_eiszakupki/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Следите за новостями ГИС ЕИС ЗАКУПКИ в MAX</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/gis_eiszakupki/3292</guid>
-      <pubDate>Tue, 13 Oct 2026 10:02:00 +0000</pubDate>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/GgYAoZ7OAvpSjTeeXELSmBwWFp19ht1NclWi3uVzbkAPQ_wU9kWmmNxOIU2NlD3f1i6VfzdoRKoG3E_xOFUkEevqVDYnzu6xssBnUp0PPmZIIESDEwDRyFwhQv1cgwLxH-CCaOsXj1-CLEV6Lg99Rue542WTcsTYamYlGA46p__3Apzh9NP6GucIU3fboOZFkIAtrZBqk1-rgbel3_5LKJAGPLSfNIAbWtp-OPE0Bk1ov73tdVHKT0JkI98Gs_d_6SAWg6h78qfZuMZJK22gSVCCLaYpfs6AocT_ydWvAFpZ2o03vvHcvWPaLXzeeoAP_S2LP991LFMU7hatvIeeLg.jpg" /></p>
+<b><tg-emoji emoji-id="5296518734163228990"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9383.png')"><b>📃</b></i></tg-emoji></b><b>Продлена возможность изменения существенных условий контрактов в сфере строительства в связи с увеличением ставки НДС</b><b><tg-emoji emoji-id="5296518734163228990"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9383.png')"><b>📃</b></i></tg-emoji></b><br/><br/>16.10.2026 опубликовано постановление Правительства Российской Федерации от 15.10.2026 № 1354 (далее — постановление), которое вносит изменения в постановление Правительства Российской Федерации от 15.04.2026 № 416.<br/><br/><tg-emoji emoji-id="5438355721261425042"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E284B9.png')"><b>ℹ</b></i></tg-emoji> Постановление продлевает до 01.10.2027 срок, в течение которого по соглашению сторон на основании части 65.1 статьи 112 Закона № 44-ФЗ допускается изменение существенных условий контрактов в сфере строительства, заключенных для обеспечения федеральных нужд до 01.01.2026, если увеличенный размер ставки НДС не был предусмотрен условиями таких контрактов.<br/><br/><tg-emoji emoji-id="5296526512348999459"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9793.png')"><b>🗓</b></i></tg-emoji> Постановление вступает в силу по истечении 7 дней со дня его официального опубликования.<br/><br/>Полный текст постановления по <a href="http://publication.pravo.gov.ru/document/0001202610160039" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">ссылке</a> <tg-emoji emoji-id="5436118790624518351"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E286A9.png')"><b>↩</b></i></tg-emoji><br/><br/><a href="?q=%23%D0%9D%D0%9E%D0%92%D0%9E%D0%A1%D0%A2%D0%98">#НОВОСТИ</a> <br/><a href="?q=%23%D0%9D%D0%9F%D0%90">#НПА</a><br/><br/><tg-emoji emoji-id="5294059873976200999"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93B1.png')"><b>📱</b></i></tg-emoji><a href="https://max.ru/gis_eiszakupki" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Следите за новостями ГИС ЕИС ЗАКУПКИ в MAX</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/gis_eiszakupki/3294</guid>
+      <pubDate>Sat, 17 Oct 2026 05:02:01 +0000</pubDate>
     </item>
   </channel>
 </rss>

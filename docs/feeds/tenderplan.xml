@@ -8,20 +8,27 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 16 Oct 2026 10:00:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 11:02:08 +0000</lastBuildDate>
     <item>
-      <title>💵</title>
-      <link>https://telegram.me/tenderplan/1492</link>
-      <description>💵
- Оплата по 44-ФЗ всегда приходит в срок. Так ли это?
+      <title>🔗</title>
+      <link>https://telegram.me/tenderplan/1493</link>
+      <description>🔗
+ 
+Тендеры и CRM — как подружить их в одной системе
 
-Выполнили контракт по 44-ФЗ, сдали работу, ждете оплату через 7 дней. Таков стандартный сценарий. Оплата без задержек – большой плюс госзакупок.
+Поиск тендеров — в Тендерплане, бизнес-процессы — в Битриксе. Чтобы не терять время на ручной перенос, настройте 
+интеграцию Тендерплана и Битрикс24.
 
-Но бывает так, что срок прошел, а денег от заказчика нет. Причин может быть несколько. Иногда это ошибка самого поставщика, а иногда проблемы со стороны заказчика.  
+После интеграции тендеры будут попадать в Битрикс автоматически. Закупки переносятся со всеми отмеченными полями: наименование, цена, сроки, заказчик, ответственные, ссылки на документы.
 
-🏷
-Что должен делать поставщик, чтобы минимизировать риски задержки, и какие существуют законные механизмы защиты поставщика – разобрали 
-в нашей новой статье.
+Как подключить интеграцию, настроить процесс под задачи компании, проверить работоспособность и создать воронки — рассказали в карточках 
+⬆️
+
+Если при настройке что-то пойдет не так или появятся вопросы — наши менеджеры поддержки всегда готовы помочь
+ 
+🖤
+
+#лайфхаки_тендерплана
 
 ☺️
  Telegram
@@ -30,42 +37,19 @@ VК
  |
  
 MAX</description>
-      <content:encoded><![CDATA[<b><tg-emoji emoji-id="5255745351196885703"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92B5.png')"><b>💵</b></i></tg-emoji></b><b> Оплата по 44-ФЗ всегда приходит в срок. Так ли это?</b><br/><br/>Выполнили контракт по 44-ФЗ, сдали работу, ждете оплату через 7 дней. Таков стандартный сценарий. Оплата без задержек – большой плюс госзакупок.<br/><br/>Но бывает так, что срок прошел, а денег от заказчика нет. Причин может быть несколько. Иногда это ошибка самого поставщика, а иногда проблемы со стороны заказчика.  <br/><br/><tg-emoji emoji-id="5981003763706498536"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8FB7.png')"><b>🏷</b></i></tg-emoji>Что должен делать поставщик, чтобы минимизировать риски задержки, и какие существуют законные механизмы защиты поставщика – разобрали <a href="https://tenderplan.ru/blog/srok-oplaty-po-kontraktu-44fz/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">в нашей новой статье.</a><br/><br/><tg-emoji emoji-id="5357171364669187802"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E298BA.png')"><b>☺️</b></i></tg-emoji><a href="https://telegram.me/tenderplan" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"> Telegram</a> | <a href="https://vk.com/tenderplan" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">VК</a> |<a href="https://max.ru/id7325121949_biz" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b> </b>MAX</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/tenderplan/1492</guid>
-      <pubDate>Fri, 16 Oct 2026 09:16:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>📊</title>
-      <link>https://telegram.me/tenderplan/1491</link>
-      <description>📊
- 
-На чем экономят госзаказчики Петербурга и Ленобласти?
-
-По данным Тендерплана, за 8 месяцев 2026 года объем госзакупок автомобилей в регионе 
-сократился
- 
-на 41%
- в денежном выражении. За этот период прошло 220 тендеров на общую сумму 2,6 млрд рублей. Lada сохраняет лидерство, а Haval стал единственным брендом, показавшим рост. 
-
-Эксперты связывают снижение с экономией бюджетов и переносом крупных лотов.
-
-➡️
- Подробнее о ситуации на рынке и прогнозах до конца года — 
-в материале «Ведомостей».
- 
-
-#тендеры_в_цифрах
-
-☺️
- Telegram
- | 
-VК
- |
- 
-MAX</description>
-      <content:encoded><![CDATA[<tg-emoji emoji-id="5190806721286657692"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938A.png')"><b>📊</b></i></tg-emoji> <b>На чем экономят госзаказчики Петербурга и Ленобласти?</b><br/><br/>По данным Тендерплана, за 8 месяцев 2026 года объем госзакупок автомобилей в регионе <b>сократился</b> <b>на 41%</b> в денежном выражении. За этот период прошло 220 тендеров на общую сумму 2,6 млрд рублей. Lada сохраняет лидерство, а Haval стал единственным брендом, показавшим рост. <br/><br/>Эксперты связывают снижение с экономией бюджетов и переносом крупных лотов.<br/><br/><tg-emoji emoji-id="5364060311823366796"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29EA1.png')"><b>➡️</b></i></tg-emoji> Подробнее о ситуации на рынке и прогнозах до конца года — <a href="https://spb.vedomosti.ru/business/articles/2026/10/05/1234206-gosuchrezhdeniya-peterburga-lenoblasti" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">в материале «Ведомостей».</a> <br/><br/><a href="?q=%23%D1%82%D0%B5%D0%BD%D0%B4%D0%B5%D1%80%D1%8B_%D0%B2_%D1%86%D0%B8%D1%84%D1%80%D0%B0%D1%85">#тендеры_в_цифрах</a><br/><br/><tg-emoji emoji-id="5357171364669187802"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E298BA.png')"><b>☺️</b></i></tg-emoji><a href="https://telegram.me/tenderplan" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"> Telegram</a> | <a href="https://vk.com/tenderplan" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">VК</a> |<a href="https://max.ru/id7325121949_biz" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b> </b>MAX</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/tenderplan/1491</guid>
-      <pubDate>Wed, 14 Oct 2026 09:12:01 +0000</pubDate>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/EeEq0B3LgXinRtfv7MMBCobN9po3_VRFb8_nl9VFPF7Sm9GUL983SdqGFrGms3ZS5aEKh_iKY3hFM8t8XY0Z-1EJ-sm-ATYUuBE-1Bz_GK9pG8OywpvTx4O6uchzb0FtEJ6tZHvO2FkTM3vzTRBdixINXhZJFry1c3Tt3WPt19BhFEhd-BTMv0m1O7HfRFC4zG3voeRqn0rPiBODA0eojJBH9ap7s3-s3kZcQlrQ5bC_W_JBvK6HosET4HUVt7urjSGMzZzlpca5EKl6U-kMd_aCq52Msth_sSWFl0ZrMIGY1zTwUlsU0clf6d8_M5EE4DmQWfUEM9bwUtdL3W88IQ.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/K4ctBaV1TVa_tQ5b3gkaAua7sWApseW6TkRSURxvJ_Z_fHymHn5y0qMUYWfxiqDuXL5lb2yvIE3M6y8XYixeyJarvzGJ8SoA5Iw0Qfq2maanUu5Xx7oN3s2rvbRErFLcyFkKuInvB1aMQ7DB5Jt2lgfmOnMozfc_QwEtOsZuOX-o8GVkAUiQ77J3ZUUZKVlzxMbuZ_gwXUuPB3ivoZBQj6ot0ONlGah9U7f8lr2YkUBMKUrJAe2scjzqWVUyWfh6CNm7C8RpcZ1MMaJSRHDKtfLk3UGuZIu6Fm7ZLeHzuMh5FZg-1A4Ekdrk1e8X5UhtZoZbOlOujWLSqz2xADtUMA.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/HxB6lRhWdoCw_cgVNgTWCN2j1xkrJjut5lvgB3xYO-2ii9j5Ck87oDmgg5j2sFt7pzX8CyFz49IDOx-2Bc1wCOUzE3LJhnQCfzA8MZ53u_OyTh3cgNP348I3Eo7HGc9kmD64k39RdR9-2EsZK9dSm80VPElfU0JlrQkwce80ADaDk7kqqo1au6gsCZqP30oo3Clocqc9zxujWK9og1SKbV5zkaABlYXnFVK3xOalaifQ1qG4ThlyquuzkS-7SwqE0d7vaPZl4ZG-Bfyr9HR418WQ1I7qctV5SnH8EFqWfvUQG5RNz_Shtrug-dyVnG7htvL-VzsPQF3L0DJ9hSEROA.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/EpGFG9JE1gN6vffQ5bl_zv6MVffKea9VuXxo3FMrkNJOSLl5k_mZQMBkdJjCvBfFZpMM0aKxVk4vEGGzCeZBjH61KD9Cd8AsxzU9cw3K8VM11eNsVUPsOlTMKn4iawCnz1oDKfhzSdJqJX6deFb3QsUrbgCaAFUehyUyTq7AEHjVwrux7mop1PoljJLFe0HdK18MtZ6ddXHLDa5bHnr4ojAXyAG18LSGQDlZB4bUwE_YAtSwTlUjwpCjXxGaDgcMl_H76KfWRLxn_uKZ_QXGtdIkmaww5Cp87X4h1yB0ICAaJK98GJI07qfDke1dJjLTXYzPGRb4FfpXQXch5vmsGw.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/ZwzuS9dBU1e30SQTb5UDRq4H_tuGtthRFxRf1WgcdxdYXiI38FVGvEZd4_HvqSB65TQCIdR4PgMS3atRDXN62Yaf8cqm2ZHoJBKqAtamN_AFgW3797hwP8LAmptgqi6RKEmqz8dxs0K5vuxaPvPdlD83ullxBnR_EjYb-NzN8M5lGPe-YXU2lP74Zudnu17EXui-EXRaEaRcH_SqGNZ4KKFa6h9h8cnAIsqjgeqLWbB5pFcLL32kOQoyuiHRKRHP-xgUM6kgqot2KSteaYze6D8-q0spTfJC73qt9mDbscF1_ouqgyCYDSpJh8fBQXCX75RDMJcbU1sZSlhikKdAZQ.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/gX4pvpfT0Vjtm2DfFVSz_d2_u2Yw_bJFwGxvQrnZk47YAczA2x-gMtyvLm9B8KmTxy_cgGS15HH0-8X7Mdm7cBIjAGi27t0X_BkqldPFjYEIi31cgk52zvge-zGwPof8gOiuVdtSozkB5zuyIQk2DvUV2t1mRzr8q_gN1eA-W9aJFrF4K7QELOdvybKTLK_xY2SZq3CoKPl25nA0CQPagcM4OnFnNhmy0gdf08dn4yg1UfASOvaY5yY_Ky_igq2YtD_NT8hNBg3ihpcX2_5NMTMQ6MymafxYoyFf4hZVgGwk1Y9g9AHONE4B8x-XV_6dYHqw2tiVGhAZCUWMJwkiYg.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/NuO0lTqxf7gygjQXbM4YDw4fSx2R_51LlWTsA4q4S1TNRjjXvdJCjoPSB3kzopVtGaQLhdXietRXxPFQiEtyShTNezJqYwraRRObbiLPAvgYjRVWH87rI9pJ0HNyAf6KLsDb-boxsQzrpePo1ZK_l2F9gbAN_IGbTW0eLKi51lN91I4r4LYiU0ANicIMzB-sPd7UitK2VGuGqQ33meYfxX8-1IMzOt9gDMuSqMEOM89m28oWpvsX-Bvww0U1uJNBfk6FgbcouoqFV0dZeag8rqXfYwyCeCNtCHXT6L0h8U1_ZID3GmphLkKva2PdlmjNFvVbRSV-DfLnKEfWGL65Ug.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/oOPkjHlHpWPITCi0pf6-db4UyCJNLOU6S8JvujupVnMLhfpFLH6h3PIZkl1EJlhsaWCZ7SQGRYBWzVDTQzamoC30pqXrgss1IcYoV-3634Dd3gGXTSp_bATgtaukBSVYtJawWRQ4CivqDDGTlWWqJ6AKV87G6_QVIgG-WRQmfCsvOfHv0PZnkalKmzWSDhWTZivFgbIn4esnPsGyGhMF9uO2taP7ql124qEULVH3-s5_vtqXkY6wEsEBq8j97y3OaY9NSxXlfxvh19N6-LMyGXWELPKvPhsPR0_VdEtdFFQHrjhonuWHT0CMD7SUfz9pfN-Wlph1zaEquHXJTj3a-w.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/KYBfftBLZ0Bg_abz1mw-RYzge17CyZLf6tHQ_OcPXcIq-WBB9bHLPXAkQ8Cpd4vxsW47wHg9ldjXSucptmcaTjDAosr_tYznEs2PEBlq5HdyHvPVwcnK1CTA2cXjelNHstv05wghMo0DlkeynpQA02rF7JzTPuQZVwg6rEushtqEN2ogfP_CBtdC9MlVhat-vPLGoG25xE-sSfpXvwFmZ1Ylp05iZgSWu6UTt6tWfjZI_kdSa5lj6LEA-zq2Req8UrywXNjEbbm-QLcMixu3FrTRWeDf7zCaBv-WmALw2W1PDi0uqLg19qlSCr30alXkK5XsBozily9-w3Smev6gmQ.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/rG-Sd1yZPWz7POQVuptj5NDfq34ZjVgI43kmh43B-CqjS3QLppo-ibKuxkEsDZ-08NPxMAbX2cn6nZg0heREtBv6zcn8ltNU9ZY6A7KOx4ODssN5puDHewaA8PQ8iOD-5Hkt-649mryNFBdLjEdR31j-2833B4sBr62reQaqTSCqNS3Ev4W6C8nT0wMzTx3ndnm5MQwmBBJ-tZpzZrcyNe3bM4ZWSYrEAbo-cSCBxDJgw3LBeNXxbrUQncmNo2QS_iEOj5zJaL1RvWCqlGZZs131stDL0LEm47iG5BkXLMNmA_49NK9BNvxdTBkaPtEAGUn_zlnpU9xUe-2zLjDs9A.jpg" /></p>
+<tg-emoji emoji-id="5967715414065549364"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9497.png')"><b>🔗</b></i></tg-emoji> <b>Тендеры и CRM — как подружить их в одной системе</b><br/><br/>Поиск тендеров — в Тендерплане, бизнес-процессы — в Битриксе. Чтобы не терять время на ручной перенос, настройте <a href="https://tenderplan.ru/app/settings?section=personal&amp;amp;sub=integrations" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">интеграцию Тендерплана и Битрикс24.</a><br/><br/>После интеграции тендеры будут попадать в Битрикс автоматически. Закупки переносятся со всеми отмеченными полями: наименование, цена, сроки, заказчик, ответственные, ссылки на документы.<br/><br/>Как подключить интеграцию, настроить процесс под задачи компании, проверить работоспособность и создать воронки — рассказали в карточках <tg-emoji emoji-id="4983714462109270579"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E2AC86.png')"><b>⬆️</b></i></tg-emoji><br/><br/><i>Если при настройке что-то пойдет не так или появятся вопросы — наши менеджеры поддержки всегда готовы помочь</i> <tg-emoji emoji-id="5199463794807430003"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F96A4.png')"><b>🖤</b></i></tg-emoji><br/><br/><a href="?q=%23%D0%BB%D0%B0%D0%B9%D1%84%D1%85%D0%B0%D0%BA%D0%B8_%D1%82%D0%B5%D0%BD%D0%B4%D0%B5%D1%80%D0%BF%D0%BB%D0%B0%D0%BD%D0%B0">#лайфхаки_тендерплана</a><br/><br/><tg-emoji emoji-id="5357171364669187802"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E298BA.png')"><b>☺️</b></i></tg-emoji><a href="https://telegram.me/tenderplan" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"> Telegram</a> | <a href="https://vk.com/tenderplan" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">VК</a> |<a href="https://max.ru/id7325121949_biz" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b> </b>MAX</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/tenderplan/1493</guid>
+      <pubDate>Mon, 19 Oct 2026 09:15:27 +0000</pubDate>
     </item>
   </channel>
 </rss>

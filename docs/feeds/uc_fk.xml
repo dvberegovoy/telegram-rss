@@ -8,6 +8,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 16 Oct 2026 10:00:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 11:01:14 +0000</lastBuildDate>
+    <item>
+      <title>📣</title>
+      <link>https://telegram.me/uc_fk/691</link>
+      <description>📣
+Удостоверяющий центр Федерального казначейства в рамках плановой смены 22.09.2026 получил 
+новый подчиненный сертификат
+ от Головного удостоверяющего центра. 
+
+Сертификат УЦ ФК опубликован на официальном сайте в 
+разделе УЦ
+. 
+Переход на создание сертификатов заявителям УЦ ФК с использованием нового сертификата произошел 05.10.2026.</description>
+      <content:encoded><![CDATA[<tg-emoji emoji-id="5470094069289984325"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93A3.png')"><b>📣</b></i></tg-emoji>Удостоверяющий центр Федерального казначейства в рамках плановой смены 22.09.2026 получил <a href="https://roskazna.gov.ru/storage/page-files/668/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20%D1%83%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B5%D1%80%D1%8F%D1%8E%D1%89%D0%B5%D0%B3%D0%BE%20%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%B0%20%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BA%D0%B0%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B0%202026.CER" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">новый подчиненный сертификат</a> от Головного удостоверяющего центра. <br/><br/>Сертификат УЦ ФК опубликован на официальном сайте в <a href="https://roskazna.gov.ru/gis/udostoveryayushchij-centr/kornevye-sertifikaty" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">разделе УЦ</a>. <b>Переход на создание сертификатов заявителям УЦ ФК с использованием нового сертификата произошел 05.10.2026.</b>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/uc_fk/691</guid>
+      <pubDate>Sat, 17 Oct 2026 09:45:55 +0000</pubDate>
+    </item>
   </channel>
 </rss>
