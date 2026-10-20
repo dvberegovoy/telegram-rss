@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 19 Oct 2026 11:01:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 10:15:20 +0000</lastBuildDate>
+    <item>
+      <title>Пост — Новости ФК России</title>
+      <link>https://telegram.me/rukazna/12125</link>
+      <description>Пост — Новости ФК России</description>
+      <content:encoded><![CDATA[(нет текста)]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/rukazna/12125</guid>
+      <pubDate>Tue, 20 Oct 2026 06:28:45 +0000</pubDate>
+    </item>
     <item>
       <title>Правила передачи Казначейству России отдельных функций финоргана обновили</title>
       <link>https://telegram.me/rukazna/12124</link>
@@ -36,22 +44,6 @@
       <content:encoded><![CDATA[Правила передачи Казначейству России отдельных функций финоргана обновили<br/><br/>16 октября. / <a href="https://www.garant.ru/news/2273697/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">ГАРАНТ</a> /. Как и прежде, в целях передачи отдельных функций финоргана территориальному органу Федерального казначейства необходимо направить <a href="http://base.garant.ru/12112604/4d70ee35e317226d9ddc0f849a04f65e/#block_22021" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">соответствующее обращение</a> (<a href="http://base.garant.ru/414902874/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Приказ Минфина России от 22 апреля 2026 г. № 52н</a>). Но если ранее обращение <a href="http://base.garant.ru/407755494/4f1274e7884edf198cc0e52c786561c0/#block_1003" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">направлялось</a> на бумажном носителе – с использованием официального бланка высшего исполнительного органа субъекта РФ/местной администрации, то теперь такое обращение может быть направлено на бумажном носителе только при отсутствии технической возможности. Общее правило – направление обращения в форме электронного документа, подписанного УКЭП высшего должностного лица субъекта РФ, главы муниципального образования или иного уполномоченного ими лица. Соответствующий функционал уже реализован в <a href="http://base.garant.ru/73561756/#block_20015" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Модуле бюджетного процесса</a> (ЕБП).<br/><br/>У региональных и муниципальных финорганов есть два возможных варианта передачи отдельных функций. Первый вариант – передача всех перечисленных в <a href="http://base.garant.ru/414902874/4ed66d843c25b72218b144e44c581092/#block_1004" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">п. 4</a> Порядка № 52н функций. Это означает, что передать ФК функции по открытию лицевых счетов, предназначенных для учета операций по исполнению бюджета, включая функции по учету бюджетных обязательств и санкционированию денежных обязательств ПБС регионального/местного бюджета, без передачи функций по открытию и ведению лицевых счетов региональных/муниципальных бюджетных и автономных учреждений и наоборот не получится. <br/><br/>Второй вариант – передача функций по открытию и ведению лицевых счетов, предназначенных для учета операций со средствами УКС, санкционированием операций по расходам УКС, которым открыты лицевые счета, источником финансового обеспечения которых являются средства бюджета субъекта РФ/местного бюджета. Именно эти функции региональных и муниципальных финорганов могут быть переданы как в общем комплекте, так и отдельно.<br/><br/>Сроки направления обращения варьируются в зависимости от выбранного варианта передачи отдельных функций.]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/rukazna/12124</guid>
       <pubDate>Sat, 17 Oct 2026 12:43:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Пост — Новости ФК России</title>
-      <link>https://telegram.me/rukazna/12123</link>
-      <description>Пост — Новости ФК России</description>
-      <content:encoded><![CDATA[(нет текста)]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/rukazna/12123</guid>
-      <pubDate>Fri, 16 Oct 2026 15:52:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Пост — Новости ФК России</title>
-      <link>https://telegram.me/rukazna/12122</link>
-      <description>Пост — Новости ФК России</description>
-      <content:encoded><![CDATA[(нет текста)]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/rukazna/12122</guid>
-      <pubDate>Fri, 16 Oct 2026 14:10:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
