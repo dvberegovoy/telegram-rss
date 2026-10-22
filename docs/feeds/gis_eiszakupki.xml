@@ -8,7 +8,76 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 21 Oct 2026 10:23:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 10:21:37 +0000</lastBuildDate>
+    <item>
+      <title>⁉</title>
+      <link>https://telegram.me/gis_eiszakupki/3307</link>
+      <description>⁉
+ 
+ВОПРОС
+
+Как после расторжения контракта сформировать новый проект со следующим участником закупки (в соответствии с частью 17.1 статьи 95 Закона № 44-ФЗ)?
+
+✔
+ 
+ОТВЕТ
+
+Для формирования проекта контракта со следующим участником закупки в соответствии с частью 17.1 статьи 95 Закона № 44-ФЗ, заказчику необходимо:
+
+🔹
+разместить в реестре контрактов сведения о расторжении контракта с предыдущим участником закупки;
+
+🔹
+в подсистеме «Заключение контрактов» при нажатии на кнопку «Сформировать» выбрать пункт «на основании извещения (приглашения)»; 
+
+🔹
+указать номер закупки в поле «Номер извещения (приглашения)» — информация о поставщике автоматически обновится на следующего участника закупки;
+
+🔹
+заполнить данные на всех вкладках;
+
+🔹
+прикрепить файлы к проекту контракта на вкладке «Документы» и нажать на кнопку «Завершить формирование».
+
+В случае если расторгнутый контракт с предыдущим участником закупки был 
+частично исполнен
+, при формировании нового проекта контракта обеспечена возможность скорректировать:
+
+🔸
+цену контракта;
+
+🔸
+информацию по объектам закупки;
+
+🔸
+сроки исполнения контракта;
+
+🔸
+место поставки товара (выполнения работ, оказания услуг);
+
+🔸
+график платежей и платежные реквизиты заказчика.
+
+❗
+ Обращаем внимание, что контракт в соответствии с частью 17.1 статьи 95 Закона № 44-ФЗ заключается с участником закупки, который не отозвал свою заявку, и при условии согласия этого участника закупки заключить контракт.
+
+📖
+ Подробности работы функционала смотрите в Базе знаний → «Руководства пользователя и видеоролики» → «Заключение контрактов по результатам электронных процедур».
+
+#ЧЗВ
+ 
+
+#ЗАКЛЮЧЕНИЕ_КОНТРАКТОВ
+ 
+
+📱
+ 
+Следите за новостями ГИС ЕИС ЗАКУПКИ в MAX</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/V6P-ssUn2wu2H3wuat9yseuR8DiintbANwI0NHPk_kHdqvxKMRn7KRyaIFi2lnGlbiSCkYUE2haO4mlgg6_wl5vHECRY6CLbgTY-Z7Ab1JkgOEItCZVefn5PTFPN6WhomoRO-xFY4BduuO06wKoGb9dqzFBmuLkGRUNf4qta0BG2Vvpea-nOJJLFUNUfcRBibQTkN47fuR8qWCSugcmtJ4uqb_tw4M14xGcBYvV-NPkpthF_24dVGaoKz_MJgUMOQLpkV8QSajbbS1t5JAjYuKEk748VshtDhT4jqXv5j2jvOqdKWvehc5NhUHX6z-kKpWRUh7tgCXmVvIG1FZgr7Q.jpg" /></p>
+<tg-emoji emoji-id="5435994300997443130"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E28189.png')"><b>⁉</b></i></tg-emoji> <b>ВОПРОС</b><br/>Как после расторжения контракта сформировать новый проект со следующим участником закупки (в соответствии с частью 17.1 статьи 95 Закона № 44-ФЗ)?<br/><br/><tg-emoji emoji-id="5435862449796423200"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C94.png')"><b>✔</b></i></tg-emoji> <b>ОТВЕТ</b><br/>Для формирования проекта контракта со следующим участником закупки в соответствии с частью 17.1 статьи 95 Закона № 44-ФЗ, заказчику необходимо:<br/><br/><tg-emoji emoji-id="5296283477329587350"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji>разместить в реестре контрактов сведения о расторжении контракта с предыдущим участником закупки;<a href="https://telegram.me/gis_eiszakupki" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><br/></a><tg-emoji emoji-id="5296283477329587350"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji>в подсистеме «Заключение контрактов» при нажатии на кнопку «Сформировать» выбрать пункт «на основании извещения (приглашения)»; <br/><tg-emoji emoji-id="5296283477329587350"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji>указать номер закупки в поле «Номер извещения (приглашения)» — информация о поставщике автоматически обновится на следующего участника закупки;<br/><tg-emoji emoji-id="5296283477329587350"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji>заполнить данные на всех вкладках;<br/><tg-emoji emoji-id="5296283477329587350"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji>прикрепить файлы к проекту контракта на вкладке «Документы» и нажать на кнопку «Завершить формирование».<br/><br/>В случае если расторгнутый контракт с предыдущим участником закупки был <b>частично исполнен</b>, при формировании нового проекта контракта обеспечена возможность скорректировать:<br/><br/><tg-emoji emoji-id="5294229559544132230"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')"><b>🔸</b></i></tg-emoji>цену контракта;<br/><tg-emoji emoji-id="5294229559544132230"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')"><b>🔸</b></i></tg-emoji>информацию по объектам закупки;<br/><tg-emoji emoji-id="5294229559544132230"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')"><b>🔸</b></i></tg-emoji>сроки исполнения контракта;<br/><tg-emoji emoji-id="5294229559544132230"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')"><b>🔸</b></i></tg-emoji>место поставки товара (выполнения работ, оказания услуг);<br/><tg-emoji emoji-id="5294229559544132230"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')"><b>🔸</b></i></tg-emoji>график платежей и платежные реквизиты заказчика.<br/><br/><tg-emoji emoji-id="5438402824167761894"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29D97.png')"><b>❗</b></i></tg-emoji> Обращаем внимание, что контракт в соответствии с частью 17.1 статьи 95 Закона № 44-ФЗ заключается с участником закупки, который не отозвал свою заявку, и при условии согласия этого участника закупки заключить контракт.<br/><br/><tg-emoji emoji-id="5435982738945483816"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9396.png')"><b>📖</b></i></tg-emoji> Подробности работы функционала смотрите в Базе знаний → «Руководства пользователя и видеоролики» → «Заключение контрактов по результатам электронных процедур».<br/><br/><a href="?q=%23%D0%A7%D0%97%D0%92">#ЧЗВ</a> <br/><a href="?q=%23%D0%97%D0%90%D0%9A%D0%9B%D0%AE%D0%A7%D0%95%D0%9D%D0%98%D0%95_%D0%9A%D0%9E%D0%9D%D0%A2%D0%A0%D0%90%D0%9A%D0%A2%D0%9E%D0%92">#ЗАКЛЮЧЕНИЕ_КОНТРАКТОВ</a> <br/><br/><tg-emoji emoji-id="5294059873976200999"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93B1.png')"><b>📱</b></i></tg-emoji> <a href="https://max.ru/gis_eiszakupki" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Следите за новостями ГИС ЕИС ЗАКУПКИ в MAX</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/gis_eiszakupki/3307</guid>
+      <pubDate>Thu, 22 Oct 2026 09:01:01 +0000</pubDate>
+    </item>
     <item>
       <title>🔹</title>
       <link>https://telegram.me/gis_eiszakupki/3299</link>
@@ -41,14 +110,14 @@
  поблагодарил коллег из Минздрава России за активное участие и конструктивное взаимодействие. В завершение встречи руководитель Федерального казначейства вручил ведомственные награды сотрудникам Минздрава России и подведомственных учреждений за профессиональные достижения и вклад в развитие сотрудничества между ведомствами.
 
 #КазначействоРоссии</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/sGZ3lX1iopCVkTI0xTXlW2lKvbu1xXKL377EorMTRkL6DHVlKCYC4oHVYCwUt_hJuRLvFVEzt7KTzHbIkkX82YwbMM8iqWDXtQ_nXWFkkLeKG7mE7PnVbNqmCG-_gDrV0xE8CunQEOludEBYcaZpSuftLbR4KtoANWcE8UTDEpLJRXyAV-B0_kGyaLVV5XHDdg5szXkpDI_J2o9TvBOq1be0-tI1r-vH8lCyNFDEPW1TD1OhImnRsDZcJx4bbfMEKBQCzXju5NL_7VCO7daTWBlxm0vVf5FMwjOcCbou1PGXeeaoRaLpOp2NDoNrSyD-9iLnkuapZE0CO4IdHUYIDQ.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/ZBJ7sDLrfR1TrpSQSgmmiied9D_OGxFQiNRO9fwldgU-1h-c6l96zBC_SfvEDV119Q4wEPt2m253UUmmKWGKWl7L7Bc8kYXg73P_3yhqTmcmIR2ZYd_4vbijdzTyRiMtEXw5a3L7tDlNNedYjoSpCbu0vunt3_35JPmJW_kC-_EJsKOc8XN8iTyp9b5K5eykvDVhhfOoSGWrUnOICHocA6QudJO2XrV9hZ-LLHTn0cIl-oIUJwkaU5CdK2XyShGbUr5BgcaQk7BUWBUi_Vr7M6jknyztmdUDpgZa5l7vjtd-zCRH_qw3NyBasIE7GG38tNXR6WoqyT8bwIJlkzpwOQ.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/tisAx78LOCuOPpxgvXq4IXNzWwi-IRdMmglsiHrt99BfBES9J1lyCT6ojJ82AEXTAwyrN6egwd2dblMlDBb_g3DbGrIXhB_W5GWeBDOZjF9S-dOr3GIeCZTfU5Pn_BK6AJDA2qpedquClpnixMuuScVFPM65rLqSvri8sm-0jq_J8_2JQsjYVlI9trbDXoM9QHj5Co7sTxu9PvRtY-9KzAVzGv5K56mdnnYRVRM-kNyPxp72_BSZbMA2eqf1q-yrjwqbeqXs_qDxO-k-xHKsN1Wv5kHhldGirbHJQsK6JSji9j3a2q79ARWNWXK6VuTtgM5fNX8Rh7rL4H9trlUIew.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/islpWVsVrQo6xU2_aoUYUDNka2rEfZYSg0Dq2MjM_Xbnh4_vMnPPUSFEsyeZP5qHylBTAnrQApeBo8hR6Cq3M693SZWc0vBiSpU9ioJREAbqKL06hiDTq7df5YGA1IKt2Q1--SnQbV8r7W_74vlQBgeUUdZ1pkzD8aQbszxoCYB9MaRhKIBk2oC8Cnyre0ZIpL1jl7Ka5lDR_yvYhPcfhzEUNGjRB7dAQOJzYZ5lgv47UCB4YIXTQzX9ND1IngEZCpZOF_o6gDHztg2wlnANwlv3geUGQQPteYT4TByo2xx7fvjnRpjAW0F1u580MafAIzCpgz9w5dXtsQRsMYZiIA.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/H1fEselPX4Z2kpy-yXkhDXaRchUNMl_oYiKyKqTmqBvaIf0MSlT--G_AnqvmmRHzQ3DzsP2vCtmShZEkBUspq8C4QJZAnMqUWrGtq0JscleNWI6bTf2qxa-vh6OPtER1aGLQyJV77q91mK-ZJQ9BIoK6iarTosnJNTPTQZVpCXl4Owz4CBdWYtB3OibK2s7u0qBhSnQGLpPB5Vho16TEkubf8zDn0odevNT7bDDWyK0cC6ajGGNSFk3LkXTnsCeAgT7-YHg4uT-7lkrqqoW5GVfU4QyzBIAT93PX3msXtEQCzAdzsUvlGlCLt6AhMr24Pg-jsaywN4svRlSYGaviVA.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/awI3ZEt6b9YjM-W6_S60FXkPM-ppuLPmBtELHjb-4oAkU9e5yMEfYHz0JSWJEqxYMGrmpjm9mO7L4Q7bPzDB7HB5nEwk5pHYRXR8Kq7TYlsXfmuduS7w1k92yWFMK01trhv6O11bpTBUw7vz8MkzPu7rV92nXpQcBFggkeCFFcQkIR1HqtkrOSgUj9PXJvUSwPYC7iqZc05HfMJGA9I3j5KJ5vDIY2EfkutO7cqkrqmj-hZtCbXuL2I_gOIJ_equOb7-zBDAJEssChFy4UchQcmSAX6gzd3sjNmW8rCtoJIm6dbUdHYx9zXFFZXsxVdjZIRMa3WW3akNUHyRGSj2iw.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/TcaRsdgKqWV-gMvgp-bdy7dPRxGkTUnToOARfnQU7kFUubiws9JnfvrST7l2eY3tFluqj8E-m7VlE4ONxTYBULEXUUTBW2O9lP45iSsswW_tbAS7LK_gvNXRrqFShGJEBZX0dzvBml7OSgaFvHDOa4BC2H1NQAh-hNE-iMcTzn-5BOk2_Ld3_zVlhaqGiQMH-MG6hBOeE8JVQQlO3SEKmwMd3gijkr9dDC78Xq1plN2MuhZm1uYDs12e_cfGDziGNjewVVGH0FMxUohjwElQ1sNV2ZvTeFyvTKmh6AqcUOdKlyv0cGRnOjZXgpEg0cm1lX_I75qYpeqxkrO-KSY1HQ.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/QrXckhDm75HD3FOn9T5D-aFmF_rsV4DHjI8u2Fcrl8CUQOJMj4SY985T7UxuDG9d0mAn1R5BfAEB2DU3jJ_FJHMjjU-ktKMcVKQsQvZeuuH3W_Du1By13BJwHU3bHhZnlC2ZFeNHJl2Bu82LTwnmwjsNteivrqT9HoWsyyBfClEw_g_Dxyw2YF-AWf3Tr9sMPG-hrGtG1_zbUSN23PfA_7nlffEurB4N_wrmB8tcdu3KVbzt73MQQsHK1KCW9fyCQBcapFWN5YBI6g1VMz5yj7dx50ov6LaaOSJdREFw4q1sbp5TEHG53B4heLNsvQSP-HsvMJ71zGOsKgxICQTseA.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/aDnIln_EpUuuXsM-_SxHCjA9RKXXV8wsYcyt_wRgTtHs1vI2C4jSKlGjop4rStC5zWdK-W2H9Ez0JxpYNCrDthYruyEIk7k2wTqpY1nfYySteLWKi5sUtvuE87Sl_T1SyZjOx92zMwI7BnOTKhjYoNmuv98ON2xdKollH7vH_1adltCkmFKPcVn8hlTrKIowxzcpgYWLAYNHCXQNhjz0cu-t77MwtmzIB5LnsLDmw2C1i7ECZSFX8qB6ASkBv98HfmVVI32bXmmY6AeqRXZkkzMwVkgn9Ea8irhb-Fys5Ou-5ZMBZiWorNcwjisIo9NmOxWaTAhIj920KTSlBscGoQ.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/GpprtPU9zDbGQq4hMQlhRKgYX58VZTcU7vq7sJkSMWsSpXv9IWvQDBPSqUgZBAD5j6XiP9lZ5cF4FUFgKpfFPUm4d2PO8rzjrF5cIbxJ7i3BEDyltaFF0CIrS_qmKXv01CyMz-ETd1q3fWAuLQHehC-SaVvr5bzxeemMG9T9wMICiEA7yhCLduEeQMQb9d8247gY3boxO3qncZ1QPmPRusRNKKR63EUSAw28I9H208IDOGGReWgm9NbuRgUrVQWzZMYl-bwvbXtVN6MNWoS4VCdODAbqd2MFuNP1v71V17iSOuoDo3Da7L7zf7DvrevB3mUYD4r7mD6r_8-3UYTvJw.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/BeF5APfZtiNJIbZrnv30ppanu4eRZQFaF4d1vJyO0uL22j--66NgA0LPQRwtcbkWnOYdKGenhPJsXeit9Mbxsvg1_63Ng003KopmoxjNonJQMMVekf6qNnel0BeH3rD-CyvWXjV7kpw4sqfJagsNpKms1YZ85DG2vn9uj2XnHKA8pAKSC4m7AS7JAoje2OM3EQsOP_T7G2MVXt6AUAgCdushHbSP_1AK19wEnzvuJR5KsJblTfkrl78HPGoK1gngUdMF0dMORIQapcZQedj4wez2LQqU3LKBJG8su1lYtidAB3V1rPqfOZzZG_P_dWkS48_RO7a7AmgknyU5uHjwJg.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/FJ1OPcAd6x4dMc3ZDwP6bWqfAyiPHGWJpkvhX1Isg3SUZWJhH0QQ_SOzeGq8ri2RAvPj1ghEwzcbHwej959o87uftqpudqU_E0BkmfKr0fyCx1K8yLGGQoyHARODyoTHGIJyAZaMhbqHSYPepF4TdSuXupZReH7SAQ6dvnAIK672J6R0RBVZeqmq5V_xTKZTtOg783ln4_myUaWabmVX7BMvdK96_YrvGTFNN7u_1tpb8LYZE2yJYXimixViu6XydI-l_ofKUciVY7TMH9I84efFPDQPCpzA9IKw3SA8CalEWM3pAt2UYEiFjiiSS-WTszoBI_2tMMX4xvouCD5GyA.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/SHnY0ZOeqdVYp6gcBBC4eCe90j0MfT2ZHrVN2PNQJbxW69-oo_9kCDcrftt9-X2kYyOk9scgkaJBqSymd9P-d5g-FIeHTCma7YomhSBR0Dwe1fUyi4xiLVdu5FD5gtyHhPwF1XkCJvEl-VOJJiTYyQxzIBpkjaF9Yxx5S7px7aYFDKfew4FjyOPxWNn42UxDeJen-c3W4_0riMx-tjASUQQfiNTaGiYfcIR7ZoW98BnlEgA-KvECcoZ4sm69jDXrVjHPa2ICMCvn6jOTlsdUEFUArE8Skp7CKcja53FtSJ4-W3-oOpo-M8eArs6AVWz6f1Fj0V1y0Br7UxJFSqA1OA.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/txVvQSF7p9Yehyjhs4KQc-vjdhAXRew9SdP_Dv2L5WSBVbxAGCn_utT8usjyIMgBtxbiW1K0LOcLY3P5nlVrwMD6EoOMWaeInKHWB428VxyE3wmdVjdolLLPuUztSXYD9DYt3miXXUqbKwl9wr4ILw2xXhP_L9NYKi3196xqY4Yd9STdPwV-Ps4EiCsWVGQCQt8FPdFF7W2syvwfVCLh8-FX6W0SEZDXUwGuIlBh0MA_juNmIes9o8cuuub_tnUPJQXl-zgkJNcecZ4-gJauHadRE-fjpcX46dYO8RN52OnDKztobTdhbc5Yz5cf419wZayVjKsTWP92zy-PXQfDvg.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/TjeDgnE3qWBtW5dXsfLNTm_PFn3nrDLALyfEdbC3m-cxtlgSWeI91e5sPTOc32eLWPuVaCZwJb7IgpS2IgkI44O-lybDVuIOQhLx82fvX7d--q0lL-Ey7rPm5NOlhr8IBQSOyUPcuN4qvWK2iu4JRFs7nIs9Otoas3rgKzHXoSW2wY_ADIUAviCo36QPbLgdeLkiGGMmcQ9tOKR2Iw3vJfLMRrAVJbu-LMyH90hIzYMNCjCsxihMYYhXAtJLfO2YgjuJa6Nb1fE69yths23QRSEvkjQvxDo9Ihy8Ft2_irL8jqNPI_oLjYhMXZ1VzUy2G06J0Z_FjizByyLaIih4Qw.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/pcyVYzBOuPoVqlJ0KKqzDF_IQ4WS9ijS33m9kzDTtyqmBij6qoKWbN959uFg-1gcKTUtnNSYMJv_j2x5ia9mSanEHjp7Y22s3h-4itqeil-duSLW-R676X9WnUiim4iNaXXTBt0n4mjc3S-MfVmgrV6KLCFy-ve2mjPjbWQwHx0AA3wfzomKZ24L4J5wtvRneTRXkFq_NfB8rt5L78BWXg7a7PQgNu0Qep3VbFAG5860GT5XptdnMWZ2lEmHcPi00Ak_n7Qbl0T3dHUHTMT41AmYmvMraN41bdxEcuqtp2Luj8n2bjPHw9wVt6s1vqg67Fr5bqLasSjaaUX2oVuIiw.jpg" /></p>
 <tg-emoji emoji-id="5195296005788022283"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji> <b>Казначейство России и Минздрав России подвели итоги пилотного проекта по развитию превентивного контроля в сфере закупок</b><br/><br/>Под председательством Министра здравоохранения Российской Федерации <b>Михаила Мурашко</b> состоялась встреча, посвященная итогам апробации функционала модуля «Риск-мониторинг» ГИС ЕИС в сфере закупок. В ней принял участие руководитель Казначейства России <b>Роман Артюхин.</b><br/><br/><code>В пилотном проекте приняли участие Минздрав России, подведомственные ему организации и территориальные органы Федерального казначейства. Проект реализован в рамках соглашения об информационном взаимодействии между ведомствами.</code><br/><br/>С докладом об итогах проекта выступила заместитель руководителя Казначейства России <b>Анна Катамадзе</b>.<br/><br/><blockquote>Она отметила, что механизм превентивного контроля позволяет контролерам заблаговременно выявлять признаки нарушений законодательства в сфере закупок и оперативно информировать заказчиков о рисках. Это дает заказчикам возможность избежать негативных финансовых последствий и длительных бюрократических процедур.</blockquote><br/><br/>О результатах применения функционала со стороны заказчиков также рассказала заместитель Министра здравоохранения Российской Федерации <b>Наталья Сибирякова</b>. Участники встречи высоко оценили удобство работы с функционалом и полезность предоставляемой информации.<br/><br/>Следующий этап — совершенствование возможностей механизма и его масштабирование на всех заказчиков и контрольные органы страны.<br/><br/><tg-emoji emoji-id="5226450002041120445"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8F86.png')"><b>🏆</b></i></tg-emoji> <b>Роман Артюхин</b> поблагодарил коллег из Минздрава России за активное участие и конструктивное взаимодействие. В завершение встречи руководитель Федерального казначейства вручил ведомственные награды сотрудникам Минздрава России и подведомственных учреждений за профессиональные достижения и вклад в развитие сотрудничества между ведомствами.<br/><br/><a href="?q=%23%D0%9A%D0%B0%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%BE%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8">#КазначействоРоссии</a>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/gis_eiszakupki/3299</guid>
       <pubDate>Tue, 20 Oct 2026 14:06:49 +0000</pubDate>
@@ -88,55 +157,10 @@
 
 📱
 Следите за новостями ГИС ЕИС ЗАКУПКИ в MAX</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/WEdcQ3Nv65tINrc_4zgIxEAhIzQtlcmpZbz6zzBlPO2dsvEurD6Lrolgw4FZ00IZGom3FlzLgtZcmDuAgx9B53QQSRncZMBsMKwx0m77QfxAtzqSbegN0Ph6WnhMvem9JHwPklEEPm9UtJurjjDpEGECqb0HYxz7bywXcn2x7V_8p7v_LA3EYM5LADO_mjMPUvnYm_7KmhFonW8TyNO5UeBBl980E3DEzF95fiJ4Wl_Qi2Zn2MgL_7EfOWDNBsKvrGa5CKUdG-LdKJ_GvUkgW6EZ_noXNLWH3p0pYTq4riCL-TOh7704RtXZdTmFYHJWiFQVl2Tq6v0-991x30uwwg.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/bSSbiOgXXlxRXNldkDOXEJxyquXHnKag72HlttkUe3FLiHGCSA8R2MrEDG0np0fxlETtQB7NKBX_S8JgrSS5jz6rcid8YpV1q0wrUECRSKE1DOI4ZgRLdY1AsERGxFToPfXyttDqnj7NXE2ffJlwold0qZyegpMaeQyZYpUIiri0Z3ulS3ERM6Gb-qnWx05T4ZLoaZeGvjA5QYwMrwHdehq_B9X3bd29WHDw0LWpC8hOG9n_6IaKICqsZpvo7xk_En1xbbQOcgFHaP0bD2Y-jOp07t6QA6LV2QlAR-oFyRGZFR9r0cuqqLDWFfVLWXPu8CMubrUBBM6sUB6aoX1H0g.jpg" /></p>
 <tg-emoji emoji-id="5296518734163228990"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9383.png')"><b>📃</b></i></tg-emoji><b>Внесены изменения в порядок предоставления национального режима при осуществлении закупок</b><b><tg-emoji emoji-id="5296518734163228990"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9383.png')"><b>📃</b></i></tg-emoji></b><br/><br/>17.10.2026 опубликовано постановление Правительства Российской Федерации от 17.10.2026 № 1371 (далее — постановление), которое вносит изменения в постановление Правительства Российской Федерации от 23.12.2024 № 1875, регулирующее порядок предоставления национального режима при осуществлении закупок в рамках Закона № 44 ФЗ и Закона № 223 ФЗ (далее — постановление № 1875).<br/><br/>Для товаров, указанных в позициях 2-7 приложения № 1 к постановлению № 1875 и в отношении которых устанавливается запрет закупок, постановление предусматривает возможность:<br/><br/><tg-emoji emoji-id="5296283477329587350"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji>для учреждений, предприятий уголовно-исполнительной системы, являющихся производителями таких товаров, подтвердить страну происхождения путем указания страны в заявке на участие в закупке, за исключением случая, когда на момент подачи заявки товар включен в реестр российской промышленной продукции;<br/><tg-emoji emoji-id="5296283477329587350"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji>не применять запрет при осуществлении закупки у единственного поставщика в соответствии с пунктом 11 части 1 статьи 93 Закона № 44-ФЗ.<br/><br/><tg-emoji emoji-id="5438355721261425042"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E284B9.png')"><b>ℹ</b></i></tg-emoji> Кроме того, постановление уточняет особенности определения цены методом сопоставимых рыночных цен (анализа рынка). Теперь запрос о предоставлении информации о цене товаров направляется заказчиком в разрезе каждого включенного в объект закупки товара не менее чем 3 субъектам деятельности в сфере промышленности.<br/><br/><tg-emoji emoji-id="5296526512348999459"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9793.png')"><b>🗓</b></i></tg-emoji> Постановление вступает в силу по истечении 7 дней со дня его официального опубликования, за исключением отдельных положений, вступающих в силу с 01.11.2026.<br/><br/>Полный текст постановления по <a href="http://publication.pravo.gov.ru/document/0001202610170012" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">ссылке</a> <tg-emoji emoji-id="5436118790624518351"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E286A9.png')"><b>↩</b></i></tg-emoji><br/><br/><a href="?q=%23%D0%9D%D0%9E%D0%92%D0%9E%D0%A1%D0%A2%D0%98">#НОВОСТИ</a> <br/><a href="?q=%23%D0%9D%D0%9F%D0%90">#НПА</a><br/><br/><tg-emoji emoji-id="5294059873976200999"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93B1.png')"><b>📱</b></i></tg-emoji><a href="https://max.ru/gis_eiszakupki" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Следите за новостями ГИС ЕИС ЗАКУПКИ в MAX</a>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/gis_eiszakupki/3298</guid>
       <pubDate>Mon, 19 Oct 2026 12:15:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>⁉</title>
-      <link>https://telegram.me/gis_eiszakupki/3297</link>
-      <description>⁉
- ВОПРОС
-
-Что делать, если недоступно утверждение и направление плана-графика на контроль?
-
-✔
- ОТВЕТ
-
-Перед размещением или направлением на контроль плана-графика закупок первоначально следует осуществить системную проверку на наличие блокирующих ошибок. 
-
-Теперь для удобства пользователей запуск проверки осуществляется 
-при нажатии  на кнопку «Подготовить к размещению» в контекстном меню плана-графика закупок или на вкладке «Документы».
- В зависимости от этапа проверки плану-графику закупок присвоится соответствующий статус:
-
-🔹
-«На проверке» — выполняется проверка плана-графика закупок. До ее завершения работа с планом-графиком закупок недоступна;
-
-🔹
-«Готов к подписанию» — проверка завершена, блокирующие нарушения не выявлены. План-график закупок готов к подписанию и последующему размещению;
-
-🔹
-«Проверка не пройдена» — проверка завершена с выявлением блокирующих ошибок. Пользователю выводится перечень обнаруженных нарушений, которые необходимо исправить.
-
-❕
-Обращаем внимание, что после запуска системной проверки не требуется ожидание ее завершения — пользователь может продолжать работу в других реестрах системы.
-
-📖
- Подробности работы функционала смотрите в Базе знаний → «Руководства пользователя и видеоролики» → «Планы-графики закупок».
-
-#ЧЗВ
- 
-
-#ПЛАНИРОВАНИЕ
-
-📱
- 
-Следите за новостями ГИС ЕИС ЗАКУПКИ в MAX</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/S9i6QOZReE4WoTVbUb8crtmeKyxzLV79OLVEaUxC_uICoOLIjqowfZEuctD9Ihku7JDDw3z6gX59Y6P96lQnGeHhDJO3IOuBpZTumjIitU-GLTEOEdge3rFYzWPtUJL8ZPEGMb9xBNRw-_-E6CuxtIscd9-WOJy6LHv_Hj1FFHqmvFBKeFAu9GiHy_Yk8ENzw0DlImX7EsHPDWB6mz7pi0sMIwTHf-V3eOTduhBj6_olctfhUd6CPRMDsiRSEln00lPiVWsFxi1cnz9fEbJH4R4NosKF_8BYV0_nQl1EzLbquCT846gbnoGONJYl2RKdT6wOloUk_t1xkPVxJAPefg.jpg" /></p>
-<tg-emoji emoji-id="5435994300997443130"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E28189.png')"><b>⁉</b></i></tg-emoji><b> ВОПРОС</b><br/>Что делать, если недоступно утверждение и направление плана-графика на контроль?<br/><br/><tg-emoji emoji-id="5435862449796423200"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C94.png')"><b>✔</b></i></tg-emoji><b> ОТВЕТ</b><br/>Перед размещением или направлением на контроль плана-графика закупок первоначально следует осуществить системную проверку на наличие блокирующих ошибок. <br/><br/>Теперь для удобства пользователей запуск проверки осуществляется <b>при нажатии  на кнопку «Подготовить к размещению» в контекстном меню плана-графика закупок или на вкладке «Документы».</b> В зависимости от этапа проверки плану-графику закупок присвоится соответствующий статус:<br/><br/><tg-emoji emoji-id="5296283477329587350"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji>«На проверке» — выполняется проверка плана-графика закупок. До ее завершения работа с планом-графиком закупок недоступна;<br/><br/><tg-emoji emoji-id="5296283477329587350"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji>«Готов к подписанию» — проверка завершена, блокирующие нарушения не выявлены. План-график закупок готов к подписанию и последующему размещению;<br/><br/><tg-emoji emoji-id="5296283477329587350"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji>«Проверка не пройдена» — проверка завершена с выявлением блокирующих ошибок. Пользователю выводится перечень обнаруженных нарушений, которые необходимо исправить.<br/><br/><tg-emoji emoji-id="5436322999139574951"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29D95.png')"><b>❕</b></i></tg-emoji>Обращаем внимание, что после запуска системной проверки не требуется ожидание ее завершения — пользователь может продолжать работу в других реестрах системы.<br/><br/><tg-emoji emoji-id="5435982738945483816"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9396.png')"><b>📖</b></i></tg-emoji> Подробности работы функционала смотрите в Базе знаний → «Руководства пользователя и видеоролики» → «Планы-графики закупок».<br/><br/><a href="?q=%23%D0%A7%D0%97%D0%92">#ЧЗВ</a> <br/><a href="?q=%23%D0%9F%D0%9B%D0%90%D0%9D%D0%98%D0%A0%D0%9E%D0%92%D0%90%D0%9D%D0%98%D0%95">#ПЛАНИРОВАНИЕ</a><br/><br/><tg-emoji emoji-id="5294059873976200999"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93B1.png')"><b>📱</b></i></tg-emoji> <a href="https://max.ru/gis_eiszakupki" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Следите за новостями ГИС ЕИС ЗАКУПКИ в MAX</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/gis_eiszakupki/3297</guid>
-      <pubDate>Mon, 19 Oct 2026 10:04:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

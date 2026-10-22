@@ -8,7 +8,124 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 21 Oct 2026 10:24:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 10:23:02 +0000</lastBuildDate>
+    <item>
+      <title>Верховный суд, которого не было. Как юристы защищали компанию выдуманными решениями</title>
+      <link>https://telegram.me/bankrotorg2/10964</link>
+      <description>Верховный суд, которого не было. Как юристы защищали компанию выдуманными решениями
+
+Компания наняла юриста для защиты в суде. Тот подготовил жалобу, сослался на практику Верховного суда, Президиума ВАС и ещё трёх арбитражных округов с номерами дел, датами и убедительными правовыми позициями.
+
+Но возникла одна проблема —  ни одного из этих судебных решений судья не нашёл. И это не анекдот про искусственный интеллект, это вполне реальная история из постановления Арбитражного суда Западно-Сибирского округа.
+
+Началось всё со спора на 55 тысяч рублей. Бухгалтерская компания обслуживала заказчика за 20 тысяч рублей в месяц. Потом стоимость услуг выросла до 25 тысяч. Заказчик подписывал акты через ЭДО, оплачивал услуги, а когда возникла задолженность, заявил, что никакого дополнительного соглашения об увеличении цены не было.
+
+Первая инстанция частично поддержала заказчика. Апелляция решила иначе: если компания регулярно подписывала акты на 25 тысяч, значит, новую цену согласовала. И взыскала 50 тысяч долга плюс 7 644 рубля неустойки.
+
+Заказчик пошёл в кассацию с жалобой, но судья не смог найти судебную практику, указанную в ней.  Представитель ответчика привёл в жалобе целую подборку решений Судебной коллегии по экономическим спорам Верховного суда, Президиума ВАС и окружных судов, рассчитывая убедить кассацию, что подписанные акты не заменяют дополнительного соглашения.
+
+Но судья попытался найти эти решения и не смог. Номера есть, даты есть, суды указаны, а самих судебных актов нет. Обычно такие жалобы по делам упрощённого производства кассация рассматривает без вызова сторон. Но здесь суд назначил полноценное заседание и потребовал объяснить, откуда взялась эта замечательная судебная практика.
+
+К заседанию у компании сменился представитель. Новый юрист изучил наследство предшественника и попросил суд не учитывать ранее приведённые решения, поскольку найти их в правовых системах не удалось.
+
+Примерно такой разговор:
+
+— Вы ссылались на практику Верховного суда. Где она?
+
+— Понимаете, мы тут проверили... Давайте считать, что не ссылались.
+
+( В судебном акте диалог выглядит иначе, но суть ясна)
+
+Новые решения, которые представитель подобрал взамен несуществующих, тоже не помогли: обстоятельства в них оказались другими. В результате кассация оставила постановление апелляции в силе.
+
+А теперь вопрос: кто придумал эти решения?
+
+Сегодня нейросеть за несколько секунд способна подготовить юридическое заключение, сослаться на Верховный суд и даже привести цитату из постановления. Причём выглядеть всё будет настолько убедительно, что хочется немедленно отправить документ в суд. 
+
+Нейросеть может подобрать убедительную правовую позицию и привести судебную практику, которая выглядит достоверно. При этом решение может вообще не существовать, а приведённая цитата — отсутствовать в судебном акте. 
+
+Дело № А27-7831/2025: постановление Арбитражного суда Западно-Сибирского округа от 28.04.2026, определение от 14.05.2026.</description>
+      <content:encoded><![CDATA[<b>Верховный суд, которого не было. Как юристы защищали компанию выдуманными решениями</b><br/><br/>Компания наняла юриста для защиты в суде. Тот подготовил жалобу, сослался на практику Верховного суда, Президиума ВАС и ещё трёх арбитражных округов с номерами дел, датами и убедительными правовыми позициями.<br/><br/>Но возникла одна проблема —  ни одного из этих судебных решений судья не нашёл. И это не анекдот про искусственный интеллект, это вполне реальная история из постановления Арбитражного суда Западно-Сибирского округа.<br/><br/>Началось всё со спора на 55 тысяч рублей. Бухгалтерская компания обслуживала заказчика за 20 тысяч рублей в месяц. Потом стоимость услуг выросла до 25 тысяч. Заказчик подписывал акты через ЭДО, оплачивал услуги, а когда возникла задолженность, заявил, что никакого дополнительного соглашения об увеличении цены не было.<br/><br/>Первая инстанция частично поддержала заказчика. Апелляция решила иначе: если компания регулярно подписывала акты на 25 тысяч, значит, новую цену согласовала. И взыскала 50 тысяч долга плюс 7 644 рубля неустойки.<br/><br/>Заказчик пошёл в кассацию с жалобой, но судья не смог найти судебную практику, указанную в ней.  Представитель ответчика привёл в жалобе целую подборку решений Судебной коллегии по экономическим спорам Верховного суда, Президиума ВАС и окружных судов, рассчитывая убедить кассацию, что подписанные акты не заменяют дополнительного соглашения.<br/><br/>Но судья попытался найти эти решения и не смог. Номера есть, даты есть, суды указаны, а самих судебных актов нет. Обычно такие жалобы по делам упрощённого производства кассация рассматривает без вызова сторон. Но здесь суд назначил полноценное заседание и потребовал объяснить, откуда взялась эта замечательная судебная практика.<br/><br/>К заседанию у компании сменился представитель. Новый юрист изучил наследство предшественника и попросил суд не учитывать ранее приведённые решения, поскольку найти их в правовых системах не удалось.<br/><br/>Примерно такой разговор:<br/>— Вы ссылались на практику Верховного суда. Где она?<br/>— Понимаете, мы тут проверили... Давайте считать, что не ссылались.<br/>( В судебном акте диалог выглядит иначе, но суть ясна)<br/><br/>Новые решения, которые представитель подобрал взамен несуществующих, тоже не помогли: обстоятельства в них оказались другими. В результате кассация оставила постановление апелляции в силе.<br/><b>А теперь вопрос: кто придумал эти решения?</b><br/><br/>Сегодня нейросеть за несколько секунд способна подготовить юридическое заключение, сослаться на Верховный суд и даже привести цитату из постановления. Причём выглядеть всё будет настолько убедительно, что хочется немедленно отправить документ в суд. <br/><br/>Нейросеть может подобрать убедительную правовую позицию и привести судебную практику, которая выглядит достоверно. При этом решение может вообще не существовать, а приведённая цитата — отсутствовать в судебном акте. <br/><br/><br/><i>Дело № А27-7831/2025: постановление Арбитражного суда Западно-Сибирского округа от 28.04.2026, определение от 14.05.2026.</i>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/bankrotorg2/10964</guid>
+      <pubDate>Thu, 22 Oct 2026 07:47:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>ИИ создал икону и церковь её освятила.</title>
+      <link>https://telegram.me/bankrotorg2/10963</link>
+      <description>ИИ создал икону и церковь её освятила. 
+
+https://t.me/AIronCurtain/133</description>
+      <content:encoded><![CDATA[ИИ создал икону и церковь её освятила. <br/><a href="https://telegram.me/AIronCurtain/133" rel="noopener" target="_blank">https://t.me/AIronCurtain/133</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/bankrotorg2/10963</guid>
+      <pubDate>Thu, 22 Oct 2026 05:40:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Вот эта икона святого Карла Акутиса.</title>
+      <link>https://telegram.me/bankrotorg2/10962</link>
+      <description>Вот эта икона святого Карла Акутиса.
+
+https://t.me/AIronCurtain</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/NB-oYdBlSzYIe0tvTTsYIHlPyX6nusyLmGiJysOKZENx7BMt4Fm_kcROKyAWBo2v3vV-C_j7gA7XfMd81aoI7H5eQcx9vfIjWKnO8e2nksURIuLS9gM7R8O6UnSRV8aW2KSULaS1agV6WGFqc7JMNaUEuSjCD1eD-cBpSKUL7ZioYi5DW3g5Y5sXqm861JGIBkpD3xuBdZTYp13QcXENEDYtjdHK3RYmgolyuorc5x2-9ZD5uXiU7qPh_SrznTzFykPlili6atEls6WG5tTfhPfhKgbC1Rpn-ftQu-swhlHvvPDJYv0pNQcGyhgJewbJZvBPH-XFMIDkgHQsG_w7KQ.jpg" /></p>
+Вот эта икона святого Карла Акутиса.<br/><br/><a href="https://telegram.me/AIronCurtain" rel="noopener" target="_blank">https://t.me/AIronCurtain</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/bankrotorg2/10962</guid>
+      <pubDate>Thu, 22 Oct 2026 05:40:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>КС разрешил взыскивать оплату юриста с проигравшей стороны</title>
+      <link>https://telegram.me/bankrotorg2/10961</link>
+      <description>КС разрешил взыскивать оплату юриста с проигравшей стороны
+
+https://www.kommersant.ru/doc/9043207?fb&amp;fbclid=IwY2xjawVF131leHRuA2FlbQIxMQBwZG9mBHNydGMGYXBwX2lkDzQwOTk2MjYyMzA4NTYwOQABHmGstVlz_ofZRgv3Moc8LtTwGEAkwYLwEcubDyiYygQYMmlybdOz4BF_iN0q_aem_Lst-r8lQhrZLySsf4uOVaQ</description>
+      <content:encoded><![CDATA[КС разрешил взыскивать оплату юриста с проигравшей стороны<br/><a href="https://www.kommersant.ru/doc/9043207?fb&amp;fbclid=IwY2xjawVF131leHRuA2FlbQIxMQBwZG9mBHNydGMGYXBwX2lkDzQwOTk2MjYyMzA4NTYwOQABHmGstVlz_ofZRgv3Moc8LtTwGEAkwYLwEcubDyiYygQYMmlybdOz4BF_iN0q_aem_Lst-r8lQhrZLySsf4uOVaQ" rel="noopener" target="_blank">https://www.kommersant.ru/doc/9043207?fb&amp;fbclid=IwY2xjawVF131leHRuA2FlbQIxMQBwZG9mBHNydGMGYXBwX2lkDzQwOTk2MjYyMzA4NTYwOQABHmGstVlz_ofZRgv3Moc8LtTwGEAkwYLwEcubDyiYygQYMmlybdOz4BF_iN0q_aem_Lst-r8lQhrZLySsf4uOVaQ</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/bankrotorg2/10961</guid>
+      <pubDate>Wed, 21 Oct 2026 17:37:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>🖼 Фото — Банкротство. the other side</title>
+      <link>https://telegram.me/bankrotorg2/10960</link>
+      <description>🖼 Фото — Банкротство. the other side</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/rSs4_No-cYg8d-o0-deX22x2seUK3BlMyP_gwASkCalxcAS8WxuaADReR2G8Vy0Yq9dTahY32-YJAia5LFyHJz4yuZvzqQlV0HlBBflRbUbkUJ-qoIrqGt6hQCKBTcyRiUVe5xWQET1h-YPB5hKiFpPRgu9Pxm4H118mJfvLCa62vmDyqvwEIJ8doxU9SveAjlbmsQGCMa_ULwImlPyylSTelHefHHBBE_hpd9GJsx9HoVa-wvx-3m--oOVRIfiCXb2MnYiDh32qJtkMQVsJPBypBs4ipqECN_zNiZqKcF0S-JWw_2aaSgDkVwEO-uekHRC3_-rf1ZMs1Ik_GH17qw.jpg" /></p>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/bankrotorg2/10960</guid>
+      <pubDate>Wed, 21 Oct 2026 17:37:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Getty Images подал заявление о банкротстве</title>
+      <link>https://telegram.me/bankrotorg2/10959</link>
+      <description>Getty Images подал заявление о банкротстве
+
+https://www.kommersant.ru/doc/9044018?utm_source=theme&amp;utm_medium=email&amp;utm_campaign=newsletter</description>
+      <content:encoded><![CDATA[Getty Images подал заявление о банкротстве<br/><a href="https://www.kommersant.ru/doc/9044018?utm_source=theme&amp;utm_medium=email&amp;utm_campaign=newsletter" rel="noopener" target="_blank">https://www.kommersant.ru/doc/9044018?utm_source=theme&amp;utm_medium=email&amp;utm_campaign=newsletter</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/bankrotorg2/10959</guid>
+      <pubDate>Wed, 21 Oct 2026 14:46:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Подработка для жалобщиков на АУ</title>
+      <link>https://telegram.me/bankrotorg2/10958</link>
+      <description>Подработка для жалобщиков на АУ 
+🤣
+🤣
+🤣</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/kSTOitiQ4BmQq1575_Ei5Z_BK4lwEO4UrNKkbJ-Zlt_4oRl0LsQsD1IO-BxuzwJVtRF1zbyaFCfdsibHKDCMSKgpDLXt0VWyFDJlib6oVhVfhb8lczXi3TnJHEwLfCTFMlVoZV0fCgcED8r6znKkSSjqyFIPIEB5gJbnbiPg7rQKoxEMffi7dMViwqk3bcRSgSLoVLL5LsWuoSLQrJgR-hZZ_opIxLvsYLFc8P3K6D8LoB7cZp3j4Xk25XslFVYvoRdr7wKM81FMIhTj3MPiYUT2EA8Kuj-_xJb05aK6OPHRxd4OlyFDNEw77YgpGC_trGbJWFR1NV-N4gG3lJ2mIg.jpg" /></p>
+Подработка для жалобщиков на АУ <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA4A3.png')"><b>🤣</b></i><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA4A3.png')"><b>🤣</b></i><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA4A3.png')"><b>🤣</b></i>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/bankrotorg2/10958</guid>
+      <pubDate>Wed, 21 Oct 2026 14:45:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>🖼 Фото — Банкротство. the other side</title>
+      <link>https://telegram.me/bankrotorg2/10957</link>
+      <description>🖼 Фото — Банкротство. the other side</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/W29idR9R5fhQM-FsLKjG_GLArEf4bxZxIKPs6GFga-UI_D6rPauckptt3ugHr23ZQhWQd4zp4oJs_ZI0q70trj4_jF8er0m6Dt1ybmKX1xFixn8Aa0P7sTR6KU4S3rh1CegK-TAS8shcq920XF39O_RwltKenRcFxjk0N8uVF6wFCrHPh9PqFxUsGz2L5FOJ6nKJAyocCkNEzGl77X44H5kbVwi4mEObzFz0Wjxb27Y5y7EvT6E-pXoJX1lprf_Js8te6Dn-PI2bN5fbwK1MT2QVSVKW4pmv71-68Gfl31AYNgc6KJjGMJ0tsL_Cz5uW-OzCShA-gAoTIvxlTkjcVQ.jpg" /></p>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/bankrotorg2/10957</guid>
+      <pubDate>Wed, 21 Oct 2026 13:19:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>https://www.facebook.com/share/p/1Dnt3auSF3/</title>
+      <link>https://telegram.me/bankrotorg2/10956</link>
+      <description>https://www.facebook.com/share/p/1Dnt3auSF3/</description>
+      <content:encoded><![CDATA[<a href="https://www.facebook.com/share/p/1Dnt3auSF3/" rel="noopener" target="_blank">https://www.facebook.com/share/p/1Dnt3auSF3/</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/bankrotorg2/10956</guid>
+      <pubDate>Wed, 21 Oct 2026 13:19:11 +0000</pubDate>
+    </item>
     <item>
       <title>ИИ стартап - банкрот</title>
       <link>https://telegram.me/bankrotorg2/10955</link>
@@ -25,7 +142,7 @@ https://t.me/AIronCurtain/130
       <title>Есть мнение, что гонение АУ с их заработками мимо кассы началось с них, когда ГУБЭПиПК погрузилис…</title>
       <link>https://telegram.me/bankrotorg2/10954</link>
       <description>Есть мнение, что гонение АУ с их заработками мимо кассы началось с них, когда ГУБЭПиПК погрузились в наш рынок</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/CMC0RRT_LxM-2y2-pieyxVmAJwTf2eoqCHBhGHYzmo7KnH6g6gLPAQWtFqTE1YWLBKT-VTjs2vdEZrWvxSu3fTiOEuq167slgWtgSsdMYp_XWJh8uDGgDa1lZzjJkfxnXm8gMvX6H7ZAsBpJLEx5txUemluJzs0kujrtwKcpfoAlVW09TaxJFi8a6vibwvFWH4SsOlUHTx1iEy7bjFfHfJ6BXGhtWRrd-879UPXdD58zJJqW5yTA8Dps2zF_vlkSPqLs3D1Ma7FII8AIHx-cu9cuxwJRJBdnnPT9LsOSpikPueL_zBZKCeEiWxDMmrJ6MFzMfVX0qh4ZKI1AX0fIFw.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/ZL1yFgu80vB9ztemwCgGXfmUB0oGKFkwBBmJ37oXRzQxiVPFoVAX6GSC-zNegpJQ14qVQ5mvS-yOJ58wcsMzyksxEb-44qWRBXwPsuQ_84AU-8nuwAsdgrR0qFQqralu3t9fU9ilAcsRGOeAqnf4jnwGxiynX4m2PJW6m1Jx18937bVnBRb886HitcipP4nU5MLwn1GfjSRxqsnM1Np5mEaTAYu2W78uTMkEFrXB1Zng7ECAP35igfnnV3NKTmUSsKqy5KnyZXxeOzbKlkd6oabhnIjy2d0XqtW86r0LG8jvhwvDjrjqHJXPnyTq8PG0qzjz0l5Ddn41MmYG2F-x0Q.jpg" /></p>
 Есть мнение, что гонение АУ с их заработками мимо кассы началось с них, когда ГУБЭПиПК погрузились в наш рынок]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/bankrotorg2/10954</guid>
       <pubDate>Tue, 20 Oct 2026 18:21:05 +0000</pubDate>
@@ -34,7 +151,7 @@ https://t.me/AIronCurtain/130
       <title>Мне очень приятно это читать. Спасибо.</title>
       <link>https://telegram.me/bankrotorg2/10952</link>
       <description>Мне очень приятно это читать. Спасибо.</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/Y-8iFzMC9PkWO5WLq-Cpxz8m9Wst-c9NcHPfJAW45no888IJYCZt1_X2Uch7WEHlT0KL48SLusPHebG_eaoOs1XwlEj-kYTY0ZYwFDWE3GJE7trN9-A5LHXfFjGFK517F3TccFcNZzDIPzwQo6xHel0ymH5B2Fva-leHwAltzeVOoe_LafsXHAYLyckjzD9bJSqxd4ZqxZI51wkYt-8wDvRcMzN0JK5vcIGmCO4S2kjY7w3kRJE4Q3Q1gROg_5L9VqeMX2H5RwRG7DWm5oDe_EKiMTD_mWaPb1nK79L_7aKsbmVsDuhq4fIy3CpGPIjfItrS6Rz1v86h3UrWRgSKFw.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/dW2DpYQA5p0Ic9WtQkf0VTer_4hcoM29rU6tZU6dbiiW4kMIQI9mOX1lA14DNEk-mqs-AkM6tHuadmdlX-2QMoIx5RzQRebpqSnVo1pSsJ1rP6ggf8dy0N21BhS8WIf_gh1X0dvmDmsLt_0o4Nar20racBgqUSU9YtYNf_P0bu2E40uQgCGBLocuYPWUZHuKoHjB4ZfoErMvcwtXT95jLaUdFmRvUwpOrRfgr3bL82qUQg6BkIviUOj8Ezy7-mdvOGulOyBRhLy05S8Stbuu21MY-1X_P3UIUYv4pjpHulT1LAyE3-1RhZyCHePQRwUBBlIOGXZosVks-yNr1aQ60w.jpg" /></p>
 Мне очень приятно это читать. Спасибо.]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/bankrotorg2/10952</guid>
       <pubDate>Tue, 20 Oct 2026 18:11:33 +0000</pubDate>
@@ -298,7 +415,7 @@ https://t.me/AIronCurtain/130
 До встречи 14-15 октября 2027 года
  
 🤍</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/QthedWU5zdTeOlrOj2TqSP2v64an0DSo3Pw3DLt1_lt3lDyQRx-U9KMiseiz_IYn0Wo7qE7tqp-8uXUBL344I8bCWg4cctAXZmuPPku7c-OPCdslojMQ6i8TT1AhRZ5Pne8lFar4uCQnZn_rDARypEDaRjOnJ823d2aUOuyKk8-qwbqBc36iZARk8wM3ZXtgQj5y_EqWSIwRnkREKaSxfEX7_xpFV_AVLYdJhnjyRkWciD2B8jSkKTjjTxZHDyyfcC0ThkijacRw4T-wVwRvtEk8nbUcASCHJsggYlX5Lgk4chjn_3e66pVCsYt0KaS80XSAoaiIMLSkEAY1GywTPQ.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/A8z4fxuZ7HVvDtlagftHFXmVOyqnQBO5StdXH9-QvzUjc721UYyWUKGbDSL_4flVK0icq-QL0YaByEC65U4QKPFDgr29gcg2-zOpg3RhyNPTJZAZZjS1YvpLrI2FskxKX4h87QK4qz_Ea7EypmsUSnTh5ThGWAU8voZV37M8-hM7m4djuUY2Am8ObvBm2VBTFQmwKxw1krre0PawRSGC9Rz3nAtpKWahwREzB6FPiMpnZCgaAe1DLcezDBSS4QkrnSwiZ2ba-gm1X4mJcba1FH-qjpTcEiGZ9-ydCCJZ3XETPcssR00iiydPBrvddDNgATu6RHDzz5WP8h9LTI4o_A.jpg" /></p>
 Презентации, фото и видео Форума — по ссылкам ниже <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA498.png')"><b>🤘</b></i><br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93B8.png')"><b>📸</b></i> <a href="https://livefotomark.ru/disk/xiv-ufau-tqs6kz" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b>Фоторепортаж</b></a>: кадры, которые говорят сами за себя. В альбоме - первый, второй день Форума и бильярдный турнир<br/> <br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29AA1.png')"><b>⚡</b></i><a href="https://disk.yandex.ru/d/khqbY7gLtzkrtg" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">️</a><a href="https://disk.yandex.ru/d/khqbY7gLtzkrtg" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b>Презентации наших спикеров</b></a>: в одном месте все ключевые тезисы Форума<br/><br/><a href="https://vkvideo.ru/live-238020933_456239018?list=bce9dc6f2fafdbcacb" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8E9E.png')"><b>🎞</b></i> Видеозапись 15.10.2026</a><br/><a href="https://vkvideo.ru/live-238020933_456239019?list=6a7550ad4e1ddf55fd" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8E9E.png')"><b>🎞</b></i> Видеозапись 16.10.2026</a><br/><br/><b>До встречи 14-15 октября 2027 года</b> <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA48D.png')"><b>🤍</b></i>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/bankrotorg2/10949</guid>
       <pubDate>Tue, 20 Oct 2026 16:59:53 +0000</pubDate>
@@ -308,9 +425,9 @@ https://t.me/AIronCurtain/130
       <link>https://telegram.me/bankrotorg2/10943</link>
       <description>А вот и фоточки с Уральского форума приехали 
 🔥</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/R-RYYTPBGR1yK678hDPkAGvmVIr7H746w3JQLmadjsppz7Ad_WIHvjGhhFEGJQlEtvTn3UlG9ZqFVcrGsF62sVg9aVLwGPGEQd0kfJKvOqyB19gwJ00FMkJ64KSRNDKUgilCQCPHcYJ0JPR-VfFoJFvBMpVe__7dAGyq-mKfn4WWYATngSblv3TGwTijaO718UWzwq8Efcexp5a9kI4dLo2ary56UK7Yqw08YZPICUZQmCmjAwiFaUGkdmTuY08aZQvNtcgIfxU3Av3D4qXVSIqAunTreEJ6tFBmckP5h9GCxlcCOyV3u0HFHUhOs-O1s0yqHHjGILEj5_ig8pXSPw.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/G2zr6uLyLyCv8pAx9x7gxQJXxmjGc0h0F4e0mv48KSIPCJs1JeL6fLhcrW4VZr2VIqhEHtrCHsQ8h7zALrh7fczq46rZLk1NW9nppjFbAA7U45pI5mn-9MLkjmZeWr0TQ4jKArXO0yag-UE21pCpKrouBQZjPqLozWQ6MJlXcpu1Jaz0vDWZ4vcTs8MlIosNJuvjukyEKIAi75-SaNCnAiPfyB5I3W8Vftbdjf8D4UvL2vYekQ3rBw1rthvNoW_uAQTgXXk8m5wFKmhfuCWdao64g18JBlgyu2UdzOL1GdUXHgRZ65bdSzGsbkXcfPWoAr2zJ2zMdzt3YcriOkqxFQ.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/EUk7Y5cHy5jPKEkkHBwcXxyHnAVuptGu34FZM-5F3FQm5NseEWPd6BQN2ZWxYKTCs14DuT8heSRcprQquE6LKY8T74r8Obw9UpC_qNZo6yGDgHUJ5AFqn47y6X6Jx4d--MW5UhREk1wDOfFp2C3nV9O7dTHp1jPY7PqEUBNydoIEKJJ0WkxrnPF4M_ZmYHTlt2d9N8Z3hsQj-jBBSXikMuAVvdw7dO9v5rNnTe1Njy1-eqRGMTeCDGrDf0UrLWeAiSLidkJXJUd8ZiKiSPrpLBxF3K1JtgHHP3_MluqVtlG2WX-BUIZtf-2sTe0afFcW_765JFDoTzygrHM6xIN83w.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/Ngy-NO54XqGBzodRPG3n3iBPlGgcN-Lfuug7uYO8PWCuXl5VinVfYEeeJjVkL7PpE9Gp4wbJoT6jx4JD8llqg-_SIruIUTRj0t81uGXphTxC7T7UWrxRoDce_AKL9iBUxCdhxru3bDPWjYBhzS0Fb3Ff2VFn_WyQ3ul12unHfvblIceHEz2cx9SFexjrG_IBEKg6Q0XjP5-SG_7QrPtRUxT3S31GprTaS1pOvqE91Sm7V2oapdhyrQTXymlxtrHgHo72kP647MT-lM32vAbJ742u3Z1aF6CAkroFEUOCXboFkz3MsNa6K8FyBSGsikevZrzBdlsxR9p9kLj2xyfADw.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/NFsrhBdxRYX-_J27F7YWFDmOqHUbEPNAxl4Rk1nyGORYcMD6L8q914ga_W9UiEC0qnaBElvwk52u13Th08tpN6426W4x7ksTsqeCUeT78vY97EIaZej261Qde-LTripFWd_5AJ7Kysx_FUKSbxmr_d5E8sW-9QPcxCpP00OC4-rvn5OOHPbP7rkQHL3_oeI1TOPlyMc-Hj6z935DuJaIzj0RrfVRtjL_y3ZF7i6v7iF1FcDEHnUQ8fIIPFa7jzAeYmmoBHSLcOWRXBaoeN4Q8ikNsjL609cFrctw98whYdC_6yx2NjQnYZq6CndzfIHBsu4CYsPS-Gk9DQePnF8Q8Q.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/j2wAjpybY99DZbcowtDSW7qId5XAuFX-90kkw2Hc-eD4Rg3XAJDTSYzS1g9PvMP9bRL8Y-a8paekcIPRXIf7nKjbjHiG68uihpjVpf011hc_FaFs5vLmB2Qt_kfJ7n2ykyvlewbyOGxuaZaPqZaAVCdbqyeyVp6OXHqyn4zET7T5vp9oADkn-bjt-yWY920navPeUBJK2vG8vSUAaF7-tZ9ApgpAVOPmoxgtbNPDqVlylyIyt0MGjvqrnB9-Px9qZgbjuCkErLJcONbCB_8YjCtguombvvU58kZQJrU_8Y2A3h0RCmJiS3aQaAOcSugajeDFdN5QQpWBIlAe1MQ51Q.jpg" /></p>
 <div class="tgme_widget_message_text js-message_text" dir="auto">А вот и фоточки с Уральского форума приехали <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')"><b>🔥</b></i></div>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/bankrotorg2/10943</guid>
       <pubDate>Tue, 20 Oct 2026 16:58:35 +0000</pubDate>
@@ -401,7 +518,7 @@ https://finradar.brpadvice.ru/bankrotstvo?utm_source=bankrotorg2</description>
       <title>🎥 Видео — Банкротство. the other side</title>
       <link>https://telegram.me/bankrotorg2/10939</link>
       <description>🎥 Видео — Банкротство. the other side</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/EYZQW3g3eshaX1jzQugsvS_Y89G5TqgWvzFlnIx7xbsMY0p-6JX_rezf78MVUrLbxKdz9TspzM46q0bHn2G6OlK99YZDxyLDuALrsgs5f3HmWfqKGANzmvjUCa1SDCVYccpldzvesxo21pV_Kh08SJrUakCrgn0-vtSMPhLJlC5NvEyc_M5vNEKbyrhBjAAqwNIOy8KqMpvXYZmC_223oZ7KWbFTpA_ntSoTsDc-LzMxHm18m--cdpsdK-Kx1A1hOLKuz7OTThySkDHG2L7PQdsM7CRKalBTuQiakAwFQWNCBHUrxR-9TtQWLa7h7jAyWQhlzX89PYEPiDWElcFIOw" /></p>]]></content:encoded>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/S5Og0jP_kr_26jh6UcbikL2-Ifw9XdS-IUMMxXOHaK3OvP139jKhtQ9Fl2RhxMyh__zOAx5qiI2ZC7mtM3A_VW6kfRvgaJEPKJj_YaoO4MYSLgTcVLB7fT714DU51vrsY8dmDM3QD8dEPrA8B_yhlEZi_An6D-9D7FA-HHiW2fEixGGpkWEgNXKu2YoU_LB_dcbpL4IFSdmcgiH3LCxdVdU_Ib6jsDMMulnBVF6FYRQ65hcwhPENfn3BPqrkHgHdwoxQw0Fu6uLNpM4sw5M5gAwd-MV6MprnkSBF-jQI8ay3WP0pw8jtMUAv3xe5BYMlAuSHcAsvtrYSHDRkKUHA-w" /></p>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/bankrotorg2/10939</guid>
       <pubDate>Mon, 19 Oct 2026 15:27:03 +0000</pubDate>
     </item>
@@ -449,7 +566,7 @@ https://ural-forum.org/
 💋
 💋
 💋</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/GkyBzV8UZ_Kdwi3_D0kbm6-ECdGFK0b2lv751pSGMA-SaK7qBPMKddxE6vgBfDXpkhliyY_QygSgm0HI9lYDFVMtRM-R7rPf1REWCd8K4TEFIsabwsO44BnLoQXtJi4rAk9JS_SkC2TkC1sJaiNdZDWBwdsdaHYLdWYQIdJcSwTdx5QSJu_RQ7zhH7T5lqt2nfgkB4iROnl7h-J-1E6uHAy2y5s7LNsVVFeGwI6UyYW56Ep667pI9Ojjo3ybrqjRt-Wu-MyQkDse0wcbMeLc1zo_Ft8vcpKL06dTuZhqmqT-nY0Gu6kRXFgEC1A-aGJWK5DG7OGti_ZSIGgWa4J2Fw.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/oekY8uSunfMVe0rT4W3Uidiiys3MPF0bqGx0eq_1WU4z2cqTduEqfA8lWzoWoHTcKH0lH_sOrYXhOnNbGfyxQfYVf22FgRccMi3CZ5H3AxZjAhOf0rGsQXETuxwzP0bdwKyPP36xM34OU2G_tsUMYAM1AuTsKOXPZgjMom75G5vvLqj91m4A20XwXG7aSgqV66d7boFtMQEBi8w5eihwgoyMzYB7j1JyCTPkcrMPKe30CjZNRej71dK0IDLkcgjMUw33sLNyhVc3MuSgsBTVjJbSZTOgNSK50hOyXE5-mq3tAnSOb5eo6LTG4ORYZM0Vt1_u-sEXUfGXdF-3bPD4PA.jpg" /></p>
 Хочется от всей души и с огромной благодарностью написать эти слова организаторам Уральского форума арбитражных управляющих (<a href="https://ural-forum.org/" rel="noopener" target="_blank">https://ural-forum.org/</a>)! <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8CB8.png')"><b>🌸</b></i><br/> <br/>Это мероприятие, которое по праву считается старейшим и наиболее представительным в отрасли. За годы своего существования форум превратился в настоящую точку притяжения профессионального сообщества, в место, где можно обменяться опытом, обсудить насущные вопросы и просто почувствовать себя частью большой и дружной команды. И всё это стало возможным благодаря вам!‌￼<br/> <br/>Отдельное и самое искреннее спасибо Сачёву Михаилу Владимировичу и Сачёву Игорю Михайловичу. Михаил Владимирович, как председатель оргкомитета и президент Уральской СРО, вкладывает в форум не только колоссальный организаторский опыт, но и частичку своей души, задавая высокую планку для всего мероприятия. А Игорь Михайлович, как соорганизатор, обеспечивает ту самую надёжную основу, благодаря которой всё работает как часы. Спасибо вам за ваш труд, энергию и умение объединять людей!‌￼‌￼<br/> <br/>И, конечно, самые тёплые слова — девочкам-организаторам: Наталье Михайловне, Ольге и Надежде. Вы не просто организовали прекрасное мероприятие — вы позаботились о нас лично, сделали наше пребывание максимально комфортным и создали ту уютную атмосферу, в которую хочется возвращаться снова и снова! <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F998F.png')"><b>🙏</b></i><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29CA8.png')"><b>✨</b></i><br/> <br/>Спасибо вам за ваше внимание к каждому гостю, за заботу и за праздник, который вы нам подарили! <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F928B.png')"><b>💋</b></i><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F928B.png')"><b>💋</b></i><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F928B.png')"><b>💋</b></i>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/bankrotorg2/10938</guid>
       <pubDate>Mon, 19 Oct 2026 14:12:49 +0000</pubDate>
@@ -627,7 +744,7 @@ XV Юридический форум для практиков
 🔗
  
 Стоимость курса</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/gV3RHzMquBltKHrRsOrfVmsH4JeKo0OsdIWvCpWNT7dW5K1aRobW5OGuDlsj4bkIgkWGvM0XYOk11HDWbFOQbqHf40OBz7O28h1OyTNY-VtHbgfaCig_9cO0q-fPAT523bk-TjjfobthBtHadlUp7xeotT_-T_SBK0N7ZjtL6v2FpHBKUpmImHmt0i7Wv9RTaANUM5FxipTFuDI_ZBWnQuzhkELgytjbeOtfNMXcrw8SV7vxbiuGejMONdcpDtb1L05Xlb0qdqep7NeSJ8GofRbhzJ7Tbghfmnl_7c2I0UIBtUSK-oeKnu2yU99pIuUQNwtGadjyfhIS1vygEv6noA" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/VNY3Djm6m49-zG6KurnobxX4axoLRr-XP563z6iVTBLciWzNMmNsqFOlyov5hYR2R7dK904vpMjYCRE-b25a1MSUA3VItRHttw0GIe03oQEFA5vwxHN3P-b61pjOwKUNwsckSBug3ATE8u5BC0SjZEDScOlfOXlqTerSgSCeV7kmwu9RwqJJxgbetTRdF4p3IkZ3wKvrQBVjuadmrr_K0mMElSwdfHWj1ua4wKxzcbi9mPjgGl2BeOznXs-Oo22h8AvCuz1aWgIroCN4T22_fULSmuYMnx_x3uKEQresgVm9-nQfE37nm8mblP43RiV2dlFomdr4ozsDxyjNJ_PcIA" /></p>
 <b>Какие события нельзя пропустить во</b> <b>второй</b> <b>половине октября? </b><i>Подборка от PROбанкротство</i><br/><br/><tg-emoji emoji-id="5359535602431699947"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')"><b>💡</b></i></tg-emoji><b>Мероприятия</b><br/><br/>16 октября | <b>Практика банкротства</b><br/><tg-emoji emoji-id="5395548525251541890"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA4A9.png')"><b>🤩</b></i></tg-emoji> Ежегодная конференция делового издания «Ведомости».<br/><tg-emoji emoji-id="5359671331988189765"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji> Посвящена изменениям в законодательстве и судебной практике, актуальным правовым позициям, практическим кейсам и новым вызовам в сфере банкротства. <br/><tg-emoji emoji-id="5359671331988189765"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji> Это возможность обменяться опытом с ведущими экспертами рынка, обсудить наиболее значимые тенденции и найти практические решения для профессиональной деятельности.<br/><tg-emoji emoji-id="5359644320938863726"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9497.png')"><b>🔗</b></i></tg-emoji> <a href="https://probankrotstvo.ru/events/1200" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Билеты</a><br/><br/>22 октября | <b>XV Юридический форум для практиков</b><br/><tg-emoji emoji-id="5269538097502105679"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8E99.png')"><b>🎙</b></i></tg-emoji> Ежегодный юридический форум в Кремле от «Системы Юрист» — крупнейшая площадка для юристов. <br/><tg-emoji emoji-id="5359671331988189765"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji> Участники пообщаются с экспертами, судьями и практикующими юристами, заведут полезные контакты. <br/><tg-emoji emoji-id="5359671331988189765"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji> В программе — дискуссии по актуальным темам (субсидиарная ответственность, трудовые споры, ИИ в работе юриста и др.) и 2 мастер‑класса по именным приглашениям<br/><tg-emoji emoji-id="5359644320938863726"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9497.png')"><b>🔗</b></i></tg-emoji> <a href="https://probankrotstvo.ru/events/1403" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Программа форума</a><br/><br/>22 октября | <b>Реформа банкротства 2026</b><br/><tg-emoji emoji-id="5258011929993026890"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F91A4.png')"><b>👤</b></i></tg-emoji> Практическая конференция в Санкт-Петербурге с участием представителей ФНС.<br/><tg-emoji emoji-id="5359671331988189765"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji> Посвященая реформе банкротства и смещению фокуса с ликвидации на санацию и сохранение бизнеса.<br/><tg-emoji emoji-id="5359644320938863726"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9497.png')"><b>🔗</b></i></tg-emoji> <a href="https://probankrotstvo.ru/events/1401" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Зарегистрироваться</a><br/><br/>23 октября | <b>Банкротство без масок: кто и как злоупотребляет процедурой</b><br/><tg-emoji emoji-id="5420343573314809364"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E2999F.png')"><b>♟</b></i></tg-emoji> Встреча RECOVERY club. <br/><tg-emoji emoji-id="5359347525813807703"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')"><b>🔥</b></i></tg-emoji> Разберем злоупотребления в банкротстве: как проявляется асимметрия интересов и почему формальное соблюдение процедуры не гарантирует справедливости. <br/><tg-emoji emoji-id="5359671331988189765"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji>В фокусе — права кредиторов, контролируемые банкротства, фиктивные требования, банкротный туризм, оспаривание решений и др. <br/><tg-emoji emoji-id="5359671331988189765"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji> Вечерняя сессия с нетворкингом: разбор кейсов, обмен опытом, новые профессиональные связи.<br/><tg-emoji emoji-id="5359644320938863726"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9497.png')"><b>🔗</b></i></tg-emoji> <a href="https://probankrotstvo.ru/events/1387" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Присоединиться</a><br/><br/>26 октября | <b>Юридический форум юга России</b><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8E99.png')"><b>🎙</b></i> Ежегодный юридический форум от <a href="http://%D0%9F%D1%80%D0%B0%D0%B2%D0%BE.ru/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Право.ru</a> и АБ «ЮГ».<br/><tg-emoji emoji-id="5226948110873278599"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F87B9F09F87B7.png')"><b>🇹🇷</b></i></tg-emoji> Пройдет в Стамбуле. <br/><tg-emoji emoji-id="5359671331988189765"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji> Форум — это уже сложившееся сообщество профессионалов: топ-менеджеры компаний, партнеры лидирующих юридических фирм. <br/><tg-emoji emoji-id="5359671331988189765"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji> На повестке окажутся самые актуальные темы правового сопровождения бизнеса.<br/><tg-emoji emoji-id="5359644320938863726"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9497.png')"><b>🔗</b></i></tg-emoji> <a href="https://probankrotstvo.ru/events/1162" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Билеты и цены</a><br/><br/>27 октября | <b>Субсидиарная ответственность перед кредиторами «брошенной» компании</b><br/><tg-emoji emoji-id="5233625831535830232"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93BA.png')"><b>📺</b></i></tg-emoji> Совместный стрим «Что делать Консалт» и ЮГ «Пилот».<br/><tg-emoji emoji-id="5359671331988189765"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji> Будет посвящен субсидиарной ответственности по долгам «брошенной» компании. <br/><tg-emoji emoji-id="5359671331988189765"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji> Разберет подход ВС РФ: признаки «брошенного» юрлица, бремя доказывания, позиции судов. <br/><tg-emoji emoji-id="5359671331988189765"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji> Участники узнают, как действовать кредитору и какие риски несет контролирующее лицо.<br/><tg-emoji emoji-id="5359644320938863726"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9497.png')"><b>🔗</b></i></tg-emoji> <a href="https://probankrotstvo.ru/events/1400" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Присоединиться</a><br/><br/><tg-emoji emoji-id="5359285137118864843"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9395.png')"><b>📕</b></i></tg-emoji> <b>Обучения</b><br/><br/>20 октября | <b>Юридическое сопровождение процедур банкротства</b><br/><tg-emoji emoji-id="5449511615344955749"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8E93.png')"><b>🎓</b></i></tg-emoji> Профессиональная переподготовка в РЭУ им. Г. В. Плеханова.<br/><tg-emoji emoji-id="5359671331988189765"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji> Формирует компетенции для работы в сфере несостоятельности. <br/><tg-emoji emoji-id="5359671331988189765"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji> В программе — основания и процедуры банкротства, статус арбитражного управляющего, разбирательство в арбитражном суде, особенности для отдельных категорий должников и др.<br/><tg-emoji emoji-id="5359644320938863726"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9497.png')"><b>🔗</b></i></tg-emoji><a href="https://probankrotstvo.ru/education/1297" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Ознакомиться с преимуществами</a><br/><br/>22 октября | <b>Оформление прав на IP с авторами, разработчиками и партнерами</b><br/><tg-emoji emoji-id="5359671331988189765"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji> Вебинар от АБ Инфралекс и Совет Лигал.<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA791F09F8FBDE2808DF09F92BB.png')"><b>🧑🏽‍💻</b></i> Поможет бизнесу избежать споров об интеллектуальной собственности и подготовиться к суду, если конфликт возник. <br/><tg-emoji emoji-id="5359671331988189765"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji> Специалисты обсудят инструменты защиты IP, условия охраны ноу‑хау, распределение прав на разработки сотрудников и партнеров, судебную практику и ключевые ошибки. <br/><tg-emoji emoji-id="5359671331988189765"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji> Полезно собственникам, HR‑директорам и корпоративным юристам.<br/><tg-emoji emoji-id="5359644320938863726"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9497.png')"><b>🔗</b></i></tg-emoji> <a href="https://probankrotstvo.ru/education/1410" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Что будет на вебинаре</a><br/><br/>26 октября | <b>Искусственный интеллект в проверке и экспертизе отчетов об оценке</b><br/><tg-emoji emoji-id="5359361763630395758"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')"><b>💡</b></i></tg-emoji> Курс повышения квалификации для оценщиков.<br/><tg-emoji emoji-id="5359671331988189765"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji> 4 вебинара в прямом эфире с разбором отчетов, записями на платформе и удостоверением от ССЭ «Экспертный совет». <br/><tg-emoji emoji-id="5359671331988189765"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji> Программа охватывает применение ИИ для экспертизы, методологию проверки, анализ обоснованности величин, оформление итоговых документов. <br/><tg-emoji emoji-id="5359671331988189765"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji> Слушатели получат первый свод правил по использованию ИИ в оценочной деятельности.<br/><tg-emoji emoji-id="5359644320938863726"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9497.png')"><b>🔗</b></i></tg-emoji> <a href="https://probankrotstvo.ru/education/1406" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Стоимость курса</a>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/bankrotorg2/10936</guid>
       <pubDate>Mon, 19 Oct 2026 13:43:02 +0000</pubDate>
@@ -643,122 +760,6 @@ https://t.me/AIronCurtain/127
       <content:encoded><![CDATA[Искусственный интеллект и юрист - нужно указывать в самом иске, что он подготовлен с использованием искусственного интеллекта?<br/><a href="https://telegram.me/AIronCurtain/127" rel="noopener" target="_blank">https://t.me/AIronCurtain/127</a><br/>Как вы считаете?]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/bankrotorg2/10935</guid>
       <pubDate>Mon, 19 Oct 2026 10:38:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>🖼 Фото — Банкротство. the other side</title>
-      <link>https://telegram.me/bankrotorg2/10933</link>
-      <description>🖼 Фото — Банкротство. the other side</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/BpMlB_ZJlctix71d0KnJ36KOLNMj-XOkEov0tbHbGIzcGPUE_7q1taCHiTRkbcIxvQeLpnMRgYkNAsRCUCAKNSAtnuDvwpFqw5Utq734DmO2Zf9v3U2Uh7XimLNDp0Kp85cLzyOYDhlEhAHNjW1H8_J8W90yAfg-LXbZUEeJkTQhvjEtOjmULhDqBLVEwfpsUTDi4OWWLABO305TUpDL0mLVaMfX8ObfM-kjNRB0Z1-OMdV6U7SeZlEXSIAJmM8L-fPIakqWu0hWPgL14ih5yqXa0FEUZZwhdlWcpyERozKhQr4HDeHuCVH9MkBQblfsvyZMzQQEqa0O3FCJaqkrhA.jpg" /></p>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/bankrotorg2/10933</guid>
-      <pubDate>Mon, 19 Oct 2026 06:34:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Пост — Банкротство. the other side</title>
-      <link>https://telegram.me/bankrotorg2/10934</link>
-      <description>Пост — Банкротство. the other side</description>
-      <content:encoded><![CDATA[(нет текста)]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/bankrotorg2/10934</guid>
-      <pubDate>Mon, 19 Oct 2026 06:34:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>https://eventtoday.biz/pa-na-2026</title>
-      <link>https://telegram.me/bankrotorg2/10932</link>
-      <description>https://eventtoday.biz/pa-na-2026</description>
-      <content:encoded><![CDATA[<a href="https://eventtoday.biz/pa-na-2026" rel="noopener" target="_blank">https://eventtoday.biz/pa-na-2026</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/bankrotorg2/10932</guid>
-      <pubDate>Mon, 19 Oct 2026 05:50:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Альтернатива банкротству</title>
-      <link>https://telegram.me/bankrotorg2/10930</link>
-      <description>Альтернатива банкротству</description>
-      <content:encoded><![CDATA[Альтернатива банкротству]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/bankrotorg2/10930</guid>
-      <pubDate>Sun, 18 Oct 2026 19:07:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>🎥 Видео — Банкротство. the other side</title>
-      <link>https://telegram.me/bankrotorg2/10931</link>
-      <description>🎥 Видео — Банкротство. the other side</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/XbesXCeWh65JbEn7mNTd0eY4I_OykW_-z3Q84Xvynxn4EQMHEGdXFkhO-O8Dcg3z1dCqcmTh94bm9o99CyHilne2qyefglQR0cghUhwRnr0svA-70GSDHzmcoQIkClMcqFY7PWx53yImIEEM0yZ2sMgaXZHY6hTnj1hBVL1WIauYoDfHBWCnPJC4zG5VPV603egZG5Pk52FE9872sP3qM7owF_bt8mSe6Tq9pYB3nHSj2LNrKHOasDgIHcO7vm3KlbLCX8BKcZcCNWHZ4xHNwrwkPqK6q95SiQnQZR2Ucx2KLSELcUXv9k7EQYJsp_yGy0DCc5yCucbbro503iJSrw" /></p>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/bankrotorg2/10931</guid>
-      <pubDate>Sun, 18 Oct 2026 19:07:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Пост — Банкротство. the other side</title>
-      <link>https://telegram.me/bankrotorg2/10926</link>
-      <description>Пост — Банкротство. the other side</description>
-      <content:encoded><![CDATA[(нет текста)]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/bankrotorg2/10926</guid>
-      <pubDate>Sun, 18 Oct 2026 13:21:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Информация с конференции о банкротстве газеты "Ведомости".</title>
-      <link>https://telegram.me/bankrotorg2/10924</link>
-      <description>Информация с конференции о банкротстве газеты "Ведомости".
-
-Спасибо Вадиму за информацию!</description>
-      <content:encoded><![CDATA[Информация с конференции о банкротстве газеты "Ведомости".<br/>Спасибо Вадиму за информацию!]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/bankrotorg2/10924</guid>
-      <pubDate>Sun, 18 Oct 2026 13:21:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>ПСБ рассказал, как работает 46-П для продажи имущества на торгах с уголовным арестом (пока никак…</title>
-      <link>https://telegram.me/bankrotorg2/10925</link>
-      <description>ПСБ рассказал, как работает 46-П для продажи имущества на торгах с уголовным арестом (пока никак не работает). Но собранная им практика обращает на себя внимание следующим: 1. В арбитражном суде просили сеять арест, а получили насильное включение в РТК требований потерпевшего. 2. С суде общей юрисдикции есть 
-первый положительный опыт
- снятия ареста.</description>
-      <content:encoded><![CDATA[ПСБ рассказал, как работает 46-П для продажи имущества на торгах с уголовным арестом (пока никак не работает). Но собранная им практика обращает на себя внимание следующим: 1. В арбитражном суде просили сеять арест, а получили насильное включение в РТК требований потерпевшего. 2. С суде общей юрисдикции есть <b>первый положительный опыт</b> снятия ареста.]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/bankrotorg2/10925</guid>
-      <pubDate>Sun, 18 Oct 2026 13:21:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>17 октября 2019 года был выложен первый пост. До этого был канал «Банкротство . Иная сторона».  Т…</title>
-      <link>https://telegram.me/bankrotorg2/10923</link>
-      <description>17 октября 2019 года был выложен первый пост. До этого был канал «Банкротство . Иная сторона».  Так что нам 7+ лет.</description>
-      <content:encoded><![CDATA[17 октября 2019 года был выложен первый пост. До этого был канал «Банкротство . Иная сторона».  Так что нам 7+ лет.]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/bankrotorg2/10923</guid>
-      <pubDate>Sun, 18 Oct 2026 11:51:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Этот пост выложен вернувшимся админом - получившем запрет на юрбизнес .  Так и живем.</title>
-      <link>https://telegram.me/bankrotorg2/10922</link>
-      <description>Этот пост выложен вернувшимся админом - получившем запрет на юрбизнес .  Так и живем.</description>
-      <content:encoded><![CDATA[Этот пост выложен вернувшимся админом - получившем запрет на юрбизнес .  Так и живем.]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/bankrotorg2/10922</guid>
-      <pubDate>Sun, 18 Oct 2026 11:48:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Получение технических условий на подключение к инженерным сетям водоснабжение и канализования.</title>
-      <link>https://telegram.me/bankrotorg2/10921</link>
-      <description>Получение технических условий на подключение к инженерным сетям водоснабжение и канализования. 
-
-Проектирование и строительство
-
-До получения акта технической приёмки
-
-Административные и жилые здания
-
-Проектирование и согласование проекта в эксплуатационных организациях г. Москвы (АО Мосводоканал , ГУП Мосводосток )
-
-Полный комплекс по подключению зданий и сооружений в г. Москва к инженерным сетям водоснабжения ,канализования и ливнёвой канализации )
-
-До получения акта технической приёмки и ввода в эксплуатацию!
-
-Только Москва
-
-1 этап : проект
-
-2 этап : согласование проекта ( во всех инстанциях !)
-
-3 этап : стройка
-
-4 этап : Сдача построенных сетей эксплуатирующим организациям и сбор исполнительной документации !
-
-5) получения акт технической приёмки</description>
-      <content:encoded><![CDATA[Получение технических условий на подключение к инженерным сетям водоснабжение и канализования. <br/><br/>Проектирование и строительство<br/><br/>До получения акта технической приёмки<br/><br/>Административные и жилые здания<br/><br/>Проектирование и согласование проекта в эксплуатационных организациях г. Москвы (АО Мосводоканал , ГУП Мосводосток )<br/><br/>Полный комплекс по подключению зданий и сооружений в г. Москва к инженерным сетям водоснабжения ,канализования и ливнёвой канализации )<br/><br/>До получения акта технической приёмки и ввода в эксплуатацию!<br/><br/>Только Москва<br/><br/>1 этап : проект<br/>2 этап : согласование проекта ( во всех инстанциях !)<br/>3 этап : стройка<br/>4 этап : Сдача построенных сетей эксплуатирующим организациям и сбор исполнительной документации !<br/>5) получения акт технической приёмки]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/bankrotorg2/10921</guid>
-      <pubDate>Sun, 18 Oct 2026 11:45:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
