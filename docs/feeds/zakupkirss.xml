@@ -8,7 +8,51 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 22 Oct 2026 10:22:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 10:18:52 +0000</lastBuildDate>
+    <item>
+      <title>Пост — Госзакупки RSS</title>
+      <link>https://telegram.me/zakupkirss/13680</link>
+      <description>Пост — Госзакупки RSS</description>
+      <content:encoded><![CDATA[(нет текста)]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/zakupkirss/13680</guid>
+      <pubDate>Fri, 23 Oct 2026 07:02:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Опубликовано постановление Правительства Российской Федерации от 21.10.2026 № 1385</title>
+      <link>https://telegram.me/zakupkirss/13679</link>
+      <description>Опубликовано постановление Правительства Российской Федерации от 21.10.2026 № 1385
+
+http://zakupki.gov.ru/epz/main/public/news/news_preview.html?newsId=37015
+
+Внесены изменения в акты, регулирующие организацию и проведение, а также экспертное сопровождение госэкспертизы проектной документации и инженерных изысканий</description>
+      <content:encoded><![CDATA[<b>Опубликовано постановление Правительства Российской Федерации от 21.10.2026 № 1385</b><br/><a href="http://zakupki.gov.ru/epz/main/public/news/news_preview.html?newsId=37015" rel="noopener" target="_blank">http://zakupki.gov.ru/epz/main/public/news/news_preview.html?newsId=37015</a><br/><br/>Внесены изменения в акты, регулирующие организацию и проведение, а также экспертное сопровождение госэкспертизы проектной документации и инженерных изысканий]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/zakupkirss/13679</guid>
+      <pubDate>Thu, 22 Oct 2026 19:47:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Информация об обновлении версии программного обеспечения</title>
+      <link>https://telegram.me/zakupkirss/13678</link>
+      <description>Информация об обновлении версии программного обеспечения
+
+http://zakupki.gov.ru/epz/main/public/news/news_preview.html?newsId=37014
+
+21 октября 2026 года обновлено программное обеспечение ЕИС в части 44-ФЗ.</description>
+      <content:encoded><![CDATA[<b>Информация об обновлении версии программного обеспечения</b><br/><a href="http://zakupki.gov.ru/epz/main/public/news/news_preview.html?newsId=37014" rel="noopener" target="_blank">http://zakupki.gov.ru/epz/main/public/news/news_preview.html?newsId=37014</a><br/><br/>21 октября 2026 года обновлено программное обеспечение ЕИС в части 44-ФЗ.]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/zakupkirss/13678</guid>
+      <pubDate>Thu, 22 Oct 2026 18:11:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Национальный режим в закупках медицинских изделий: как применять Постановление № 1875</title>
+      <link>https://telegram.me/zakupkirss/13677</link>
+      <description>Национальный режим в закупках медицинских изделий: как применять Постановление № 1875
+
+Закон.ру 
+
+Рассматриваются общие правила применения национального режима при закупках медицинских изделий в соответствии с Постановлением Правительства РФ от 23.12.2024 № 1875. Анализируются предпосылки принятия Постановления, его структура, разграничение позиций приложений № 1 и № 2, условия применения запретов, ограничений и преимуществ. Исследуются особенности применения в рамках 44-ФЗ и 223-ФЗ, а также ключевые расхождения между позициями ФАС России и судебных органов.</description>
+      <content:encoded><![CDATA[<a href="https://zakon.ru/blog/2026/10/22/nacionalnyj_rezhim_v_zakupkah_medicinskih_izdelij_kak_primenyat_postanovlenie_%E2%84%96_1875" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Национальный режим в закупках медицинских изделий: как применять Постановление № 1875</a><br/><b>Закон.ру </b><br/><br/>Рассматриваются общие правила применения национального режима при закупках медицинских изделий в соответствии с Постановлением Правительства РФ от 23.12.2024 № 1875. Анализируются предпосылки принятия Постановления, его структура, разграничение позиций приложений № 1 и № 2, условия применения запретов, ограничений и преимуществ. Исследуются особенности применения в рамках 44-ФЗ и 223-ФЗ, а также ключевые расхождения между позициями ФАС России и судебных органов.]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/zakupkirss/13677</guid>
+      <pubDate>Thu, 22 Oct 2026 12:45:06 +0000</pubDate>
+    </item>
     <item>
       <title>Минстрой России: при изменении ставки НДС повторная экспертиза не требуется</title>
       <link>https://telegram.me/zakupkirss/13676</link>
@@ -34,7 +78,7 @@
 .
 
 #Разъяснения</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/g9hRhlIrYJFvTw3xY5Z2LFkBkQSd-bov6WP-BJqkC30vTXmKR8QEl6nQXlJ-XiqPP1BoHepqB4671-nkIP1XkIMIG17J0Sih419Jfc3Tea3aaOR5bNATxkyE0UONUIqtj_xQDcnVUMbeol5lOj2tgzt-k2InvcULf4uEkktaic27teUeqIHgK7Gct55UKIDWwu7Na0KnaIq-Pwld5bZQv4CArjTkTN-ic24424LjQ0ZB8BHtdjMRbH1TKWcEa3VlH0H7isgHcEjK_B_xEmqzdcG1Nso8k9yW52zTCwAbg4lAjaHPNaxoFQkq0x88l3wxHe2drYLWoqbWFrGEvsMQVw.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/QTTe7cW-a-RkPN-re8fbBUy3Wi-J5oG6gBGMcB374cHwlLjYyn3Xp1c52xGrAJKEcW6BVKnYyldgeWFyMH_-4JSnrt5EnctPtOO-AsJqAbJTnR-nexT9JIqHwS3u1rbRQ1537Wupt6nROFprWnqphTx1Fh1IvCacVyTYzexTaluyQ7pOqtdUpYekh6QRtjmYdKMAucz3TZ0jjVoSSUg_6EqYuLjcyWSH87QRRa0JByGMxwIMjd0wvIN1mNQof8pMonm_bSQEke0VckSwJtGYBWcXHJeTm8HRmom2cLgz9e_iCIG60EvJ58FbeuSmed2XtnAk9VyYX0Mb79re8DVTkw.jpg" /></p>
 <b>Минстрой России: при изменении ставки НДС повторная экспертиза не требуется</b><br/><br/><tg-emoji emoji-id="5449408995691341691"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F87B7F09F87BA.png')"><b>🇷🇺</b></i></tg-emoji> <i>Ведомство в </i><a href="https://im.gov74.ru/im/view/npa.htm?id=11803372@normAct" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b><i>письме</i></b></a><i> от 10.08.2026 №18612-ОГ/09 по вопросу внесения изменений в проектную документацию сообщает</i> <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E2A4B5.png')"><b>⤵️</b></i><br/><br/>Пунктом 45(13) Положения об организации и проведении государственной экспертизы проектной документации и результатов инженерных изысканий, утвержденного постановлением Правительства РФ от 05.03.2007 №145 установлены случаи, при которых до даты заключения государственного (муниципального) контракта (договора) по решению застройщика или технического заказчика проектная документация может быть изменена без ее направления на повторную государственную экспертизу в части проверки сметной стоимости (подпункты «а» и «в»пункта 45(13) Положения №145).<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E2989D.png')"><b>☝️</b></i> При этом изменение ставки НДС не относится к изменениям, предусмотренным в том числе подпунктами «а» и «в» пункта 45(13) Положения №145, в связи с чем <u><b>после получения положительного заключения государственной экспертизы в части проверки сметной стоимости при изменении в сметной документации ставки НДС направление такой документации на повторную государственную экспертизу не предусмотрено.</b><br/></u><br/><tg-emoji emoji-id="5449407131675558756"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93B2.png')"><b>📲</b></i></tg-emoji><b> Подписывайтесь на канал Министерства имущества Челябинской области в </b><a href="https://max.ru/id7453135626_gos" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b>МАКС</b></a>.<br/><a href="?q=%23%D0%A0%D0%B0%D0%B7%D1%8A%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F">#Разъяснения</a>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/zakupkirss/13676</guid>
       <pubDate>Thu, 22 Oct 2026 06:52:21 +0000</pubDate>
@@ -111,126 +155,10 @@ https://zakon.guru/seminar/forum-goszakupki-360-msk
 Для подписчиков канала особые условия участия по промокоду "
 ZAKUPKITG
 ".</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/cg6jnpEQ5WazBjSzNfmkkEW7_0AWOi7_ryC5M_9xAjDMUCMBNjCdC1WFeU6Xyrd_T31P5sIU9q_h7Hu0FoHcnFiMG8iLPbgDgXCyvKxiE6mRO956jKpImUNc9ZZunA4g9kbomazQWBiZeaDbjWi2XUGhVKQbnklnT7tLdc4C_eCbXNy50HBWkDTCQqZAez8moyZMniOK27w8DwMg_fnTRp4PJMCVsR6QMeZi7kC0ncOlwOHj9yADS9Hw1R1DW0YRNf5wYi5qI9pZ11jlTsylvA33e_-T8THnBIqF8cB8iwWwjiESZ_5d84dAXGntta4JJpRT940MpOVgR6jITev15g.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/N_Ai-dOzj_qc4W08P7RRDcOXaM_N-nD6P0I5V9Zr0cN-fd-8Y_uH7J7t4WPFacFLmCkf5F9OoR9b4tGKCLmjGmz01UnGm3cfChln2MVziy7z3KLhu-w0AFkTPwwo3CE8dt4BaZhkoyyZWWSWRAcKhUIT47r1ijsyavrUNbzQtRVmxzXyQCnScXEc_-o-UljWQfecgzQ77j3FmAp-G35ni6A1zo_Wh9IABwuPecsUiGQl0MmePlkqgLxb3Ua5xx-tMgIxQgKK7g9EMXpt5tVu5ltbFB5hA0WK42Pvs2R1S22s3Fw0hIds77C79V0TdAyz_viDZlV8OKYgYu5Tc2szCQ.jpg" /></p>
 <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29AA1.png')"><b>⚡️</b></i>Наш канал <b>"Закупки и тендеры по 44-ФЗ, 223-ФЗ"</b> выступает информационным партнером <b>Форума "ГОСЗАКУПКИ 360"</b>. <br/><br/><b>Место проведения:</b> г. Москва, ул. Мастеркова, д. 4 (Станция метро Автозаводская)<br/><br/><b>Дата и время:</b> 24 ноября 2026, начало в 10:00<br/><br/><b>Программа и условия участия на сайте:</b> <a href="https://zakon.guru/seminar/forum-goszakupki-360-msk" rel="noopener" target="_blank">https://zakon.guru/seminar/forum-goszakupki-360-msk</a><br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29D97.png')"><b>❗️</b></i>Для подписчиков канала особые условия участия по промокоду "<b>ZAKUPKITG</b>".]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/zakupkirss/13671</guid>
       <pubDate>Tue, 20 Oct 2026 15:10:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Возможность корректировки стройконтрактов из-за повышения ставки НДС продлили</title>
-      <link>https://telegram.me/zakupkirss/13670</link>
-      <description>Возможность корректировки стройконтрактов из-за повышения ставки НДС продлили
-
-https://www.garant.ru/news/2276823/
-
-Дата окончания применения такой меры перенесена с 1 октября 2026-го на 1 октября 2027 года.</description>
-      <content:encoded><![CDATA[<b>Возможность корректировки стройконтрактов из-за повышения ставки НДС продлили</b><br/><a href="https://www.garant.ru/news/2276823/" rel="noopener" target="_blank">https://www.garant.ru/news/2276823/</a><br/><br/>Дата окончания применения такой меры перенесена с 1 октября 2026-го на 1 октября 2027 года.]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/zakupkirss/13670</guid>
-      <pubDate>Tue, 20 Oct 2026 08:49:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>🌐</title>
-      <link>https://telegram.me/zakupkirss/13669</link>
-      <description>🌐
- 
-ПРОГОСЗАКАЗ.РФ
-
-Вопрос от пользователя системы 
-ПРОГОСЗАКАЗ.РФ
-
-🗓
- 
-Ошибка в УПД в последний день поставки. Штрафовать или нет?
-
-Представим классическую ситуацию: Поставщик отгрузил товар и выставил УПД ровно в срок (в последний день поставки по условиям контракта). Но случайно допустил техническую ошибку в теле документа — неверно указал количество товара.
-
-Возникает три главных вопроса:
-
-1️⃣
- Что делать заказчику? Делать мотивированный отказ от приемки или отправить уведомление об уточнении?
-
-2️⃣
- Будет ли штраф, если поставщик исправит ошибку и загрузит верный УПД уже на следующий день (с нарушением срока)?
-
-3️⃣
- Зависят ли сроки приемки от того, какой документ отправил заказчик (отказ или уточнение)?
-
-Разбираемся вместе
-👇
-
-❌
- 
-Отказ или Уточнение?
-
-Товар поставлен вовремя и соответствует контракту, ошибка только в «бумажке». В таком случае мотивированный отказ от приемки не нужен. Правильнее всего сформировать в ЕИС уведомление об уточнении, чтобы Поставщик мог исправить техническую ошибку.
-
-💰
- 
-Будет ли штраф за просрочку исправленного УПД?
-
-ДА, будет. По условиям контракта поставщик обязан направить корректный документ о приемке в установленный срок. Если исправленный УПД загружен с опозданием (например, 01.10 вместо 30.09) — это нарушение обязательств, не имеющих стоимостного выражения.
-
-Заказчик обязан начислить штраф по Постановлению Правительства РФ №1042 (от 1 000 до 5 000 рублей в зависимости от НМЦК). Судебная практика здесь полностью на стороне заказчиков.
-
-⏳
- 
-Влияет ли «уточнение» на сроки по 44-ФЗ?
-
-Нет. В законе №44-ФЗ (ч. 13 ст. 94) установлен срок для подписания документа о приемке (не более 20 рабочих дней). Однако в законе нет понятия «уточненный» документ и нет оснований для продления сроков приемки из-за того, что заказчик попросил исправить опечатку. Ответственность за своевременное предоставление корректного документа лежит на Поставщике.
-
-💡
-Опечатка в УПД — это не повод для мотивированного отказа, отправляем «уточнение». Но если поставщик затянул с исправлением и нарушил срок направления документа — штраф за нестоимостное нарушение неизбежен.
-
-➡️
- 
-Читать ответ эксперта</description>
-      <content:encoded><![CDATA[<tg-emoji emoji-id="5359619818150436536"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8C90.png')"><b>🌐</b></i></tg-emoji> <a href="https://vk.com/wall-144946649_5974" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">ПРОГОСЗАКАЗ.РФ</a><br/><br/><i>Вопрос от пользователя системы </i><a href="http://%D0%9F%D0%A0%D0%9E%D0%93%D0%9E%D0%A1%D0%97%D0%90%D0%9A%D0%90%D0%97.%D0%A0%D0%A4/" rel="noopener" target="_blank"><i>ПРОГОСЗАКАЗ.РФ</i></a><br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9793.png')"><b>🗓</b></i> <b>Ошибка в УПД в последний день поставки. Штрафовать или нет?</b><br/><br/>Представим классическую ситуацию: Поставщик отгрузил товар и выставил УПД ровно в срок (в последний день поставки по условиям контракта). Но случайно допустил техническую ошибку в теле документа — неверно указал количество товара.<br/><br/><u>Возникает три главных вопроса:</u><br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/31E283A3.png')"><b>1️⃣</b></i> Что делать заказчику? Делать мотивированный отказ от приемки или отправить уведомление об уточнении?<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/32E283A3.png')"><b>2️⃣</b></i> Будет ли штраф, если поставщик исправит ошибку и загрузит верный УПД уже на следующий день (с нарушением срока)?<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/33E283A3.png')"><b>3️⃣</b></i> Зависят ли сроки приемки от того, какой документ отправил заказчик (отказ или уточнение)?<br/><br/><u>Разбираемся вместе</u><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9187.png')"><b>👇</b></i><br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29D8C.png')"><b>❌</b></i> <b>Отказ или Уточнение?</b><br/><br/>Товар поставлен вовремя и соответствует контракту, ошибка только в «бумажке». В таком случае мотивированный отказ от приемки не нужен. Правильнее всего сформировать в ЕИС уведомление об уточнении, чтобы Поставщик мог исправить техническую ошибку.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92B0.png')"><b>💰</b></i> <b>Будет ли штраф за просрочку исправленного УПД?</b><br/><br/>ДА, будет. По условиям контракта поставщик обязан направить корректный документ о приемке в установленный срок. Если исправленный УПД загружен с опозданием (например, 01.10 вместо 30.09) — это нарушение обязательств, не имеющих стоимостного выражения.<br/><br/>Заказчик обязан начислить штраф по Постановлению Правительства РФ №1042 (от 1 000 до 5 000 рублей в зависимости от НМЦК). Судебная практика здесь полностью на стороне заказчиков.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E28FB3.png')"><b>⏳</b></i> <b>Влияет ли «уточнение» на сроки по 44-ФЗ?</b><br/><br/>Нет. В законе №44-ФЗ (ч. 13 ст. 94) установлен срок для подписания документа о приемке (не более 20 рабочих дней). Однако в законе нет понятия «уточненный» документ и нет оснований для продления сроков приемки из-за того, что заказчик попросил исправить опечатку. Ответственность за своевременное предоставление корректного документа лежит на Поставщике.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')"><b>💡</b></i>Опечатка в УПД — это не повод для мотивированного отказа, отправляем «уточнение». Но если поставщик затянул с исправлением и нарушил срок направления документа — штраф за нестоимостное нарушение неизбежен.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29EA1.png')"><b>➡️</b></i> <a href="https://xn--80aahqcqybgko.xn--p1ai/faq/view/46787?clckid=448bcc91" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Читать ответ эксперта</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/zakupkirss/13669</guid>
-      <pubDate>Tue, 20 Oct 2026 08:32:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Информация об обновлении версии программного обеспечения</title>
-      <link>https://telegram.me/zakupkirss/13668</link>
-      <description>Информация об обновлении версии программного обеспечения
-
-http://zakupki.gov.ru/epz/main/public/news/news_preview.html?newsId=37011
-
-15 октября 2026 года обновлено программное обеспечение ЕИС в части 44-ФЗ.</description>
-      <content:encoded><![CDATA[<b>Информация об обновлении версии программного обеспечения</b><br/><a href="http://zakupki.gov.ru/epz/main/public/news/news_preview.html?newsId=37011" rel="noopener" target="_blank">http://zakupki.gov.ru/epz/main/public/news/news_preview.html?newsId=37011</a><br/><br/>15 октября 2026 года обновлено программное обеспечение ЕИС в части 44-ФЗ.]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/zakupkirss/13668</guid>
-      <pubDate>Mon, 19 Oct 2026 14:46:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>ВС высказался об обратной силе поправок к УК</title>
-      <link>https://telegram.me/zakupkirss/13667</link>
-      <description>ВС высказался об обратной силе поправок к УК
-
-https://pravo.ru/news/266347/
-
-Верховный суд указал, что инкриминируемые деяния руководитель компании с госучастием совершил до вступления в силу поправок в УК, относящих его к должностным лицам. Этот вывод вошел в третий обзор практики за 2026 год.
-
-Генерального директора коммерческой фирмы признали виновным в должностных преступлениях, совершенных с 2016 по 2020 год, — превышении должностных полномочий и получении взятки (статьи 
-286
- и 
-290 УК
-). Суды исходили из того, что организация — дочерняя структура публичного акционерного общества с государственным участием, а осужденный выполнял там организационно-распорядительные и административно-хозяйственные функции, соответственно, был субъектом должностных преступлений, изложенных в главе 30 УК.
-
-Верховный суд с такой квалификацией не согласился. Суд указал на принципиальную ошибку нижестоящих судов, которые не приняли во внимание организационно-правовую форму предприятия и дату совершения деяний. Так, в редакции примечаний к 
-ст. 285 УК
-, действовавшей в инкриминируемый период (до марта 2021 года), исчерпывающий перечень субъектов включал представителей власти, работников госорганов, учреждений, МУПов, ГУПов, госкорпораций, а также акционерных обществ с контрольным пакетом акций в собственности государства или муниципалитетов. ООО в этот перечень не входили вне зависимости собственника долей в их уставном капитале.
-
-Относить руководителей подобных ООО к должностным лицам стало возможным исключительно после вступления в силу новой редакции УК в марте 2021-го. Поскольку этот закон существенно расширил круг лиц, подлежащих ответственности по главе 30 УК, он ухудшил положение фигурантов и в силу 
-ст. 10 УК
- не имеет обратной силы. То, что суды применили новую редакцию примечания к событиям, произошедшим до марта 2021 года, ВС признал существенным нарушением уголовного закона (дело 
-№ 9-УД24-20-К1
-).
-
-📄
- 
-Обзор судебной практики Верховного суда № 3 (2026)</description>
-      <content:encoded><![CDATA[<b>ВС высказался об обратной силе поправок к УК</b><br/><a href="https://pravo.ru/news/266347/" rel="noopener" target="_blank">https://pravo.ru/news/266347/</a><br/><br/><i>Верховный суд указал, что инкриминируемые деяния руководитель компании с госучастием совершил до вступления в силу поправок в УК, относящих его к должностным лицам. Этот вывод вошел в третий обзор практики за 2026 год.</i><br/><br/>Генерального директора коммерческой фирмы признали виновным в должностных преступлениях, совершенных с 2016 по 2020 год, — превышении должностных полномочий и получении взятки (статьи <a href="https://www.consultant.ru/document/cons_doc_LAW_10699/c1d97e48b63eff3e92926a82783f3a80148b18fc/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">286</a> и <a href="https://www.consultant.ru/document/cons_doc_LAW_10699/6411e005f539b666d6f360f202cb7b1c23fe27c3/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">290 УК</a>). Суды исходили из того, что организация — дочерняя структура публичного акционерного общества с государственным участием, а осужденный выполнял там организационно-распорядительные и административно-хозяйственные функции, соответственно, был субъектом должностных преступлений, изложенных в главе 30 УК.<br/><br/>Верховный суд с такой квалификацией не согласился. Суд указал на принципиальную ошибку нижестоящих судов, которые не приняли во внимание организационно-правовую форму предприятия и дату совершения деяний. Так, в редакции примечаний к <a href="https://www.consultant.ru/document/cons_doc_LAW_10699/2da8d7a9884839c44d98466e0b1a63101b298844/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">ст. 285 УК</a>, действовавшей в инкриминируемый период (до марта 2021 года), исчерпывающий перечень субъектов включал представителей власти, работников госорганов, учреждений, МУПов, ГУПов, госкорпораций, а также акционерных обществ с контрольным пакетом акций в собственности государства или муниципалитетов. ООО в этот перечень не входили вне зависимости собственника долей в их уставном капитале.<br/><br/>Относить руководителей подобных ООО к должностным лицам стало возможным исключительно после вступления в силу новой редакции УК в марте 2021-го. Поскольку этот закон существенно расширил круг лиц, подлежащих ответственности по главе 30 УК, он ухудшил положение фигурантов и в силу <a href="https://www.consultant.ru/document/cons_doc_LAW_10699/deb6a4399a2515bf42c937987286e526c1c4a4ec/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">ст. 10 УК</a> не имеет обратной силы. То, что суды применили новую редакцию примечания к событиям, произошедшим до марта 2021 года, ВС признал существенным нарушением уголовного закона (дело <a href="https://www.vsrf.ru/lk/practice/claims/17-35730960" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">№ 9-УД24-20-К1</a>).<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9384.png')"><b>📄</b></i> <a href="https://www.vsrf.ru/upload/iblock/e2f/kce3szabx3frxun8zj3pfihem42swh2v.pdf" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b>Обзор судебной практики Верховного суда № 3 (2026)</b></a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/zakupkirss/13667</guid>
-      <pubDate>Mon, 19 Oct 2026 12:15:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
