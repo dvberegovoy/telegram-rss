@@ -8,30 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 23 Oct 2026 10:19:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 11:21:21 +0000</lastBuildDate>
     <item>
-      <title>Кабмин установил особенности закупок по 44-ФЗ в сфере атомных технологий</title>
-      <link>https://telegram.me/garant_goszakupki/1100</link>
-      <description>Кабмин установил особенности закупок по 44-ФЗ в сфере атомных технологий
+      <title>Минсельхоз России разъяснил особенности нацрежима при закупках рыбной продукции</title>
+      <link>https://telegram.me/garant_goszakupki/1101</link>
+      <description>Минсельхоз России разъяснил особенности нацрежима при закупках рыбной продукции
 
-https://www.garant.ru/news/2279272/
+https://www.garant.ru/news/2280170/
 
-Постановление вступит в силу 24 октября.</description>
-      <content:encoded><![CDATA[Кабмин установил особенности закупок по 44-ФЗ в сфере атомных технологий<br/><a href="https://www.garant.ru/news/2279272/" rel="noopener" target="_blank">https://www.garant.ru/news/2279272/</a><br/><br/>Постановление вступит в силу 24 октября.]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/garant_goszakupki/1100</guid>
-      <pubDate>Thu, 22 Oct 2026 12:00:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Правила предоставления национального режима при осуществлении закупок уточнили</title>
-      <link>https://telegram.me/garant_goszakupki/1099</link>
-      <description>Правила предоставления национального режима при осуществлении закупок уточнили
-
-https://www.garant.ru/news/2277529/
-
-Изменения вступят в силу 1 января 2027 года.</description>
-      <content:encoded><![CDATA[Правила предоставления национального режима при осуществлении закупок уточнили<br/><a href="https://www.garant.ru/news/2277529/" rel="noopener" target="_blank">https://www.garant.ru/news/2277529/</a><br/><br/>Изменения вступят в силу 1 января 2027 года.]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/garant_goszakupki/1099</guid>
-      <pubDate>Wed, 21 Oct 2026 13:58:37 +0000</pubDate>
+Опубликованы переходные ключи между ТН ВЭД ЕАЭС и ОКПД 2, которые помогают переводить товарные позиции из одной системы кодировки в другую.</description>
+      <content:encoded><![CDATA[Минсельхоз России разъяснил особенности нацрежима при закупках рыбной продукции<br/><a href="https://www.garant.ru/news/2280170/" rel="noopener" target="_blank">https://www.garant.ru/news/2280170/</a><br/><br/>Опубликованы переходные ключи между ТН ВЭД ЕАЭС и ОКПД 2, которые помогают переводить товарные позиции из одной системы кодировки в другую.]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/garant_goszakupki/1101</guid>
+      <pubDate>Fri, 23 Oct 2026 12:01:58 +0000</pubDate>
     </item>
   </channel>
 </rss>

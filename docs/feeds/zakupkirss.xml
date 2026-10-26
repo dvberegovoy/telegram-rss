@@ -8,157 +8,93 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 23 Oct 2026 10:18:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 11:20:46 +0000</lastBuildDate>
     <item>
-      <title>Пост — Госзакупки RSS</title>
-      <link>https://telegram.me/zakupkirss/13680</link>
-      <description>Пост — Госзакупки RSS</description>
-      <content:encoded><![CDATA[(нет текста)]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/zakupkirss/13680</guid>
-      <pubDate>Fri, 23 Oct 2026 07:02:30 +0000</pubDate>
+      <title>НОВЫЕ ФУНКЦИОНАЛЬНЫЕ ВОЗМОЖНОСТИ ЕИС</title>
+      <link>https://telegram.me/zakupkirss/13689</link>
+      <description>НОВЫЕ ФУНКЦИОНАЛЬНЫЕ ВОЗМОЖНОСТИ ЕИС
+
+http://zakupki.gov.ru/epz/main/public/news/news_preview.html?newsId=37017
+
+Информация о доработках ЕИС в части скачивания электронных документов в формате PDF</description>
+      <content:encoded><![CDATA[<b>НОВЫЕ ФУНКЦИОНАЛЬНЫЕ ВОЗМОЖНОСТИ ЕИС</b><br/><a href="http://zakupki.gov.ru/epz/main/public/news/news_preview.html?newsId=37017" rel="noopener" target="_blank">http://zakupki.gov.ru/epz/main/public/news/news_preview.html?newsId=37017</a><br/><br/>Информация о доработках ЕИС в части скачивания электронных документов в формате PDF]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/zakupkirss/13689</guid>
+      <pubDate>Sat, 24 Oct 2026 06:28:02 +0000</pubDate>
     </item>
     <item>
-      <title>Опубликовано постановление Правительства Российской Федерации от 21.10.2026 № 1385</title>
-      <link>https://telegram.me/zakupkirss/13679</link>
-      <description>Опубликовано постановление Правительства Российской Федерации от 21.10.2026 № 1385
+      <title>Информация о недоступности личных кабинетов пользователей во время проведения регламентных работ</title>
+      <link>https://telegram.me/zakupkirss/13687</link>
+      <description>Информация о недоступности личных кабинетов пользователей во время проведения регламентных работ
 
-http://zakupki.gov.ru/epz/main/public/news/news_preview.html?newsId=37015
+http://zakupki.gov.ru/epz/main/public/news/news_preview.html?newsId=37019
 
-Внесены изменения в акты, регулирующие организацию и проведение, а также экспертное сопровождение госэкспертизы проектной документации и инженерных изысканий</description>
-      <content:encoded><![CDATA[<b>Опубликовано постановление Правительства Российской Федерации от 21.10.2026 № 1385</b><br/><a href="http://zakupki.gov.ru/epz/main/public/news/news_preview.html?newsId=37015" rel="noopener" target="_blank">http://zakupki.gov.ru/epz/main/public/news/news_preview.html?newsId=37015</a><br/><br/>Внесены изменения в акты, регулирующие организацию и проведение, а также экспертное сопровождение госэкспертизы проектной документации и инженерных изысканий]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/zakupkirss/13679</guid>
-      <pubDate>Thu, 22 Oct 2026 19:47:52 +0000</pubDate>
+В период с 20:00 24.10.2026 до 01:00 25.10.2026 по московскому времени в ЕИС в сфере закупок будут проводиться регламентные работы</description>
+      <content:encoded><![CDATA[<b>Информация о недоступности личных кабинетов пользователей во время проведения регламентных работ</b><br/><a href="http://zakupki.gov.ru/epz/main/public/news/news_preview.html?newsId=37019" rel="noopener" target="_blank">http://zakupki.gov.ru/epz/main/public/news/news_preview.html?newsId=37019</a><br/><br/>В период с 20:00 24.10.2026 до 01:00 25.10.2026 по московскому времени в ЕИС в сфере закупок будут проводиться регламентные работы]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/zakupkirss/13687</guid>
+      <pubDate>Fri, 23 Oct 2026 18:54:02 +0000</pubDate>
     </item>
     <item>
-      <title>Информация об обновлении версии программного обеспечения</title>
-      <link>https://telegram.me/zakupkirss/13678</link>
-      <description>Информация об обновлении версии программного обеспечения
+      <title>Утверждены Правила маркировки средствами идентификации отдельных видов товаров для дома и интерьера</title>
+      <link>https://telegram.me/zakupkirss/13688</link>
+      <description>Утверждены Правила маркировки средствами идентификации отдельных видов товаров для дома и интерьера
 
-http://zakupki.gov.ru/epz/main/public/news/news_preview.html?newsId=37014
+http://zakupki.gov.ru/epz/main/public/news/news_preview.html?newsId=37020
 
-21 октября 2026 года обновлено программное обеспечение ЕИС в части 44-ФЗ.</description>
-      <content:encoded><![CDATA[<b>Информация об обновлении версии программного обеспечения</b><br/><a href="http://zakupki.gov.ru/epz/main/public/news/news_preview.html?newsId=37014" rel="noopener" target="_blank">http://zakupki.gov.ru/epz/main/public/news/news_preview.html?newsId=37014</a><br/><br/>21 октября 2026 года обновлено программное обеспечение ЕИС в части 44-ФЗ.]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/zakupkirss/13678</guid>
-      <pubDate>Thu, 22 Oct 2026 18:11:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Национальный режим в закупках медицинских изделий: как применять Постановление № 1875</title>
-      <link>https://telegram.me/zakupkirss/13677</link>
-      <description>Национальный режим в закупках медицинских изделий: как применять Постановление № 1875
-
-Закон.ру 
-
-Рассматриваются общие правила применения национального режима при закупках медицинских изделий в соответствии с Постановлением Правительства РФ от 23.12.2024 № 1875. Анализируются предпосылки принятия Постановления, его структура, разграничение позиций приложений № 1 и № 2, условия применения запретов, ограничений и преимуществ. Исследуются особенности применения в рамках 44-ФЗ и 223-ФЗ, а также ключевые расхождения между позициями ФАС России и судебных органов.</description>
-      <content:encoded><![CDATA[<a href="https://zakon.ru/blog/2026/10/22/nacionalnyj_rezhim_v_zakupkah_medicinskih_izdelij_kak_primenyat_postanovlenie_%E2%84%96_1875" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Национальный режим в закупках медицинских изделий: как применять Постановление № 1875</a><br/><b>Закон.ру </b><br/><br/>Рассматриваются общие правила применения национального режима при закупках медицинских изделий в соответствии с Постановлением Правительства РФ от 23.12.2024 № 1875. Анализируются предпосылки принятия Постановления, его структура, разграничение позиций приложений № 1 и № 2, условия применения запретов, ограничений и преимуществ. Исследуются особенности применения в рамках 44-ФЗ и 223-ФЗ, а также ключевые расхождения между позициями ФАС России и судебных органов.]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/zakupkirss/13677</guid>
-      <pubDate>Thu, 22 Oct 2026 12:45:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Минстрой России: при изменении ставки НДС повторная экспертиза не требуется</title>
-      <link>https://telegram.me/zakupkirss/13676</link>
-      <description>Минстрой России: при изменении ставки НДС повторная экспертиза не требуется
-
-🇷🇺
- 
-Ведомство в 
-письме
- от 10.08.2026 №18612-ОГ/09 по вопросу внесения изменений в проектную документацию сообщает
- 
-⤵️
-
-Пунктом 45(13) Положения об организации и проведении государственной экспертизы проектной документации и результатов инженерных изысканий, утвержденного постановлением Правительства РФ от 05.03.2007 №145 установлены случаи, при которых до даты заключения государственного (муниципального) контракта (договора) по решению застройщика или технического заказчика проектная документация может быть изменена без ее направления на повторную государственную экспертизу в части проверки сметной стоимости (подпункты «а» и «в»пункта 45(13) Положения №145).
-
-☝️
- При этом изменение ставки НДС не относится к изменениям, предусмотренным в том числе подпунктами «а» и «в» пункта 45(13) Положения №145, в связи с чем 
-после получения положительного заключения государственной экспертизы в части проверки сметной стоимости при изменении в сметной документации ставки НДС направление такой документации на повторную государственную экспертизу не предусмотрено.
-
-📲
- Подписывайтесь на канал Министерства имущества Челябинской области в 
-МАКС
-.
-
-#Разъяснения</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/QTTe7cW-a-RkPN-re8fbBUy3Wi-J5oG6gBGMcB374cHwlLjYyn3Xp1c52xGrAJKEcW6BVKnYyldgeWFyMH_-4JSnrt5EnctPtOO-AsJqAbJTnR-nexT9JIqHwS3u1rbRQ1537Wupt6nROFprWnqphTx1Fh1IvCacVyTYzexTaluyQ7pOqtdUpYekh6QRtjmYdKMAucz3TZ0jjVoSSUg_6EqYuLjcyWSH87QRRa0JByGMxwIMjd0wvIN1mNQof8pMonm_bSQEke0VckSwJtGYBWcXHJeTm8HRmom2cLgz9e_iCIG60EvJ58FbeuSmed2XtnAk9VyYX0Mb79re8DVTkw.jpg" /></p>
-<b>Минстрой России: при изменении ставки НДС повторная экспертиза не требуется</b><br/><br/><tg-emoji emoji-id="5449408995691341691"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F87B7F09F87BA.png')"><b>🇷🇺</b></i></tg-emoji> <i>Ведомство в </i><a href="https://im.gov74.ru/im/view/npa.htm?id=11803372@normAct" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b><i>письме</i></b></a><i> от 10.08.2026 №18612-ОГ/09 по вопросу внесения изменений в проектную документацию сообщает</i> <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E2A4B5.png')"><b>⤵️</b></i><br/><br/>Пунктом 45(13) Положения об организации и проведении государственной экспертизы проектной документации и результатов инженерных изысканий, утвержденного постановлением Правительства РФ от 05.03.2007 №145 установлены случаи, при которых до даты заключения государственного (муниципального) контракта (договора) по решению застройщика или технического заказчика проектная документация может быть изменена без ее направления на повторную государственную экспертизу в части проверки сметной стоимости (подпункты «а» и «в»пункта 45(13) Положения №145).<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E2989D.png')"><b>☝️</b></i> При этом изменение ставки НДС не относится к изменениям, предусмотренным в том числе подпунктами «а» и «в» пункта 45(13) Положения №145, в связи с чем <u><b>после получения положительного заключения государственной экспертизы в части проверки сметной стоимости при изменении в сметной документации ставки НДС направление такой документации на повторную государственную экспертизу не предусмотрено.</b><br/></u><br/><tg-emoji emoji-id="5449407131675558756"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93B2.png')"><b>📲</b></i></tg-emoji><b> Подписывайтесь на канал Министерства имущества Челябинской области в </b><a href="https://max.ru/id7453135626_gos" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b>МАКС</b></a>.<br/><a href="?q=%23%D0%A0%D0%B0%D0%B7%D1%8A%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F">#Разъяснения</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/zakupkirss/13676</guid>
-      <pubDate>Thu, 22 Oct 2026 06:52:21 +0000</pubDate>
+Опубликовано постановление Правительства Российской Федерации от 21.10.2026 № 1374</description>
+      <content:encoded><![CDATA[<b>Утверждены Правила маркировки средствами идентификации отдельных видов товаров для дома и интерьера</b><br/><a href="http://zakupki.gov.ru/epz/main/public/news/news_preview.html?newsId=37020" rel="noopener" target="_blank">http://zakupki.gov.ru/epz/main/public/news/news_preview.html?newsId=37020</a><br/><br/>Опубликовано постановление Правительства Российской Федерации от 21.10.2026 № 1374]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/zakupkirss/13688</guid>
+      <pubDate>Fri, 23 Oct 2026 18:54:02 +0000</pubDate>
     </item>
     <item>
       <title>Информация об обновлении версии программного обеспечения</title>
-      <link>https://telegram.me/zakupkirss/13675</link>
+      <link>https://telegram.me/zakupkirss/13686</link>
       <description>Информация об обновлении версии программного обеспечения
 
-http://zakupki.gov.ru/epz/main/public/news/news_preview.html?newsId=37013
+http://zakupki.gov.ru/epz/main/public/news/news_preview.html?newsId=37018
 
-20 октября 2026 года обновлено программное обеспечение ЕИС в части 44-ФЗ.</description>
-      <content:encoded><![CDATA[<b>Информация об обновлении версии программного обеспечения</b><br/><a href="http://zakupki.gov.ru/epz/main/public/news/news_preview.html?newsId=37013" rel="noopener" target="_blank">http://zakupki.gov.ru/epz/main/public/news/news_preview.html?newsId=37013</a><br/><br/>20 октября 2026 года обновлено программное обеспечение ЕИС в части 44-ФЗ.]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/zakupkirss/13675</guid>
-      <pubDate>Wed, 21 Oct 2026 15:36:17 +0000</pubDate>
+22 октября 2026 года обновлено программное обеспечение ЕИС в части 44-ФЗ.</description>
+      <content:encoded><![CDATA[<b>Информация об обновлении версии программного обеспечения</b><br/><a href="http://zakupki.gov.ru/epz/main/public/news/news_preview.html?newsId=37018" rel="noopener" target="_blank">http://zakupki.gov.ru/epz/main/public/news/news_preview.html?newsId=37018</a><br/><br/>22 октября 2026 года обновлено программное обеспечение ЕИС в части 44-ФЗ.]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/zakupkirss/13686</guid>
+      <pubDate>Fri, 23 Oct 2026 15:47:48 +0000</pubDate>
     </item>
     <item>
-      <title>ВС защитил исполнителя от произвольного отказа от контракта</title>
-      <link>https://telegram.me/zakupkirss/13674</link>
-      <description>ВС защитил исполнителя от произвольного отказа от контракта
+      <title>В рамках нацпроекта по обеспечению технологического лидерства Росатом будет определять порядок об…</title>
+      <link>https://telegram.me/zakupkirss/13685</link>
+      <description>В рамках нацпроекта по обеспечению технологического лидерства Росатом будет определять порядок обоснования НМЦК
 
-https://pravo.ru/news/266430/
+Соответствующие полномочия на госкорпорацию возложены Правительством РФ.
 
-Учреждение сначала приняло работы без замечаний, но затем потребовало изменить расчет оплаты и расторгло соглашение.</description>
-      <content:encoded><![CDATA[<b>ВС защитил исполнителя от произвольного отказа от контракта</b><br/><a href="https://pravo.ru/news/266430/" rel="noopener" target="_blank">https://pravo.ru/news/266430/</a><br/><br/>Учреждение сначала приняло работы без замечаний, но затем потребовало изменить расчет оплаты и расторгло соглашение.]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/zakupkirss/13674</guid>
-      <pubDate>Wed, 21 Oct 2026 11:14:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Правительство РФ скорректировало правила осуществления казначейского сопровождения</title>
-      <link>https://telegram.me/zakupkirss/13673</link>
-      <description>Правительство РФ скорректировало правила осуществления казначейского сопровождения
+В соответствии с ч. 22 ст. 22 Закона № 44-ФЗ Росатом будет определять порядок обоснования НМЦК, цены контракта с единственным исполнителем и начальной цены единицы работы при закупках научно-исследовательских, опытно-конструкторских и технологических работ.
 
-https://www.garant.ru/news/2276828/
+Речь идёт о закупках за счёт федеральных средств, предусмотренных в рамках нацпроекта по обеспечению технологического лидерства «Новые атомные и энергетические технологии».
 
-Изменения начнут действовать с 1 января 2027 года.</description>
-      <content:encoded><![CDATA[<b>Правительство РФ скорректировало правила осуществления казначейского сопровождения</b><br/><a href="https://www.garant.ru/news/2276828/" rel="noopener" target="_blank">https://www.garant.ru/news/2276828/</a><br/><br/>Изменения начнут действовать с 1 января 2027 года.]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/zakupkirss/13673</guid>
-      <pubDate>Wed, 21 Oct 2026 06:35:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Информация об обновлении версии программного обеспечения</title>
-      <link>https://telegram.me/zakupkirss/13672</link>
-      <description>Информация об обновлении версии программного обеспечения
+Постановление вступит в силу 24 октября 2026 года.
 
-http://zakupki.gov.ru/epz/main/public/news/news_preview.html?newsId=37012
-
-19 октября 2026 года обновлено программное обеспечение ЕИС в части 44-ФЗ.</description>
-      <content:encoded><![CDATA[<b>Информация об обновлении версии программного обеспечения</b><br/><a href="http://zakupki.gov.ru/epz/main/public/news/news_preview.html?newsId=37012" rel="noopener" target="_blank">http://zakupki.gov.ru/epz/main/public/news/news_preview.html?newsId=37012</a><br/><br/>19 октября 2026 года обновлено программное обеспечение ЕИС в части 44-ФЗ.]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/zakupkirss/13672</guid>
-      <pubDate>Tue, 20 Oct 2026 15:56:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️</title>
-      <link>https://telegram.me/zakupkirss/13671</link>
-      <description>⚡️
-Наш канал 
-"Закупки и тендеры по 44-ФЗ, 223-ФЗ"
- выступает информационным партнером 
-Форума "ГОСЗАКУПКИ 360"
-. 
-
-Место проведения:
- г. Москва, ул. Мастеркова, д. 4 (Станция метро Автозаводская)
-
-Дата и время:
- 24 ноября 2026, начало в 10:00
-
-Программа и условия участия на сайте:
+Документ:
  
-https://zakon.guru/seminar/forum-goszakupki-360-msk
+Постановление Правительства РФ от 15.10.2026 № 1351
 
-❗️
-Для подписчиков канала особые условия участия по промокоду "
-ZAKUPKITG
-".</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/N_Ai-dOzj_qc4W08P7RRDcOXaM_N-nD6P0I5V9Zr0cN-fd-8Y_uH7J7t4WPFacFLmCkf5F9OoR9b4tGKCLmjGmz01UnGm3cfChln2MVziy7z3KLhu-w0AFkTPwwo3CE8dt4BaZhkoyyZWWSWRAcKhUIT47r1ijsyavrUNbzQtRVmxzXyQCnScXEc_-o-UljWQfecgzQ77j3FmAp-G35ni6A1zo_Wh9IABwuPecsUiGQl0MmePlkqgLxb3Ua5xx-tMgIxQgKK7g9EMXpt5tVu5ltbFB5hA0WK42Pvs2R1S22s3Fw0hIds77C79V0TdAyz_viDZlV8OKYgYu5Tc2szCQ.jpg" /></p>
-<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29AA1.png')"><b>⚡️</b></i>Наш канал <b>"Закупки и тендеры по 44-ФЗ, 223-ФЗ"</b> выступает информационным партнером <b>Форума "ГОСЗАКУПКИ 360"</b>. <br/><br/><b>Место проведения:</b> г. Москва, ул. Мастеркова, д. 4 (Станция метро Автозаводская)<br/><br/><b>Дата и время:</b> 24 ноября 2026, начало в 10:00<br/><br/><b>Программа и условия участия на сайте:</b> <a href="https://zakon.guru/seminar/forum-goszakupki-360-msk" rel="noopener" target="_blank">https://zakon.guru/seminar/forum-goszakupki-360-msk</a><br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29D97.png')"><b>❗️</b></i>Для подписчиков канала особые условия участия по промокоду "<b>ZAKUPKITG</b>".]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/zakupkirss/13671</guid>
-      <pubDate>Tue, 20 Oct 2026 15:10:44 +0000</pubDate>
+Источник: 
+ЭТП «Фабрикант»</description>
+      <content:encoded><![CDATA[<b>В рамках нацпроекта по обеспечению технологического лидерства Росатом будет определять порядок обоснования НМЦК</b><br/><br/>Соответствующие полномочия на госкорпорацию возложены Правительством РФ.<br/><br/>В соответствии с ч. 22 ст. 22 Закона № 44-ФЗ Росатом будет определять порядок обоснования НМЦК, цены контракта с единственным исполнителем и начальной цены единицы работы при закупках научно-исследовательских, опытно-конструкторских и технологических работ.<br/><br/>Речь идёт о закупках за счёт федеральных средств, предусмотренных в рамках нацпроекта по обеспечению технологического лидерства «Новые атомные и энергетические технологии».<br/><br/>Постановление вступит в силу 24 октября 2026 года.<br/><br/><b>Документ:</b> <a href="http://publication.pravo.gov.ru/document/0001202610160044" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Постановление Правительства РФ от 15.10.2026 № 1351</a><br/><br/>Источник: <a href="https://www.fabrikant.ru/courses/legislation/v-ramkakh-natsproekta-po-obespecheniyu-tekhnologicheskogo-liderstva-rosatom-budet-oprede-20261023-02/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">ЭТП «Фабрикант»</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/zakupkirss/13685</guid>
+      <pubDate>Fri, 23 Oct 2026 13:04:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>🎵</title>
+      <link>https://telegram.me/zakupkirss/13684</link>
+      <description>🎵
+ 
+Аукционный Вестник | № 791 (10.852) пятница, 23 октября 2026 г.
+
+Скачать газету (PDF) &gt;&gt;&gt;
+
+1 стр. Статья 31 без мифов: какие требования проверять и чем подтверждать соответствие
+
+Михаил Кремнев эксперт по государственным и корпоративным закупкам, основатель ТендерОпоры</description>
+      <content:encoded><![CDATA[<tg-emoji emoji-id="5359304919738229681"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8EB5.png')"><b>🎵</b></i></tg-emoji> <a href="http://www.avestnik.ru/node/813" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Аукционный Вестник | № 791 (10.852) пятница, 23 октября 2026 г.</a><br/><br/><a href="https://www.avestnik.ru/pdf/2026/AV_791.pdf" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b>Скачать газету (PDF) &gt;&gt;&gt;</b></a><br/><br/><b>1 стр. Статья 31 без мифов: какие требования проверять и чем подтверждать соответствие</b><br/><br/><i>Михаил Кремнев эксперт по государственным и корпоративным закупкам, основатель ТендерОпоры</i>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/zakupkirss/13684</guid>
+      <pubDate>Fri, 23 Oct 2026 12:18:26 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,93 +8,35 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 23 Oct 2026 10:19:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 11:21:32 +0000</lastBuildDate>
     <item>
-      <title>🎙</title>
-      <link>https://telegram.me/torgi_online/1166</link>
-      <description>🎙
-Закупка охранных услуг с 1 сентября 2026 года
-: 
-часть 2
+      <title>Оба способа относятся к неконкурентным, но риски и скорость разные.</title>
+      <link>https://telegram.me/torgi_online/1167</link>
+      <description>Оба способа относятся к неконкурентным, но риски и скорость разные.
 
-Вчера на вебинаре, Михаил Калмацкий - руководитель отдела правового сопровождения ЭТП ТОРГИ-ОНЛАЙН, рассказал про 
-паспорт безопасности объекта
- и кто его должен утверждать. 
+🏬
+Электронный магазин обычно для закупок небольшой стоимости согласно вашему положению о закупке. Плюсы — относительная прозрачность, возможность получить несколько предложений, быстрее, чем полноценная конкурентная процедура, ниже риск претензий ФАС. Минусы — всё равно нужно соблюдать регламент площадки и положение.
 
-Также мы подробно разобрали 
-Постановления Правительства РФ,
- которые необходимо учитывать заказчикам при закупке охранных услуг.
-
-📎
- Как и обещали, все Постановления опубликовали в нашем VK-канале.
-
-👉
- Скачивайте документы, сохраняйте и используйте в работе. 
-
-СКАЧАТЬ ДОКУМЕНТЫ</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/XHgXVeuDHzu_nqQ2fLkyl92iU2at3Dn78JB3IC0HvjwkZEE3oWrZrRRw1wufTJaq-Onu8dIuA1SKKTe9Gxx07swQanuXv2ZzucPGFPLuosIAxZHYv50nApMAm-Fu4m_MIkfUkP00XIHKbsal03qW7VFwlgb3vEnrTJrJgyg0czphE_3bJq4sXj1bKJaFHi1VpVLRZXt8Vkz4dOlU4F6V8wh5s-VFS0qRRZmcN0KC2rixwOqHxS-Rz7_ovKMc8G5Of3QtYZ7s-_aH00uKx5qanR_W4SCA90-KPbACrcWlzo6-5obtbqnm7Pf7i7xwexFFvQ2t4doOLFjjMYWW8yd7Aw" /></p>
-<tg-emoji emoji-id="5294339927318739359"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8E99.png')"><b>🎙</b></i></tg-emoji><b>Закупка охранных услуг с 1 сентября 2026 года</b>: <b>часть 2</b><br/><br/>Вчера на вебинаре, Михаил Калмацкий - руководитель отдела правового сопровождения ЭТП ТОРГИ-ОНЛАЙН, рассказал про <b>паспорт безопасности объекта</b> и кто его должен утверждать. <br/><br/>Также мы подробно разобрали <b>Постановления Правительства РФ,</b> которые необходимо учитывать заказчикам при закупке охранных услуг.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938E.png')"><b>📎</b></i> Как и обещали, все Постановления опубликовали в нашем VK-канале.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"><b>👉</b></i> Скачивайте документы, сохраняйте и используйте в работе. <br/><br/><a href="https://vk.com/im/channels/-233826075" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">СКАЧАТЬ ДОКУМЕНТЫ</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/torgi_online/1166</guid>
-      <pubDate>Fri, 23 Oct 2026 08:47:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Заказчик часто хочет провести одну большую закупку вместо десяти мелких: «Закупаем канцелярию, ор…</title>
-      <link>https://telegram.me/torgi_online/1165</link>
-      <description>Заказчик часто хочет провести одну большую закупку вместо десяти мелких: «Закупаем канцелярию, оргтехнику и услуги по ее ремонту разом».
-
+Закупка у единственного поставщика: максимально быстро, минимум формальностей (если сумма и основания позволяют по положению). Минусы — высокий риск проверок ФАС на предмет необоснованности, необходимость чёткого обоснования в положении и документации
 📘
-Позиция ФАС:
- Объединение в один лот технологически и функционально не связанных товаров/услуг признается ограничением конкуренции (ч. 1 ст. 17 Закона о защите конкуренции).
 
-Кейс:
- Заказчик объединил поставку серверов и услуги по клинингу серверных комнат.
+Что выбирать:
 
-🔵
-Аргумент заказчика: «Клининг специфический, нужен допуск к технике».
+⭐️
+Срочная/уникальная потребность или очень маленькая сумма + есть чёткое основание в положении → единственный поставщик (с максимальным обоснованием).
 
-🔵
-Решение ФАС: Поставщики серверов не обязаны иметь опыт уборки, а клининговые компании не торгуют серверами.
+⭐️
+Обычная небольшая закупка, есть время 1–3 дня → электронный магазин. Это безопаснее с точки зрения комплаенса.
 
-Как делать правильно: 
-Объединяйте в лот только те позиции, которые продаются на одном товарном рынке. Если сомневаетесь — делите на отдельные лоты.
+⭐️
+Всегда проверяйте, что выбранный способ прямо предусмотрен вашим положением о закупке, его применение объективно обосновано и не противоречит 223-ФЗ.
 
-#госзакупки
- 
-#ФАС
- 
-#тендеры
- 
-#закон
- 
-#ТОРГИОНЛАЙН
- 
-#право
- 
-#конкуренция</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/Fkw7q6u0GdNoEtIhk8VPnF-l2xeOiJE24kQ8ATaqYLLD3-vh9eC917NdQVc3taJtt-Lun2AfQPbnzse0VVFsMqqUP6HibMRvDhxtrqzy8Tq2PjCU0ssHF5ZD9onq5QDb1G0Bf96osoIakayVV9BmY3sltXzNCEBb4GnJRUCemGXiApRzLbV03pNJiSfT6ti8gGZksu4_6JaVSpOK3_S0BaAe9XG5459uDtw1RaTUUgIPPpbmWwFfb7BeHVD95zMS7BadKV8S5kpFx010Ehn8go3p1igiVxd5GPwjI1KKqeLmEdRMYjx6KnabEpqjf-9bQffGSLnK73akLIhk5pVNCA.jpg" /></p>
-Заказчик часто хочет провести одну большую закупку вместо десяти мелких: «Закупаем канцелярию, оргтехнику и услуги по ее ремонту разом».<br/><br/><tg-emoji emoji-id="5436361331722690558"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9398.png')"><b>📘</b></i></tg-emoji><b>Позиция ФАС:</b> Объединение в один лот технологически и функционально не связанных товаров/услуг признается ограничением конкуренции (ч. 1 ст. 17 Закона о защите конкуренции).<br/><br/><b>Кейс:</b> Заказчик объединил поставку серверов и услуги по клинингу серверных комнат.<br/><tg-emoji emoji-id="5470107632796724144"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B5.png')"><b>🔵</b></i></tg-emoji>Аргумент заказчика: «Клининг специфический, нужен допуск к технике».<br/><tg-emoji emoji-id="5470107632796724144"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B5.png')"><b>🔵</b></i></tg-emoji>Решение ФАС: Поставщики серверов не обязаны иметь опыт уборки, а клининговые компании не торгуют серверами.<br/><br/><b>Как делать правильно: </b>Объединяйте в лот только те позиции, которые продаются на одном товарном рынке. Если сомневаетесь — делите на отдельные лоты.<br/><br/><a href="?q=%23%D0%B3%D0%BE%D1%81%D0%B7%D0%B0%D0%BA%D1%83%D0%BF%D0%BA%D0%B8">#госзакупки</a> <a href="?q=%23%D0%A4%D0%90%D0%A1">#ФАС</a> <a href="?q=%23%D1%82%D0%B5%D0%BD%D0%B4%D0%B5%D1%80%D1%8B">#тендеры</a> <a href="?q=%23%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD">#закон</a> <a href="?q=%23%D0%A2%D0%9E%D0%A0%D0%93%D0%98%D0%9E%D0%9D%D0%9B%D0%90%D0%99%D0%9D">#ТОРГИОНЛАЙН</a> <a href="?q=%23%D0%BF%D1%80%D0%B0%D0%B2%D0%BE">#право</a> <a href="?q=%23%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D1%8F">#конкуренция</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/torgi_online/1165</guid>
-      <pubDate>Thu, 22 Oct 2026 09:08:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔥</title>
-      <link>https://telegram.me/torgi_online/1164</link>
-      <description>🔥
- Прошлый вебинар по закупкам охранных услуг вызвал столько вопросов, что мы решили: продолжение обязательно!  22 октября встречаемся снова, с расширенной программой, разбором уже сложившейся практики и спорных ситуаций. Подробно обсудим вопросы, которые возникают…</description>
-      <content:encoded><![CDATA[<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')"><b>🔥</b></i> Прошлый вебинар по закупкам охранных услуг вызвал столько вопросов, что мы решили: продолжение обязательно!  22 октября встречаемся снова, с расширенной программой, разбором уже сложившейся практики и спорных ситуаций. Подробно обсудим вопросы, которые возникают…]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/torgi_online/1164</guid>
-      <pubDate>Thu, 22 Oct 2026 06:09:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>➕</title>
-      <link>https://telegram.me/torgi_online/1163</link>
-      <description>➕
- 
-⁉️
-Как закупать медицинские изделия и лекарственные препараты по 223-ФЗ в 2026 году?   Об этом будем говорить уже завтра, 21 октября, в 9:00 (мск) на бесплатном вебинаре для заказчиков сферы медицины.   Тема: "Закупка медицинских товаров и лекарственных препаратов…</description>
-      <content:encoded><![CDATA[<tg-emoji emoji-id="5397916757333654639"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29E95.png')"><b>➕</b></i></tg-emoji> <tg-emoji emoji-id="5314504236132747481"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E28189.png')"><b>⁉️</b></i></tg-emoji>Как закупать медицинские изделия и лекарственные препараты по 223-ФЗ в 2026 году?   Об этом будем говорить уже завтра, 21 октября, в 9:00 (мск) на бесплатном вебинаре для заказчиков сферы медицины.   Тема: "Закупка медицинских товаров и лекарственных препаратов…]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/torgi_online/1163</guid>
-      <pubDate>Wed, 21 Oct 2026 06:02:36 +0000</pubDate>
+📌
+Электронный магазин чаще выигрывает по соотношению скорость/риски для рядовых закупок.</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/JqAWB3l5UYzM4FhppBGuhq4vCXOeNx6rUBlL50CfY0hnD9gsGPafzbdnBROMYQc7bT9zVRgxL2-RwV6pisHwoGBKVPAGkLzng0GneK99kh1KecjvbYa1SwZEF1-3YyfFhFP5g5Ico5jlp-j5bUWAMr44uTgT2h1SlcHI9mmZ42vNAZakGBrNI8dpyFZLprZEiLIOFzrURFUYtdw94lvIFzbTRvTPSte5x99ikoFVpps2npBdVWsxyNKntGjTNIaB3nFXeGcB0Ju__ivp7bay7Aw_ICSN8E5UwTncNeuvcBzR74FBmBgRdp4QKlyhItpVv5sa9jAGKjH0fpxaZeBDrw.jpg" /></p>
+Оба способа относятся к неконкурентным, но риски и скорость разные.<br/><br/><tg-emoji emoji-id="5294140920009094758"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8FAC.png')"><b>🏬</b></i></tg-emoji>Электронный магазин обычно для закупок небольшой стоимости согласно вашему положению о закупке. Плюсы — относительная прозрачность, возможность получить несколько предложений, быстрее, чем полноценная конкурентная процедура, ниже риск претензий ФАС. Минусы — всё равно нужно соблюдать регламент площадки и положение.<br/><br/>Закупка у единственного поставщика: максимально быстро, минимум формальностей (если сумма и основания позволяют по положению). Минусы — высокий риск проверок ФАС на предмет необоснованности, необходимость чёткого обоснования в положении и документации<tg-emoji emoji-id="5299018722957074313"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9398.png')"><b>📘</b></i></tg-emoji><br/><br/><b>Что выбирать:</b><br/><br/><tg-emoji emoji-id="5470026672663195840"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E2AD90.png')"><b>⭐️</b></i></tg-emoji>Срочная/уникальная потребность или очень маленькая сумма + есть чёткое основание в положении → единственный поставщик (с максимальным обоснованием).<br/><tg-emoji emoji-id="5470026672663195840"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E2AD90.png')"><b>⭐️</b></i></tg-emoji>Обычная небольшая закупка, есть время 1–3 дня → электронный магазин. Это безопаснее с точки зрения комплаенса.<br/><tg-emoji emoji-id="5470026672663195840"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E2AD90.png')"><b>⭐️</b></i></tg-emoji>Всегда проверяйте, что выбранный способ прямо предусмотрен вашим положением о закупке, его применение объективно обосновано и не противоречит 223-ФЗ.<br/><br/><tg-emoji emoji-id="5294095496434977456"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938C.png')"><b>📌</b></i></tg-emoji>Электронный магазин чаще выигрывает по соотношению скорость/риски для рядовых закупок.]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/torgi_online/1167</guid>
+      <pubDate>Mon, 26 Oct 2026 05:43:06 +0000</pubDate>
     </item>
   </channel>
 </rss>

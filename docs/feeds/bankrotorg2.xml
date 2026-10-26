@@ -8,457 +8,385 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 23 Oct 2026 10:19:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 11:21:12 +0000</lastBuildDate>
     <item>
-      <title>Верховный суд, которого не было. Как юристы защищали компанию выдуманными решениями</title>
-      <link>https://telegram.me/bankrotorg2/10964</link>
-      <description>Верховный суд, которого не было. Как юристы защищали компанию выдуманными решениями
-
-Компания наняла юриста для защиты в суде. Тот подготовил жалобу, сослался на практику Верховного суда, Президиума ВАС и ещё трёх арбитражных округов с номерами дел, датами и убедительными правовыми позициями.
-
-Но возникла одна проблема —  ни одного из этих судебных решений судья не нашёл. И это не анекдот про искусственный интеллект, это вполне реальная история из постановления Арбитражного суда Западно-Сибирского округа.
-
-Началось всё со спора на 55 тысяч рублей. Бухгалтерская компания обслуживала заказчика за 20 тысяч рублей в месяц. Потом стоимость услуг выросла до 25 тысяч. Заказчик подписывал акты через ЭДО, оплачивал услуги, а когда возникла задолженность, заявил, что никакого дополнительного соглашения об увеличении цены не было.
-
-Первая инстанция частично поддержала заказчика. Апелляция решила иначе: если компания регулярно подписывала акты на 25 тысяч, значит, новую цену согласовала. И взыскала 50 тысяч долга плюс 7 644 рубля неустойки.
-
-Заказчик пошёл в кассацию с жалобой, но судья не смог найти судебную практику, указанную в ней.  Представитель ответчика привёл в жалобе целую подборку решений Судебной коллегии по экономическим спорам Верховного суда, Президиума ВАС и окружных судов, рассчитывая убедить кассацию, что подписанные акты не заменяют дополнительного соглашения.
-
-Но судья попытался найти эти решения и не смог. Номера есть, даты есть, суды указаны, а самих судебных актов нет. Обычно такие жалобы по делам упрощённого производства кассация рассматривает без вызова сторон. Но здесь суд назначил полноценное заседание и потребовал объяснить, откуда взялась эта замечательная судебная практика.
-
-К заседанию у компании сменился представитель. Новый юрист изучил наследство предшественника и попросил суд не учитывать ранее приведённые решения, поскольку найти их в правовых системах не удалось.
-
-Примерно такой разговор:
-
-— Вы ссылались на практику Верховного суда. Где она?
-
-— Понимаете, мы тут проверили... Давайте считать, что не ссылались.
-
-( В судебном акте диалог выглядит иначе, но суть ясна)
-
-Новые решения, которые представитель подобрал взамен несуществующих, тоже не помогли: обстоятельства в них оказались другими. В результате кассация оставила постановление апелляции в силе.
-
-А теперь вопрос: кто придумал эти решения?
-
-Сегодня нейросеть за несколько секунд способна подготовить юридическое заключение, сослаться на Верховный суд и даже привести цитату из постановления. Причём выглядеть всё будет настолько убедительно, что хочется немедленно отправить документ в суд. 
-
-Нейросеть может подобрать убедительную правовую позицию и привести судебную практику, которая выглядит достоверно. При этом решение может вообще не существовать, а приведённая цитата — отсутствовать в судебном акте. 
-
-Дело № А27-7831/2025: постановление Арбитражного суда Западно-Сибирского округа от 28.04.2026, определение от 14.05.2026.</description>
-      <content:encoded><![CDATA[<b>Верховный суд, которого не было. Как юристы защищали компанию выдуманными решениями</b><br/><br/>Компания наняла юриста для защиты в суде. Тот подготовил жалобу, сослался на практику Верховного суда, Президиума ВАС и ещё трёх арбитражных округов с номерами дел, датами и убедительными правовыми позициями.<br/><br/>Но возникла одна проблема —  ни одного из этих судебных решений судья не нашёл. И это не анекдот про искусственный интеллект, это вполне реальная история из постановления Арбитражного суда Западно-Сибирского округа.<br/><br/>Началось всё со спора на 55 тысяч рублей. Бухгалтерская компания обслуживала заказчика за 20 тысяч рублей в месяц. Потом стоимость услуг выросла до 25 тысяч. Заказчик подписывал акты через ЭДО, оплачивал услуги, а когда возникла задолженность, заявил, что никакого дополнительного соглашения об увеличении цены не было.<br/><br/>Первая инстанция частично поддержала заказчика. Апелляция решила иначе: если компания регулярно подписывала акты на 25 тысяч, значит, новую цену согласовала. И взыскала 50 тысяч долга плюс 7 644 рубля неустойки.<br/><br/>Заказчик пошёл в кассацию с жалобой, но судья не смог найти судебную практику, указанную в ней.  Представитель ответчика привёл в жалобе целую подборку решений Судебной коллегии по экономическим спорам Верховного суда, Президиума ВАС и окружных судов, рассчитывая убедить кассацию, что подписанные акты не заменяют дополнительного соглашения.<br/><br/>Но судья попытался найти эти решения и не смог. Номера есть, даты есть, суды указаны, а самих судебных актов нет. Обычно такие жалобы по делам упрощённого производства кассация рассматривает без вызова сторон. Но здесь суд назначил полноценное заседание и потребовал объяснить, откуда взялась эта замечательная судебная практика.<br/><br/>К заседанию у компании сменился представитель. Новый юрист изучил наследство предшественника и попросил суд не учитывать ранее приведённые решения, поскольку найти их в правовых системах не удалось.<br/><br/>Примерно такой разговор:<br/>— Вы ссылались на практику Верховного суда. Где она?<br/>— Понимаете, мы тут проверили... Давайте считать, что не ссылались.<br/>( В судебном акте диалог выглядит иначе, но суть ясна)<br/><br/>Новые решения, которые представитель подобрал взамен несуществующих, тоже не помогли: обстоятельства в них оказались другими. В результате кассация оставила постановление апелляции в силе.<br/><b>А теперь вопрос: кто придумал эти решения?</b><br/><br/>Сегодня нейросеть за несколько секунд способна подготовить юридическое заключение, сослаться на Верховный суд и даже привести цитату из постановления. Причём выглядеть всё будет настолько убедительно, что хочется немедленно отправить документ в суд. <br/><br/>Нейросеть может подобрать убедительную правовую позицию и привести судебную практику, которая выглядит достоверно. При этом решение может вообще не существовать, а приведённая цитата — отсутствовать в судебном акте. <br/><br/><br/><i>Дело № А27-7831/2025: постановление Арбитражного суда Западно-Сибирского округа от 28.04.2026, определение от 14.05.2026.</i>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/bankrotorg2/10964</guid>
-      <pubDate>Thu, 22 Oct 2026 07:47:29 +0000</pubDate>
+      <title>Работа для дисквалифицированных арбитражных управляющих</title>
+      <link>https://telegram.me/bankrotorg2/10990</link>
+      <description>Работа для дисквалифицированных арбитражных управляющих</description>
+      <content:encoded><![CDATA[Работа для дисквалифицированных арбитражных управляющих]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/bankrotorg2/10990</guid>
+      <pubDate>Mon, 26 Oct 2026 11:11:19 +0000</pubDate>
     </item>
     <item>
-      <title>ИИ создал икону и церковь её освятила.</title>
-      <link>https://telegram.me/bankrotorg2/10963</link>
-      <description>ИИ создал икону и церковь её освятила. 
+      <title>Дегустатора пива с зарплатой 300 тысяч рублей ищет бар из Саратова</title>
+      <link>https://telegram.me/bankrotorg2/10991</link>
+      <description>Дегустатора пива с зарплатой 300 тысяч рублей ищет бар из Саратова
 
-https://t.me/AIronCurtain/133</description>
-      <content:encoded><![CDATA[ИИ создал икону и церковь её освятила. <br/><a href="https://telegram.me/AIronCurtain/133" rel="noopener" target="_blank">https://t.me/AIronCurtain/133</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/bankrotorg2/10963</guid>
-      <pubDate>Thu, 22 Oct 2026 05:40:17 +0000</pubDate>
+Сотруднику предстоит пробовать новинки, оценивать напитки и отбирать лучшие варианты для продажи.
+
+Кто-то будет жить свою лучшую жизнь.</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/is8qhEB4LyqT0kg2vJeTrHZ0HObWaDw9kYea92fhiEDjwp4ZMeNsAP9Ri_Cc90PZeepezoCIOqrgKLkTOuxpBxrXAI-K621u_Rxcs-qXT5WQptwtlYIAtc2Ioz-Xkn-jnZ81G54Kjtr7-SEPntGZ5D6JvFzNmT2poLdaXNOlpNI0Zl_2YSmOc4lsqaq1B_YkW3vIg72drGt-4vCecjgVStf0Iru28dRnMue4yN9kVUbAVfgMQNSxZzE4n-EzbqEtmW_Jhutf_MWiWIeZCiJQMqipxVl0W-99XWVIEP5OGw_hsPRpv3b3xtRU8ijIvt6LCOlx0BUJeU9IRQp5brELkw.jpg" /></p>
+Дегустатора пива с зарплатой 300 тысяч рублей ищет бар из Саратова<br/><br/>Сотруднику предстоит пробовать новинки, оценивать напитки и отбирать лучшие варианты для продажи.<br/><br/>Кто-то будет жить свою лучшую жизнь.]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/bankrotorg2/10991</guid>
+      <pubDate>Mon, 26 Oct 2026 11:11:19 +0000</pubDate>
     </item>
     <item>
-      <title>Вот эта икона святого Карла Акутиса.</title>
-      <link>https://telegram.me/bankrotorg2/10962</link>
-      <description>Вот эта икона святого Карла Акутиса.
-
-https://t.me/AIronCurtain</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/gZ_vRG1CIU6egLsHNwYhdzsZ7mU8FsbwX9y0TeujHLJiWapP0SsvNvI8gE1Jt6ZQR1LD4dZVS_RybQLGxYsnvMljLnk9FuIknrW4AxsLTXSPHKMoX1B6XES0I84xOM8qrZJIeD-lHHs4Owq4EOOU5vc2W0JCRMPqU1wF_gy3cmfpGRNapjO7BcR8U1Qz3C0J9rVwoIVC21WulHE1ZzdQAaNiMGTA_Kz6v6bYgUX07s8ybVmQrcocfYxDPHtNah0exSRg3e8qEHUeUcoUZQJIq2L7sgTpck2TXDiBCYHYEfv_K-9jT0UxyJnHDbh0iug8k3nkWn8LtF7knxcz2Tov6A.jpg" /></p>
-Вот эта икона святого Карла Акутиса.<br/><br/><a href="https://telegram.me/AIronCurtain" rel="noopener" target="_blank">https://t.me/AIronCurtain</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/bankrotorg2/10962</guid>
-      <pubDate>Thu, 22 Oct 2026 05:40:16 +0000</pubDate>
+      <title>Очень похоже на рабочую неделю арбитражного управляющего.</title>
+      <link>https://telegram.me/bankrotorg2/10989</link>
+      <description>Очень похоже на рабочую неделю арбитражного управляющего.</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/hfWTwQvrZohoBfQM-AetCN8FVpxRgDv5bmvID7PpdOo9MpirkMNuNqcdYIKvirUqmNHJ_iTwHkwyGbVbohQuJFxMqFFh2mpWHLZ5Q6z10dDPOC9rl-3YjJJlHRJNWxUWd3tYPI4umhs9Hqp1DngMSK7F5rE7mzt4IwDlIBXq5vG9ddHYyQMKyi8ARuP7e44FuVQTPoCHyMMCaOf5JFf4mFVIZFt6IX_B8Kg1gxy16CCQMwjXJQu5CwJSHe4SyRnDNClfeRbk9-cFdd6slY5XOX0AZ1mEnxLKs8HQ7r3S9oy55x8_OQMLYtPE-8bWnAvaq0tTCuzAwm1sgHOANYNjDg.jpg" /></p>
+Очень похоже на рабочую неделю арбитражного управляющего.]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/bankrotorg2/10989</guid>
+      <pubDate>Mon, 26 Oct 2026 11:09:15 +0000</pubDate>
     </item>
     <item>
-      <title>КС разрешил взыскивать оплату юриста с проигравшей стороны</title>
-      <link>https://telegram.me/bankrotorg2/10961</link>
-      <description>КС разрешил взыскивать оплату юриста с проигравшей стороны
-
-https://www.kommersant.ru/doc/9043207?fb&amp;fbclid=IwY2xjawVF131leHRuA2FlbQIxMQBwZG9mBHNydGMGYXBwX2lkDzQwOTk2MjYyMzA4NTYwOQABHmGstVlz_ofZRgv3Moc8LtTwGEAkwYLwEcubDyiYygQYMmlybdOz4BF_iN0q_aem_Lst-r8lQhrZLySsf4uOVaQ</description>
-      <content:encoded><![CDATA[КС разрешил взыскивать оплату юриста с проигравшей стороны<br/><a href="https://www.kommersant.ru/doc/9043207?fb&amp;fbclid=IwY2xjawVF131leHRuA2FlbQIxMQBwZG9mBHNydGMGYXBwX2lkDzQwOTk2MjYyMzA4NTYwOQABHmGstVlz_ofZRgv3Moc8LtTwGEAkwYLwEcubDyiYygQYMmlybdOz4BF_iN0q_aem_Lst-r8lQhrZLySsf4uOVaQ" rel="noopener" target="_blank">https://www.kommersant.ru/doc/9043207?fb&amp;fbclid=IwY2xjawVF131leHRuA2FlbQIxMQBwZG9mBHNydGMGYXBwX2lkDzQwOTk2MjYyMzA4NTYwOQABHmGstVlz_ofZRgv3Moc8LtTwGEAkwYLwEcubDyiYygQYMmlybdOz4BF_iN0q_aem_Lst-r8lQhrZLySsf4uOVaQ</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/bankrotorg2/10961</guid>
-      <pubDate>Wed, 21 Oct 2026 17:37:34 +0000</pubDate>
+      <title>Работа для дисквалифицированных арбитражных управляющих</title>
+      <link>https://telegram.me/bankrotorg2/10987</link>
+      <description>Работа для дисквалифицированных арбитражных управляющих</description>
+      <content:encoded><![CDATA[Работа для дисквалифицированных арбитражных управляющих]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/bankrotorg2/10987</guid>
+      <pubDate>Mon, 26 Oct 2026 11:06:09 +0000</pubDate>
     </item>
     <item>
-      <title>🖼 Фото — Банкротство. the other side</title>
-      <link>https://telegram.me/bankrotorg2/10960</link>
-      <description>🖼 Фото — Банкротство. the other side</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/eqtW1Qa6TugaRHvakl9dayG1BdBBF4djMGIwJEEvyEEr1mYCxwkA_rTNgUOYxFkeuZH7UNIG-KHob7uUbd_OHTbmBEWGaj7dB49VzSWcvAzxSHR1X8FmiLwE7d_e0Mx38m7RROG_RZQMY9hCmWfuQRWcK0QCqXJMkc6jP5d5qyuVcPpLYpeCKmcP7O-dk3AHv8gQBcSuAQKo9VsSolJsvfBsM3LWOomlDK3K4_V8O8Ro14VahdxGRurPZDNeDKBP7gn4sllKt8ddl3nbyTGkZY62CtvJ-00XW1u47KFAJ5ykK3wK8Ll-qxUpzqVVp0vGnVHcATfQ90ThlfOmtuhX9A.jpg" /></p>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/bankrotorg2/10960</guid>
-      <pubDate>Wed, 21 Oct 2026 17:37:33 +0000</pubDate>
+      <title>Теперь можно зарабатывать, просто сидя рядом с другим человеком, пока он работает — бади-даблинг…</title>
+      <link>https://telegram.me/bankrotorg2/10988</link>
+      <description>Теперь можно зарабатывать, просто сидя рядом с другим человеком, пока он работает — бади-даблинг из тренда в соцсетях превращается в полноценную услугу.
+
+Изначально люди просто созванивались или встречались в кофейнях и молча занимались каждый своими делами. Оказалось, что некоторым само присутствие другого человека помогает не отвлекаться и наконец закрыть рутину: разобрать почту, заполнить документы или доделать давно отложенную задачу.
+
+Теперь за такого «напарника» готовы платить. От него не требуется ни помогать, ни советовать — достаточно несколько часов тихо находиться рядом, пока клиент разбирается со своими делами.
+
+Куда отправлять резюме?</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/AY6Ibs8IEzMi8ZIoMRI_rFfwg2HWxuM2ie9vDXhzGKVfnxdoMStDJaSw-XujeE3f5oc8km4-cbEzIUFwVF3baAYXP4UOxUwtsdPKEofP-f8a6VdBCUjmNST6XJFuxM7Dzug8otdU8GSqP-JJimcHs0JbVoVAJCq2-8IQv_5gnR6swxHZPIaxu6ZH9T-WyVNNo2cj2oEs6J76cAsebEVnjjsmN-IWWzQx0zf6vY99KZJzoIdisY_0fJRTtrZfUWwCizfNFmSHVTd9UmYTlVkA9YD1ceZV_REd56kPlnSWk93c593mjA5tJCFxeYqwtcN2ZbS4KxGiVgKseowS6A4Y-Q.jpg" /></p>
+Теперь можно зарабатывать, просто сидя рядом с другим человеком, пока он работает — бади-даблинг из тренда в соцсетях превращается в полноценную услугу.<br/><br/>Изначально люди просто созванивались или встречались в кофейнях и молча занимались каждый своими делами. Оказалось, что некоторым само присутствие другого человека помогает не отвлекаться и наконец закрыть рутину: разобрать почту, заполнить документы или доделать давно отложенную задачу.<br/><br/>Теперь за такого «напарника» готовы платить. От него не требуется ни помогать, ни советовать — достаточно несколько часов тихо находиться рядом, пока клиент разбирается со своими делами.<br/><br/>Куда отправлять резюме?]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/bankrotorg2/10988</guid>
+      <pubDate>Mon, 26 Oct 2026 11:06:09 +0000</pubDate>
     </item>
     <item>
-      <title>Getty Images подал заявление о банкротстве</title>
-      <link>https://telegram.me/bankrotorg2/10959</link>
-      <description>Getty Images подал заявление о банкротстве
+      <title>ФНС потребовала признать банкротом ООО «Трасса ГСМ»</title>
+      <link>https://telegram.me/bankrotorg2/10986</link>
+      <description>ФНС потребовала признать банкротом ООО «Трасса ГСМ»
 
-https://www.kommersant.ru/doc/9044018?utm_source=theme&amp;utm_medium=email&amp;utm_campaign=newsletter</description>
-      <content:encoded><![CDATA[Getty Images подал заявление о банкротстве<br/><a href="https://www.kommersant.ru/doc/9044018?utm_source=theme&amp;utm_medium=email&amp;utm_campaign=newsletter" rel="noopener" target="_blank">https://www.kommersant.ru/doc/9044018?utm_source=theme&amp;utm_medium=email&amp;utm_campaign=newsletter</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/bankrotorg2/10959</guid>
-      <pubDate>Wed, 21 Oct 2026 14:46:38 +0000</pubDate>
+https://www.kommersant.ru/doc/9060724?utm_source=theme&amp;utm_medium=email&amp;utm_campaign=newsletter</description>
+      <content:encoded><![CDATA[ФНС потребовала признать банкротом ООО «Трасса ГСМ»<br/><a href="https://www.kommersant.ru/doc/9060724?utm_source=theme&amp;utm_medium=email&amp;utm_campaign=newsletter" rel="noopener" target="_blank">https://www.kommersant.ru/doc/9060724?utm_source=theme&amp;utm_medium=email&amp;utm_campaign=newsletter</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/bankrotorg2/10986</guid>
+      <pubDate>Mon, 26 Oct 2026 11:01:03 +0000</pubDate>
     </item>
     <item>
-      <title>Подработка для жалобщиков на АУ</title>
-      <link>https://telegram.me/bankrotorg2/10958</link>
-      <description>Подработка для жалобщиков на АУ 
-🤣
-🤣
-🤣</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/nAU-uozsEgLMRuPVKzfNUySx-uN98nzhgyl1hcoFQd6jOMW6oyFP0n6JthMWJZW5BpvyMNQZunTH1EH7MKG8rAmCvMqW_wjdXsGhJK4SoSDMR5jvu9qnw_sWOFytA-fuieDsETRWB-QxHNJvxxdtyb0aAgdNYupr9S_8lIHOa6_Kl__Ubk8n4XyG1OtaFi0IfX7M8S7MhEdzsH84-IwILJ_X_ExedZ4g8gWAbNsZSnLnoEhYRgCFMCxIzSKFLaLohhQVKn4zORAW98EhQknhHWa5eJTBhjFd6GtMmzt74EI6NewaPgHWxHJttVS8m1q8_6Zzk7moBBpbNm13AkC9Zg.jpg" /></p>
-Подработка для жалобщиков на АУ <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA4A3.png')"><b>🤣</b></i><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA4A3.png')"><b>🤣</b></i><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA4A3.png')"><b>🤣</b></i>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/bankrotorg2/10958</guid>
-      <pubDate>Wed, 21 Oct 2026 14:45:46 +0000</pubDate>
+      <title>Небольшое дополнение к позиции.</title>
+      <link>https://telegram.me/bankrotorg2/10985</link>
+      <description>Небольшое дополнение к позиции.
+
+Дальше ждем отзывов ответчиков и третьих лиц.</description>
+      <content:encoded><![CDATA[Небольшое дополнение к позиции.<br/>Дальше ждем отзывов ответчиков и третьих лиц.]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/bankrotorg2/10985</guid>
+      <pubDate>Sun, 25 Oct 2026 23:01:28 +0000</pubDate>
     </item>
     <item>
-      <title>🖼 Фото — Банкротство. the other side</title>
-      <link>https://telegram.me/bankrotorg2/10957</link>
-      <description>🖼 Фото — Банкротство. the other side</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/N6hAqXPwjtvT_u_9T-akHoFr_QOsHG_5JrzJAEvqjnmb8JhMpYoZpx0Woxrc0jAnQcX1lXFqfK2uxns1Keeid9K5JupJP2ZVZuCpE0J1k8kHGk7G8DtvpYUuGybfS38LLW-lR9dYiAu4h_9kgY82-6KpR5U-v0uRgPc0aRJZeb3qSTRPR6R3o8CTpJyeLUS74uyrDumJHYPyRKb8HifP71B7FqleASe0CF_bMoXVHwpDF87C8wZaxcc2wIKp0LyGaQwyC-u5IYgQz2w2mNdWHZl3yFaSEUri8LX_P3epBrZSl4vXCoI6gJ-KwY_W9kueQVdAShLjHcu1I3KaONqyOQ.jpg" /></p>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/bankrotorg2/10957</guid>
-      <pubDate>Wed, 21 Oct 2026 13:19:19 +0000</pubDate>
+      <title>Пересчитываю на ночь количество истцов по групповому иску АУ к МФЦ.</title>
+      <link>https://telegram.me/bankrotorg2/10984</link>
+      <description>Пересчитываю на ночь количество истцов по групповому иску АУ к МФЦ.
+
+Итого: 46 человек 
+😎
+
+Арбитражные управляющие едины! 
+🤪</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/rKKEMtMCwLkwkUCKCgnfpM0ijoNHyk-aj5G5yHXT68e4tlNu2V84rzpJYWPfHFXA273dIzv-u1R6wYIgjNPx5QC1Sf9qS2OyhMDCUIKctv_LOeKshMl5tF7zqaFVu9MDC-t40lQbbyjdENc1Uot9oIMxsoii5Z8XBl0_QFkExR3cSrq1ev0WwMRo09znqmTabGaX073dyo-StHWu9ovR3RPx9ibUwoM9_3efUhAMjLEA4hEEpN_lTQtMS26jGpDiihrEhtQRJfEIJ426osITnbB6Bt3E2b4az6btJX6Zcy76hQKZUj_HSoGgwxfRnwa7pFzfr845sSVpYYglIzRIqQ.jpg" /></p>
+Пересчитываю на ночь количество истцов по групповому иску АУ к МФЦ.<br/>Итого: 46 человек <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F988E.png')"><b>😎</b></i><br/>Арбитражные управляющие едины! <tg-emoji emoji-id="5364238162124084793"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA4AA.png')"><b>🤪</b></i></tg-emoji>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/bankrotorg2/10984</guid>
+      <pubDate>Sun, 25 Oct 2026 23:01:15 +0000</pubDate>
     </item>
     <item>
-      <title>https://www.facebook.com/share/p/1Dnt3auSF3/</title>
-      <link>https://telegram.me/bankrotorg2/10956</link>
-      <description>https://www.facebook.com/share/p/1Dnt3auSF3/</description>
-      <content:encoded><![CDATA[<a href="https://www.facebook.com/share/p/1Dnt3auSF3/" rel="noopener" target="_blank">https://www.facebook.com/share/p/1Dnt3auSF3/</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/bankrotorg2/10956</guid>
-      <pubDate>Wed, 21 Oct 2026 13:19:11 +0000</pubDate>
+      <title>Вредные (для полиции) видео советы:</title>
+      <link>https://telegram.me/bankrotorg2/10983</link>
+      <description>Вредные (для полиции) видео советы:
+
+1. 
+Как уничтожить всё в телефоне?
+
+2. 
+Обыск
+
+3. 
+Как подготовиться к уголовк
+е</description>
+      <content:encoded><![CDATA[Вредные (для полиции) видео советы:<br/>1. <a href="https://telegram.me/mostwantedmanager/15" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Как уничтожить всё в телефоне?</a><br/>2. <a href="https://telegram.me/mostwantedmanager/22" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Обыск</a><br/>3. <a href="https://telegram.me/mostwantedmanager/18" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Как подготовиться к уголовк</a>е]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/bankrotorg2/10983</guid>
+      <pubDate>Sun, 25 Oct 2026 10:30:26 +0000</pubDate>
     </item>
     <item>
-      <title>ИИ стартап - банкрот</title>
-      <link>https://telegram.me/bankrotorg2/10955</link>
-      <description>ИИ стартап - банкрот
-
-https://t.me/AIronCurtain/130
-
-Может быть это очередной пузырь типа даткомов?</description>
-      <content:encoded><![CDATA[ИИ стартап - банкрот<br/><a href="https://telegram.me/AIronCurtain/130" rel="noopener" target="_blank">https://t.me/AIronCurtain/130</a><br/>Может быть это очередной пузырь типа даткомов?]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/bankrotorg2/10955</guid>
-      <pubDate>Wed, 21 Oct 2026 06:04:01 +0000</pubDate>
+      <title>https://t.me/mostwantedmanager</title>
+      <link>https://telegram.me/bankrotorg2/10982</link>
+      <description>https://t.me/mostwantedmanager</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/aQjmV6RYoQZ3pjeLFNkPF3AS5Lpc7dSWcjoWgX-rAepRmhz6-QlgMKfaK-BdSd2cjvPgk8-7drzIxTG-OoBbm1KbJNEbnshUH8aEtJ3tQSmFVRXXrIwdzfxdgycJwedi7UG6MnXE9oYSkw-i0MpCoZJZMxbrPFIyyymSYx3BZxAwSfcpMpT97o45MhRn7k6o_H9GOur7mgTufLbg67Yx7ECpevHFGxAfUq_H4Em23eXPWW4AT1MkREFUxR2_Ze9f98ZCTAcnwtBpGdp_JQNE_FP2YNeajR9q2iQdMMA2b8zqaDDiUDnZZ2ypepDyGrhR79RA-sYN1Wlr19oMvYS3vQ.jpg" /></p>
+<a href="https://telegram.me/mostwantedmanager" rel="noopener" target="_blank">https://t.me/mostwantedmanager</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/bankrotorg2/10982</guid>
+      <pubDate>Sat, 24 Oct 2026 22:32:40 +0000</pubDate>
     </item>
     <item>
-      <title>Есть мнение, что гонение АУ с их заработками мимо кассы началось с них, когда ГУБЭПиПК погрузилис…</title>
-      <link>https://telegram.me/bankrotorg2/10954</link>
-      <description>Есть мнение, что гонение АУ с их заработками мимо кассы началось с них, когда ГУБЭПиПК погрузились в наш рынок</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/H4hBmWctLUpqZU-LZ0Im-jVAnWGLhaf6hxtzbRpqEq_EI2_PbaaEH79AMpLNLN5mu0fbVGzIEPGex6dKwll3DasC0YBiGZ3wndTMjnU2_mNLcZ1KPk9SwT4CdACClSWTASJBk8zb54ZhtGCm7QD_xLQX3KHnBqEs-pmZbkUsASRRY4wN-O2IeGp3tBq-wNFI9bOJw_ocrjV1HimJggCdEUQ1MuMqbaUs5L1xeA3YbSHQzAfYEzWLXLUk5bKC-fHtVYsqmD787fpv-gD2B9mSCzxCRuU2iQ7JXs90oIO95RRomNI8MC-ifoy-se18SJWNEsH10FUn3CwJIVM0B9TZNQ.jpg" /></p>
-Есть мнение, что гонение АУ с их заработками мимо кассы началось с них, когда ГУБЭПиПК погрузились в наш рынок]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/bankrotorg2/10954</guid>
-      <pubDate>Tue, 20 Oct 2026 18:21:05 +0000</pubDate>
+      <title>https://mostwanted.consulting/index.html</title>
+      <link>https://telegram.me/bankrotorg2/10981</link>
+      <description>https://mostwanted.consulting/index.html</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/o91HzDOh-RrIPuNkpDPsepNsvLLBNfSI2KXhDppudRJfyqfKpnmb3y-nA8_lZMqa1PHVbgRiFi1rWcJCD7gVsfULh8q-Vy1RUH_12OfwG4QOgrKFD_fciPIgSlsGUMYmGZdb-H5JIKOB0bRkZhd57KPMpiIzVEyLsfK9nqnTLLZqKcZnDrYkhJXDn7LiQKDSZYAjiISAwaN6HqPq7ESMC9ZtRw94ye0kLoLfPPF267NvxIdADHkLs49oa4hU3EYoyda8zw8AvBanel37jadMpFMaHw59ziAXaZ93IJGHXYleDf5_Y2hAiMxRq8_wf2DHXVo9MkFZocdlOdlG1es6ew" /></p>
+<a href="https://mostwanted.consulting/index.html" rel="noopener" target="_blank">https://mostwanted.consulting/index.html</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/bankrotorg2/10981</guid>
+      <pubDate>Sat, 24 Oct 2026 17:19:02 +0000</pubDate>
     </item>
     <item>
-      <title>Мне очень приятно это читать. Спасибо.</title>
-      <link>https://telegram.me/bankrotorg2/10952</link>
-      <description>Мне очень приятно это читать. Спасибо.</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/NQMJPbEiBT8xDQpGSF9YYfKzkUKRYSUhnpfsuOKn7Ucpec3Vod-CIAiAQdtFpEj2OoB6IbCYxFb8-KWT0-MXYJYl3tIm9WI2H3TGsvARe8MAc1-LzmOM5FCNU-6heeIgffWf_iLSySVnhm_ECMhRN5llGnhoucJgwuq6zvWrq1drbkPMwMuXHeazvh_ls36-yhNLPZDdi4zxUstEWamsq_UzOwjLHg6gOO5KEBb-g7rlmTA6_ggZHm3rejQVLTexOf1qLPfDjdM9W6HEb12i3Rr3p7PG_37UGmOE6jL6uHV6tsv7usKzU_-DI5-IJQ3nXj8hGfB-aFbTF1DCBXA1zw.jpg" /></p>
-Мне очень приятно это читать. Спасибо.]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/bankrotorg2/10952</guid>
-      <pubDate>Tue, 20 Oct 2026 18:11:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Делимся нашей презентацией с</title>
-      <link>https://telegram.me/bankrotorg2/10950</link>
-      <description>Делимся нашей презентацией с 
-
-🍾
- 
-Уральского форума арбитражных управляющих 2026 
-
-Что скажете насчет реабилитационных процедур? Очередная попытка законодателя облегчить «доживание» старой экономики или реальные инструменты 
-⚒️
- которые выведут нас из эпохи истощения?</description>
-      <content:encoded><![CDATA[Делимся нашей презентацией с <br/><br/><tg-emoji emoji-id="5370900768796711127"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8DBE.png')"><b>🍾</b></i></tg-emoji> <b>Уральского форума арбитражных управляющих 2026 </b><br/><br/>Что скажете насчет реабилитационных процедур? Очередная попытка законодателя облегчить «доживание» старой экономики или реальные инструменты <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29A92.png')"><b>⚒️</b></i> которые выведут нас из эпохи истощения?]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/bankrotorg2/10950</guid>
-      <pubDate>Tue, 20 Oct 2026 17:04:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Пост — Банкротство. the other side</title>
-      <link>https://telegram.me/bankrotorg2/10951</link>
-      <description>Пост — Банкротство. the other side</description>
-      <content:encoded><![CDATA[(нет текста)]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/bankrotorg2/10951</guid>
-      <pubDate>Tue, 20 Oct 2026 17:04:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Друзья,</title>
-      <link>https://telegram.me/bankrotorg2/10947</link>
-      <description>Друзья, 
-презентации спикеров XIV Уральского Форума АУ 
-загружены 
-
-✔️
- 
-на ГУГЛ ДИСК
-
-✔️
- 
-на ЯНДЕКС ДИСК
-
- 
-
-Алфёрова Лилиана "Чужое дело, своя ответственность: когда управляющий отвечает за подготовку, которой не управлял" 
-
-(
-презентация
-)
-
-Антонцев Анатолий "ИИ в банкротстве: между опасными иллюзиями и реальной эффективностью"
-
-(
-презентация
-)
-
-Бабасян Размик "Технологические решения для банкротства. Новости от Сбера"
-
-(
-презентация
-)
-
-Белоцерковская Анна "Признание за уполномоченным органом статуса залогового кредитора"
-
-(
-презентация
-)
-
-Беляев Денис "Оспаривание сделок с наследством. Судебная практика после Обзора ВС от 18.06.2025"
-
-(
-презентация
-)
-
-Бодрова Ольга "Доля ООО в конкурсной массе. Полномочия АУ по управлению правами банкрота и корпоративные права участника Общества, признанного банкротом"
-
-(
-презентация
-)
-
-Болотов Максим "Правовые проблемы привлечения арбитражных управляющих к ответственности за недостоверные сведения о юридическом адресе должника - юридического лица"
-
-(
-презентация
-)
-
-Бусыгин Антон "Алгоритмы выживания: правовые и практические аспекты обоснования расходов на привлеченных специалистов в процедуре банкротства"
-
-(
-презентация
-)
-
-Волков Антон "Порядок торгов соблюден. А что сделано для результата?" 
-
-(
-презентация
-)
-
-Доценко Максим "Практика защиты АУ в Верховном суде РФ"
-
-(
-презентация
-)
-
-Еньков Андрей "Психологическое выгорание в профессии арбитражного управляющего как результат отсутствия системных мер профилактики в профессиональной среде"
-
-(
-презентация
-)
-
-Зайцева Екатерина "Новое или традиционное? Легальный ответ вызовам времени"
-
-(
-презентация
-)
-
-Замалаев Павел "Будущее профессии в контексте 253-ФЗ"
-
-(
-презентация
-)
-
-Занкин Дмитрий "Тенденции взыскания убытков с арбитражных управляющих"
-
-(
-презентация
-)
-
-Извеков Станислав "Новые правила работы с Уполномоченным органом в делах о банкротстве (практические аспекты взаимодействия со "специальными центрами компетенций ФНС")
-
-(
-презентация
-)</description>
-      <content:encoded><![CDATA[Друзья, <b>презентации спикеров XIV Уральского Форума АУ </b>загружены <br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C94.png')"><b>✔️</b></i> <a href="https://drive.google.com/drive/folders/14g5LUorxNZe1gb9NWIbOIehdeuOKlAXF?usp=sharing" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">на ГУГЛ ДИСК</a><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C94.png')"><b>✔️</b></i> <a href="https://disk.yandex.ru/d/khqbY7gLtzkrtg" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">на ЯНДЕКС ДИСК</a><br/> <br/><br/>Алфёрова Лилиана "Чужое дело, своя ответственность: когда управляющий отвечает за подготовку, которой не управлял" <br/>(<a href="https://drive.google.com/file/d/1oqedL8welikYu7b0NtV6jOfiWRIXoSXv/view?usp=sharing" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">презентация</a>)<br/><br/>Антонцев Анатолий "ИИ в банкротстве: между опасными иллюзиями и реальной эффективностью"<br/>(<a href="https://drive.google.com/file/d/1LBE1ChjTFQudGor8YtoT6BpdV8Aisyof/view?usp=sharing" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">презентация</a>)<br/><br/>Бабасян Размик "Технологические решения для банкротства. Новости от Сбера"<br/>(<a href="https://drive.google.com/file/d/1vyszzZradyQxFtWb0MNXko4Rqqw-lfkk/view?usp=sharing" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">презентация</a>)<br/><br/>Белоцерковская Анна "Признание за уполномоченным органом статуса залогового кредитора"<br/>(<a href="https://drive.google.com/file/d/1Ge2SCXW53TYCmiWQiD8_OrosS96skJGl/view?usp=sharing" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">презентация</a>)<br/><br/>Беляев Денис "Оспаривание сделок с наследством. Судебная практика после Обзора ВС от 18.06.2025"<br/>(<a href="https://drive.google.com/file/d/1sff5MeEhSIYdPUF2QfeB13-2gZJFgySt/view?usp=sharing" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">презентация</a>)<br/><br/>Бодрова Ольга "Доля ООО в конкурсной массе. Полномочия АУ по управлению правами банкрота и корпоративные права участника Общества, признанного банкротом"<br/>(<a href="https://drive.google.com/file/d/184wOMXAlD4fS9iOUUaJGbZwxkmc6pEqp/view?usp=sharing" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">презентация</a>)<br/><br/>Болотов Максим "Правовые проблемы привлечения арбитражных управляющих к ответственности за недостоверные сведения о юридическом адресе должника - юридического лица"<br/>(<a href="https://drive.google.com/file/d/12D1OXYh5kadbsKjBeTkT7BCUILwDq3T4/view?usp=sharing" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">презентация</a>)<br/><br/>Бусыгин Антон "Алгоритмы выживания: правовые и практические аспекты обоснования расходов на привлеченных специалистов в процедуре банкротства"<br/>(<a href="https://drive.google.com/file/d/1HP-3c7m6OG8f3g9llQCyfiEsIYxJ3IXM/view?usp=sharing" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">презентация</a>)<br/><br/>Волков Антон "Порядок торгов соблюден. А что сделано для результата?" <br/>(<a href="https://drive.google.com/file/d/1lBLUSBEYusVSoCde0rUSzdYdD86QFIPR/view?usp=sharing" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">презентация</a>)<br/><br/>Доценко Максим "Практика защиты АУ в Верховном суде РФ"<br/>(<a href="https://drive.google.com/file/d/1YjM1FIYXOF_hc66l_HK0yRtD88--XRQf/view?usp=sharing" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">презентация</a>)<br/><br/>Еньков Андрей "Психологическое выгорание в профессии арбитражного управляющего как результат отсутствия системных мер профилактики в профессиональной среде"<br/>(<a href="https://drive.google.com/file/d/1GXoan4R8P2GiAhQacrjRJbFHxAY1DANc/view?usp=sharing" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">презентация</a>)<br/><br/>Зайцева Екатерина "Новое или традиционное? Легальный ответ вызовам времени"<br/>(<a href="https://drive.google.com/file/d/1vb4Hry0VYHgCezm9reBPWweVevNqd6Yx/view?usp=sharing" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">презентация</a>)<br/><br/>Замалаев Павел "Будущее профессии в контексте 253-ФЗ"<br/>(<a href="https://drive.google.com/file/d/1iiGF-owbQr1CZczuP38JhU3mRt9X9E6m/view?usp=sharing" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">презентация</a>)<br/><br/>Занкин Дмитрий "Тенденции взыскания убытков с арбитражных управляющих"<br/>(<a href="https://drive.google.com/file/d/1hVz4QB0x9OC5L__HKDrmp0pp6FtfWOeG/view?usp=sharing" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">презентация</a>)<br/><br/>Извеков Станислав "Новые правила работы с Уполномоченным органом в делах о банкротстве (практические аспекты взаимодействия со "специальными центрами компетенций ФНС")<br/>(<a href="https://drive.google.com/file/d/1jMAgeC8eEKU039Tgtw2gz3IR28M2DMQI/view?usp=sharing" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">презентация</a>)]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/bankrotorg2/10947</guid>
-      <pubDate>Tue, 20 Oct 2026 16:59:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Коновалов Дмитрий "Эволюция запросов и уведомлений в процедуре банкротства. Часть 1"</title>
-      <link>https://telegram.me/bankrotorg2/10948</link>
-      <description>Коновалов Дмитрий "Эволюция запросов и уведомлений в процедуре банкротства. Часть 1"
-
-(
-презентация
-)
-
-Коновалов Дмитрий "Эволюция запросов и уведомлений в процедуре банкротства. Часть 2"
-
-(
-презентация
-)
-
-Королева Елена "Контролируемое банкротство граждан: уголовные дела, отстранение АУ и другие тенденции борьбы с раздолжнителями"
-
-(
-презентация
-)
-
-Лепешонков Александр "14.25 КоАП РФ - новый метод ФНС для борьбы с неугодными АУ"
-
-(
-презентация
-)
-
-Лысенко Сергей "Вредные советы арбитражному управляющему. Как гарантированно выгореть"
-
-(
-презентация
-)
-
-Мощонский Илья "Тренд на реабилитацию в условиях истощения. Как из раздолжнителей выйти на антикризисное управление - реальная практика и новый законопроект"
-
-(
-презентация
-)
-
-Насонов Алексей «Скрытые активы должника: криптовалюта и цифровые права» 
-
-(
-презентация
-)
-
-Насретдинов Тимур «Как ускорить реализацию актива с помощью ИИ, цифровизации и автоматизации процессов» 
-
-(презентация)
-
-Ний Анатолий «Облегчить работу АУ. ИИ берет рутину, ответственность остается за вами» 
-
-(
-презентация
-)
-
-Пашкова Светлана «Актуальные вопросы налогообложения предприятий в процедурах банкротства» 
-
-(презентация)
-
-Пустошилов Евгений «Уголовные риски в работе арбитражного управляющего. Четыре опасных заблуждения, которые могут стоить свободы» 
-
-(
-презентация
-)
-
-Радзивил Радмила «Реформа ФНС и ЕНС. Межотраслевые коллизии и превентивные стратегии арбитражного управляющего» 
-
-(
-презентация
-)
-
-Савченко Даниил «Закон о банкротстве изменился. Как работать по новым правилам» 
-
-(
-презентация
-)
-
-Трапицын Артур «Цифровая инфраструктура рынка банкротства» 
-
-(
-презентация
-)
-
-Шалаев Владимир «Обыски, выемки, запросы»
-
-(
-презентация
-)
-
-Шунайлова Екатерина «Непередача документов: риск административной ответственности»
-
-(
-презентация
-)</description>
-      <content:encoded><![CDATA[Коновалов Дмитрий "Эволюция запросов и уведомлений в процедуре банкротства. Часть 1"<br/>(<a href="https://drive.google.com/file/d/1tLCqn9UGvJpVPsulmq1fIpkrKQrjATcu/view?usp=sharing" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">презентация</a>)<br/><br/>Коновалов Дмитрий "Эволюция запросов и уведомлений в процедуре банкротства. Часть 2"<br/>(<a href="https://drive.google.com/file/d/1IBo7QZKNtjXQVy5zop2fOtYucIjTRm0B/view?usp=sharing" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">презентация</a>)<br/><br/>Королева Елена "Контролируемое банкротство граждан: уголовные дела, отстранение АУ и другие тенденции борьбы с раздолжнителями"<br/>(<a href="https://drive.google.com/file/d/1WG9wA_aTQAmrDAqkmRQb-ZLXTa19z8L8/view?usp=sharing" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">презентация</a>)<br/><br/>Лепешонков Александр "14.25 КоАП РФ - новый метод ФНС для борьбы с неугодными АУ"<br/>(<a href="https://drive.google.com/file/d/1OA9_we_rUtpfL5AVAxguQdmczFIkSL8Z/view?usp=sharing" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">презентация</a>)<br/><br/>Лысенко Сергей "Вредные советы арбитражному управляющему. Как гарантированно выгореть"<br/>(<a href="https://drive.google.com/file/d/1mqiJT4gtd5HNVCFwYc0NtYKS-vKsuzjN/view?usp=sharing" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">презентация</a>)<br/><br/>Мощонский Илья "Тренд на реабилитацию в условиях истощения. Как из раздолжнителей выйти на антикризисное управление - реальная практика и новый законопроект"<br/>(<a href="https://drive.google.com/file/d/1W74AyYIDqhEot30vuKN7Ix9gSS_uE_wi/view?usp=sharing" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">презентация</a>)<br/><br/>Насонов Алексей «Скрытые активы должника: криптовалюта и цифровые права» <br/>(<a href="https://drive.google.com/file/d/1QtUtau_RaNbiJy5d1ukljY_Jfwchb66A/view?usp=sharing" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">презентация</a>)<br/><br/>Насретдинов Тимур «Как ускорить реализацию актива с помощью ИИ, цифровизации и автоматизации процессов» <br/>(презентация)<br/><br/>Ний Анатолий «Облегчить работу АУ. ИИ берет рутину, ответственность остается за вами» <br/>(<a href="https://drive.google.com/file/d/1Rx4xpGhhOmS_oiOgh-sgZyRpTiiV30_K/view?usp=sharing" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">презентация</a>)<br/><br/>Пашкова Светлана «Актуальные вопросы налогообложения предприятий в процедурах банкротства» <br/>(презентация)<br/><br/>Пустошилов Евгений «Уголовные риски в работе арбитражного управляющего. Четыре опасных заблуждения, которые могут стоить свободы» <br/>(<a href="https://drive.google.com/file/d/1_x_Llclb6RM3QiqNLbt2-agweUeX1oy-/view?usp=sharing" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">презентация</a>)<br/><br/>Радзивил Радмила «Реформа ФНС и ЕНС. Межотраслевые коллизии и превентивные стратегии арбитражного управляющего» <br/>(<a href="https://drive.google.com/file/d/1uvgMlWkjls6jyfjv4wtXIeLdLUfqCEvj/view?usp=sharing" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">презентация</a>)<br/><br/>Савченко Даниил «Закон о банкротстве изменился. Как работать по новым правилам» <br/>(<a href="https://drive.google.com/file/d/1nIA46aZ24wfSuCk0h3moTU-7fsWI0VgP/view?usp=sharing" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">презентация</a>)<br/><br/>Трапицын Артур «Цифровая инфраструктура рынка банкротства» <br/>(<a href="https://drive.google.com/file/d/1Zp_K0VJdOwFDc0YkuZHor21P5Bk42LS-/view?usp=sharing" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">презентация</a>)<br/><br/>Шалаев Владимир «Обыски, выемки, запросы»<br/>(<a href="https://drive.google.com/file/d/1cAgK7hFkO2SsgTY8otxqmrNIrewJZaCr/view?usp=sharing" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">презентация</a>)<br/><br/>Шунайлова Екатерина «Непередача документов: риск административной ответственности»<br/>(<a href="https://drive.google.com/file/d/1W0weUtNBndYT84oRTrKO8GH6EDYWIefU/view?usp=sharing" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">презентация</a>)]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/bankrotorg2/10948</guid>
-      <pubDate>Tue, 20 Oct 2026 16:59:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Презентации, фото и видео Форума — по ссылкам ниже</title>
-      <link>https://telegram.me/bankrotorg2/10949</link>
-      <description>Презентации, фото и видео Форума — по ссылкам ниже 
-🤘
-
-📸
- 
-Фоторепортаж
-: кадры, которые говорят сами за себя. В альбоме - первый, второй день Форума и бильярдный турнир
-
- 
-
-⚡
-️
-Презентации наших спикеров
-: в одном месте все ключевые тезисы Форума
-
-🎞
- Видеозапись 15.10.2026
-
-🎞
- Видеозапись 16.10.2026
-
-До встречи 14-15 октября 2027 года
- 
-🤍</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/fea2ww-MnamKMlHwMThGPcVhVHUlZnz-J0B_J-LRpnK0EzzeP4vjmoiZFrsn5kKHeqcrNL6kmd8x4Nnb9xRz52yz81xTBuICpXTGuBXCpmR4_FqEyH4WyhFYwz40VJYzGxF_F0C32uMzNtUbxvNvQEBc4WwlNvaHNcxgH5FXdVC-D9xM1uqj9LJJeOvToB8mraPE4xQ-F4zNV474HF7QBAh75FKKZUfpjGZGFXpDQQ_VmyF9taDuacZZQ_9TZ6kwTOxSuZr5b4exXMbYYKdPKGh6UxY0xxrmF3e13_0qNSt-2-soLPW1rfOhiGDu6bHW33VkZzqeELzk51VVUrpOfA.jpg" /></p>
-Презентации, фото и видео Форума — по ссылкам ниже <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA498.png')"><b>🤘</b></i><br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93B8.png')"><b>📸</b></i> <a href="https://livefotomark.ru/disk/xiv-ufau-tqs6kz" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b>Фоторепортаж</b></a>: кадры, которые говорят сами за себя. В альбоме - первый, второй день Форума и бильярдный турнир<br/> <br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29AA1.png')"><b>⚡</b></i><a href="https://disk.yandex.ru/d/khqbY7gLtzkrtg" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">️</a><a href="https://disk.yandex.ru/d/khqbY7gLtzkrtg" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b>Презентации наших спикеров</b></a>: в одном месте все ключевые тезисы Форума<br/><br/><a href="https://vkvideo.ru/live-238020933_456239018?list=bce9dc6f2fafdbcacb" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8E9E.png')"><b>🎞</b></i> Видеозапись 15.10.2026</a><br/><a href="https://vkvideo.ru/live-238020933_456239019?list=6a7550ad4e1ddf55fd" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8E9E.png')"><b>🎞</b></i> Видеозапись 16.10.2026</a><br/><br/><b>До встречи 14-15 октября 2027 года</b> <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA48D.png')"><b>🤍</b></i>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/bankrotorg2/10949</guid>
-      <pubDate>Tue, 20 Oct 2026 16:59:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>А вот и фоточки с Уральского форума приехали</title>
-      <link>https://telegram.me/bankrotorg2/10943</link>
-      <description>А вот и фоточки с Уральского форума приехали 
-🔥</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/Ri9fdkbWqVLbaBKXVBqZAJCAzpSSqQsea9wU5qvukWfSmczIjjKOLBxUAXG_Z5zNNIrwfAsB17Q80SU4t-PBb3ZfIcfer-u7NPLVRYCd5GgjRA8tYOdLxDTPip7sb371uMs1DjjM3508SoDDq6BFh0zwchk2FA8bEKNz7NozYboeTrWx-S1dJyBOrntQZIW2lXeHX7nd5Bx5syEJxdlCOz7VkqQ07ywhunOaNOUITUJOjx80VBKvMVsV08OTI5OlilaLg1XSVa_vukYTqKYVlQtOXokP2c0yJ2sP5a5CMWlXJ23VMlfL8fKBEqFyY5OU2RYVMb-3dgYm0ihh3vOP1g.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/RlsWv5Wwb2KDMGxOHr1_5ERUzlmMCAfs2m69bRm-aSTByTSmY-tqCSf31NRcba6juHz_LRB4GoS3eQXc6svaPTmfI5EFKsr341J_KhGz9RlDsC959rJuW9oxTOOgkbqkiyhS9Oqy4WcguzUh36eG3SiNe3Ji1O5i2HvbYFdByfLf1mikXottswVB0ALKuocW06Dzcib4ccewCJwlkWm0cgv2Ap9dqTD4FTZS_cJbpVW1oCHufzz5r6eiGHydVQhRIg6dyLoEiddD8BBx7iU5JAGUkzweUUYNz-a3St5vGEpXBwDm8WtOkgf6axHhgsQuf-yqmZW1QFV0-OgvBeOeIw.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/ZOZwYZWusR1XpDRTcjftHZP9lAiG-QibY9wesW8h0Ek5eiCX7h0CDljxvDjS3BXuvGcslGWhmKzLkRLOWRuFkARf61QclA8OzpcQGjKWsis8kku0ublZlFVbnuWzYl7MxbvO5vbTvCT-pyXF2RFmBAwnCQwsO2EhoL4NATFt31Dqb2A29a1Cty9oC5-tNeJBzI3ZdE16WQgc9zVOKzeA3APJCak-E3-SA1oQsmIF_DPrnpZZ_Ah0QlSHEfKL9lzBfmh04tZxXl32METIxV-cS28lB_KS05GRFOqHaa7qmZYF8esOzLqmO5QDW1j_mJa92_cgiu7xHqE65K287H3qGw.jpg" /></p>
-<div class="tgme_widget_message_text js-message_text" dir="auto">А вот и фоточки с Уральского форума приехали <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')"><b>🔥</b></i></div>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/bankrotorg2/10943</guid>
-      <pubDate>Tue, 20 Oct 2026 16:58:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Видеозапись нашей секции можно посмотреть</title>
-      <link>https://telegram.me/bankrotorg2/10946</link>
-      <description>Видеозапись нашей секции можно посмотреть 
-здесь
+      <title>Сказ о том, как разрешение неплатежеспособности банкротством стало</title>
+      <link>https://telegram.me/bankrotorg2/10980</link>
+      <description>Сказ о том, как разрешение неплатежеспособности банкротством стало
 .
 
-Начало секции на отметке: 1:29:00.
+Не первый и даже не второй раз возвращаюсь к истокам, так сказать к анналам развития института. Что такое банкротство и как оно стало разрешением неплатежеспособности во всем мире, но только у нас стараниями теоретиков и американофилов стало снова банкротством. Началось все с того, что авторы ГК РФ приравняли несостоятельность с банкротством. Если первое понятие скорее экономическое и фиксирует имущественное положение субъекта, то второе злонамеренное преступление или проступок вследствии переоценки своих возможностей. Хотя возможно авторы ГК РФ специально указали на истоки института разрешения неплатежеспособности, имеющие явную публично- правовую природу. Впрочем, в общественном сознании, по моим оценкам, эти два понятия не смешиваются, а напротив весьма четко разделяют, чего не скажешь о наших эгоспертах- членах 
+секты
+ клуба баночных кротов. Они то как раз   навязывают навязывают американское понимание института разрешения неплатежеспособности, выросшее из предисловия 
+Тристана Бернара к сборнику водевильных рассказов
+, которого любители цитаты про карманы банкрота даже не читали(Алексей Юхнин ). Самое смешное, что только, что нашим теоретикам от кротобанок, совершенно не интересно читать чужие работы на заданную тему (разослал свою статью про СО 5 теоретикам и только 2 высказались о содержании). При чем наиболее уважаемый мной исследователь конкурсного процесса -  
+Тимур Митфахутдинов
+, на мой вопрос доколе мы будем институт разрешения неплатежеспособности называть банкротством (термин публичного права однозначно указывающий на преступное деяние) ответил вопросом на вопрос: "А тебе не все ли равно какого цвета учебник?". Отвечаю здесь публично: "Мне небезразлична колористика, однако важнее содержание, а пока мы в своем "учебнике" описываем как  
+награждать непричастных
+  швырять кредиторов и 
+наказывать невиновных
+ гробить бизнес. 
 
-Моё выступление на отметке: 2:08:15. 
+На мой взгляд, не исправив базовый понятийный аппарат, мы продолжаем создавать химеру: возлагая на 
+арбитражных управляющих
+ долговых поверенных и теперь уже СРО функции антикризисных компаний, забывать, даже не про экономику, а про арифметику при определении размера компенсационного фонда СРО, протаскивать глобальные поправки втихую обсуждая их втихаря с их же разработчиками.
 
-Презентация - 
-здесь
-.</description>
-      <content:encoded><![CDATA[Видеозапись нашей секции можно посмотреть <a href="https://vkvideo.ru/live-238020933_456239019?list=6a7550ad4e1ddf55fd" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">здесь</a>.<br/>Начало секции на отметке: 1:29:00.<br/>Моё выступление на отметке: 2:08:15. <br/>Презентация - <a href="https://disk.yandex.ru/i/HrFbXQ_bb5WVQQ" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">здесь</a>.]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/bankrotorg2/10946</guid>
-      <pubDate>Tue, 20 Oct 2026 16:58:35 +0000</pubDate>
+Впрочем, время нас рассудит и может на черном учебнике золотыми буквами будет написано Долговое право, ведь "в долговом праве, таится рассадник мира моральных понятий „вина“, „совесть“, „долг“, „священность долга“ — корни его, как и корни всего великого на земле, изобильно и долгое время орошались кровью". См. "
+О генеалогии морали" Ф.Ницше
+.
+
+А теперь стих. 
+
+Предметом кодекса не может банкротство
+
+Быть!
+
+Оно преступника лишь может от кредитора 
+
+Укрыть!
+
+Пора и нам свои законы 
+
+Объединить! 
+
+Тогда мы сможем по моральному закону 
+
+Жить!</description>
+      <content:encoded><![CDATA[<b>Сказ о том, как разрешение неплатежеспособности банкротством стало</b>.<br/><br/>Не первый и даже не второй раз возвращаюсь к истокам, так сказать к анналам развития института. Что такое банкротство и как оно стало разрешением неплатежеспособности во всем мире, но только у нас стараниями теоретиков и американофилов стало снова банкротством. Началось все с того, что авторы ГК РФ приравняли несостоятельность с банкротством. Если первое понятие скорее экономическое и фиксирует имущественное положение субъекта, то второе злонамеренное преступление или проступок вследствии переоценки своих возможностей. Хотя возможно авторы ГК РФ специально указали на истоки института разрешения неплатежеспособности, имеющие явную публично- правовую природу. Впрочем, в общественном сознании, по моим оценкам, эти два понятия не смешиваются, а напротив весьма четко разделяют, чего не скажешь о наших эгоспертах- членах <s>секты</s> клуба баночных кротов. Они то как раз   навязывают навязывают американское понимание института разрешения неплатежеспособности, выросшее из предисловия <a href="https://archive.org/details/proposdunhommequ00bare/page/n10/mode/1up" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Тристана Бернара к сборнику водевильных рассказов</a>, которого любители цитаты про карманы банкрота даже не читали(Алексей Юхнин ). Самое смешное, что только, что нашим теоретикам от кротобанок, совершенно не интересно читать чужие работы на заданную тему (разослал свою статью про СО 5 теоретикам и только 2 высказались о содержании). При чем наиболее уважаемый мной исследователь конкурсного процесса -  <a href="https://telegram.me/bankruptcy_law_forever" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Тимур Митфахутдинов</a>, на мой вопрос доколе мы будем институт разрешения неплатежеспособности называть банкротством (термин публичного права однозначно указывающий на преступное деяние) ответил вопросом на вопрос: "А тебе не все ли равно какого цвета учебник?". Отвечаю здесь публично: "Мне небезразлична колористика, однако важнее содержание, а пока мы в своем "учебнике" описываем как  <s>награждать непричастных</s>  швырять кредиторов и <s>наказывать невиновных</s> гробить бизнес. <br/>На мой взгляд, не исправив базовый понятийный аппарат, мы продолжаем создавать химеру: возлагая на <s>арбитражных управляющих</s> долговых поверенных и теперь уже СРО функции антикризисных компаний, забывать, даже не про экономику, а про арифметику при определении размера компенсационного фонда СРО, протаскивать глобальные поправки втихую обсуждая их втихаря с их же разработчиками.<br/>Впрочем, время нас рассудит и может на черном учебнике золотыми буквами будет написано Долговое право, ведь "в долговом праве, таится рассадник мира моральных понятий „вина“, „совесть“, „долг“, „священность долга“ — корни его, как и корни всего великого на земле, изобильно и долгое время орошались кровью". См. "<a href="https://nitshe.ru/nicshe-k-genealogii-morali-chitat-6.html?ysclid=mvlygqvy4914301656" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">О генеалогии морали" Ф.Ницше</a>.<br/><br/>А теперь стих. <br/>Предметом кодекса не может банкротство<br/><b>Быть!</b><br/>Оно преступника лишь может от кредитора <br/><b>Укрыть!</b><br/>Пора и нам свои законы <br/><b>Объединить! </b><br/>Тогда мы сможем по моральному закону <br/><b>Жить!</b>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/bankrotorg2/10980</guid>
+      <pubDate>Sat, 24 Oct 2026 09:46:21 +0000</pubDate>
     </item>
     <item>
-      <title>Национальная премия в сфере работы с проблемными активами - ASRPA</title>
-      <link>https://telegram.me/bankrotorg2/10942</link>
-      <description>Национальная премия в сфере работы с проблемными активами - ASRPA
+      <title>❗️</title>
+      <link>https://telegram.me/bankrotorg2/10979</link>
+      <description>❗️
+ Скидка на ФинРадар 10%
 
-https://asrpa.ru/premiya/</description>
-      <content:encoded><![CDATA[Национальная премия в сфере работы с проблемными активами - ASRPA<br/><a href="https://asrpa.ru/premiya/" rel="noopener" target="_blank">https://asrpa.ru/premiya/</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/bankrotorg2/10942</guid>
-      <pubDate>Tue, 20 Oct 2026 11:10:17 +0000</pubDate>
+ФинРадар помогает арбитражным управляющим быстро и глубоко изучить банковские выписки, книги покупок и продаж по должнику: увидеть полную картину движения денег, расчетов с контрагентами, определить участки, которые требуют дальнейшей работы.
+
+Как другие управляющие уже используют ФинРадар
+
+Вместо ручной работы с морем выписок ФинРадар помогает быстро ответить на практические вопросы:
+
+По юридическому лицу:
+
+- на кого из контрагентов уходили деньги;
+
+- кто из контрагентов выглядит слабым и подозрительным;
+
+- кому возвращали займы перед банкротством;
+
+- как через зарплату и премии могли выводить кэш перед банкротством;
+
+- сколько денег ушло через переводы под отчет и на хоз.нужды;
+
+- как КДЛ тратил деньги с корпоративной карты на рестораны, строительство дачи и путешествия.
+
+По физическому лицу:
+
+- брал ли гражданин одновременно много займов и кредитов;
+
+- как должник тратил кредитные деньги: на обычные расходы, все перегонял в наличку или покупал ювелирку и айфоны;
+
+- был ли у гражданина регулярный доход, который он скрыл;
+
+- не оплачивал ли должник чужие обязательства;
+
+- использовал ли должник потребительский кредит для финансирования бизнеса.
+
+🚀
+ Есть бесплатный пробный доступ: 
+7 дней, бесплатно, без карты.
+
+🎁
+ По промокоду bankrotorg2 – 
+10% скидка на первую оплату
+.
+
+Попробовать ФинРадар в деле:
+
+https://finradar.brpadvice.ru/bankrotstvo?utm_source=bankrotorg2</description>
+      <content:encoded><![CDATA[<b><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29D97.png')"><b>❗️</b></i> Скидка на ФинРадар 10%</b><br/>ФинРадар помогает арбитражным управляющим быстро и глубоко изучить банковские выписки, книги покупок и продаж по должнику: увидеть полную картину движения денег, расчетов с контрагентами, определить участки, которые требуют дальнейшей работы.<br/><br/><b>Как другие управляющие уже используют ФинРадар</b><br/>Вместо ручной работы с морем выписок ФинРадар помогает быстро ответить на практические вопросы:<br/><b>По юридическому лицу:</b><br/>- на кого из контрагентов уходили деньги;<br/>- кто из контрагентов выглядит слабым и подозрительным;<br/>- кому возвращали займы перед банкротством;<br/>- как через зарплату и премии могли выводить кэш перед банкротством;<br/>- сколько денег ушло через переводы под отчет и на хоз.нужды;<br/>- как КДЛ тратил деньги с корпоративной карты на рестораны, строительство дачи и путешествия.<br/><b>По физическому лицу:</b><br/>- брал ли гражданин одновременно много займов и кредитов;<br/>- как должник тратил кредитные деньги: на обычные расходы, все перегонял в наличку или покупал ювелирку и айфоны;<br/>- был ли у гражданина регулярный доход, который он скрыл;<br/>- не оплачивал ли должник чужие обязательства;<br/>- использовал ли должник потребительский кредит для финансирования бизнеса.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9A80.png')"><b>🚀</b></i> Есть бесплатный пробный доступ: <b>7 дней, бесплатно, без карты.</b><br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8E81.png')"><b>🎁</b></i> По промокоду bankrotorg2 – <b>10% скидка на первую оплату</b>.<br/><br/>Попробовать ФинРадар в деле:<br/><a href="https://finradar.brpadvice.ru/bankrotstvo?utm_source=bankrotorg2" rel="noopener" target="_blank">https://finradar.brpadvice.ru/bankrotstvo?utm_source=bankrotorg2</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/bankrotorg2/10979</guid>
+      <pubDate>Sat, 24 Oct 2026 09:39:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>🖼 Фото — Банкротство. the other side</title>
+      <link>https://telegram.me/bankrotorg2/10978</link>
+      <description>🖼 Фото — Банкротство. the other side</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/oLxVtUV8T36UP3tTDFX2MQljylXZSVCjzN4DOQHj9QuFTHcKtih68pqA36MDhszUp7myut60nSbhbYfolopAcGfnZadgAzyXiKadlGVvWKgO8OMF1hI4FHtwquGro9nWIodYVzC3ejNqqGWY-vDR078hQ4tiaOJPUd2enin772-LGyaMKNIFmnBvU_B_In8408TorAoijk6f7ayqkvJZvH6Z1VlyssTw_94ubMxqIVQRmVjwG7F6LEpIffeCp4tk4ZTANTZMCJClTgq5WTTxc5F6pJJW3lofSld9llOSnylez_tJKMVILo4X9cO7C-_Vk0OCt1-znz5u9BQSWvxj_g.jpg" /></p>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/bankrotorg2/10978</guid>
+      <pubDate>Sat, 24 Oct 2026 06:58:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>https://zakon.ru/discussion/2026/09/19/arhitektor_shem_delo_dorofeeva_ps_a82-224522018_kak_posobi…</title>
+      <link>https://telegram.me/bankrotorg2/10977</link>
+      <description>https://zakon.ru/discussion/2026/09/19/arhitektor_shem_delo_dorofeeva_ps_a82-224522018_kak_posobie_po_spisaniyu_dolgov?ysclid=mvj430n1ti164555077&amp;</description>
+      <content:encoded><![CDATA[<a href="https://zakon.ru/discussion/2026/09/19/arhitektor_shem_delo_dorofeeva_ps_a82-224522018_kak_posobie_po_spisaniyu_dolgov?ysclid=mvj430n1ti164555077&amp;" rel="noopener" target="_blank">https://zakon.ru/discussion/2026/09/19/arhitektor_shem_delo_dorofeeva_ps_a82-224522018_kak_posobie_po_spisaniyu_dolgov?ysclid=mvj430n1ti164555077&amp;</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/bankrotorg2/10977</guid>
+      <pubDate>Sat, 24 Oct 2026 06:55:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Анализируй это! // Обзор источников информации о должнике для АУ и некоторых электронных сервисов</title>
+      <link>https://telegram.me/bankrotorg2/10976</link>
+      <description>Анализируй это! // Обзор источников информации о должнике для АУ и некоторых электронных сервисов
+
+https://zakon.ru/blog/2026/10/23/analiziruj_eto__obzor_istochnikov_informacii_o_dolzhnike_dlya_au_i_nekotoryh_elektronnyh_servisov</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/a2xIMWwSRAI4XrSnXutnDgr0TtzbCj1wsjCG3Em8oimuau-ykxbtGvkPqUukcL3uQJ_rl9wIv53yxVv_DC5YLNS-4o1LPadmo5ki4qtwstZVmKX_FleJngi4RU08UKw0SE6MZo3ZFhewg8tOGjs4rsO0pfk0UWO9Y8iZw9a8iMSevmNjQZdpw2gKrSDGremW8fRwLCiaZDquDBLfrFFRB3DxO9PnDla2G4HTG-bB4CAunjfqBEB0fAo5f7vN1Iie-q6fGlNtQSuAYNdDDl4uayOsw9cy47ctT28hPbPgDnQZ534z7hnx6WBGMSs97qG2RSKc5MTFsqn0iUpOg346zw.jpg" /></p>
+Анализируй это! // Обзор источников информации о должнике для АУ и некоторых электронных сервисов<br/><a href="https://zakon.ru/blog/2026/10/23/analiziruj_eto__obzor_istochnikov_informacii_o_dolzhnike_dlya_au_i_nekotoryh_elektronnyh_servisov" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">https://zakon.ru/blog/2026/10/23/analiziruj_eto__obzor_istochnikov_informacii_o_dolzhnike_dlya_au_i_nekotoryh_elektronnyh_servisov</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/bankrotorg2/10976</guid>
+      <pubDate>Sat, 24 Oct 2026 05:05:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Миллиардер Илон Маск заявил, что нейросеть Grok 3 его компании xAI стала бесплатной для всех жела…</title>
+      <link>https://telegram.me/bankrotorg2/10975</link>
+      <description>Миллиардер Илон Маск заявил, что нейросеть Grok 3 его компании xAI стала бесплатной для всех желающих. Изменения он 
+анонсировал
+ в соцсет</description>
+      <content:encoded><![CDATA[Миллиардер Илон Маск заявил, что нейросеть Grok 3 его компании xAI стала бесплатной для всех желающих. Изменения он <a href="https://dzen.ru/away?to=https%3A%2F%2Fx.com%2Felonmusk%2Fstatus%2F1892417111479238898" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">анонсировал</a> в соцсет]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/bankrotorg2/10975</guid>
+      <pubDate>Fri, 23 Oct 2026 21:00:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Минфин готов рассмотреть риски налога на сверхдоходы</title>
+      <link>https://telegram.me/bankrotorg2/10974</link>
+      <description>Минфин готов рассмотреть риски налога на сверхдоходы
+
+https://www.kommersant.ru/doc/9059375?utm_source=theme&amp;utm_medium=email&amp;utm_campaign=newsletter</description>
+      <content:encoded><![CDATA[Минфин готов рассмотреть риски налога на сверхдоходы<br/><a href="https://www.kommersant.ru/doc/9059375?utm_source=theme&amp;utm_medium=email&amp;utm_campaign=newsletter" rel="noopener" target="_blank">https://www.kommersant.ru/doc/9059375?utm_source=theme&amp;utm_medium=email&amp;utm_campaign=newsletter</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/bankrotorg2/10974</guid>
+      <pubDate>Fri, 23 Oct 2026 19:49:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Прочитал в чате от ленивых читателей, которые даже решение суда не хотят прочитать и не понимают…</title>
+      <link>https://telegram.me/bankrotorg2/10972</link>
+      <description>Прочитал в чате от ленивых читателей, которые даже решение суда не хотят прочитать и не понимают значения победы Егора.
+
+Наверное, вам даже стрим с Егором будет трудно смотреть:) он больше чем рилс. 
+
+Егор, как арбитражный управляющий, получал жалобы от анонимного кредитора. Жалобы официально приходили за подписью человека, которого не существовало. Но Росреестр всё равно рассматривал эти жалобы. Егор год, может больше, отбивался от этих жалоб и нёс расходы. Сотрудники Росреестра из Иркутска , ещё и вели себя как 
+сволочи
+ нормальные чиновники - "не мы такие, жизнь такая". 
+
+Егор пбедил по жалобам и предъявил убытки Росреестру. Чиновники, вместо того что бы признать что они 
+твари
+ не правы, решили 
+выёбываться
+ сопротивляться и обжаловать все решения судов.
+
+И вот итог. Егор их 
+вы@бал
+ победил. Теперь должны выплатить компенсацию .
+
+И надеюсь, что всех этих чиновников лишат премии, званий и уволят 
+нах@й
+ без права выхода на пенсию, как виновников .
+
+Егор - герой, который длительное время шёл к этой победе за нас всех.
+
+Ну а кому не лень, посмотрите архив стрима с Егором - откуда росли ноги и как это было. Много интересных технологий для борьбы с управляющими Егор рассказывает.</description>
+      <content:encoded><![CDATA[Прочитал в чате от ленивых читателей, которые даже решение суда не хотят прочитать и не понимают значения победы Егора.<br/>Наверное, вам даже стрим с Егором будет трудно смотреть:) он больше чем рилс. <br/>Егор, как арбитражный управляющий, получал жалобы от анонимного кредитора. Жалобы официально приходили за подписью человека, которого не существовало. Но Росреестр всё равно рассматривал эти жалобы. Егор год, может больше, отбивался от этих жалоб и нёс расходы. Сотрудники Росреестра из Иркутска , ещё и вели себя как <tg-spoiler>сволочи</tg-spoiler> нормальные чиновники - "не мы такие, жизнь такая". <br/>Егор пбедил по жалобам и предъявил убытки Росреестру. Чиновники, вместо того что бы признать что они <tg-spoiler>твари</tg-spoiler> не правы, решили <tg-spoiler>выёбываться</tg-spoiler> сопротивляться и обжаловать все решения судов.<br/>И вот итог. Егор их <tg-spoiler>вы@бал</tg-spoiler> победил. Теперь должны выплатить компенсацию .<br/>И надеюсь, что всех этих чиновников лишат премии, званий и уволят <tg-spoiler>нах@й</tg-spoiler> без права выхода на пенсию, как виновников .<br/>Егор - герой, который длительное время шёл к этой победе за нас всех.<br/>Ну а кому не лень, посмотрите архив стрима с Егором - откуда росли ноги и как это было. Много интересных технологий для борьбы с управляющими Егор рассказывает.]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/bankrotorg2/10972</guid>
+      <pubDate>Fri, 23 Oct 2026 15:03:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Международный стрим "Погружение в банкротство"</title>
+      <link>https://telegram.me/bankrotorg2/10973</link>
+      <description>Международный стрим "Погружение в банкротство"
+
+12 сентября 2025 г.
+
+Тема стрима:
+
+"
+Убытки от анонимных жалоб"
+
+Наш гость: Егор Непомнящих
+
+– арбитражный управляющий с 2014 года, делегат Первого Всероссийского съезда АУ, член «ОРПАУ», представитель Ассоциации «МСО ПАУ» в Иркутской области.
+
+На Егора жаловался - мертвец!
+
+А может быть анонимным жалобщиком был сам Росреестр?
+
+Аноним-мертвец жаловался на сотрудников Росреестра, если они не наказвали Егора.И на судей аноним жаловался, если Егора не наказывали.
+
+Всё это и атаку анонимов на стрим Егора вы сможете увидеть в записи. 
+
+🎦
+  Видеозапись стрима смотрите в YouTube 
+https://www.youtube.com/@Bankrotorg/videos
+ и телеграм-канале "Банкротство. the other side" 
+https://t.me/bankrotorg2
+
+🌐
+ Анонсы стримов - на сайте  
+https://www.bankrot.blog
+
+⏱️
+ Архив стримов в телеграм канале "Погружение в банкротство"
+
+https://t.me/bankrotorgstream
+
+➡️
+ Задать вопросы гостям и высказать мнение - в чате "Флуд о банкротстве" 
+https://t.me/+5h0QqSg0_dFmNDMy</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/o9J8rwuWjtV7wSuDD_CPNjJzrOC-goP8EdrE5divL9qPmtcUmsXmNbK7JU76Cl02z9cHjbhzMkVpiIgFqthl0BzyZ_Z5e2VPItz3ziQzBjJgFSCxRjPlVcVNHLTBE2LuBMVGi5KkdOwrLFD0QAdunnIvjJ9lLC9P2Q7U-jBIGzajSPZv-OxLZe3NeUpjCb-5YiF7pT33k6vOcB84RJPZs-8u8W08wpyABgv7B_5YC7krm_wVsJcOard6_8JpKw9DwhFArfWLjNSADsnC0OMjSWiVU0A0TensYIMcRqnBupfc3coUS3vktiGStQ5aNPA13Cfcou9LWelN305kDDOB0A" /></p>
+Международный стрим "Погружение в банкротство"<br/>12 сентября 2025 г.<br/>Тема стрима:<br/>"<b>Убытки от анонимных жалоб"<br/>Наш гость: Егор Непомнящих</b><br/>– арбитражный управляющий с 2014 года, делегат Первого Всероссийского съезда АУ, член «ОРПАУ», представитель Ассоциации «МСО ПАУ» в Иркутской области.<br/>На Егора жаловался - мертвец!<br/>А может быть анонимным жалобщиком был сам Росреестр?<br/>Аноним-мертвец жаловался на сотрудников Росреестра, если они не наказвали Егора.И на судей аноним жаловался, если Егора не наказывали.<br/>Всё это и атаку анонимов на стрим Егора вы сможете увидеть в записи. <br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8EA6.png')"><b>🎦</b></i>  Видеозапись стрима смотрите в YouTube <a href="https://www.youtube.com/@Bankrotorg/videos" rel="noopener" target="_blank">https://www.youtube.com/@Bankrotorg/videos</a> и телеграм-канале "Банкротство. the other side" <a href="https://telegram.me/bankrotorg2" rel="noopener" target="_blank">https://t.me/bankrotorg2</a><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8C90.png')"><b>🌐</b></i> Анонсы стримов - на сайте  <a href="https://www.bankrot.blog/" rel="noopener" target="_blank">https://www.bankrot.blog</a><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E28FB1.png')"><b>⏱️</b></i> Архив стримов в телеграм канале "Погружение в банкротство"<br/><a href="https://telegram.me/bankrotorgstream" rel="noopener" target="_blank">https://t.me/bankrotorgstream</a><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29EA1.png')"><b>➡️</b></i> Задать вопросы гостям и высказать мнение - в чате "Флуд о банкротстве" <a href="https://telegram.me/+5h0QqSg0_dFmNDMy" rel="noopener" target="_blank">https://t.me/+5h0QqSg0_dFmNDMy</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/bankrotorg2/10973</guid>
+      <pubDate>Fri, 23 Oct 2026 15:03:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Документальное фото.</title>
+      <link>https://telegram.me/bankrotorg2/10970</link>
+      <description>Документальное фото.
+
+Арбитражный суд проверяет экономическую обоснованность плана реструктуризации долгов</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/O1UpaZriDeDCgvSVzDKl3uhjTmN0XKsIZZg9_ZS9I5HXr4qfLHbvrqr2s2LCAcMubQ3IYQsUOnPO3tKF2xnOLT5sKiynwg2RgrQQ1lfPqtrotmGyR2hvVOG4mHBUzgI4rWrPaXv-CGqTA_X6ghSwgxsFACLLU4aSCNEVKCJRMTKGqPk7eEet0Wpm2ybclyS9gr4YL8H6oAVgth-kvh78hh3PK8Hx-r8nTUZBZe_xqGHcWkPi7I-GJaSKxHl4yBSrqInAq9ti5RGH8SaVax3g8BzwWiAJau6gWS4ETNwG5qHpb6YTTeVvmyVRUrLOGWg8aP-nfGjI2iK6KUQG9xzHZw.jpg" /></p>
+Документальное фото.<br/>Арбитражный суд проверяет экономическую обоснованность плана реструктуризации долгов]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/bankrotorg2/10970</guid>
+      <pubDate>Fri, 23 Oct 2026 11:38:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Кстати, новости из кулуаров Уральского форума. Говорят, легендарный судья М.С. Шальмин ушёл в поч…</title>
+      <link>https://telegram.me/bankrotorg2/10971</link>
+      <description>Кстати, новости из кулуаров Уральского форума. Говорят, легендарный судья М.С. Шальмин ушёл в почетную отставку. Должники дружно выдохнули 
+🤓</description>
+      <content:encoded><![CDATA[Кстати, новости из кулуаров Уральского форума. Говорят, легендарный судья М.С. Шальмин ушёл в почетную отставку. Должники дружно выдохнули <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA493.png')"><b>🤓</b></i>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/bankrotorg2/10971</guid>
+      <pubDate>Fri, 23 Oct 2026 11:38:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Егор - поздравляем!</title>
+      <link>https://telegram.me/bankrotorg2/10969</link>
+      <description>Егор - поздравляем!</description>
+      <content:encoded><![CDATA[Егор - поздравляем!]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/bankrotorg2/10969</guid>
+      <pubDate>Fri, 23 Oct 2026 11:24:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
