@@ -8,7 +8,27 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 27 Oct 2026 10:44:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 11:28:12 +0000</lastBuildDate>
+    <item>
+      <title>На основании поста -</title>
+      <link>https://telegram.me/ep_uc/5767</link>
+      <description>На основании поста - 
+Токен под рукой. И это уже проблема.
+
+ЕГАИС, в системном блоке токен - с ключом и сертификатом, рабочий, индикатор горит. Ещё и Guardant подключен)
+
+Чей сертификат - может быть либо руководителя ЮЛ, либо кого-то из сотрудников - физ.лица. 
+
+Ключ - неизвлекаемый, ЕГАИС пишет через PKCS#11, значит если пароль от носителя не дефолтный, воспользоваться им при краже никто не сможет.
+
+Сертификаты автоподписи ЕГАИС не принимает. Решило бы это проблемы? Частично, личные ключи перестали бы так хаотично использоваться.
+
+P.S. Красный вид токена натолкнул на мысль - а не 2.0 ли там до сих пор используется?</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/VvbOr6MYcYnm_u3nFNClJtewARqgUS4FLVXH-LO2RGJSFXgqvNb46W6wEmvxpRYIR3Ly9Dj5wTE_gMYBspkoQTZl4G51a_cCkNS9T6Ae1OBEN1r-5pf1L2pzJGBICVGG2To596jrS-rq0FIVMrx3lssCQ8lC0alwYezYFgbA_QQijm-Stm9aN2V7yZCnPxfpjrRQUgwDNZvq76C4J6ZlRAPJFLQu5NL0gfroKSm4SIpuAv0hOZfxSRnHVwuMLuUQK2H_8IBHF6oWdf0TLQWNZCqG6N2mHUpUEcWIgldA3ATJAsvkN7z0BguPwRTa8MsWq2EDXMC0Oon5eWydJvqkOQ.jpg" /></p>
+На основании поста - <a href="https://telegram.me/Belyaev_ST/482" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Токен под рукой. И это уже проблема.</a><br/><br/>ЕГАИС, в системном блоке токен - с ключом и сертификатом, рабочий, индикатор горит. Ещё и Guardant подключен)<br/><br/>Чей сертификат - может быть либо руководителя ЮЛ, либо кого-то из сотрудников - физ.лица. <br/><br/>Ключ - неизвлекаемый, ЕГАИС пишет через PKCS#11, значит если пароль от носителя не дефолтный, воспользоваться им при краже никто не сможет.<br/><br/>Сертификаты автоподписи ЕГАИС не принимает. Решило бы это проблемы? Частично, личные ключи перестали бы так хаотично использоваться.<br/><br/>P.S. Красный вид токена натолкнул на мысль - а не 2.0 ли там до сих пор используется?]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5767</guid>
+      <pubDate>Wed, 28 Oct 2026 06:00:49 +0000</pubDate>
+    </item>
     <item>
       <title>✍️</title>
       <link>https://telegram.me/ep_uc/5764</link>
@@ -73,76 +93,10 @@
 , в котором зафиксированы 
 основные планы ФСТЭК России, Банка России, ФСБ России, Минэнерго 
 на ближайшее время по изменению регулирования в сфере ИБ.</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/dIUtOpHhj_CgakL-ET9NR-rVBqF7kTAoce4AtZgpLwoCYxDddY5epZ7peKQ0XeFs6fiiUAI2NE9pDV6n5p6levXYV-o9QBy6pguECs8d5z1KlTqJplw8diCVgOtKea5sqxrSjJ3nLhwKi08RXyJaDC4xQyKoQB1fDJQyzWuhSTDqMxmWc0EhsEOai1yQIzvwhgxlf07iylt5BZ6O73RcVfwNBBQq1SySwTYIqrBfSTnfgrXNxDFC3ezcdsALZemj9-Jzgp7DFGpfrwY2dvUsZJ7WU0bBDQOu0BsBMw7jw-B43JS6ay2cOhZVZDeoXaVk-y9gKWGQNmnArayavNRMfQ.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/SdEYn6SIgmciOrr8P-5pve9VDZyCHOBOJ3eHzEa3-kg0BjFTn9_AxnOOvHc8lgtaJVecyYwdRzdUwcuVMw8XIMjW3uY8fMwsKU9F8RoJ4jx6hqJjN5hupXlXilG_rN5Y1KD1KWjKY7GhM0IMMUadQC4M4Pgcpky1WDqQBeAwghCtfe75i8PttvWA9aWhqUtiG6fkmoVry5MWK_bwRSeXFfRaJJn1_9q66S2K7Pgn2foJfLXGfjU6VRaIUJyeG7IIM7YPiUaoV5pnM2zllQPKa4XJ2hntvY3Dxb2GM4HEH0DqJq0zmH9sJMhCPvrUMf0r4kTox8X98TUGoZzBUoH50Q.jpg" /></p>
 <tg-emoji emoji-id="5256113064821926998"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/C2A9.png')"><b>©</b></i></tg-emoji> <b>Пятая межотраслевая конференция АБИСС по регуляторике в сфере ИБ | Итоги ➤</b><br/><br/>По итогам конференции АБИСС подготовлен <a href="https://abiss.ru/press-tsentr/news/5468/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">материал</a>, в котором зафиксированы <b>основные планы ФСТЭК России, Банка России, ФСБ России, Минэнерго </b>на ближайшее время по изменению регулирования в сфере ИБ.]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5761</guid>
       <pubDate>Mon, 26 Oct 2026 04:19:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️</title>
-      <link>https://telegram.me/ep_uc/5754</link>
-      <description>⚡️
-Китай ужесточает контроль в сфере электронной подписи: 58 удостоверяющих центров обязали завершить реформу до 30 октября
-
-14 октября 2026 года Департамент развития информационных технологий Министерства промышленности и информатизации КНР провел совещание с руководителями 58 аккредитованных удостоверяющих центров. Про тему электронной подписи в Китае я давно хочу написать более подробно, до этого дойдет. Начав готовить материал я столкнулся с тем, что у них нет даже перечня аккредитованных УЦ - все данные в разрозненных реестрах. 
-Цифра 58 УЦ - из пресс-релиза.
-
-Темой прошедшего совещания стал 
-переход на новую редакцию
- «Правил и спецификаций ведения деятельности в сфере электронной сертификации». Переходный период завершается 30 октября 2026 года и после этой даты Министерство переходит к полномасштабным проверкам, отстающим грозит приостановка бизнеса, вплоть до отзыва лицензии.
-
-Четыре обязательных требования:
-
-🔹
- 
-Идентификация только в УЦ 
-- проверку личности проводит только сам удостоверяющий центр, передача полномочий иным организациям запрещено - любое другое юридическое лицо уже считается внешним.
-
-🔹
- 
-Соглашение только с УЦ
- - договор об оказании услуг заключается напрямую между УЦ и получателем сертификата.
-
-🔹
- 
-Фиксация волеизъявления
- - намерение заявителя должно быть записано и прослеживаемо по всей цепочке. Для сертификатов повышенного уровня требуется аудио- или видеоподтверждение, для базовых - прослеживаемая запись подтверждения.
-
-🔹
- 
-Контролируемое управление ключом
- - закрытые ключи хранятся у заявителя. Если УЦ размещает ключи у себя, требуется письменное разрешение, шифрованное хранение и полная запись каждого использования.
-
-Что ещё можно узнать из новости: были заслушаны доклады семи ключевых организаций, включая CFCA, Hangzhou Tiangu, Tianwei Chengxin и Beijing Digital. После завершения переходного периода организации обязаны своевременно опубликовать 
-Правила ведения деятельности (CPS) 
-и строго их соблюдать. Установлен запрет на необоснованную приостановку деятельности. Китай понимает. что удостоверяющие центры - фундамент цифрового доверия: электронное правительство, онлайн-сделки, юридически значимый документооборот. Суды уже применяют новый стандарт на практике: в недавнем деле суд Цзиндэчжэня потребовал отчет об идентификации непосредственно в УЦ, указав, что УЦ не вправе поручать проверку личности третьей стороне.
-
-Когда подобные встречи последний раз проводились в нашей стране между регуляторами и УЦ?
-
-Согласно 
-публикации Министрества промышленности от 23.10.2026 
-в соответствии с планом разработки и пересмотра отраслевых стандартов завершена разработка 
-14 отраслевых стандартов
-, включая «Правила и спецификации для бизнеса электронной аутентификации».
-
-✍️
-"Об ЭП и УЦ"</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/QwRgNUtuPqXT_1cQ98-j36bybjZgHsJt8SNIYA6-i5mYoiaLQU_UuFpDj5Bsl_IRC56YXb6PbBrhj1WvMfPwEhbBUQUYofwRjpmhVaHjUNpL7YL6btvPSa2JYSg8KU31w4aVTZzKJt2FEbnJ6HMzFFd1PU3TgtrgMyfc7P6UpCbgm7VwpnFDUELnGwfWbCOj1POWiJr_xFeWuF0_iDNjnHAfBrjOA-mXJaLhJnQim66gD3NkoREo-hR_NSVmxac7rNzJDfDSRpkcBFW8tVGwy9xZab00dAPTGzF2oNgu8JYsLCAPYDzmfTirPxWquZyh-HsqBUTDQx8O810EvlUlkQ.jpg" /></p>
-<b><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29AA1.png')"><b>⚡️</b></i>Китай ужесточает контроль в сфере электронной подписи: 58 удостоверяющих центров обязали завершить реформу до 30 октября</b><br/><br/>14 октября 2026 года Департамент развития информационных технологий Министерства промышленности и информатизации КНР провел совещание с руководителями 58 аккредитованных удостоверяющих центров. Про тему электронной подписи в Китае я давно хочу написать более подробно, до этого дойдет. Начав готовить материал я столкнулся с тем, что у них нет даже перечня аккредитованных УЦ - все данные в разрозненных реестрах. <a href="https://www.miit.gov.cn/jgsj/xxjsfzs/xyjg/art/2026/art_6cf62e1b3bd4489482b4d9f6b3ef4355.html" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Цифра 58 УЦ - из пресс-релиза.</a><br/><br/>Темой прошедшего совещания стал <a href="https://www.cfca.com.cn/20260909/200001927.html" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">переход на новую редакцию</a> «Правил и спецификаций ведения деятельности в сфере электронной сертификации». Переходный период завершается 30 октября 2026 года и после этой даты Министерство переходит к полномасштабным проверкам, отстающим грозит приостановка бизнеса, вплоть до отзыва лицензии.<br/><br/>Четыре обязательных требования:<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> <b>Идентификация только в УЦ </b>- проверку личности проводит только сам удостоверяющий центр, передача полномочий иным организациям запрещено - любое другое юридическое лицо уже считается внешним.<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> <b>Соглашение только с УЦ</b> - договор об оказании услуг заключается напрямую между УЦ и получателем сертификата.<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> <b>Фиксация волеизъявления</b> - намерение заявителя должно быть записано и прослеживаемо по всей цепочке. Для сертификатов повышенного уровня требуется аудио- или видеоподтверждение, для базовых - прослеживаемая запись подтверждения.<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> <b>Контролируемое управление ключом</b> - закрытые ключи хранятся у заявителя. Если УЦ размещает ключи у себя, требуется письменное разрешение, шифрованное хранение и полная запись каждого использования.<br/><br/>Что ещё можно узнать из новости: были заслушаны доклады семи ключевых организаций, включая CFCA, Hangzhou Tiangu, Tianwei Chengxin и Beijing Digital. После завершения переходного периода организации обязаны своевременно опубликовать <a href="https://repository.trustasia.com/en/repo/cps/adoc/v2.2.0" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Правила ведения деятельности (CPS) </a>и строго их соблюдать. Установлен запрет на необоснованную приостановку деятельности. Китай понимает. что удостоверяющие центры - фундамент цифрового доверия: электронное правительство, онлайн-сделки, юридически значимый документооборот. Суды уже применяют новый стандарт на практике: в недавнем деле суд Цзиндэчжэня потребовал отчет об идентификации непосредственно в УЦ, указав, что УЦ не вправе поручать проверку личности третьей стороне.<br/><br/>Когда подобные встречи последний раз проводились в нашей стране между регуляторами и УЦ?<br/><br/>Согласно <a href="https://www.miit.gov.cn/jgsj/kjs/jscx/bzgf/art/2026/art_b21475c114714ac3971aad5b7be07725.html" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">публикации Министрества промышленности от 23.10.2026 </a>в соответствии с планом разработки и пересмотра отраслевых стандартов завершена разработка <a href="https://std.miit.gov.cn/#/index" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">14 отраслевых стандартов</a>, включая «Правила и спецификации для бизнеса электронной аутентификации».<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5754</guid>
-      <pubDate>Sun, 25 Oct 2026 11:00:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>📣</title>
-      <link>https://telegram.me/ep_uc/5753</link>
-      <description>📣
-Компрометация года - про индийский УЦ eMudhra и официальное подтверждение   eMudhra - индийская компания, работающая в сфере PKI, основана в 2008 году (название происходит от санскритского слова mudrā, что означает "печать", "знак"): 
-🔹
-в 2008 году компания…</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/bV5F-SPxFj_QuShFzFUJORsfdkDMn-bld5R_BoEKZMIw7QXxahpYXcYxmnYPEV5v6x7NIJOyRzf3k31sQZ9JXf0Bh8VKFINM-geNbZR6nhTKT442T9G-Pmj7v9sCy-1lQYaOppNTErBjdCKweNGSni6fwXmKhHoQ6IomEpkGJWzDTkixHo3De5rkcf0ZewGncv-D3AKEqQGnY8heGyxEZX4-ARHo5CbTn8gNMjauKQI_1oZZTli-RPJN552VZoRsCXv9rjD8npwOP6gTG6e82MG3Dnz3UZeALQJXLizE4Ic5TMgFB149t7WUXlWxR6cl205N_ChvnHufUXyERPMRhg.jpg" /></p>
-<tg-emoji emoji-id="5470094069289984325"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93A3.png')"><b>📣</b></i></tg-emoji>Компрометация года - про индийский УЦ eMudhra и официальное подтверждение   eMudhra - индийская компания, работающая в сфере PKI, основана в 2008 году (название происходит от санскритского слова mudrā, что означает "печать", "знак"): <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>в 2008 году компания…]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5753</guid>
-      <pubDate>Sun, 25 Oct 2026 06:00:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
