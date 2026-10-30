@@ -8,7 +8,59 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 29 Oct 2026 11:38:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 11:29:40 +0000</lastBuildDate>
+    <item>
+      <title>🛜</title>
+      <link>https://telegram.me/gis_torgi_prodaji/940</link>
+      <description>🛜
+ 
+Автоматические контроли в ГИС ТОРГИ ПРОДАЖИ 
+реализованы для предупреждения пользователей о возможных ошибках при внесении информации.
+
+⚙
+ 
+Автоматические контроли разделены на
+ три уровня:
+
+❕
+Предупреждение
+ информирует пользователя о возможном нарушении и 
+позволяет сохранить и опубликовать документ
+.
+
+❗
+Блокирующий контроль
+ предупреждает о нарушении требований и несоответствии данных. 
+Не позволяет опубликовать документ
+, но 
+разрешает сохранить
+ документ 
+для последующего его исправления.
+
+❌
+ 
+Критическая ошибка
+ 
+не позволяет
+ ни 
+сохранить
+, ни 
+опубликовать
+ документ.
+
+ℹ
+ Для каждого контроля приведено информационное сообщение и уникальный номер (код) контроля.
+
+#ВОПРОСЫ
+
+🔔
+ 
+Следите за новостями ГИС ТОРГИ ПРОДАЖИ в MAX</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/UF4z1AcA-3peuxgnw234Qbogv56wpiWvIskJ2RHgzwgsLcTjDH1uiIOJhCNPmcs9mlh5VL2vqSblq3feA5h7rmzqDyU0y7I5kTdXuTJknq_gsU4927-Zp8U8T24YN7VI5O_-XGaQn1G-EV1JWzILzX2OvlFhiB5-xdpn0yaBo3nv7oqJGr2YEBl_HHR5whidOun6O-my8ySZR2jApiu8_SW4nF0F64GqQnbvhgllAp_WoucTkRxvnjrPgjlzvrvAV3WYBDpDefho-ht0qMQSYe1tXeZrakwC8_b7NB-ADus222Xl7e1WExr7x0RB4RvyVrOYoFw_y0dYxCCA4Va-EQ.jpg" /></p>
+<tg-emoji emoji-id="5418118131715428772"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9B9C.png')"><b>🛜</b></i></tg-emoji> <b>Автоматические контроли в ГИС ТОРГИ ПРОДАЖИ </b>реализованы для предупреждения пользователей о возможных ошибках при внесении информации.<br/><br/><b><tg-emoji emoji-id="5296535548960189760"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29A99.png')"><b>⚙</b></i></tg-emoji></b><b> </b>Автоматические контроли разделены на<b> три уровня:</b><br/><br/><tg-emoji emoji-id="5402594646733900777"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29D95.png')"><b>❕</b></i></tg-emoji><b>Предупреждение</b> информирует пользователя о возможном нарушении и <b>позволяет сохранить и опубликовать документ</b>.<br/><br/><tg-emoji emoji-id="5402127083709155260"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29D97.png')"><b>❗</b></i></tg-emoji><b>Блокирующий контроль</b> предупреждает о нарушении требований и несоответствии данных. <b>Не позволяет опубликовать документ</b>, но <b>разрешает сохранить</b> документ <b>для последующего его исправления.</b><br/><br/><tg-emoji emoji-id="5391182171304112108"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29D8C.png')"><b>❌</b></i></tg-emoji> <b>Критическая ошибка</b> <b>не позволяет</b> ни <b>сохранить</b>, ни <b>опубликовать</b> документ.<br/><br/><tg-emoji emoji-id="5404703557280615893"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E284B9.png')"><b>ℹ</b></i></tg-emoji> Для каждого контроля приведено информационное сообщение и уникальный номер (код) контроля.<br/><br/><a href="?q=%23%D0%92%D0%9E%D0%9F%D0%A0%D0%9E%D0%A1%D0%AB">#ВОПРОСЫ</a><br/><br/><tg-emoji emoji-id="5404763819966744244"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9494.png')"><b>🔔</b></i></tg-emoji> <a href="https://max.ru/gis_torgi_prodaji" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Следите за новостями ГИС ТОРГИ ПРОДАЖИ в MAX</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/gis_torgi_prodaji/940</guid>
+      <pubDate>Fri, 30 Oct 2026 11:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>🛜</title>
       <link>https://telegram.me/gis_torgi_prodaji/939</link>
@@ -49,7 +101,7 @@
 🔔
  
 Следите за новостями ГИС ТОРГИ ПРОДАЖИ в MAX</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/Xtodp1b4MDE2T4pNWt4u6vvCYeXeRBUKDzw0FlsGOITvEZDbtJEo__gA2rh4ZqvrRRNoc8Io3MSlEtOO9ahafmhdpqJNYNLUDbD1-J2nzbKjhk2MAlFFwHX9_TbTCN8-QeFVF1bG6dO8R4UeP7Y6-TJNojfRcC2wxZ40TSKfirPjKC8B3mVH6tJjGhZwVeJlL-xnTRcYiKQwwBS8jUTAZpnVFV2l2BN6zVHID1twTPL8rtgLZa87xUQwETqljH2O-8OOfrf6iriVfVPtpaB8S4js2RpKU2EGQ4YUVcg6k-8L0FpogyXPH-f_Xlpe_-nP5K1ZYriYiiUbg-z-Al925w.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/ZjEa3ZiuEbLNhc7lMp17IUifZTBDOAuwUhgkQbyrWmElgRXs0c34IJkA5qTfR54QtmIzBcCy-OGdnB8KJJtRxffZBAFqQEEy70nz4EaqbVJmF0FYLq29FekfOZxsxVIQKjBW0uyvTbYlLM5VaeOqVDdi0o7viUyXbEFJgXQBdSEOgeUhKh5-RIBeDV4YOyK4g1lWHE5ZE3I22JLEh3fC2fWMUW5F4veKbl3t4toP5BTnRrq_b7qHfXKX-yFY7MbIcwcnIztbUhHUHcszZWY2jRisggDOvDA1sSr44J24gH5WVqYBAlIwmgU9m3d5z2D4YYrPHbd3Qw1rr9L2a8TgVA.jpg" /></p>
 <tg-emoji emoji-id="5418118131715428772"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9B9C.png')"><b>🛜</b></i></tg-emoji> <b>Управление реквизитами счетов в ГИС ТОРГИ ПРОДАЖИ</b><br/><br/><tg-emoji emoji-id="5402374976336579924"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍</b></i></tg-emoji>Организаторы и участники торгов могут добавлять, изменять и удалять реквизиты счетов в личном кабинете. Можно указать как свои счета, так и счета третьих лиц, например, если деньги по договору получает другая организация.<br/><br/><b>Где это сделать:</b><br/><tg-emoji emoji-id="5296541579094275414"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E296AB.png')"><b>▫</b></i></tg-emoji>организациям — «Моя организация» → «Профиль организации» → «Редактировать»;<br/><tg-emoji emoji-id="5296541579094275414"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E296AB.png')"><b>▫</b></i></tg-emoji>физическим лицам — «Мой профиль» → «Редактировать».<br/><br/><b>Что можно сделать в блоке «Банковские счета»:</b><br/><tg-emoji emoji-id="5296283477329587350"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji>добавить новый счет;<br/><tg-emoji emoji-id="5296283477329587350"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji>удалить счет;<br/><tg-emoji emoji-id="5296283477329587350"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji>изменить счет, если он был внесен вручную.<br/><br/><tg-emoji emoji-id="5404703557280615893"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E284B9.png')"><b>ℹ</b></i></tg-emoji> В организации управлять реквизитами может руководитель или сотрудник с правом доступа «Управление платежными реквизитами».<br/><br/><tg-emoji emoji-id="5402094648116137121"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F948D.png')"><b>🔍</b></i></tg-emoji>Подробнее — в разделе <a href="https://torgi.gov.ru/new/public/infomaterials/reg" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">«Информационные материалы»</a> → «Руководство пользователя. Регистрация и работа в Личном кабинете организатора торгов / участника торгов».<br/><br/><tg-emoji emoji-id="5404763819966744244"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9494.png')"><b>🔔</b></i></tg-emoji> <a href="https://max.ru/gis_torgi_prodaji" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Следите за новостями ГИС ТОРГИ ПРОДАЖИ в MAX</a>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/gis_torgi_prodaji/939</guid>
       <pubDate>Wed, 28 Oct 2026 11:02:02 +0000</pubDate>

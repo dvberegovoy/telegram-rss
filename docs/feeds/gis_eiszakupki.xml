@@ -8,7 +8,63 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 29 Oct 2026 11:38:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 11:29:37 +0000</lastBuildDate>
+    <item>
+      <title>⁉</title>
+      <link>https://telegram.me/gis_eiszakupki/3324</link>
+      <description>⁉
+ 
+ВОПРОС
+
+Что делать с неактуальными документами о приемке в статусе «Отказано при рассмотрении»? 
+
+✔
+ 
+ОТВЕТ
+
+Документы о приемке в статусе «Отказано при рассмотрении» учитываются при расчете общего количества (объема) и стоимости заактированных товаров, работ, услуг (далее — ТРУ).
+
+Если 
+документ о приемке в статусе «Отказано при рассмотрении» актуален, поставщику необходимо сформировать исправление 
+существенных
+ или 
+несущественных
+ условий
+ и устранить выявленные ошибки или неточности. 
+
+В случае 
+неактуальности документа о приемке в статусе «Отказано при рассмотрении»
+ 
+поставщику доступна возможность перевода
+ 
+такого документа в статус «Архив».
+
+⚙
+ Данная функция позволяет 
+высвободить количество (объем) ТРУ,
+ указанное в документе о приемке.
+
+При наличии исправлений к документу о приемке 
+в статус «Архив» переводится вся цепочка документов
+ (документ о приемке и его исправления), при этом 
+данная функция доступна, только если все документы в цепочке имеют статус «Отказано при рассмотрении».
+
+📖
+ Подробнее с материалами по работе функционала можно ознакомиться в Базе знаний личного кабинета пользователя ГИС ЕИС ЗАКУПКИ.
+
+#ЧЗВ
+ 
+
+#ЭЛАКТ
+
+📱
+ 
+Следите за новостями ГИС ЕИС ЗАКУПКИ в MAX</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/B6v7JeAnGHlRAItSkLhGnpMY8Pq1SEfWkF7VRG1xp32X0jKEmxRPfCDjTW1bvCP8eiSdwTulzimn3bihctDndmY3ytXLTKmbQ5u7YbVH-4c3-dgDpq2trS2E5rFuGv5b43HytnU9MvS6XELtwKpOuhaaJHJgWkc0BTFUXfXw0Z1X3pBDiZsIF9pGXPslha8lCp3n7SGTkhUYA92zT3f3cqS7eejs6WHDbLzgG-XSu63ltZ13HYeMaJ9RTUVOGoWGWLvvwxb8WjTYjvJr-rXRWbVlQhcumB_m7U5ULA_-VbHp1qLwaR60gqkQQbvjmoWg4ynuhpX0Zcl92Jj4ElEKXA.jpg" /></p>
+<tg-emoji emoji-id="5435994300997443130"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E28189.png')"><b>⁉</b></i></tg-emoji> <b>ВОПРОС</b><br/>Что делать с неактуальными документами о приемке в статусе «Отказано при рассмотрении»? <br/><b><br/></b><tg-emoji emoji-id="5435862449796423200"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C94.png')"><b>✔</b></i></tg-emoji> <b>ОТВЕТ</b><br/>Документы о приемке в статусе «Отказано при рассмотрении» учитываются при расчете общего количества (объема) и стоимости заактированных товаров, работ, услуг (далее — ТРУ).<br/><br/>Если <b>документ о приемке в статусе «Отказано при рассмотрении» актуален, поставщику необходимо сформировать исправление </b><a href="https://zakupki.gov.ru/epz/main/public/qa/question.html?questionId=1520" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b>существенных</b></a><b> или </b><a href="https://zakupki.gov.ru/epz/main/public/qa/question.html?questionId=1519" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b>несущественных</b></a><b> условий</b> и устранить выявленные ошибки или неточности. <br/><br/>В случае <b>неактуальности документа о приемке в статусе «Отказано при рассмотрении»</b> <b>поставщику доступна возможность перевода</b> <b>такого документа в статус «Архив».</b><br/><br/><tg-emoji emoji-id="5296535548960189760"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29A99.png')"><b>⚙</b></i></tg-emoji> Данная функция позволяет <b>высвободить количество (объем) ТРУ,</b> указанное в документе о приемке.<br/><br/>При наличии исправлений к документу о приемке <b>в статус «Архив» переводится вся цепочка документов</b> (документ о приемке и его исправления), при этом <b>данная функция доступна, только если все документы в цепочке имеют статус «Отказано при рассмотрении».</b><br/><br/><tg-emoji emoji-id="5435982738945483816"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9396.png')"><b>📖</b></i></tg-emoji> Подробнее с материалами по работе функционала можно ознакомиться в Базе знаний личного кабинета пользователя ГИС ЕИС ЗАКУПКИ.<br/><br/><a href="?q=%23%D0%A7%D0%97%D0%92">#ЧЗВ</a> <br/><a href="?q=%23%D0%AD%D0%9B%D0%90%D0%9A%D0%A2">#ЭЛАКТ</a><br/><br/><tg-emoji emoji-id="5294059873976200999"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93B1.png')"><b>📱</b></i></tg-emoji> <a href="https://max.ru/gis_eiszakupki" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Следите за новостями ГИС ЕИС ЗАКУПКИ в MAX</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/gis_eiszakupki/3324</guid>
+      <pubDate>Fri, 30 Oct 2026 09:02:00 +0000</pubDate>
+    </item>
     <item>
       <title>🔹</title>
       <link>https://telegram.me/gis_eiszakupki/3318</link>
@@ -25,83 +81,15 @@
  Партнёрам из Африки демонстрируются цифровые решения ГИС ЕИС в сфере закупок, ПИАО ГИИС «Электронный бюджет», применение искусственного интеллекта для работы с финансовыми данными и рисками субсидий, а также проект централизации бухгалтерского учета.
 
 #КазначействоРоссии</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/TGHZDRQ93Byky1Y8pHk58ROZvt7QpRhcoTDDQEabe1m-KyQZl_4fcE4ZEzE7qLzFh1C5FAK0hJfuI_MhNRJBdYlSURB8CGS1POOxbaMEHwQ9pW7q91zfYxLGFIChzXoh4y8awEC65VwhRSK2nirljMPtLy04kBOhT_eFVl_kuqij9uMvHg9WPQld03mcIdvynrHxWBwFitPXwoZwogUyYnTvveBxfiiASrr9qibzMKsWc5oRmnQ16IVKLGZLcueD_MDXTctMnP7gkxQc6NWhdSFU0JDNAP6EX6eRdQsKVQshQvWWxX5AOIml4vbxoiYF94av3eD1IYSGvt3vzm0MCw.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/di4m--SoDAADPNDNoLaOvr3XEb9tBDB5oVJNDg-yrR2Fhsv1YM8ELFniQ25eFhCXHseZ9HUXS67mx_0kcaUC7-sFqXG_Y59vNgdE1NxQWi6WGrv6ZjkmKmwCNyOrFHhTCfhpWQ7d3d3VjBl8SCN81Qp5dTfDghWdKYUesazCf1PQBsXqp9LXBHIKT_U-yLV3mVRm7gLGrd3wQuKoK4HQu0LcAE7UQVKS6OCIqE6PbWiEhpHdXyr5DAy2r9cURJYlVmRODlVohmf2ROH_Dn0dX-W9wL8IYW4YKIOvl7RzbmLgorGN3lBA6ENppoq5fkSO-cnRIfRVcVWX0SkPb_Ozww.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/ABA_mz1waMhTRFB8soAV3mLaDve8jlrQsWDZqgT-kNbtElEPdZEdDr5q4OAZcNv2Nw547b6KqPCQWUmdE5-ryT36p-yAml_Q-dycLVmDpjEXIrE6j_LIfcat99lDNt1lymjzuaRqCFGULgkGycec2ikEzztVHWDCOLOCopHxZ_bkQMr2gee4dOq1Riv6HWYjS3uoPCx5bb-dqpd2cjJRrsTEyM7rwtH5W4CM4b9C-c6O31hHShbykvNU_O8nTq4CLZlNSzeOiONAwNdL5IAj8f_olT8ma5cDiqUu0ua24L9vfnu5qjaTmynMjU7aLrSgHls_BQNq3insvG2KdaQQsg.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/kL-Nth33omH7ksyy4jLgaf-kqx-OX8_PJAg8lnTJBUTY2HgLmbE3EJ86_9Zm7QCHuAUUA9pLmSti9rIZ-qEfxaAxn_RyXmaApMFBj5aBn1hrD1E6z8bR0UmS77N5JJPRvqgytJRPMcKKiewL3sehtMvmRv6vGxzZq0DGQRdmfS1OkIP-NJCMHUM7ekYSRbB_3wQI-OQbXWZOJB3HyFbMiL4P_hC9HopSJAWs_XZgl4ftI7BWtWnN5s67gZIyweHGkPQMGEPMMhsW5oXY8O2ssysLF-5cZEdVw9ed81RE7A4llNldQmQNR3k88XEHSwv0WpSfS9lMoEkkDJed_tYZJQ.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/c1VFgMMHwHAzF0QJ8az_kO0FhXx15PdL_j2nrAkkV7S6KGzZ-vTzTRTZKzn15DhEURDqVDutR2SKA1QZvO_GI680sVFtrbw1nZg2146_H_J-qmMo4jrCsXqWtBcH5WvSiHlcld2pw2PmQMuYduAaaaCl9OB_6NF0_4-fKutQoQhTJc9C_W_9Q6Vi4LS0BbHph_NmyzO2giwDvcQ82t5ir4_pKr643ZFsCLhuP0aOfTirjQALXw7aUUZ8j7rB0HV2m_mRb5KP9DfnBLezQS_WruEjwSvHSOhVi6CUB9BZUHdEBXoBgK80-oBb7H28_B8D1F970wSarI3-KeCArjsaJQ.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/PxopF6S6rNEdoU0SP5qPQ0ynJI8G4cZw9uEFGckvl1Q2mMfh2pxWALrjdNPtdDGmmAiKKRF1cCDTi8Rcn5XWNo6H7jw7glvZJys2XdUIRE6in3WBdHHSFx94fJUHuYAK5JmFTvKLDnH3HsVZAoUzReUfK8NA6GRLhj77bCOz6oVe0KWoGAgrhtANLKvsMWaU_8K5wpkxoDVnM73vo_hoFMb8K1tdXlleOn7janmvcqY-wnqDob8iJa69VfoVvg6BRFcki9Wmz22xi6FyOqbAWoRjolbXhMWj2bBBXkZ7vlqXjjEJuvwVvPghI8rn6mq7czXqSU1X-8NlYVEhw106aA.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/LEmxs5cO0CifsEdN7Ifcn-eR3sqkepP9IpF8W9N7ODknKnJ9wJZN7K0TF4412LWTaGz4JGPulRpmq4SWqO4Pdm4v4vtnxE4UCGEarOi9JFm4b8C65EOWnrDktEB8nOPZhCrtwo7gr0QA9CK01ZUe3rhJmR-3HetIlWMOiFPqwiMUz2W6vkoO-0CPpZL2-2mvYRqwVtpv6_UEu73PYHgQK3LDYLTFsdylGqknuIf0Uu80RM3PEFwXwLp6taG6F0paez8spwQ7YhzBYyTsPBVMdd8lSy1s4SK_5t2iQZwXe5Z2eBzoZ6o40ERtnoQSNWBzz8Q6MLI6AjRYF9BFj8nH_w.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/glPcffTgJiXHBgbxpkmYoSjrNpCYAr3MQLOLrEendqOdhYCWV3_Eze7PzvB55GXLQfrisSwmxt-PcfXL_odhKxOPaa_Z1FlX4pcsZREHJWD8mkdMubbL_mhvVT-ZAR-VHxAOuHrktI9bzHtkSiYVA0ACPb12xEGHL11wW5Fe1lhEzLfkJ6jLimukPzzai5963hAPjuvuyjfvi8vj5WoO9AJs5Cxjkun80ZzGuxapW9FJ-OnEu53ewxYsuZFAlmfJjUZRcLwz5xgjqY-YX2CmRKynT0tP5TvJIa0_SotBgePOO3i87bKV_So0vwatV2Etrx1lwrCKw0VvkfMNWIP7XA.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/GnjhoW_0KnPYQsgzgcDBZx4EZCL8B5at-g_4k-E-H_RejQMdIS_Cbu3SNNDheazEmKIsezaZVaspBfbv5aWBq2VZmPOr2tBDrhF3V27QEU4mG1Z-FDcDSH-bbqF5pDS_A-9ctwEvlN4cd3Z4Fps1oSg9kW5jiKPz1lv1njZ21F-JrAiS5Es43f1pT-KGyCZO0oXzPlf-fFR8zT7xPzBBO6uQnEOKF2hxEqNTCg-EEXNygbQB2mCmj2MjBdaqj3oS_4mmxel4s1kxo-3sgT-OVvCcyQIJV9kQfZ50qQzebkPEdfKkED799Q3Xhz7lCsElzfULbzCyPwwck8SA2O_fhg.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/RhTDSxeATNu7ruEWzfQTnshPrb7TqJhiuXazV9roMXvjRBheoRKr1Is-3scm5q2nZXj_uqhBO23ThEOm4bw-taHg_NqfXzpTSnY7gFuIfgr2jBbahBuj7sjzjvfXKVPk8ymzBHP8ZFPdayUAiFhdecgEjrjJQvLNI0iGHWG8vFbGVmHEOYNHc6lX_TLWaNTYD8fQ6W_FbnrhHCqJ4D_rUhn6Crli14Di_yZBTwGZD3Ao3sd2qMnzEF091KQ0HOhp_lTgwSTtCquPMVEJ_7lMMCCvet8sLy7U4gNOkUrJ0MNNVKKR_4ckzFINT4g0TdHIfrhwAyiwNaLu7PqRfi8E3A.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/EZbzAeQ8uBMO6pv3n9JZQJk6OYqf3FZ5sd_7binUD7ex-lCfDb8RVLpHoKr29De3aq1XoFPmTl-WqhnQGoxfNqOrr5X4cxOvsn-pgR7VjBE52N1ksG8fc3iNF6Z1qz3EQY2yaahR5b35PsMn5qgh0yKmpsRhTkL_6DkKzDMKDHbXJohw_ZOoq1OfDzdEcWBb5NqThMU6uAEmYS4xv643d6yhjYzOEvPV0692K30bnkD0eIt8eKQ9BQbSv0NZ6GWgWHkEiiIhpw8Nznk6niWiPHgWrufdIPifg4Yca0i8n4gTnfHxjjU9USnvNey2XQIGIRb0VL-ve_c4UeWJAJEPdQ.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/csJn_ezLEFSgtMD9VYSMemaYPOP_cZ4akIW80HsS6JHfjuqN6Yb9AZjiOl62Nf7FpFwmEGKUoUkzzIAyrJmb9ECZyzDOSqnsHGmo_MjINmzqqOG-5KK-HfPd98tua30dXKf2l1XwFJONfcgV-VOoUMG0LbXgUNJxpIxAYldZ0oj0FPRkmyyOphZeMAydW9yjXSUjq9wV_XkiS566yvBfgk-y-8I3ROxkURA0EGr6-_gzHapExef5X1u6YHW_doZqe-2CKDKrxWKWw4SWoO3r7YSyGixhAlo7bteyDVQGajE9uwxb2xKDoleEOn4K8wwf_D3zPCxXQ3I4oRjR__j9bA.jpg" /></p>
 <b><tg-emoji emoji-id="5195296005788022283"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji></b><b> Делегация Казначейства России принимает участие в форуме «Россия – Африка»</b><br/><br/>28–29 октября в Москве проходит Экономический и гуманитарный форум «Россия – Африка» — ключевая площадка для развития отношений между Россией и странами Африканского континента.<br/><br/>Делегация Казначейства России во главе с заместителем руководителя <b>Анной Катамадзе</b> представляет решения ведомства на стенде Минфина России «Финансы для развития инвестиций».<br/><br/><tg-emoji emoji-id="5226548455576448805"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29EA1.png')"><b>➡️</b></i></tg-emoji> Партнёрам из Африки демонстрируются цифровые решения ГИС ЕИС в сфере закупок, ПИАО ГИИС «Электронный бюджет», применение искусственного интеллекта для работы с финансовыми данными и рисками субсидий, а также проект централизации бухгалтерского учета.<br/><br/><a href="?q=%23%D0%9A%D0%B0%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%BE%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8">#КазначействоРоссии</a>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/gis_eiszakupki/3318</guid>
       <pubDate>Wed, 28 Oct 2026 15:26:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>ℹ</title>
-      <link>https://telegram.me/gis_eiszakupki/3317</link>
-      <description>ℹ
- 
-Нужна помощь при работе с ГИС ЕИС ЗАКУПКИ
-?
-
-Актуальные материалы по функционалу ГИС ЕИС ЗАКУПКИ доступны в 
-Базе знаний
- и в разделе  
-«Часто задаваемые вопросы»
-, а также в 
-нашем канале
-.
-
- 
-
-❕
-Не нашли ответа на свой вопрос?
- 
-
-Служба поддержки ГИС ЕИС ЗАКУПКИ принимает и обрабатывает ваши звонки и обращения 24/7! 
-👩‍💻
- 
-
-📱
-Телефоны:
- 8 (495) 739-25-83, 8 (800) 600-90-89
-
- 
-
-📝
- 
-Письменное обращение
- можно направить через раздел «Техническая поддержка»:
-
-🔸
-пользователям, прошедшим 
-упрощённую регистрацию
- с указанием e-mail на 
-сайте ГИС ЕИС ЗАКУПКИ
-
-🔸
-зарегистрированным пользователям в личном кабинете
-
-Подробная инструкция по работе с обращениями представлена:
-
-🔹
-на сайте ГИС ЕИС ЗАКУПКИ → «
-Инструкция для работы в разделе Техническая поддержка
-»
-
-🔹
-в Базе знаний личного кабинета пользователя  → «Руководства пользователя и видеоролики» → «Администрирование пользователей и организаций» → «Система управления заявками»
-
-#ЧЗВ
-
-#ВАЖНО
-
-📱
- 
-Следите за новостями ГИС ЕИС ЗАКУПКИ в MAX</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/qdQUxeJ8f0nnzLNfS_Jpy6E81YRRJybPaAnJsrKlCXq5jAGNibjU54D92tHqgaWx__xOwH7MgyD3yY3YPgwaGYUElYNUIpAw6yGyZQbcucasrj9KslQmvWFYG8VKW2TfKU4UG5OzHBaEERw7SW8eE-luMfcvz2IRxCKjbJxT8yvIIXVcxb61jZri7SWBQHjTPXsi0Ufg0yYxoWVXbfYPpIgsWurjNIoHsrj86_Z5RARw5g21zxWQjF_i54D5z9IU8X2RB9PtbKLl4qm5oYl-zYCwCIUQHlPkuxodhqa7edxCtLqrJ-a9ZkF0BiB0-lIWzypV375X_bpTt-LS3Dj_KA.jpg" /></p>
-<tg-emoji emoji-id="5438355721261425042"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E284B9.png')"><b>ℹ</b></i></tg-emoji> <b>Нужна помощь при работе с ГИС ЕИС ЗАКУПКИ</b>?<br/><b><br/></b>Актуальные материалы по функционалу ГИС ЕИС ЗАКУПКИ доступны в <a href="https://telegram.me/gis_eiszakupki/3170" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Базе знаний</a> и в разделе  <a href="https://zakupki.gov.ru/epz/main/public/qa/view.html" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">«Часто задаваемые вопросы»</a>, а также в <a href="https://telegram.me/gis_eiszakupki" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">нашем канале</a>.<br/> <br/><tg-emoji emoji-id="5436322999139574951"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29D95.png')"><b>❕</b></i></tg-emoji><b>Не нашли ответа на свой вопрос?</b> <br/><br/>Служба поддержки ГИС ЕИС ЗАКУПКИ принимает и обрабатывает ваши звонки и обращения 24/7! <tg-emoji emoji-id="5296489171903327168"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F91A9E2808DF09F92BB.png')"><b>👩‍💻</b></i></tg-emoji> <br/><br/><tg-emoji emoji-id="5294059873976200999"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93B1.png')"><b>📱</b></i></tg-emoji><b>Телефоны:</b> 8 (495) 739-25-83, 8 (800) 600-90-89<br/> <br/><tg-emoji emoji-id="5436008263936124028"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F939D.png')"><b>📝</b></i></tg-emoji> <b>Письменное обращение</b> можно направить через раздел «Техническая поддержка»:<br/><tg-emoji emoji-id="5294229559544132230"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')"><b>🔸</b></i></tg-emoji>пользователям, прошедшим <i>упрощённую регистрацию</i> с указанием e-mail на <a href="https://zakupki.gov.ru/epz/main/public/user-feedback.html" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">сайте ГИС ЕИС ЗАКУПКИ</a><br/><tg-emoji emoji-id="5294229559544132230"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')"><b>🔸</b></i></tg-emoji>зарегистрированным пользователям в личном кабинете<br/><br/>Подробная инструкция по работе с обращениями представлена:<br/><br/><tg-emoji emoji-id="5296283477329587350"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji>на сайте ГИС ЕИС ЗАКУПКИ → «<a href="https://zakupki.gov.ru/epz/main/public/document/view.html?searchString=&amp;amp;sectionId=1768&amp;amp;strictEqual=false" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Инструкция для работы в разделе Техническая поддержка</a>»<br/><tg-emoji emoji-id="5296283477329587350"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i></tg-emoji>в Базе знаний личного кабинета пользователя  → «Руководства пользователя и видеоролики» → «Администрирование пользователей и организаций» → «Система управления заявками»<br/><br/><a href="?q=%23%D0%A7%D0%97%D0%92">#ЧЗВ</a><br/><a href="?q=%23%D0%92%D0%90%D0%96%D0%9D%D0%9E">#ВАЖНО</a><br/><br/><tg-emoji emoji-id="5294059873976200999"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93B1.png')"><b>📱</b></i></tg-emoji> <a href="https://max.ru/gis_eiszakupki" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Следите за новостями ГИС ЕИС ЗАКУПКИ в MAX</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/gis_eiszakupki/3317</guid>
-      <pubDate>Tue, 27 Oct 2026 10:03:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
