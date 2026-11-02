@@ -8,147 +8,228 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 30 Oct 2026 11:30:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 13:43:08 +0000</lastBuildDate>
     <item>
-      <title>Банки</title>
-      <link>https://telegram.me/roseltorg_business/4745</link>
-      <description>Банки
+      <title>Росэлторг.Бизнес обновляет интерфейс создания закупок</title>
+      <link>https://telegram.me/roseltorg_business/4751</link>
+      <description>Росэлторг.Бизнес обновляет интерфейс создания закупок
+
+С 9 ноября 2026 года создавать закупки на 
+Росэлторг.Бизнес
+ станет проще и быстрее. Одно из главных изменений — возможность выбрать подходящий формат закупки ещё до начала заполнения формы:
+
+⚡️
  
-массово 
-блокируют
- дистанционное обслуживание компаний
+Экспресс-закупка
+ — для простых процедур с небольшим количеством позиций.
 
-В 2026 году российские компании массово сталкиваются с проблемами дистанционного банковского обслуживания. За первые семь месяцев года в Центральный банк поступило 23,8 тысячи жалоб на отказы в проведении операций и ограничения по счетам, из которых почти 1,8 тысячи касались бизнеса.
-
-Банки объясняют свои действия 115-ФЗ и базой данных мошеннических операций. Основанием для блокировки может послужить необычная сумма транзакции, новый контрагент или платёж через транзитный счёт. 
-
-Официальный курс валют ЦБ РФ на пятницу, 30 октября:
-
-💱
- Доллар — 80,68 руб. (-0,19 руб.)   
-
-💱
- Евро — 89,82 руб. (-0,35 руб.)        
-
-💱
- Юань — 12,08 руб. (+0,00 руб.)
-
-Найти клиента легко — Росэлторг.Бизнес</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/fE1Z0O6K5UyYIOCPGMpISqXELKBk7Gy65xJ4mE9o5GKINNVHUtUUXfKRIsOFA0tTYbDthYs3xGHHsczpkkCMV2iFSlNAfidSWtozVJgpOelbacj0y14LCffCFitru0g_7sVcQEmIrImmZO-aTVBlB4-dcQVavjafFH4hFSRRoVgELJK_FZMKQyuioyKnMrmg0NI8IqyOfGPnPBueLDxQXQZwaVuE5IQwdNrdhbkiWrV7LHJMOz_neWUeVTBhfBbShquJWttLOUv_4Oh6mUVylWhZVinjL6aStWruB56LFrCAhw-NLLhTl30b_2wqPEOcHAHjfKkPJYAUPQQmZqfqlA" /></p>
-<b>Банки</b> <b>массово </b><a href="https://iz.ru/2191597/mariia-stroiteleva/banki-massovo-blokiruyut-distancionnoe-obsluzhivanie-kompanij" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b>блокируют</b></a><b> дистанционное обслуживание компаний</b><br/><br/>В 2026 году российские компании массово сталкиваются с проблемами дистанционного банковского обслуживания. За первые семь месяцев года в Центральный банк поступило 23,8 тысячи жалоб на отказы в проведении операций и ограничения по счетам, из которых почти 1,8 тысячи касались бизнеса.<br/><br/>Банки объясняют свои действия 115-ФЗ и базой данных мошеннических операций. Основанием для блокировки может послужить необычная сумма транзакции, новый контрагент или платёж через транзитный счёт. <br/><br/><b>Официальный курс валют ЦБ РФ на пятницу, 30 октября:</b><br/><br/><tg-emoji emoji-id="5431591259439391411"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92B1.png')"><b>💱</b></i></tg-emoji> Доллар — 80,68 руб. (-0,19 руб.)   <br/><tg-emoji emoji-id="5434051682994512235"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92B1.png')"><b>💱</b></i></tg-emoji> Евро — 89,82 руб. (-0,35 руб.)        <br/><tg-emoji emoji-id="5433946915857260378"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92B1.png')"><b>💱</b></i></tg-emoji> Юань — 12,08 руб. (+0,00 руб.)<br/><br/><a href="https://telegram.me/roseltorg_business" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Найти клиента легко — Росэлторг.Бизнес</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/roseltorg_business/4745</guid>
-      <pubDate>Thu, 29 Oct 2026 15:03:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Каждая бутылка на учёте: новые правила для растительных масел</title>
-      <link>https://telegram.me/roseltorg_business/4744</link>
-      <description>Каждая бутылка на учёте: новые правила для растительных масел
+⚙️
  
-🔍
+Расширенная закупка
+ — для более сложных процедур, требующих дополнительных настроек.
 
-С 1 ноября 2026 года для участников оборота растительных масел меняется порядок работы с маркированной продукцией. 
+Что ещё изменится?
 
+🔜
+ 
+Меньше переключений между разделами.
+ Все основные параметры закупки собраны в одном месте.
+
+🔜
+ 
+Проще проверять готовность закупки.
+ Вы сможете сразу увидеть, какие данные уже внесены, а что ещё необходимо заполнить перед публикацией.
+
+🔜
+ 
+Быстрее устанавливать сроки.
+ Готовые варианты дат помогут сократить время на подготовку закупки.
+
+При этом все привычные инструменты останутся доступны пользователям.
+
+Скоро подробнее расскажем об изменениях и покажем, как работать с обновлённой формой  
 📌
- В универсальных передаточных документах (УПД) теперь нельзя указывать просто вид товара и общее количество упаковок. 
-Требуется перечислять уникальные коды маркировки (Data Matrix) каждой отдельной бутылки, банки или пакета.
- При отгрузке целыми коробами или паллетами допускается указывать коды групповой и транспортной упаковки.
-
-Новые требования важно учитывать производителям, поставщикам и другим участникам рынка при организации поставок и ведении товарного учёта.
-
-Все документы между производителями, оптовиками и розницей должны подписываться только в электронном виде через операторов ЭДО.
-
-Рассказали на карточке, какие операции затронут изменения и что необходимо подготовить бизнесу.
 
 Найти клиента легко — Росэлторг.Бизнес</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/Dcb1_-K1wOc6ykMZRbqf0X97cZaHWcJWGyn6klP6PBvgh096jQDA0nczIgwOnXaqAcGMhgOZ0ZFgnwwd0xukbHTvEFVkrWiUQ5_m66h7ImbfT-JEI2GbArZfE92qLEonm10Zm_yBSlyrFEBwfXPfBmqmL9hNTq9rbmPlrJsOMCVjcFrdjLeEdnmCQ6DLMqxRY1pN8K0dZpYfM9Eun6Hq6e9s8TLYNtSnXiXyytBUAXrOG4LrW9j_ezXFVTQdb9F0nV3dRKpVMTlZNWhfPRM0y6CY03ojPGc54nYDjLcDHPK1VZM0t6scloRG23c65mR6LHtRGifu4GlXfkfyCsTYbA.jpg" /></p>
-<b>Каждая бутылка на учёте: новые правила для растительных масел</b> <tg-emoji emoji-id="5431681191759603853"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F948D.png')"><b>🔍</b></i></tg-emoji><br/><br/>С 1 ноября 2026 года для участников оборота растительных масел меняется порядок работы с маркированной продукцией. <br/><br/><tg-emoji emoji-id="5431517484786147049"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938C.png')"><b>📌</b></i></tg-emoji> В универсальных передаточных документах (УПД) теперь нельзя указывать просто вид товара и общее количество упаковок. <b>Требуется перечислять уникальные коды маркировки (Data Matrix) каждой отдельной бутылки, банки или пакета.</b> При отгрузке целыми коробами или паллетами допускается указывать коды групповой и транспортной упаковки.<br/><br/>Новые требования важно учитывать производителям, поставщикам и другим участникам рынка при организации поставок и ведении товарного учёта.<br/><br/>Все документы между производителями, оптовиками и розницей должны подписываться только в электронном виде через операторов ЭДО.<br/><br/>Рассказали на карточке, какие операции затронут изменения и что необходимо подготовить бизнесу.<br/><br/><a href="https://telegram.me/roseltorg_business" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Найти клиента легко — Росэлторг.Бизнес</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/roseltorg_business/4744</guid>
-      <pubDate>Thu, 29 Oct 2026 10:05:19 +0000</pubDate>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/uz7tUawGvpNuYCz2IeZqE4n53FwUhE7a3tfcuo8oLL4bnqsd57Epfw1MaQJ_g2Yt4ClFwQuwovfCF3q95JKAgy1UE-zrl3P8mzMZctf-kwGt72KQNLXssJNfD9tvrXMvwgqtGz-Rd3dh7tark-uWBpvxgT41diT67iGgZrtN8WTyL18GySBpBOTiTCcB_ACDiQztEmadLfrI9tf5RFHEmzAEB1oUhor6ZSepxeWpfejYWYfnmNhdXCwMASSdG_0Lli9DhsMJQuwS28zvW6ZFkZjEO3QhdFsWO5TYtgW7FY_scY3uOJ0HugueLKQzVP0xUAVOqcr5M4XFRSzeQaatqA.jpg" /></p>
+<b>Росэлторг.Бизнес обновляет интерфейс создания закупок</b><br/><br/>С 9 ноября 2026 года создавать закупки на <a href="https://rb.roseltorg.ru/zakazchik" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Росэлторг.Бизнес</a> станет проще и быстрее. Одно из главных изменений — возможность выбрать подходящий формат закупки ещё до начала заполнения формы:<br/><br/><tg-emoji emoji-id="5431743241152130566"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29AA1.png')"><b>⚡️</b></i></tg-emoji> <b>Экспресс-закупка</b> — для простых процедур с небольшим количеством позиций.<br/><tg-emoji emoji-id="5431694411668937917"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29A99.png')"><b>⚙️</b></i></tg-emoji> <b>Расширенная закупка</b> — для более сложных процедур, требующих дополнительных настроек.<br/><br/><b>Что ещё изменится?</b><br/><br/><blockquote><tg-emoji emoji-id="5431812720838076103"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F949C.png')"><b>🔜</b></i></tg-emoji> <b>Меньше переключений между разделами.</b> Все основные параметры закупки собраны в одном месте.<br/><br/><tg-emoji emoji-id="5431812720838076103"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F949C.png')"><b>🔜</b></i></tg-emoji> <b>Проще проверять готовность закупки.</b> Вы сможете сразу увидеть, какие данные уже внесены, а что ещё необходимо заполнить перед публикацией.<br/><br/><tg-emoji emoji-id="5431812720838076103"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F949C.png')"><b>🔜</b></i></tg-emoji> <b>Быстрее устанавливать сроки.</b> Готовые варианты дат помогут сократить время на подготовку закупки.</blockquote><br/><br/>При этом все привычные инструменты останутся доступны пользователям.<br/><br/>Скоро подробнее расскажем об изменениях и покажем, как работать с обновлённой формой  <tg-emoji emoji-id="5431517484786147049"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938C.png')"><b>📌</b></i></tg-emoji><br/><br/><a href="https://telegram.me/roseltorg_business" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Найти клиента легко — Росэлторг.Бизнес</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/roseltorg_business/4751</guid>
+      <pubDate>Mon, 02 Nov 2026 09:32:12 +0000</pubDate>
     </item>
     <item>
-      <title>Спрос на деловые перелеты по РФ</title>
-      <link>https://telegram.me/roseltorg_business/4743</link>
-      <description>Спрос на деловые перелеты по РФ 
-сократился
- на 10,5% за год
+      <title>Три повода, чтобы выйти из дома в ноябре:</title>
+      <link>https://telegram.me/roseltorg_business/4750</link>
+      <description>Три повода, чтобы выйти из дома в ноябре:
 
-В период с января по сентябрь 2026 года число бронирований деловых авиабилетов внутри страны уменьшилось на 10,5% по сравнению с предыдущим годом, а за границу — на 6%.
-
-Компании сокращают расходы на командировки, несмотря на то, что многие сотрудники рассматривают деловые поездки как форму поощрения. Оживление на рынке ожидается не ранее следующего года.
-
-Официальный курс валют ЦБ РФ на четверг, 29 октября:
-
-💱
- Доллар — 80,87 руб. (+0,34 руб.)   
-
-💱
- Евро — 90,17 руб. (+0,07 руб.)        
-
-💱
- Юань — 12,08 руб. (+0,01 руб.)
-
-Найти клиента легко — Росэлторг.Бизнес</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/JtCgvWJVeMRomqcLxyPfW4k0ANa8YURv7zYGebrPGeYw4E7EdJ0HJH8bKZS0Qc1f66vl-Jl2Z2_qoV9pFttlaYcj_dAG1cRxaiuOKy-5kJuSwLK4G0971HJUgyaIEHl5-NcSivhZhVPUz_4Q8i6gURKXLXVd9hhzDRHNjba630L11DbjdmTahtdo7rbob8NkPxEkcXLkUS3mErBnjs94avx6BFlvjXdXc9wldI8ZbcWEa3tjb87MG2qffkeoF1J2hrSb8QCxZgPZbE_03GkdN_ikVAsqmEKrdx3otpL-Z9HDtlsHPDhey00k6EfJzhnuEuBhRa0dk3u2n4BV5Rlr_w" /></p>
-<b>Спрос на деловые перелеты по РФ </b><a href="https://www.kommersant.ru/doc/9062094" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b>сократился</b></a><b> на 10,5% за год</b><br/><br/>В период с января по сентябрь 2026 года число бронирований деловых авиабилетов внутри страны уменьшилось на 10,5% по сравнению с предыдущим годом, а за границу — на 6%.<br/><br/>Компании сокращают расходы на командировки, несмотря на то, что многие сотрудники рассматривают деловые поездки как форму поощрения. Оживление на рынке ожидается не ранее следующего года.<br/><br/><b>Официальный курс валют ЦБ РФ на четверг, 29 октября:</b><br/><br/><tg-emoji emoji-id="5431591259439391411"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92B1.png')"><b>💱</b></i></tg-emoji> Доллар — 80,87 руб. (+0,34 руб.)   <br/><tg-emoji emoji-id="5434051682994512235"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92B1.png')"><b>💱</b></i></tg-emoji> Евро — 90,17 руб. (+0,07 руб.)        <br/><tg-emoji emoji-id="5433946915857260378"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92B1.png')"><b>💱</b></i></tg-emoji> Юань — 12,08 руб. (+0,01 руб.)<br/><br/><a href="https://telegram.me/roseltorg_business" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Найти клиента легко — Росэлторг.Бизнес</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/roseltorg_business/4743</guid>
-      <pubDate>Wed, 28 Oct 2026 15:01:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Тот самый лот с Китай-города...</title>
-      <link>https://telegram.me/roseltorg_business/4742</link>
-      <description>Тот самый лот с Китай-города...
-
-На площадке Росэлторг 
-выставлено
- на торги коммерческое помещение в Таганском районе Москвы, в Певческом переулке. Объект 
-202 м²
- расположен на первом этаже жилого дома, относящегося к исторически ценным градоформирующим объектам. 
-
-📍
- Певческий переулок находится в старой части Москвы, недалеко от Солянки, Китай-города и Хитровской площади. Это район с исторической застройкой, ресторанами, кафе, небольшими магазинами и культурными пространствами. До станции метро «Китай-город» около 6 минут пешком.
-
-Помещение можно рассмотреть для открытия салона красоты, ателье, фотостудии или мастерской. При выборе формата стоит учитывать исторический статус здания и установленные требования к использованию объекта.
-
-Начальная цена:
- 82 663 000 ₽
-
-☑️
+⚡️
  
-Заявки
- принимаются до 9 ноября, сам аукцион состоится 17 ноября.
+5 ноября — конференция 
+Brand Analytics 2026
+.
+ Эксперты расскажут, как аналитика социальных медиа помогает бизнесу принимать решения, развивать продукты и управлять репутацией. В программе — исследования цифровой аудитории, ИИ-инструменты и практические кейсы крупных компаний.
+
+⚡️
+ 
+10–12 ноября в Москве состоится 
+Национальный рекламный форум 2026
+.
+ Представители рекламной индустрии, брендов и агентств рассмотрят актуальные подходы к продвижению, изменения на рынке коммуникаций и новые подходы к взаимодействию с аудиторией.
+
+⚡️
+ 
+19
+ 
+ноября пройдёт
+ 
+RLT.Conf «В IT с головой × ИИ × бизнес
+».
+ Участники обсудят применение искусственного интеллекта, развитие цифровых продуктов и влияние технологий на человека. Специальный гость конференции — Ирина Хакамада, которая расскажет о дао-лидерстве, сочетании интуиции с разумным риском и принятии решений в условиях неопределённости.
 
 Найти клиента легко — Росэлторг.Бизнес</description>
-      <content:encoded><![CDATA[<b>Тот самый лот с Китай-города...</b><br/><br/>На площадке Росэлторг <a href="https://telegram.me/competitionis/3588" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">выставлено</a> на торги коммерческое помещение в Таганском районе Москвы, в Певческом переулке. Объект <b>202 м²</b> расположен на первом этаже жилого дома, относящегося к исторически ценным градоформирующим объектам. <br/><br/><tg-emoji emoji-id="5431496082964112103"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938D.png')"><b>📍</b></i></tg-emoji> Певческий переулок находится в старой части Москвы, недалеко от Солянки, Китай-города и Хитровской площади. Это район с исторической застройкой, ресторанами, кафе, небольшими магазинами и культурными пространствами. До станции метро «Китай-город» около 6 минут пешком.<br/><br/>Помещение можно рассмотреть для открытия салона красоты, ателье, фотостудии или мастерской. При выборе формата стоит учитывать исторический статус здания и установленные требования к использованию объекта.<br/><br/><b>Начальная цена:</b> 82 663 000 ₽<br/><br/><tg-emoji emoji-id="5431494794473923994"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29891.png')"><b>☑️</b></i></tg-emoji> <a href="https://www.roseltorg.ru/procedure/21000005000000034197/1" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Заявки</a> принимаются до 9 ноября, сам аукцион состоится 17 ноября.<br/><br/><a href="https://telegram.me/roseltorg_business" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Найти клиента легко — Росэлторг.Бизнес</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/roseltorg_business/4742</guid>
-      <pubDate>Wed, 28 Oct 2026 12:30:01 +0000</pubDate>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/TD_uqS7ni0oJOE6njWSnhsOeNW-9ZwVftPvRITBkh53XKYZGkGVKjnOrnEM59CZaZGT2o2bgS4wQ8H6qU6J0d9NSPJAyrD2LDGyycryAyXpIDEHVahpV6U91ljlX_cSDysVGqN-W2eSdaL9jRsX2f9Xd5oEhshUV3ZOEqsEcVPInVXJh_LNSvhagK1eMaaeFhA3gdfEMnV36rSxOy89ZQJm9jw8cxdc2ANnXo7AAVbXgtSsxiJxUz3laOVmAyeyx9BA5llwuFB5oaXxkf3RajPR6pyIsr3BXDpjfQ6mkhH1dJ8fJ1FBHf-FVkt2AXIf5OCszISojGwLdKz9QLQ45mg" /></p>
+<b>Три повода, чтобы выйти из дома в ноябре:</b><br/><br/><tg-emoji emoji-id="5992366958681527437"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29AA1.png')"><b>⚡️</b></i></tg-emoji> <b>5 ноября — конференция </b><a href="https://baconf.ru/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b>Brand Analytics 2026</b></a><b>.</b> Эксперты расскажут, как аналитика социальных медиа помогает бизнесу принимать решения, развивать продукты и управлять репутацией. В программе — исследования цифровой аудитории, ИИ-инструменты и практические кейсы крупных компаний.<br/><br/><tg-emoji emoji-id="5992366958681527437"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29AA1.png')"><b>⚡️</b></i></tg-emoji> <b>10–12 ноября в Москве состоится </b><a href="https://advertisingforum.ru/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b>Национальный рекламный форум 2026</b></a><b>.</b> Представители рекламной индустрии, брендов и агентств рассмотрят актуальные подходы к продвижению, изменения на рынке коммуникаций и новые подходы к взаимодействию с аудиторией.<br/><br/><tg-emoji emoji-id="5992366958681527437"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29AA1.png')"><b>⚡️</b></i></tg-emoji> <b>19</b> <b>ноября пройдёт</b> <a href="https://uni.roseltorg.ru/intensive/rltconf-2026" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b>RLT.Conf «В IT с головой × ИИ × бизнес</b></a><b>».</b> Участники обсудят применение искусственного интеллекта, развитие цифровых продуктов и влияние технологий на человека. Специальный гость конференции — Ирина Хакамада, которая расскажет о дао-лидерстве, сочетании интуиции с разумным риском и принятии решений в условиях неопределённости.<br/><br/><a href="https://telegram.me/roseltorg_business" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Найти клиента легко — Росэлторг.Бизнес</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/roseltorg_business/4750</guid>
+      <pubDate>Sun, 01 Nov 2026 09:33:55 +0000</pubDate>
     </item>
     <item>
-      <title>Бизнес</title>
-      <link>https://telegram.me/roseltorg_business/4741</link>
-      <description>Бизнес 
-предложил пересмотреть
- новые налоговые требования и ограничить расширение полномочий ФНС
+      <title>Дела подождут. Время классных лотов:</title>
+      <link>https://telegram.me/roseltorg_business/4749</link>
+      <description>Дела подождут. Время классных лотов:
 
-Объединение предпринимателей выступает за пересмотр полномочий налоговой службы, призывает отказаться от резкого увеличения штрафов и облегчить условия для малого бизнеса.
+▪️
+ Производственно-складской комплекс на 2,5 га в Подмосковье
 
-Среди предложений — ограничить рост налоговой нагрузки на пассивные доходы, оставить неизменным действующий порог для патентной системы и продлить особый порядок расчёта пеней.
+Начальная цена 
+лота
+: 545 000 000 ₽
 
-Официальный курс валют ЦБ РФ на среду, 28 октября:
+▪️
+ 697 м² для бизнеса в Москве у «Войковской»
+ 
 
-💱
- Доллар — 80,53 руб. (+0,04 руб.)   
+Начальная цена 
+лота
+: 103 061 000 ₽
 
-💱
- Евро — 90,10 руб. (+0,10 руб.)        
+▪️
+ Крупный имущественный комплекс в Крыму
 
-💱
- Юань — 12,07 руб. (-0,00 руб.)
+Начальная цена 
+лота
+:
+ 
+134 999 020
+ 
+₽
+
+▪️
+ Три объекта недвижимости в Приморском крае
+
+Начальная цена 
+лота
+: 70 000 000 ₽
+
+▪️
+ Гостиничный комплекс с бассейном и зоной отдыха в Евпатории
+
+Начальная цена 
+лота
+: 262 686 724 ₽
+
+▪️
+ Три этажа для бизнеса в столичном ЖК «Парксайд»
+
+Начальная цена 
+лота
+: 305 508 107 ₽
+
+▪️
+ Гостиница с открытым бассейном в Евпатории
+
+Начальная цена 
+лота
+: 103 464 301 ₽
+
+▪️
+ Полный пакет акций АО «МКК-ХОЛДИНГ»
+
+Начальная цена 
+лота
+: 1 220 000 000 ₽
+
+▪️
+ Бизнес по соседству с Московским Кремлём 
+
+Начальная цена 
+лота
+: 233 671 000 ₽
+
+▪️
+ Коммерческие помещения у реки Дон
+ 
+
+Начальная цена 
+лота
+: 102 430 000 ₽
 
 Найти клиента легко — Росэлторг.Бизнес</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/lxD92kt6PKBqdtWhQLdxdeV-dDdu0vXYV35STZpQCsLY6VY9_DxKokZvWE3G38e8eiwEKgA4n0W9KZQxn6ZPqBSbN8LUOUnvys7Bb5EdWnJFy9yCy3K_bK4kshqwMnf-H2hl7Xt5bMM7KQwBksvz-mt8-0Yk9pJL_7T0AqGV84Fh2bvgbrM5fzZn6j9CLSYi7kI9ZhE64WkBP1xnpCbomlAv11_afZWn8Ks-qeyoy13jmRHIlq6isrqpdmvdXeZHj9os6lr0rjAdUJ1JKK6PsYlKnAY2_WGyctIfYd0sRHP-zTq-HeAY8Hbn4QB-vvAWinwzEi3IvKgAd3cSsdI-fg" /></p>
-<b>Бизнес </b><a href="https://www.vedomosti.ru/economics/articles/2026/10/27/1240327-biznes-i-yuristi-virazili-obespokoennost" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b>предложил пересмотреть</b></a><b> новые налоговые требования и ограничить расширение полномочий ФНС</b><br/><br/>Объединение предпринимателей выступает за пересмотр полномочий налоговой службы, призывает отказаться от резкого увеличения штрафов и облегчить условия для малого бизнеса.<br/><br/>Среди предложений — ограничить рост налоговой нагрузки на пассивные доходы, оставить неизменным действующий порог для патентной системы и продлить особый порядок расчёта пеней.<br/><br/><b>Официальный курс валют ЦБ РФ на среду, 28 октября:</b><br/><br/><tg-emoji emoji-id="5431591259439391411"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92B1.png')"><b>💱</b></i></tg-emoji> Доллар — 80,53 руб. (+0,04 руб.)   <br/><tg-emoji emoji-id="5434051682994512235"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92B1.png')"><b>💱</b></i></tg-emoji> Евро — 90,10 руб. (+0,10 руб.)        <br/><tg-emoji emoji-id="5433946915857260378"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92B1.png')"><b>💱</b></i></tg-emoji> Юань — 12,07 руб. (-0,00 руб.)<br/><br/><a href="https://telegram.me/roseltorg_business" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Найти клиента легко — Росэлторг.Бизнес</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/roseltorg_business/4741</guid>
-      <pubDate>Tue, 27 Oct 2026 15:00:01 +0000</pubDate>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/P8H0X4X9y8LquQIXULzQJlhm6_IoT5nqM8r25pycvEwL16gIM2bs5LCmqOSrpxOSImEbwAFJmThFN4y__4N8BJeDNyVIgzN_jGC6q144_wo9x2n9y4IUfyezCxIOHVERlkICF41Rw90yTdWF4Ccq2jV8fA7Uph5EVqg-klVuhArJkXOmxeEwPG1B8Ja149cm4jTgZGf13SLRYBo4IUNEAO1sEAQCxONJL382WWHmIVxneKUhsYksdqH47s3w2UvfKbHVPKEU-I1lxorXd6y7j5Qrp4RUS0peYT12oZ1wY9eKBJ0Wp9I1FtNM8ViGcr6HMS9mo8UZ5yJUBgPJLzID6A" /></p>
+<b>Дела подождут. Время классных лотов:</b><br/><br/><tg-emoji emoji-id="5431674671999246069"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E296AA.png')"><b>▪️</b></i></tg-emoji><b> Производственно-складской комплекс на 2,5 га в Подмосковье<br/></b><tg-spoiler>Начальная цена </tg-spoiler><a href="https://www.roseltorg.ru/procedure/COM28102600076/1" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><tg-spoiler>лота</tg-spoiler></a><tg-spoiler>: 545 000 000 ₽</tg-spoiler><br/><br/><b><tg-emoji emoji-id="5431674671999246069"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E296AA.png')"><b>▪️</b></i></tg-emoji></b><b> 697 м² для бизнеса в Москве у «Войковской»</b> <b><br/></b><tg-spoiler>Начальная цена </tg-spoiler><a href="https://www.roseltorg.ru/procedure/21000005000000034746/1" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><tg-spoiler>лота</tg-spoiler></a><tg-spoiler>: 103 061 000 ₽</tg-spoiler><br/><br/><tg-emoji emoji-id="5431674671999246069"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E296AA.png')"><b>▪️</b></i></tg-emoji><b> Крупный имущественный комплекс в Крыму<br/></b><tg-spoiler>Начальная цена </tg-spoiler><a href="https://www.roseltorg.ru/procedure/21000015160000001955/1" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><tg-spoiler>лота</tg-spoiler></a><tg-spoiler>:<b> </b>134 999 020</tg-spoiler> <tg-spoiler>₽</tg-spoiler><br/><br/><tg-emoji emoji-id="5431674671999246069"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E296AA.png')"><b>▪️</b></i></tg-emoji><b> Три объекта недвижимости в Приморском крае<br/></b><tg-spoiler>Начальная цена </tg-spoiler><a href="https://www.roseltorg.ru/procedure/COM23102600026/1" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><tg-spoiler>лота</tg-spoiler></a><tg-spoiler>: 70 000 000 ₽</tg-spoiler><br/><br/><tg-emoji emoji-id="5431674671999246069"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E296AA.png')"><b>▪️</b></i></tg-emoji><b> Гостиничный комплекс с бассейном и зоной отдыха в Евпатории<br/></b><tg-spoiler>Начальная цена </tg-spoiler><a href="https://www.roseltorg.ru/procedure/21000015160000001961/1" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><tg-spoiler>лота</tg-spoiler></a><tg-spoiler>: 262 686 724 ₽</tg-spoiler><br/><br/><tg-emoji emoji-id="5431674671999246069"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E296AA.png')"><b>▪️</b></i></tg-emoji><b> Три этажа для бизнеса в столичном ЖК «Парксайд»<br/></b><tg-spoiler>Начальная цена </tg-spoiler><a href="https://www.roseltorg.ru/procedure/COM23102600162/1" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><tg-spoiler>лота</tg-spoiler></a><tg-spoiler>: 305 508 107 ₽<br/></tg-spoiler><br/><tg-emoji emoji-id="5431674671999246069"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E296AA.png')"><b>▪️</b></i></tg-emoji><b> Гостиница с открытым бассейном в Евпатории<br/></b><tg-spoiler>Начальная цена </tg-spoiler><a href="https://www.roseltorg.ru/procedure/21000015160000001960/1" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><tg-spoiler>лота</tg-spoiler></a><tg-spoiler>: 103 464 301 ₽</tg-spoiler><br/><br/><tg-emoji emoji-id="5431674671999246069"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E296AA.png')"><b>▪️</b></i></tg-emoji><b> Полный пакет акций АО «МКК-ХОЛДИНГ»<br/></b><tg-spoiler>Начальная цена </tg-spoiler><a href="https://www.roseltorg.ru/procedure/21000005000000034698/1" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><tg-spoiler>лота</tg-spoiler></a><tg-spoiler>: 1 220 000 000 ₽</tg-spoiler><br/><br/><tg-emoji emoji-id="5431674671999246069"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E296AA.png')"><b>▪️</b></i></tg-emoji><b> Бизнес по соседству с Московским Кремлём <br/></b><tg-spoiler>Начальная цена </tg-spoiler><a href="https://www.roseltorg.ru/procedure/21000005000000034733/1" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><tg-spoiler>лота</tg-spoiler></a><tg-spoiler>: 233 671 000 ₽</tg-spoiler><br/><br/><tg-emoji emoji-id="5431674671999246069"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E296AA.png')"><b>▪️</b></i></tg-emoji><b> Коммерческие помещения у реки Дон</b> <b><br/></b><tg-spoiler>Начальная цена </tg-spoiler><a href="https://www.roseltorg.ru/procedure/COM29102600031/1" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><tg-spoiler>лота</tg-spoiler></a><tg-spoiler>: 102 430 000 ₽</tg-spoiler><br/><br/><a href="https://telegram.me/roseltorg_business" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Найти клиента легко — Росэлторг.Бизнес</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/roseltorg_business/4749</guid>
+      <pubDate>Sat, 31 Oct 2026 09:33:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Мы не пугаем, это просто дайджест новостей:</title>
+      <link>https://telegram.me/roseltorg_business/4748</link>
+      <description>Мы не пугаем, это просто дайджест новостей:
+
+1️⃣
+ Какие ИТ-тренды 
+будут в фокусе
+ российского бизнеса в 2027 году.
+
+2️⃣
+ 
+Бизнес 
+предложил пересмотреть
+ новые налоговые требования и ограничить расширение полномочий ФНС.
+
+3️⃣
+ Спрос на деловые перелёты по РФ 
+сократился
+ на 10,5% за год.
+
+4️⃣
+ Банки массово 
+блокируют
+ дистанционное обслуживание компаний.
+
+5️⃣
+ Госдума 
+приняла
+ проект трехлетнего бюджета в первом чтении.
+
+6️⃣
+ Власти 
+отказались
+ от таможенного сбора для зарубежных заказов.
+
+Официальный курс валют ЦБ РФ на выходные и понедельник, 2 ноября:
+
+💱
+ Доллар — 80,56 руб. (-0,12 руб.)   
+
+💱
+ Евро — 89,66 руб. (-0,16 руб.)        
+
+💱
+ Юань — 12,09 руб. (+0,01 руб.)
+
+Найти клиента легко — Росэлторг.Бизнес</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/P2OE_PrP3OAakp2iBGMEa0dT1f4hXyFRqaH1YXmLnO_yi1yJkWpWyBLF6KtGfzs9ER0ewlidhdqIGcK227nZGCQ8XYqUAT_lwIVk5Vxd_9-8NBOY8Q6tSk-eMXeBSmehdmcxHfRxSwji0aw0ZaH-JKfAx4qxEBglJp91AF5ZA7tkijGAZi6GP_dy7jWDeLXD1iVDchiGcfw6kd_40Y3OF4zLFalIXDxiqi-Prs-b5cW_KCnIZr0KqSb72UGBIOI8zR7_UYFfgaBkzjbs9xnubqaRHNT3K2vk7_W5h557xiRwopB9Gceqdir5HQpbMEF4cXiUfiEFD6x8xYD1DS62lA" /></p>
+<b>Мы не пугаем, это просто дайджест новостей:</b><br/><br/><tg-emoji emoji-id="5431576261413593703"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/31E283A3.png')"><b>1️⃣</b></i></tg-emoji> Какие ИТ-тренды <a href="https://www.vedomosti.ru/technologies/trendsrub/articles/2026/10/26/1239732-it-trendi-budut-fokuse" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">будут в фокусе</a> российского бизнеса в 2027 году.<br/><br/><tg-emoji emoji-id="5431576231348822894"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/32E283A3.png')"><b>2️⃣</b></i></tg-emoji><b> </b>Бизнес <a href="https://www.vedomosti.ru/economics/articles/2026/10/27/1240327-biznes-i-yuristi-virazili-obespokoennost" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">предложил пересмотреть</a> новые налоговые требования и ограничить расширение полномочий ФНС.<br/><br/><tg-emoji emoji-id="5431477159338205255"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/33E283A3.png')"><b>3️⃣</b></i></tg-emoji> Спрос на деловые перелёты по РФ <a href="https://www.kommersant.ru/doc/9062094" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">сократился</a> на 10,5% за год.<br/><br/><tg-emoji emoji-id="5431552716402876522"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/34E283A3.png')"><b>4️⃣</b></i></tg-emoji> Банки массово <a href="https://iz.ru/2191597/mariia-stroiteleva/banki-massovo-blokiruyut-distancionnoe-obsluzhivanie-kompanij" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">блокируют</a> дистанционное обслуживание компаний.<br/><br/><tg-emoji emoji-id="5433683741736199617"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/35E283A3.png')"><b>5️⃣</b></i></tg-emoji> Госдума <a href="https://www.vedomosti.ru/economics/news/2026/10/29/1241197-gosduma-prinyala-proekt" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">приняла</a> проект трехлетнего бюджета в первом чтении.<br/><br/><tg-emoji emoji-id="5431490538161332515"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/36E283A3.png')"><b>6️⃣</b></i></tg-emoji> Власти <a href="https://www.kommersant.ru/doc/9064178" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">отказались</a> от таможенного сбора для зарубежных заказов.<br/><br/><b>Официальный курс валют ЦБ РФ на выходные и понедельник, 2 ноября:</b><br/><br/><tg-emoji emoji-id="5431591259439391411"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92B1.png')"><b>💱</b></i></tg-emoji> Доллар — 80,56 руб. (-0,12 руб.)   <br/><tg-emoji emoji-id="5434051682994512235"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92B1.png')"><b>💱</b></i></tg-emoji> Евро — 89,66 руб. (-0,16 руб.)        <br/><tg-emoji emoji-id="5433946915857260378"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92B1.png')"><b>💱</b></i></tg-emoji> Юань — 12,09 руб. (+0,01 руб.)<br/><br/><a href="https://telegram.me/roseltorg_business" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Найти клиента легко — Росэлторг.Бизнес</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/roseltorg_business/4748</guid>
+      <pubDate>Fri, 30 Oct 2026 15:00:01 +0000</pubDate>
     </item>
   </channel>
 </rss>

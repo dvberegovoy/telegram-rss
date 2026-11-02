@@ -8,6 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 30 Oct 2026 11:31:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 13:43:36 +0000</lastBuildDate>
+    <item>
+      <title>🧩</title>
+      <link>https://telegram.me/spb_ufas/1463</link>
+      <description>🧩
+📢
+Прямо сейчас смотрите трансляцию публичных обсуждений Санкт-Петербургского УФАС России.</description>
+      <content:encoded><![CDATA[<tg-emoji emoji-id="5316689055931445350"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA7A9.png')"><b>🧩</b></i></tg-emoji><tg-emoji emoji-id="5317000501189948424"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93A2.png')"><b>📢</b></i></tg-emoji>Прямо сейчас смотрите трансляцию публичных обсуждений Санкт-Петербургского УФАС России.]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/spb_ufas/1463</guid>
+      <pubDate>Mon, 02 Nov 2026 12:09:06 +0000</pubDate>
+    </item>
   </channel>
 </rss>
