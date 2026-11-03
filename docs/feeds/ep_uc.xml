@@ -8,7 +8,73 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 02 Nov 2026 13:42:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 12:54:36 +0000</lastBuildDate>
+    <item>
+      <title>✍️</title>
+      <link>https://telegram.me/ep_uc/5808</link>
+      <description>✍️
+Минцифры станет и регулятором, и оператором НУЦ. Это норма?
+
+На очереди 
+разбор проекта постановления
+, который наделяет Минцифры функциями национального удостоверяющего центра по новой 
+ст. 13¹ 63-ФЗ
+, вступающей в силу 1 марта 2027 года.
+
+Я полагал, что это будет аналог 
+976-ПП
+ "О федеральном органе исполнительной власти, уполномоченном
+
+в сфере использования электронной подписи" - о федеральном органе исполнительной власти, 
+уполномоченном на осуществление функций в сфере использования сертификатов безопасности НУЦ
+ с внесением изменений в Положение о Минцифры.
+
+Но изменения вносятся только в Положение о Минцифры:
+
+🔹
+ Ведомство утверждает требования к сертификатам безопасности НУЦ, порядку их выдачи, аутентификации и ведению реестра (пп. 5.2.73–5.2.78)
+
+🔹
+Оно же всё это исполняет: создаёт и выдаёт сертификаты, ведёт реестр, выдаёт ключи идентификации и аутентификации (пп. 5.4.28–5.4.34).
+
+То есть Минцифры (по согласованию с ФСБ) устанавливает правила и само же их выполняет. Видится, что это конфликт "регулятор - оператор", по деятельности АУЦ такого нет, Минцифры устанавливает требования, как Головной УЦ, а аккредитованные УЦ из соблюдают. А с сертификатами безопасности проверять соблюдение требований будет тот, кто их написал и сам же исполняет. Техническая часть будет у отдельного оператора, которого определит Правительство по согласованию с ФСБ. Это частично снижает риски, но нормотворчество и операционка всё равно остаются в одних руках.
+
+В пояснительной записке сказано, что допрасходов не потребуется.
+
+А как вы считаете - допустимо ли совмещать регулятора и оператора в одном ведомстве?
+
+✍️
+Об ЭП и УЦ</description>
+      <content:encoded><![CDATA[<tg-emoji emoji-id="5470060791883374114"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><b>Минцифры станет и регулятором, и оператором НУЦ. Это норма?</b><br/><br/>На очереди <a href="https://regulation.gov.ru/projects/172347/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">разбор проекта постановления</a>, который наделяет Минцифры функциями национального удостоверяющего центра по новой <a href="https://telegram.me/ep_uc/5785" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">ст. 13¹ 63-ФЗ</a>, вступающей в силу 1 марта 2027 года.<br/><br/>Я полагал, что это будет аналог <a href="http://archive.government.ru/special/gov/results/17298/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">976-ПП</a> "О федеральном органе исполнительной власти, уполномоченном<br/>в сфере использования электронной подписи" - о федеральном органе исполнительной власти, <a href="https://telegram.me/ep_uc/5197" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">уполномоченном на осуществление функций в сфере использования сертификатов безопасности НУЦ</a> с внесением изменений в Положение о Минцифры.<br/><br/>Но изменения вносятся только в Положение о Минцифры:<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> Ведомство утверждает требования к сертификатам безопасности НУЦ, порядку их выдачи, аутентификации и ведению реестра (пп. 5.2.73–5.2.78)<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>Оно же всё это исполняет: создаёт и выдаёт сертификаты, ведёт реестр, выдаёт ключи идентификации и аутентификации (пп. 5.4.28–5.4.34).<br/><br/>То есть Минцифры (по согласованию с ФСБ) устанавливает правила и само же их выполняет. Видится, что это конфликт "регулятор - оператор", по деятельности АУЦ такого нет, Минцифры устанавливает требования, как Головной УЦ, а аккредитованные УЦ из соблюдают. А с сертификатами безопасности проверять соблюдение требований будет тот, кто их написал и сам же исполняет. Техническая часть будет у отдельного оператора, которого определит Правительство по согласованию с ФСБ. Это частично снижает риски, но нормотворчество и операционка всё равно остаются в одних руках.<br/><br/>В пояснительной записке сказано, что допрасходов не потребуется.<br/><br/>А как вы считаете - допустимо ли совмещать регулятора и оператора в одном ведомстве?<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Об ЭП и УЦ</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5808</guid>
+      <pubDate>Tue, 03 Nov 2026 05:40:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>❌</title>
+      <link>https://telegram.me/ep_uc/5807</link>
+      <description>❌
+Кибератака на провайдера - причина недоступности УЦ
+
+Совершённая в ночь на 2 ноября 
+атака на инфраструктуру провайдера Бегет
+ - стала причиной недоступности сервисов УЦ ИТ Мониторинг. Наш любимый индикатор 
+доступности CRL
+ говорит, что сбой случился в 4 часу ночи.
+
+УЦ ИТ Мониторинг занимает 
+4 место
+ в топе аккредитованных УЦ по количеству выдаваемых сертификатов. За последние годы это четвертый УЦ (после 
+АЦ
+, 
+ЕЭТП
+ и 
+Калуги
+), который пострадал от кибератак.</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/CL3HiWvE2yb55TrJFiFTbU3jYPN3Uyw1z3l0OaPC7D6CHdki0j8rodwSQyJ0xS8c4WCvzDgmhpSXQIMjXLtP4zb9AyLMLnfASUDUP2l9-2jb9MKpPUEjJGrVJPpVDEXHqT5mM7re-F2ZTPWC9bN5lCXNjDLN6mnsxcAQ53bOpi6hVYgBRHfYV92dhcD0hjZCghmikyu3mbUHS-X2czHgfA4ckKyKpfx0f6sgVjdkwf0jIzKir0wDcMI6v9BzVZ3otKvD1RW153YVcMHVGf60s45F830IJ6GT7jQ5EcTEq36neanJ-LCVcD_J6CH6u9kqewD-96mKXQB4tdNJYRgC6g.jpg" /></p>
+<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29D8C.png')"><b>❌</b></i><b>Кибератака на провайдера - причина недоступности УЦ</b><br/><br/>Совершённая в ночь на 2 ноября <a href="https://telegram.me/beget_official/572" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">атака на инфраструктуру провайдера Бегет</a> - стала причиной недоступности сервисов УЦ ИТ Мониторинг. Наш любимый индикатор <a href="https://e-trust.gosuslugi.ru/registry/accreditation/1152311003305" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">доступности CRL</a> говорит, что сбой случился в 4 часу ночи.<br/><br/>УЦ ИТ Мониторинг занимает <a href="https://telegram.me/ep_uc/5686" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">4 место</a> в топе аккредитованных УЦ по количеству выдаваемых сертификатов. За последние годы это четвертый УЦ (после <a href="https://telegram.me/ep_uc/2800" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">АЦ</a>, <a href="https://telegram.me/ep_uc/3087?single" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">ЕЭТП</a> и <a href="https://telegram.me/ep_uc/5102" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Калуги</a>), который пострадал от кибератак.]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5807</guid>
+      <pubDate>Mon, 02 Nov 2026 19:50:38 +0000</pubDate>
+    </item>
     <item>
       <title>✍</title>
       <link>https://telegram.me/ep_uc/5805</link>
@@ -202,7 +268,7 @@ SC-105
 📡
  
 Сети меняются. Мы следим. Подписывайтесь.</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/t6jmR12VBp3GRbJxMpP4Kc36IdaIsvgnT4qhq6QJ9fUAsiBb7KLBMOYwmGxa86hDvNMKr3zrxbqOOOPx8GpNQhNQiq5U8NfANDpmD8uljnBxBXs5UfoaMYRZkhAKk2n5u8KndLZFh4zdCV5sc88-L1FeqpHZcaufyYkzctJAhPYtwOC5EdZwk2cfA5sFF6mkr0dlK2spz9_qiByRI-FWxS_lVA-votKz2yTIPXXEWa5sLCz4MdC-w5YtOa2Q02G0KzXI_NQy2hU-uOGZse8nTylHPqNb9mXyl710Zx0ZCeTMHAjPhXQsRfI7NhVdgK4md6KY8DiBMBDNlY-uIq0DOg.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/ZgKbqwiwHvVm-BNVRTFb9JyKyc0ew-orK3Vb0bdKalSURUbvQibQM6urGyB-39i2jbp91HLX6qL-nX2nQK1zi4ep6HLyEz_u0xFMKV-KhX6gVl-Axpnaa8UFY0aXwSIskU-BIirLGHRsjRdcHmJ0XIBDuijn2llJYbwy9GFScsRUqOkB-p_das1Mng9kxAaVIfKMre9n3Bm05Fe9bnqnK3FD2xGHHMcQv3JCBWTnlqeHMAGOiS3RzwDtvNr-bm2dZAuA1t6Q-_mMHOsh2PysD7sKnICIdMAm0jjozZPhgYyRHTrU7bV-a6nItAfMdoMVMlEHDnwxHQxtapczsGUsCw.jpg" /></p>
 <b>Крупный IT-бизнес выступил против ограничения простых электронных подписей</b><br/><br/>Ассоциация больших данных («Яндекс», VK, «Сбер», операторы связи и др.) <a href="https://www.kommersant.ru/doc/9078427?tg" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">раскритиковала</a> предложения Минтруда в части регулирования порядка заключения электронных договоров между работодателями и сотрудниками.<br/><br/>Дополнительные расходы бизнеса могут достигать 100 млн руб. в год, а работнику придется проходить двухфакторную авторизацию на «Госуслугах», предупреждает АБР. Кроме того, предлагаемые поправки по сути обязывают работодателя обеспечить сотрудникам доступ к документам в мессенджере «Макс».<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93A1.png')"><b>📡</b></i> <a href="https://telegram.me/+SkQgmXpzMqFjZjli" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b>Сети меняются. Мы следим. Подписывайтесь.</b></a>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5803</guid>
       <pubDate>Mon, 02 Nov 2026 04:40:07 +0000</pubDate>
@@ -284,7 +350,7 @@ SC105: Remove High Risk language from TLS BR and EVG
       <title>#юмор</title>
       <link>https://telegram.me/ep_uc/5794</link>
       <description>#юмор</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/aA02pnM5vD3WEpANsqcXBn_Y8LA3pDnMeB4yJ97QbYCeMWghQMk33ElCo2WtADFEncB4aaTQL0aDKSpS5XRiXPHiKKpGobAlbseep5GQiKlrdEs4KYjyfJ-Mns3aJa5ycr6tukgCxQo_GsKYQEKPg4X7yxsw7paLyzG6NZ9HMHOwnP-8kRorgfn6dEFEhssc5TL3LreGfC54N6hBQ3egepHLAWgjJWKbdUySA_C_MHoyyrtgbdFeqCYExSNK2TnDDOmEqhY4SvvuMYw5_en1lw_6opUmf1u2Ju5zhcMP49wk4NRaDqcgqNtpi8HZ71uhPC1b4RIoq1MNm0vXvqvKJg.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/ecmPGp7BZ4kWKZZKmYYrfBkXZkEIjpGFmwG97Erzwc97oMooMj4yJIX3rrKEVhzqL491z_xEriREQ-H6cnyc2RJoWXyg6ool_jdzW6fJJIt5aLslzV_iPsmDdXOmBFYWDsChBpBnL-0GT0iCo2GNWwfehvfyKoowxNY4rqDnAOKTMufFZJdLIR_iegmGl5Th_EHpGKfIvbC0apD6dviepI1-I7cN4rh-j6otTxH0IFkldzp-KT9V09Gk0W4kOqT9AlfI8WyZB0baUmoFSAzUn5ihEN0SwWh39dZ8-5JwN6_4seRo-vHdUi8tQ6Wqc9zehvj2lWiOfzPKRTr9AL8lwQ.jpg" /></p>
 #юмор]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5794</guid>
       <pubDate>Sat, 31 Oct 2026 17:52:21 +0000</pubDate>
@@ -299,75 +365,6 @@ SC105: Remove High Risk language from TLS BR and EVG
       <content:encoded><![CDATA[<tg-emoji emoji-id="5470060791883374114"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji>Уведомление от eMudhra номер 6   28 октября 2026 г. опубликовано шестое обновление, содержащее уточнённую информацию о переходе клиентов: <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>около 30 800 сертификатов, созданных в рамках скомпрометированных подчиненных сертификатов G3, относятся к клиентской…]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5792</guid>
       <pubDate>Sat, 31 Oct 2026 14:50:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚡️</title>
-      <link>https://telegram.me/ep_uc/5791</link>
-      <description>⚡️
-АРБ просит Минтруд и Минэк доработать законопроект о кадровом ЭДО
-
-Ассоциация российских банков направила письма 
-Министру труда и соцзащиты
-, 
-Замминистру экономического развития
- с замечаниями к 
-законопроекту
- об изменениях в Трудовой кодекс.
-
-Статью 22.2 ТК предлагается дополнить нормой о возможности получения согласия работника или лица, принимаемого на работу в форме электронного документа, направленного посредством многофункционального сервиса обмена информацией. Согласие подписывается КЭП либо НЭП при соблюдении установленных требований к инфраструктуре и средствам защиты информации.
-
-- из пояснительной записки.
-
-Ассоциация концептуально идею развития кадрового ЭДО, в том числе через мессенджер Скам, поддерживают, но задаёт следующие вопросы
-
-1️⃣
- Законопроект предлагает вариативность - "письменная форма" или "форма электронного документа", но электронный документ тоже является письменной формой. АРБ предлагает закрепить общее правило - переход на КЭДО только при получении работодателем письменного согласия работника.
-
-2️⃣
- Законопроект сужает использование простой ЭП - только ПЭП ЕСИА. АРБ предлагает сохранить действующую редакцию абзаца пятого ч. 5 ст. 22.3 ТК, изменения могут привести к дополнительным расходам работодателей. Новые положения предлагается добавить отдельным абзацем.
-
-3️⃣
- АРБ считает необходимым предусмотреть возможность подписания согласия работника КЭП, сертификаты которых выданы коммерческими АУЦ, а не только монополия НЭП/КЭП Госключа в связке со Скамом. Отмечается, что ведение ограничения не отвечает характеру и степени рисков ненадлежащего оформления кадровых документов.
-
-4️⃣
- Работу над изменениями в ТК предлагается вести одновременно с внесением изменений в соответствующие нормативные акты, чтобы экспертиза регулирования была более полной.
-
-АРБ просит учесть позицию при доработке законопроекта. Учтёт ли Минтруд эти предложения?
-
-Реализация мер, предлагаемых проектом закона потребует выделения бюджетных ассигнований (неожиданно, правда?) на развитие единой цифровой платформы в сфере занятости и трудовых отношений «Работа в России» в объеме 142, 6 млн. рублей.
-
-В ФГИС КИ заведен ИТР «Развитие ЕЦП «Работа в России». Подписание электронных документов в рамках трудового права посредством национального мессенджера (MAX)» № 150.26.000058
-
-В очередной раз мы видим, что вместо устранен
-ия старой оши
-бки в статье 22.2:
-
-Работодатель несет расходы на получение работником электронной подписи (в случае ее отсутствия) и ее использование.
-
-Работник или лицо, поступающее на работу, вправе использовать ранее полученную самостоятельно усиленную квалифицированную электронную подпись
-
-- допускается новая. ПЭП это профанация электронной подписи, она не для кадровых документов. Удобнее облачной НЭП всё равно ничего не придумать.
-
-✍️
-Об ЭП и УЦ</description>
-      <content:encoded><![CDATA[<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29AA1.png')"><b>⚡️</b></i><b>АРБ просит Минтруд и Минэк доработать законопроект о кадровом ЭДО</b><br/><br/>Ассоциация российских банков направила письма <a href="https://arb.ru/b2b/docs/pismo_arb_ministru_truda_i_sotsialnoy_zashchity_rossiyskoy_federatsii_kotyakovu_-10708455/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Министру труда и соцзащиты</a>, <a href="https://arb.ru/b2b/docs/pismo_arb_stats_sekretaryu_zamestitelyu_ministra_ekonomicheskogo_razvitiya_rossi-10708454/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Замминистру экономического развития</a> с замечаниями к <a href="https://regulation.gov.ru/projects/171527/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">законопроекту</a> об изменениях в Трудовой кодекс.<br/><blockquote>Статью 22.2 ТК предлагается дополнить нормой о возможности получения согласия работника или лица, принимаемого на работу в форме электронного документа, направленного посредством многофункционального сервиса обмена информацией. Согласие подписывается КЭП либо НЭП при соблюдении установленных требований к инфраструктуре и средствам защиты информации.<br/></blockquote>- из пояснительной записки.<br/><br/>Ассоциация концептуально идею развития кадрового ЭДО, в том числе через мессенджер Скам, поддерживают, но задаёт следующие вопросы<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/31E283A3.png')"><b>1️⃣</b></i> Законопроект предлагает вариативность - "письменная форма" или "форма электронного документа", но электронный документ тоже является письменной формой. АРБ предлагает закрепить общее правило - переход на КЭДО только при получении работодателем письменного согласия работника.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/32E283A3.png')"><b>2️⃣</b></i> Законопроект сужает использование простой ЭП - только ПЭП ЕСИА. АРБ предлагает сохранить действующую редакцию абзаца пятого ч. 5 ст. 22.3 ТК, изменения могут привести к дополнительным расходам работодателей. Новые положения предлагается добавить отдельным абзацем.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/33E283A3.png')"><b>3️⃣</b></i> АРБ считает необходимым предусмотреть возможность подписания согласия работника КЭП, сертификаты которых выданы коммерческими АУЦ, а не только монополия НЭП/КЭП Госключа в связке со Скамом. Отмечается, что ведение ограничения не отвечает характеру и степени рисков ненадлежащего оформления кадровых документов.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/34E283A3.png')"><b>4️⃣</b></i> Работу над изменениями в ТК предлагается вести одновременно с внесением изменений в соответствующие нормативные акты, чтобы экспертиза регулирования была более полной.<br/><br/>АРБ просит учесть позицию при доработке законопроекта. Учтёт ли Минтруд эти предложения?<br/><br/><blockquote>Реализация мер, предлагаемых проектом закона потребует выделения бюджетных ассигнований (неожиданно, правда?) на развитие единой цифровой платформы в сфере занятости и трудовых отношений «Работа в России» в объеме 142, 6 млн. рублей.<br/><br/>В ФГИС КИ заведен ИТР «Развитие ЕЦП «Работа в России». Подписание электронных документов в рамках трудового права посредством национального мессенджера (MAX)» № 150.26.000058</blockquote><br/><br/>В очередной раз мы видим, что вместо устранен<a href="https://telegram.me/ep_uc/202" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">ия старой оши</a>бки в статье 22.2:<br/><br/><blockquote>Работодатель несет расходы на получение работником электронной подписи (в случае ее отсутствия) и ее использование.<br/><br/>Работник или лицо, поступающее на работу, вправе использовать ранее полученную самостоятельно усиленную квалифицированную электронную подпись</blockquote><br/>- допускается новая. ПЭП это профанация электронной подписи, она не для кадровых документов. Удобнее облачной НЭП всё равно ничего не придумать.<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Об ЭП и УЦ</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5791</guid>
-      <pubDate>Sat, 31 Oct 2026 06:01:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>📈</title>
-      <link>https://telegram.me/ep_uc/5789</link>
-      <description>📈
-Количество 
-доверенных лиц УЦ ФНС России
- увеличилось до 8 организаций, статус официально получен ОПФ «Центр инноваций и информационных технологий» (только для нотариусов и лиц, замещающих временно отсутствующих нотариусов)
-
-✍️
-Об ЭП и УЦ</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/RYo_N1KGVuHaSrecZ-MYvQws-rqWirgKh5-xUJNfnqVP_XSBF-YysmnMvLPQrNcsr7jN3ok1xEHelrOnjVc59Oeor_1vihZ7N3tP5okrVXx5N_TaEgpPWakRFxo_ObB8axAdhAzfsVge4ly2YAKXNDxUyNZqYVsTKxsTeBDmEy3Z6mIZFP5iDCVxnBfaTX02Xo6K6d_WJUD1vXapPmmk-3FkVyDzMJm9XkYYvM3sK_aotb2C69R8wIMkK4VOpGsS9YvCauxpoajXRlwSrV_LaMTgazxR88T8SyENSyGE0KnmJFvxlpa1Isi-DZI6EeBsTjs9LDEun13zDCmEEsseKw.jpg" /></p>
-<tg-emoji emoji-id="5373001317042101552"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9388.png')"><b>📈</b></i></tg-emoji><b>Количество </b><a href="https://www.nalog.gov.ru/rn77/related_activities/ucfns/dlucfns/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b>доверенных лиц УЦ ФНС России</b></a><b> увеличилось до 8 организаций, статус официально получен ОПФ «Центр инноваций и информационных технологий» (только для нотариусов и лиц, замещающих временно отсутствующих нотариусов)</b><br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Об ЭП и УЦ</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5789</guid>
-      <pubDate>Fri, 30 Oct 2026 18:30:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
