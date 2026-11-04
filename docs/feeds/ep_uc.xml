@@ -8,7 +8,60 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 03 Nov 2026 12:54:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 13:08:41 +0000</lastBuildDate>
+    <item>
+      <title>Пост — Об ЭП и УЦ</title>
+      <link>https://telegram.me/ep_uc/5817</link>
+      <description>Пост — Об ЭП и УЦ</description>
+      <content:encoded><![CDATA[(нет текста)]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5817</guid>
+      <pubDate>Wed, 04 Nov 2026 08:48:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>✍️</title>
+      <link>https://telegram.me/ep_uc/5815</link>
+      <description>✍️
+Правила определения стоимости за сертификат НУЦ
+
+Новый проект
+ - Об утверждении Правил определения предельного размера платы за создание и выдачу сертификата безопасности национального удостоверяющего центра.
+
+Согласно части 4 статьи 14.1 Федерального закона № 63-ФЗ, вступающей в силу с 1 марта 2027 г., предусмотрено, что создание и выдача сертификатов безопасности НУЦ, указанных в пунктах 2 - 5 части 2 статьи 14.1 63-ФЗ, могут осуществляться за плату, за исключением случаев, установленных частью 5 статьи 14.1 Федерального закона № 63-ФЗ. 
+
+Размер платы за создание и выдачу сертификата безопасности НУЦ не должен превышать предельный размер платы, порядок определения которого устанавливается Правительством.
+
+✍️
+Об ЭП и УЦ</description>
+      <content:encoded><![CDATA[<tg-emoji emoji-id="5470060791883374114"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><b>Правила определения стоимости за сертификат НУЦ</b><br/><br/><a href="https://regulation.gov.ru/projects/172575" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Новый проект</a> - Об утверждении Правил определения предельного размера платы за создание и выдачу сертификата безопасности национального удостоверяющего центра.<br/><br/>Согласно части 4 статьи 14.1 Федерального закона № 63-ФЗ, вступающей в силу с 1 марта 2027 г., предусмотрено, что создание и выдача сертификатов безопасности НУЦ, указанных в пунктах 2 - 5 части 2 статьи 14.1 63-ФЗ, могут осуществляться за плату, за исключением случаев, установленных частью 5 статьи 14.1 Федерального закона № 63-ФЗ. <br/><br/>Размер платы за создание и выдачу сертификата безопасности НУЦ не должен превышать предельный размер платы, порядок определения которого устанавливается Правительством.<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Об ЭП и УЦ</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5815</guid>
+      <pubDate>Tue, 03 Nov 2026 16:56:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>✍️</title>
+      <link>https://telegram.me/ep_uc/5814</link>
+      <description>✍️
+О государственной информационной системе национального удостоверяющего центра
+
+Для общественного обсуждения опубликован 
+проект постановления
+ Правительства , которым утверждается положение о государственной информационной системе национального удостоверяющего центра, а также определяется, что оператором ГИС НУЦ является Минцифры (функции оператора будут переданы 
+Восходу
+).
+
+Потенциальными заявителями являются владельцы сайтов в российских доменных зонах.  По данным Координационного центра доменов .RU/.РФ:  В зоне .RU зарегистрировано 6 160 851 доменов.  В зоне .РФ зарегистрировано ~780 000 доменов.  Общее количество сайтов в России достигло ~6 млн.  Однако не все владельцы сайтов обязаны получать сертификаты безопасности НУЦ.  На текущий момент обязательность установлена:  для государственных органов (не рассматриваем);  для юридических лиц и ИП с лицензией на криптографическую деятельность;  в иных случаях, которые могут быть установлены Правительством РФ.  Для расчета используем консервативную оценку — количество юридических лиц и индивидуальных предпринимателей, которые потенциально могут обратиться за сертификатом.  По данным ФНС России, общее количество юридических лиц и ИП в России на конец 2025 года составило более 8 млн, из которых юридических лиц — 2,6 млн. Принимаем для расчета: q = 2 600 000 юридических лиц (как наиболее вероятные заявители — владельцы сайтов и информационных систем).
+
+Всего НУЦ за 
+пять лет
+ на 
+данный момент
+ выдал 36,1 тыс. сертификатов, из них действующих 15,7 тыс.
+
+✍️
+Об ЭП и УЦ</description>
+      <content:encoded><![CDATA[<tg-emoji emoji-id="5470060791883374114"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><b>О государственной информационной системе национального удостоверяющего центра</b><br/><br/>Для общественного обсуждения опубликован <a href="https://regulation.gov.ru/projects/172572" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">проект постановления</a> Правительства , которым утверждается положение о государственной информационной системе национального удостоверяющего центра, а также определяется, что оператором ГИС НУЦ является Минцифры (функции оператора будут переданы <a href="https://nuc.voskhod.ru/authority" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Восходу</a>).<br/><blockquote>Потенциальными заявителями являются владельцы сайтов в российских доменных зонах.  По данным Координационного центра доменов .RU/.РФ:  В зоне .RU зарегистрировано 6 160 851 доменов.  В зоне .РФ зарегистрировано ~780 000 доменов.  Общее количество сайтов в России достигло ~6 млн.  Однако не все владельцы сайтов обязаны получать сертификаты безопасности НУЦ.  На текущий момент обязательность установлена:  для государственных органов (не рассматриваем);  для юридических лиц и ИП с лицензией на криптографическую деятельность;  в иных случаях, которые могут быть установлены Правительством РФ.  Для расчета используем консервативную оценку — количество юридических лиц и индивидуальных предпринимателей, которые потенциально могут обратиться за сертификатом.  По данным ФНС России, общее количество юридических лиц и ИП в России на конец 2025 года составило более 8 млн, из которых юридических лиц — 2,6 млн. Принимаем для расчета: q = 2 600 000 юридических лиц (как наиболее вероятные заявители — владельцы сайтов и информационных систем).<br/></blockquote>Всего НУЦ за <a href="https://telegram.me/ep_uc/5625?single" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">пять лет</a> на <a href="https://precert.ru/stat/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">данный момент</a> выдал 36,1 тыс. сертификатов, из них действующих 15,7 тыс.<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Об ЭП и УЦ</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5814</guid>
+      <pubDate>Tue, 03 Nov 2026 16:37:24 +0000</pubDate>
+    </item>
     <item>
       <title>✍️</title>
       <link>https://telegram.me/ep_uc/5808</link>
@@ -70,7 +123,7 @@
  и 
 Калуги
 ), который пострадал от кибератак.</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/CL3HiWvE2yb55TrJFiFTbU3jYPN3Uyw1z3l0OaPC7D6CHdki0j8rodwSQyJ0xS8c4WCvzDgmhpSXQIMjXLtP4zb9AyLMLnfASUDUP2l9-2jb9MKpPUEjJGrVJPpVDEXHqT5mM7re-F2ZTPWC9bN5lCXNjDLN6mnsxcAQ53bOpi6hVYgBRHfYV92dhcD0hjZCghmikyu3mbUHS-X2czHgfA4ckKyKpfx0f6sgVjdkwf0jIzKir0wDcMI6v9BzVZ3otKvD1RW153YVcMHVGf60s45F830IJ6GT7jQ5EcTEq36neanJ-LCVcD_J6CH6u9kqewD-96mKXQB4tdNJYRgC6g.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/odx71knEtBDAfI6ByJS9cKtv-cvuRBMropVdC_BWPM-yw35hYhpoaeYcQPL320S--jypYrUmvAZKeq9RgrPPTRfzQeJvQAcyRP3UVtOevdkt79x25gGIrQMyoszbsIPbdC3T-EEfIMzFcnEQVsdj1PoUbDLi4WypnLogUoV_RBDqGuMVrOGZ7dBS0OSSXmSpOsXr95D9vENrEJWVw5TuRbsnLVEalEIfmJJNCC9HxMAvnDmmBctcXJNE2sMHJ2W3va8rzWEmWoKfMO7uJbDG_jIyc98SZ425WHHUx4Wi6C_FfMTS628hgkyvf2w_na3yN6ekOZCDkWlHXtiwH2XuRw.jpg" /></p>
 <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29D8C.png')"><b>❌</b></i><b>Кибератака на провайдера - причина недоступности УЦ</b><br/><br/>Совершённая в ночь на 2 ноября <a href="https://telegram.me/beget_official/572" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">атака на инфраструктуру провайдера Бегет</a> - стала причиной недоступности сервисов УЦ ИТ Мониторинг. Наш любимый индикатор <a href="https://e-trust.gosuslugi.ru/registry/accreditation/1152311003305" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">доступности CRL</a> говорит, что сбой случился в 4 часу ночи.<br/><br/>УЦ ИТ Мониторинг занимает <a href="https://telegram.me/ep_uc/5686" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">4 место</a> в топе аккредитованных УЦ по количеству выдаваемых сертификатов. За последние годы это четвертый УЦ (после <a href="https://telegram.me/ep_uc/2800" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">АЦ</a>, <a href="https://telegram.me/ep_uc/3087?single" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">ЕЭТП</a> и <a href="https://telegram.me/ep_uc/5102" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Калуги</a>), который пострадал от кибератак.]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5807</guid>
       <pubDate>Mon, 02 Nov 2026 19:50:38 +0000</pubDate>
@@ -268,7 +321,7 @@ SC-105
 📡
  
 Сети меняются. Мы следим. Подписывайтесь.</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/ZgKbqwiwHvVm-BNVRTFb9JyKyc0ew-orK3Vb0bdKalSURUbvQibQM6urGyB-39i2jbp91HLX6qL-nX2nQK1zi4ep6HLyEz_u0xFMKV-KhX6gVl-Axpnaa8UFY0aXwSIskU-BIirLGHRsjRdcHmJ0XIBDuijn2llJYbwy9GFScsRUqOkB-p_das1Mng9kxAaVIfKMre9n3Bm05Fe9bnqnK3FD2xGHHMcQv3JCBWTnlqeHMAGOiS3RzwDtvNr-bm2dZAuA1t6Q-_mMHOsh2PysD7sKnICIdMAm0jjozZPhgYyRHTrU7bV-a6nItAfMdoMVMlEHDnwxHQxtapczsGUsCw.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/sgEgk2l1W4UIPxqP-PU6PNT0Lp-qtks6CM7k09zhKANE4fGS9smCr_jWCPNYJqMySxZWZNLK6mM3SnUXYibXdpAkI5PT9ITjJQnxCnniKO0uPmyUecT5QbpBUwParaFeX49acSXB0gKTqWMJKslcZJtULM0suO4-wlVEyTcMuMMZIIBOtIVKrEJFjNbSl0K7PWZ_pQ1q24Dy2XiCtJMbs_lkXdv5iu-EuuLtY2ZxLmuPgZOMyWsT0a8FbnRnb6_wR6XwP-QYg9kXT7hlK5elZ8yflwDSoAi1XOTrJgoBOuoH09t1T8-YJOtrKxtAJAmaICPdMIJ79BsygBnMlCSeqA.jpg" /></p>
 <b>Крупный IT-бизнес выступил против ограничения простых электронных подписей</b><br/><br/>Ассоциация больших данных («Яндекс», VK, «Сбер», операторы связи и др.) <a href="https://www.kommersant.ru/doc/9078427?tg" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">раскритиковала</a> предложения Минтруда в части регулирования порядка заключения электронных договоров между работодателями и сотрудниками.<br/><br/>Дополнительные расходы бизнеса могут достигать 100 млн руб. в год, а работнику придется проходить двухфакторную авторизацию на «Госуслугах», предупреждает АБР. Кроме того, предлагаемые поправки по сути обязывают работодателя обеспечить сотрудникам доступ к документам в мессенджере «Макс».<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93A1.png')"><b>📡</b></i> <a href="https://telegram.me/+SkQgmXpzMqFjZjli" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b>Сети меняются. Мы следим. Подписывайтесь.</b></a>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5803</guid>
       <pubDate>Mon, 02 Nov 2026 04:40:07 +0000</pubDate>
@@ -345,26 +398,6 @@ SC105: Remove High Risk language from TLS BR and EVG
       <content:encoded><![CDATA[<tg-emoji emoji-id="5470060791883374114"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><b>CA/B Forum удаляет из Базовых требований и Руководства по расширенной проверке требование о высоком риске</b><br/><br/>Закончился <a href="https://groups.google.com/a/groups.cabforum.org/g/servercert-wg/c/OJYmiqm_-vs" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">период голосования</a> по бюллетеню "<a href="https://github.com/cabforum/servercert/pull/678" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">SC105: Remove High Risk language from TLS BR and EVG</a>", бюллетень принят:<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>удаляется определение "High Risk Certificate Request"<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>удаляется требование из раздела 4.2.1 TLS BR - разрабатывать и применять документированные процедуры выявления запросов высокого риска и доп. проверки по ним<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>удаляется раздел 3.2.2.12.1 EVG (High Risk Status), распространявший эти требования на EV-сертификаты<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>обновляются смежные ссылки<br/><br/>Требование о "высоком риске" подвергалось критике, как расплывчатое и неисполнимое:<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>не определено, что считать запросом высокого риска.<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>УЦ и аудиторы не имели объективной базы для оценки его соблюдения.<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>фактически было заменено конкретными механизмами контроля, добавленными в BR за последние годы: обработка CAA, DNSSEC, Multi-Perspective Issuance Corroboration, отказ от слабых методов валидации и др.<br/><br/>УЦ не лишаются права применять риск-ориентированные меры контроля, но уже в рамках собственных CP/CPS. Одобренная корректировка исключает лишь неопределённое обязательство из требований Форума. Следующий этап - период проверки интеллектуальных прав.<br/><br/>Вот бы наш регулятор также отредактировал пункт 1 части 1 статьи 10 63-ФЗ:<br/><blockquote>обеспечивать конфиденциальность ключей электронных подписей, <b>в частности не допускать использование принадлежащих им ключей электронных подписей без их согласия</b></blockquote><br/>и удалил эту противоречивую фразу насчёт согласия.<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Об ЭП и УЦ</a>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5800</guid>
       <pubDate>Sun, 01 Nov 2026 14:50:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>#юмор</title>
-      <link>https://telegram.me/ep_uc/5794</link>
-      <description>#юмор</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/ecmPGp7BZ4kWKZZKmYYrfBkXZkEIjpGFmwG97Erzwc97oMooMj4yJIX3rrKEVhzqL491z_xEriREQ-H6cnyc2RJoWXyg6ool_jdzW6fJJIt5aLslzV_iPsmDdXOmBFYWDsChBpBnL-0GT0iCo2GNWwfehvfyKoowxNY4rqDnAOKTMufFZJdLIR_iegmGl5Th_EHpGKfIvbC0apD6dviepI1-I7cN4rh-j6otTxH0IFkldzp-KT9V09Gk0W4kOqT9AlfI8WyZB0baUmoFSAzUn5ihEN0SwWh39dZ8-5JwN6_4seRo-vHdUi8tQ6Wqc9zehvj2lWiOfzPKRTr9AL8lwQ.jpg" /></p>
-#юмор]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5794</guid>
-      <pubDate>Sat, 31 Oct 2026 17:52:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>✍️</title>
-      <link>https://telegram.me/ep_uc/5792</link>
-      <description>✍️
-Уведомление от eMudhra номер 6   28 октября 2026 г. опубликовано шестое обновление, содержащее уточнённую информацию о переходе клиентов: 
-🔹
-около 30 800 сертификатов, созданных в рамках скомпрометированных подчиненных сертификатов G3, относятся к клиентской…</description>
-      <content:encoded><![CDATA[<tg-emoji emoji-id="5470060791883374114"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji>Уведомление от eMudhra номер 6   28 октября 2026 г. опубликовано шестое обновление, содержащее уточнённую информацию о переходе клиентов: <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>около 30 800 сертификатов, созданных в рамках скомпрометированных подчиненных сертификатов G3, относятся к клиентской…]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5792</guid>
-      <pubDate>Sat, 31 Oct 2026 14:50:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
