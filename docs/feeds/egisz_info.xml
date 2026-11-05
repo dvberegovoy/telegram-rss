@@ -8,14 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 04 Nov 2026 13:08:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 13:22:40 +0000</lastBuildDate>
     <item>
       <title>Пост — ЕГИСЗ. Новости СТП</title>
-      <link>https://telegram.me/egisz_info/7369</link>
+      <link>https://telegram.me/egisz_info/7371</link>
       <description>Пост — ЕГИСЗ. Новости СТП</description>
       <content:encoded><![CDATA[(нет текста)]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/egisz_info/7369</guid>
-      <pubDate>Tue, 03 Nov 2026 10:39:47 +0000</pubDate>
+      <guid isPermaLink="true">https://telegram.me/egisz_info/7371</guid>
+      <pubDate>Thu, 05 Nov 2026 09:32:16 +0000</pubDate>
     </item>
     <item>
       <title>ℹ</title>
@@ -63,106 +63,6 @@ tech-iemk.egisz.rosminzdrav.ru
       <content:encoded><![CDATA[<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E284B9.png')"><b>ℹ</b></i><b> Уведомление об изменении IP-адреса Технического портала ИЭМК </b> <br/> <br/>Уважаемые пользователи!<br/>3 ноября 2026 года в 01:00 (МСК) запланировано изменение IP-адреса сервиса «Технический портал ИЭМК».<br/>Адрес сервиса: <a href="http://tech-iemk.egisz.rosminzdrav.ru/" rel="noopener" target="_blank">tech-iemk.egisz.rosminzdrav.ru</a><br/>Текущий IP-адрес: <a href="http://46.61.237.20/" rel="noopener" target="_blank">46.61.237.20</a><br/>Новый IP-адрес: <a href="http://92.101.255.45/" rel="noopener" target="_blank">92.101.255.45</a><br/>Необходимые действия:<br/>При использовании DNS — дополнительные действия не требуются. Переход на новый IP-адрес будет выполнен автоматически после обновления DNS-записей.<br/>При использовании статического IP-адреса — необходимо обратиться в службу ИТ-поддержки для изменения настроек подключения и указания нового IP-адреса.<br/>Просим заблаговременно проверить настройки интеграции с сервисом и при необходимости обеспечить их актуализацию.<br/>Благодарим за понимание! <br/> <br/><br/> <i>2 ноября 2026 г. 17:06</i> <br/><br/> <a href="https://portal.egisz.rosminzdrav.ru/support/expand/notification" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Центр технической поддержки ЕГИСЗ</a><br/> <a href="https://telegram.me/egisz_info" target="_blank">@egisz_info</a>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/egisz_info/7367</guid>
       <pubDate>Mon, 02 Nov 2026 14:08:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>ℹ</title>
-      <link>https://telegram.me/egisz_info/7366</link>
-      <description>ℹ
- Экстренные работы  РСОСЗ Пром (ОЦОД) 02/11/26 
- 
-
- 
-
-В связи с проведением экстренных технологических работ 02.11.2026 с 21:00:00 до 23:59:59 возможны ограничения в функционировании сервисов подсистемы РСОСЗ в продуктивной среде. Приносим свои извинения за доставленные неудобства. 
-
- 
-
-Дата и время начала работ: 2026-11-02 21:00:00 
- 
-
-Дата и время завершения: 2026-11-02 23:59:00 
- 
-
- 
-2 ноября 2026 г. 14:33
- 
-
- 
-Центр технической поддержки ЕГИСЗ
-
- 
-@egisz_info</description>
-      <content:encoded><![CDATA[<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E284B9.png')"><b>ℹ</b></i><b> Экстренные работы  РСОСЗ Пром (ОЦОД) 02/11/26 </b> <br/> <br/>В связи с проведением экстренных технологических работ 02.11.2026 с 21:00:00 до 23:59:59 возможны ограничения в функционировании сервисов подсистемы РСОСЗ в продуктивной среде. Приносим свои извинения за доставленные неудобства. <br/> <br/><i>Дата и время начала работ: 2026-11-02 21:00:00 </i> <br/><i>Дата и время завершения: 2026-11-02 23:59:00 </i> <br/><br/> <i>2 ноября 2026 г. 14:33</i> <br/><br/> <a href="https://portal.egisz.rosminzdrav.ru/support/expand/notification" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Центр технической поддержки ЕГИСЗ</a><br/> <a href="https://telegram.me/egisz_info" target="_blank">@egisz_info</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/egisz_info/7366</guid>
-      <pubDate>Mon, 02 Nov 2026 11:34:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>ℹ</title>
-      <link>https://telegram.me/egisz_info/7365</link>
-      <description>ℹ
- Проблемы в работе компонента ПЖМ (пром, 01.11.2026) 
- 
-
- 
-
-Уважаемые пользователи!
-
-Работоспособность промышленной среды компонента:
-
-"Платформа журналирования и мониторинга" подсистемы СИЦ восстановлена.
-
-Дата и время решения: 02/11/26 00:10:01 
-
- 
-
- 
-2 ноября 2026 г. 0:11
- 
-
- 
-Центр технической поддержки ЕГИСЗ
-
- 
-@egisz_info</description>
-      <content:encoded><![CDATA[<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E284B9.png')"><b>ℹ</b></i><b> Проблемы в работе компонента ПЖМ (пром, 01.11.2026) </b> <br/> <br/>Уважаемые пользователи!<br/>Работоспособность промышленной среды компонента:<br/>"Платформа журналирования и мониторинга" подсистемы СИЦ восстановлена.<br/>Дата и время решения: 02/11/26 00:10:01 <br/> <br/><br/> <i>2 ноября 2026 г. 0:11</i> <br/><br/> <a href="https://portal.egisz.rosminzdrav.ru/support/expand/notification" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Центр технической поддержки ЕГИСЗ</a><br/> <a href="https://telegram.me/egisz_info" target="_blank">@egisz_info</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/egisz_info/7365</guid>
-      <pubDate>Sun, 01 Nov 2026 21:12:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>ℹ</title>
-      <link>https://telegram.me/egisz_info/7364</link>
-      <description>ℹ
- Проблемы в работе компонента ПЖМ  (пром, 02.11.2026) 
- 
-
- 
-
-Уважаемые пользователи!
-
-На данный момент наблюдаются проблемы в работе промышленной среды компонента:
-
-"Платформа журналирования и мониторинга" подсистемы обеспечения отраслевого ситуационного центра в сфере здравоохранения.
-
-Время обнаружения: 01/11/26 23:58:00
-
-Работы по восстановлению работоспособности уже ведутся.
-
-Приносим извинения за доставленные неудобства. 
-
- 
-
- 
-2 ноября 2026 г. 0:01
- 
-
- 
-Центр технической поддержки ЕГИСЗ
-
- 
-@egisz_info</description>
-      <content:encoded><![CDATA[<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E284B9.png')"><b>ℹ</b></i><b> Проблемы в работе компонента ПЖМ  (пром, 02.11.2026) </b> <br/> <br/>Уважаемые пользователи!<br/>На данный момент наблюдаются проблемы в работе промышленной среды компонента:<br/>"Платформа журналирования и мониторинга" подсистемы обеспечения отраслевого ситуационного центра в сфере здравоохранения.<br/>Время обнаружения: 01/11/26 23:58:00<br/>Работы по восстановлению работоспособности уже ведутся.<br/>Приносим извинения за доставленные неудобства. <br/> <br/><br/> <i>2 ноября 2026 г. 0:01</i> <br/><br/> <a href="https://portal.egisz.rosminzdrav.ru/support/expand/notification" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Центр технической поддержки ЕГИСЗ</a><br/> <a href="https://telegram.me/egisz_info" target="_blank">@egisz_info</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/egisz_info/7364</guid>
-      <pubDate>Sun, 01 Nov 2026 21:02:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
