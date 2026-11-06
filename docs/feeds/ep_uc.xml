@@ -8,7 +8,50 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 05 Nov 2026 13:22:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 13:05:42 +0000</lastBuildDate>
+    <item>
+      <title>✍️</title>
+      <link>https://telegram.me/ep_uc/5825</link>
+      <description>✍️
+Проект требований Минцифры к доверенному ПО   Минцифры разработало требования к доверенному ПО, документ размещён для общественного обсуждения.   Посмотрим, что там по нашей сфере: 
+🔹
+Почтовые приложения должны обеспечить использование сертифицированных средств…</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/NEERsrNdIgxjdKcLFGgEojXaiYgkVCQ8JpfSuSo8j_6CaYQFSAp3Jb8hgTg8EvZf2mKhOq_jJzMAhrzL_KAf__Yg2apmlu4jb5j81nn_KEBoUWwrbROplJ1dYsWfGIxkjlc9tt2JGm5Xeksr8kLm43zcvr6FtaDGRkrzo3DCI8HmQ9VHmijmVKAl513l7dskfD-3VtxBOKv8yMm0zjTuV-Xb9584FIHmJQf-Wp1AUMXdyfBchCchzYJJ_8vyJp4cVFCwgKWf6P_ixrk-GpyNMSmSa5OtsOocmk-1QhH4VlUQP4aPLA134elMTWAaRm4cGlzKZhj-tV1t5Uy4jq5AdQ.jpg" /></p>
+<tg-emoji emoji-id="5470060791883374114"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji>Проект требований Минцифры к доверенному ПО   Минцифры разработало требования к доверенному ПО, документ размещён для общественного обсуждения.   Посмотрим, что там по нашей сфере: <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>Почтовые приложения должны обеспечить использование сертифицированных средств…]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5825</guid>
+      <pubDate>Fri, 06 Nov 2026 05:05:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔐</title>
+      <link>https://telegram.me/ep_uc/5824</link>
+      <description>🔐
+ 
+CA/B Forum взялся за решение проблемы слабых ключей ECDSA
+
+Я ждал, когда же CA/B Forum выскажется по 
+проблеме слабых ключей УЦ eMudhra
+, высказались, в 
+протоколе
+ рабочей группы.
+
+Решили, что в Базовых требованиях есть пробел - для RSA проверки качества ключей прописаны (раздел 6.1.6), а для ECDSA явных минимальных проверок нет.
+
+Председатель форума Димитрис Захаропулос сам поднял инцидент с промежуточными сертификатами ECDSA со слабыми ключами и предложил подготовить бюллетень. 
+
+Аарон Гейбл нашёл ещё один пробел - в разделе 6.1.1: пункт 
+6.1.1.1
+ которого посвящен генерации ключей центра сертификации, а 
+6.1.1.3
+ - про пользовательские ключи, что создает пробел в случаях, когда УЦ генерирует слабый ключ промежуточного ЦС или в рамках кросс-сертификации подписывает запрос от другого УЦ. Предложено объединить раздел 6.1.1 таким образом, чтобы проверки криптостойкости ключей выполнялись для всех ключей - ЦС, промежуточных, пользователей перед подписанием.
+
+Димитрис Захаропулос согласился и готовит текст проекта бюллетеня для обсуждения. Следим за развитием событий.
+
+✍️
+Об ЭП и УЦ</description>
+      <content:encoded><![CDATA[<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9490.png')"><b>🔐</b></i> <b>CA/B Forum взялся за решение проблемы слабых ключей ECDSA</b><br/><br/>Я ждал, когда же CA/B Forum выскажется по <a href="https://telegram.me/ep_uc/5794" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">проблеме слабых ключей УЦ eMudhra</a>, высказались, в <a href="https://groups.google.com/a/groups.cabforum.org/g/servercert-wg/c/4lwou5oz2Oc/m/eAMX2GFeAwAJ" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">протоколе</a> рабочей группы.<br/><br/>Решили, что в Базовых требованиях есть пробел - для RSA проверки качества ключей прописаны (раздел 6.1.6), а для ECDSA явных минимальных проверок нет.<br/><br/>Председатель форума Димитрис Захаропулос сам поднял инцидент с промежуточными сертификатами ECDSA со слабыми ключами и предложил подготовить бюллетень. <br/><br/>Аарон Гейбл нашёл ещё один пробел - в разделе 6.1.1: пункт <a href="http://6.1.1.1/" rel="noopener" target="_blank">6.1.1.1</a> которого посвящен генерации ключей центра сертификации, а <a href="http://6.1.1.3/" rel="noopener" target="_blank">6.1.1.3</a> - про пользовательские ключи, что создает пробел в случаях, когда УЦ генерирует слабый ключ промежуточного ЦС или в рамках кросс-сертификации подписывает запрос от другого УЦ. Предложено объединить раздел 6.1.1 таким образом, чтобы проверки криптостойкости ключей выполнялись для всех ключей - ЦС, промежуточных, пользователей перед подписанием.<br/><br/>Димитрис Захаропулос согласился и готовит текст проекта бюллетеня для обсуждения. Следим за развитием событий.<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Об ЭП и УЦ</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5824</guid>
+      <pubDate>Thu, 05 Nov 2026 18:00:37 +0000</pubDate>
+    </item>
     <item>
       <title>❌</title>
       <link>https://telegram.me/ep_uc/5820</link>
@@ -32,8 +75,8 @@ cryptopro.ru
 Чья база является источником утечки и когда она произошла? 12 млн. пользователей - большая цифра. Утекшие данные, включающие простых физических лиц, ничего не говорят про конкретного оператора ЭДО, либо УЦ, который мог бы выдать сертификаты. Информация об использовании МЧД наталкивает на мысль, что это не компиляция, а утечка из одного источника, которая произошла в интервале февраль-апрель 2026 года (об этом говорят паспорта, полученные в начале февраля).
 
 Если кто обнаружил себя в этой утечке - в каких УЦ вы получали сертификат физлица за последние полтора года и услугами какого оператора ЭДО пользуетесь?</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/Yeh6v9GQ27ml2-KlyRQ-LAAoHWUgYGVtzgI2b0OfmTRz9i54bDUgvlVodAo4hNne5hYx_MWDR4HinAbM1ZGcupYr4XTrD-MQHRuD6kM4borYge_nWSbJo5rDwYjcFOQAroJaCokwovsV_i7ZZ9vjFW6CFv9JbxRjv0L_Bn2LMAx38fOhc5pI-jQyEyGFrBSaMJWklHFbra9lW6o0YCyQdN-Da3bZdcMZcrsE4SfctJVh8lO-MD0NfxAOdqjTX2dR7R-19VDKAxEyxFd-8oXeCbh3IXzcTGO2pQx2HS9qOZtVuJFcmaKIpzWQEwuX5a4Rqmc4-66rp46V6oxc6HWmow.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/bCBkTy3M29z4Cv_0jBW7slMGf7dHPSoAxMxl28U5t8WUMrLACP7yT_ECiU-n85O4AWi1xx9_vDE63Zn5jXTZxgeoP_lXrsQDMx1vE3aCIpne7f1O6el9Gmi1A6W3iDOAvTuox5oEGrJHz7G1Xa8XXm0MvXJ6fEGCc4qvZSiob9L83Zru4BRIye0he-1lICY7xISCQ0Em0nQSZHXJy6blHIKfWIh5ir-uDySPV3QrxweytiW9c08HeghstgO44r5nublEUayTo0VHNO9sJs6i8sZuJENd4wNoICyrZVb_kbZ6vlOjZku3h35k6gylgft5dk2TNjfxpM2NCJay3OCM0Q.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/hPGEEmVKujFUV70d74j9RE9-oIdiEDVFr4nZnikHa_-DS9VFnXgyPYQbVhLZ6z8k3tE9E7UCeck4QfrxaMh13pVIuYVZrVV6JSNDs10onDhbMIEzBfCiE5BXsrLAAZCDYJpELQ2ZQQuzZgkLRFwwTjB-eWgWHOEWg7LQ6y6YRSN6r0f8jX5p4HIUga1OaZon9dPLlTmj381nImxw3XAFFK7xEl4lWYOhW7TlFnJEhFuPXO1i1Ox0oDgD-XqBV5odz-b6zjCtial6yHBYc2jSb_zVCegX-3kamC6wFc_JgcvmJ-Wc2s4Sgz6WaPuvpj_S6LranGjLwPyWEYRdltSBBQ.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/a0khL6O-LWW5rXE7Hc5AlYnHAs6H_Qiuq3nqABEimH0RzC6QuzAAxfsl1OmEmYKTQd9UbowxGd47KKOg2e39gxKlMw5FJt-np2mP3021BcFJZC9nbYWlTVDtQR1sqWV3z5PEgNhdJ2U_F3ohdmYuJQBpyWAGfgCzjUF0SiMd1orwI0536BSl8doP5J-eJ8pPqOEpErrbzJki_sZFQWilJaQEOYuHDcPmXrm2zT34YciZuFTtezHuMk5wHJOXaZ0w2ru2vPFAriy46pvOp0-eEvt4ol7KC3kUcu8BHvF7VrjiN7y6VYq_-lIUpAgEtuGQwwwEBt0hdJ_l-hj9CY1kHQ.jpg" /></p>
 <div class="tgme_widget_message_text js-message_text" dir="auto"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29D8C.png')"><b>❌</b></i><b>Утечка данных УЦ или компиляция?</b><br/><br/>В <a href="https://telegram.me/postzine/968" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">начале мая</a> стала обсуждаться информация о появлении в <a href="https://telegram.me/trueosint/3040" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">утечках базы</a> под названием "Пользователи <a href="http://cryptopro.ru/" rel="noopener" target="_blank">cryptopro.ru</a> 2026".<br/>Одного взгляда на реквизитный состав достаточно, чтобы понять - название не соответствует источнику утечки, о чем было <a href="https://telegram.me/cryptopro_news/229" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">отдельное сообщение</a> от КриптоПро.<br/><br/>Логика такого названия утечки объясняется просто - увидели хакеры название криптопровайдера и сделали свой неправильный выбор. А если бы ViPNet был, то Инфотекс должен быть виноватым?<br/><br/>Чья база является источником утечки и когда она произошла? 12 млн. пользователей - большая цифра. Утекшие данные, включающие простых физических лиц, ничего не говорят про конкретного оператора ЭДО, либо УЦ, который мог бы выдать сертификаты. Информация об использовании МЧД наталкивает на мысль, что это не компиляция, а утечка из одного источника, которая произошла в интервале февраль-апрель 2026 года (об этом говорят паспорта, полученные в начале февраля).<br/><br/>Если кто обнаружил себя в этой утечке - в каких УЦ вы получали сертификат физлица за последние полтора года и услугами какого оператора ЭДО пользуетесь?</div>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5820</guid>
       <pubDate>Thu, 05 Nov 2026 05:32:56 +0000</pubDate>
@@ -43,7 +86,7 @@ cryptopro.ru
       <link>https://telegram.me/ep_uc/5819</link>
       <description>📊
 График отзыва сертификатов УЦ ФНС по дням не протяжении года. Резкий рост в августе с пиковыми значениями в конце месяца до 38 тыс. и возвращение к стандартным 15 тыс. в первые дня недели сентября.  Причина - не электронные транспортные документы, а требование…</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/PSLlWhOrAS1ArgAu2kMDWZ0Egrm6ti_44dFPQ89uBFCQRexJgxHYf0k5padyTGQuK6AL5u8HO1zsasxiGxkO6TO4XIWL8-WIENwdEyO1GAolOXTaxKfORwaVtL4s9rm5Ua_1PKttwEIfWbXpA68nB3E55b-Zcrsl2lcoYPhvo3dZB0USuG9LVMub7KQXQixK8AyT53LOaaNZ8CD8PFirIbdreNfnNtIkeFQGfNEjxzCg3Wxux0xVTcSYKSHb1k6K2c5G7ETEScrp7sw9v3RqbUG77mnIqDWAmo3c4NRqin1uuOEikKfGp01JmpDkC7PzT7uZiMKXtjmwILUL5fccEA.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/PzOwuYDtneRMZUFdxPgXs070qM80ylGeXxLDHT9nrZCQPdEB5jB2PDIn1D4i-Rzh2rpPghE6i4A9MBqP_qSVzjQotbKcWETMmWJ9P7WB55xOU8LLeWWPMfWdR4tZPVXkeWIL1zi07vLFH9IsQbQxJMAfCpVFxr8CvXfL9v0tBgjd2s9xkWYcEp5J-jE90IBavy2CFVgh98q-5zPHutda8xn-Q7CTKRewEUBm9IMebGc8HO-zlmt47OUaCQSM0hjedQFOrMaEo5483IIILvDXG0cvjZqLylq_Kz5H9I9IISCRwHmkSH0fqTnmIXwdk3WYMI0CeLTEsTZzsAD290mVvQ.jpg" /></p>
 <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938A.png')"><b>📊</b></i>График отзыва сертификатов УЦ ФНС по дням не протяжении года. Резкий рост в августе с пиковыми значениями в конце месяца до 38 тыс. и возвращение к стандартным 15 тыс. в первые дня недели сентября.  Причина - не электронные транспортные документы, а требование…]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5819</guid>
       <pubDate>Thu, 05 Nov 2026 05:03:42 +0000</pubDate>
@@ -100,72 +143,6 @@ cryptopro.ru
       <content:encoded><![CDATA[<tg-emoji emoji-id="5470060791883374114"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><b>О государственной информационной системе национального удостоверяющего центра</b><br/><br/>Для общественного обсуждения опубликован <a href="https://regulation.gov.ru/projects/172572" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">проект постановления</a> Правительства , которым утверждается положение о государственной информационной системе национального удостоверяющего центра, а также определяется, что оператором ГИС НУЦ является Минцифры (функции оператора будут переданы <a href="https://nuc.voskhod.ru/authority" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Восходу</a>).<br/><blockquote>Потенциальными заявителями являются владельцы сайтов в российских доменных зонах.  По данным Координационного центра доменов .RU/.РФ:  В зоне .RU зарегистрировано 6 160 851 доменов.  В зоне .РФ зарегистрировано ~780 000 доменов.  Общее количество сайтов в России достигло ~6 млн.  Однако не все владельцы сайтов обязаны получать сертификаты безопасности НУЦ.  На текущий момент обязательность установлена:  для государственных органов (не рассматриваем);  для юридических лиц и ИП с лицензией на криптографическую деятельность;  в иных случаях, которые могут быть установлены Правительством РФ.  Для расчета используем консервативную оценку — количество юридических лиц и индивидуальных предпринимателей, которые потенциально могут обратиться за сертификатом.  По данным ФНС России, общее количество юридических лиц и ИП в России на конец 2025 года составило более 8 млн, из которых юридических лиц — 2,6 млн. Принимаем для расчета: q = 2 600 000 юридических лиц (как наиболее вероятные заявители — владельцы сайтов и информационных систем).<br/></blockquote>Всего НУЦ за <a href="https://telegram.me/ep_uc/5625?single" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">пять лет</a> на <a href="https://precert.ru/stat/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">данный момент</a> выдал 36,1 тыс. сертификатов, из них действующих 15,7 тыс.<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Об ЭП и УЦ</a>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5814</guid>
       <pubDate>Tue, 03 Nov 2026 16:37:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>✍️</title>
-      <link>https://telegram.me/ep_uc/5808</link>
-      <description>✍️
-Минцифры станет и регулятором, и оператором НУЦ. Это норма?
-
-На очереди 
-разбор проекта постановления
-, который наделяет Минцифры функциями национального удостоверяющего центра по новой 
-ст. 13¹ 63-ФЗ
-, вступающей в силу 1 марта 2027 года.
-
-Я полагал, что это будет аналог 
-976-ПП
- "О федеральном органе исполнительной власти, уполномоченном
-
-в сфере использования электронной подписи" - о федеральном органе исполнительной власти, 
-уполномоченном на осуществление функций в сфере использования сертификатов безопасности НУЦ
- с внесением изменений в Положение о Минцифры.
-
-Но изменения вносятся только в Положение о Минцифры:
-
-🔹
- Ведомство утверждает требования к сертификатам безопасности НУЦ, порядку их выдачи, аутентификации и ведению реестра (пп. 5.2.73–5.2.78)
-
-🔹
-Оно же всё это исполняет: создаёт и выдаёт сертификаты, ведёт реестр, выдаёт ключи идентификации и аутентификации (пп. 5.4.28–5.4.34).
-
-То есть Минцифры (по согласованию с ФСБ) устанавливает правила и само же их выполняет. Видится, что это конфликт "регулятор - оператор", по деятельности АУЦ такого нет, Минцифры устанавливает требования, как Головной УЦ, а аккредитованные УЦ из соблюдают. А с сертификатами безопасности проверять соблюдение требований будет тот, кто их написал и сам же исполняет. Техническая часть будет у отдельного оператора, которого определит Правительство по согласованию с ФСБ. Это частично снижает риски, но нормотворчество и операционка всё равно остаются в одних руках.
-
-В пояснительной записке сказано, что допрасходов не потребуется.
-
-А как вы считаете - допустимо ли совмещать регулятора и оператора в одном ведомстве?
-
-✍️
-Об ЭП и УЦ</description>
-      <content:encoded><![CDATA[<tg-emoji emoji-id="5470060791883374114"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><b>Минцифры станет и регулятором, и оператором НУЦ. Это норма?</b><br/><br/>На очереди <a href="https://regulation.gov.ru/projects/172347/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">разбор проекта постановления</a>, который наделяет Минцифры функциями национального удостоверяющего центра по новой <a href="https://telegram.me/ep_uc/5785" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">ст. 13¹ 63-ФЗ</a>, вступающей в силу 1 марта 2027 года.<br/><br/>Я полагал, что это будет аналог <a href="http://archive.government.ru/special/gov/results/17298/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">976-ПП</a> "О федеральном органе исполнительной власти, уполномоченном<br/>в сфере использования электронной подписи" - о федеральном органе исполнительной власти, <a href="https://telegram.me/ep_uc/5197" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">уполномоченном на осуществление функций в сфере использования сертификатов безопасности НУЦ</a> с внесением изменений в Положение о Минцифры.<br/><br/>Но изменения вносятся только в Положение о Минцифры:<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> Ведомство утверждает требования к сертификатам безопасности НУЦ, порядку их выдачи, аутентификации и ведению реестра (пп. 5.2.73–5.2.78)<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>Оно же всё это исполняет: создаёт и выдаёт сертификаты, ведёт реестр, выдаёт ключи идентификации и аутентификации (пп. 5.4.28–5.4.34).<br/><br/>То есть Минцифры (по согласованию с ФСБ) устанавливает правила и само же их выполняет. Видится, что это конфликт "регулятор - оператор", по деятельности АУЦ такого нет, Минцифры устанавливает требования, как Головной УЦ, а аккредитованные УЦ из соблюдают. А с сертификатами безопасности проверять соблюдение требований будет тот, кто их написал и сам же исполняет. Техническая часть будет у отдельного оператора, которого определит Правительство по согласованию с ФСБ. Это частично снижает риски, но нормотворчество и операционка всё равно остаются в одних руках.<br/><br/>В пояснительной записке сказано, что допрасходов не потребуется.<br/><br/>А как вы считаете - допустимо ли совмещать регулятора и оператора в одном ведомстве?<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Об ЭП и УЦ</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5808</guid>
-      <pubDate>Tue, 03 Nov 2026 05:40:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>❌</title>
-      <link>https://telegram.me/ep_uc/5807</link>
-      <description>❌
-Кибератака на провайдера - причина недоступности УЦ
-
-Совершённая в ночь на 2 ноября 
-атака на инфраструктуру провайдера Бегет
- - стала причиной недоступности сервисов УЦ ИТ Мониторинг. Наш любимый индикатор 
-доступности CRL
- говорит, что сбой случился в 4 часу ночи.
-
-УЦ ИТ Мониторинг занимает 
-4 место
- в топе аккредитованных УЦ по количеству выдаваемых сертификатов. За последние годы это четвертый УЦ (после 
-АЦ
-, 
-ЕЭТП
- и 
-Калуги
-), который пострадал от кибератак.</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/BEv7vqwNDUyuqa4pLhgWUByMYTSMqR_4k8g_g9j-umjwu5LJZaPE6ZGX4KInXjrXnDXKD5Q8zRcXywbfC9pD-UP0OiOXgT9Msdaoy-tTlQqCETLt_Uc0e2ERAEL9-EMeg84b1KhGZhMLDK51nTl4e5ABxBFQ3jT73vsbUv8SlU3d19_cQ8gLnuGG35CBa7C_lk3WwvnGw5qXrvYNxmvoNaQ0n_cgPv7_W1t8FzQcB9ch-K6ZxWuLZEJL7ArgT1grsplkqvTTNJ9zl1kGNr-PtwYYUSScIYpqIyy3D6I7v9dBTC2mBchxgARRecpz5tRDhCCVQNW-SnUiXAo7Q25OnQ.jpg" /></p>
-<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29D8C.png')"><b>❌</b></i><b>Кибератака на провайдера - причина недоступности УЦ</b><br/><br/>Совершённая в ночь на 2 ноября <a href="https://telegram.me/beget_official/572" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">атака на инфраструктуру провайдера Бегет</a> - стала причиной недоступности сервисов УЦ ИТ Мониторинг. Наш любимый индикатор <a href="https://e-trust.gosuslugi.ru/registry/accreditation/1152311003305" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">доступности CRL</a> говорит, что сбой случился в 4 часу ночи.<br/><br/>УЦ ИТ Мониторинг занимает <a href="https://telegram.me/ep_uc/5686" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">4 место</a> в топе аккредитованных УЦ по количеству выдаваемых сертификатов. За последние годы это четвертый УЦ (после <a href="https://telegram.me/ep_uc/2800" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">АЦ</a>, <a href="https://telegram.me/ep_uc/3087?single" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">ЕЭТП</a> и <a href="https://telegram.me/ep_uc/5102" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Калуги</a>), который пострадал от кибератак.]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5807</guid>
-      <pubDate>Mon, 02 Nov 2026 19:50:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
