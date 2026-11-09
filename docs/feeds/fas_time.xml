@@ -8,160 +8,87 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 06 Nov 2026 13:05:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 14:07:59 +0000</lastBuildDate>
     <item>
       <title>🌐</title>
-      <link>https://telegram.me/fas_time/13296</link>
+      <link>https://telegram.me/fas_time/13307</link>
       <description>🌐
  
 Федеральная антимонопольная служба (ФАС России)
 
-ФАС подвела итоги контрольной деятельности в сфере закупок
+Служба продолжает проверять тарифы на обращение с ТКО
 
-Служба выдала 10385 предписаний об устранении нарушений.
+ФАС провела проверки в 22 регионах. В ряде субъектов ведомство выявило системные нарушения учета и экономического обоснования расходов на транспортирование ТКО.
 
-📎
- Сколько плановых и внеплановых проверок провело ведомство?
+📌
+ О каких органах регулирования идет речь?
 
-📎
- О чем говорит снижение их числа?
+📌
+ Какие нарушения они допустили?
 
-📎
- И сколько жалоб поступило в службу за 9 месяцев 2026 года?
+📌
+ И что сделала ФАС по результатам проверок?
 
-Ответы собрали для вас в карточках.</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/sLYtJQRx6RG4hAs8AQAuXqTuYVKOIQtGXyLhff0sRaDJ-snOHOHvoxAU7KXchzma02KUO6arEgnTg2AapFN1kazxbxNULr-ohgeMSK3FGusaRsZBJb83cLWlGp9paGMIBELKhll_K3IUJaRGr0uhherPAY7gfwJgGU0f-f8jYRRzgBrMgv6PnG2-3XLr8qSO9ZZgm4YWojT1lZDaD5C6i8SxQoaAZDuv-Iprh42KftiLKToVgHkzoloo0Ew-3ZP_05_WnCVU6bY88TC4C-g4AcgS7SKaVJta2iqs3UweTDl7gW5cefliAJT7nuxPz5tk65loNuT4iESHE6n7WFWg2w.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/NIFzqoQFDlgDscY-Ehhl1qMIUJp6shFqIHY4E-6h6J-r_rHf-yH5EvfIQ7YxZq8nAjrmxJxgJXwRkJhIZoGvCJhgOx0pTp1i7jA3w36zMM3dMTZ-yRGcKlj2at5aPgq2Rcpsmwc1Usgom2RjtAvC1va3uSUQwQ7inxN6XZVQumFC_in0U20ruExZSH7YAIvz2lkmvSUDObmA_k0ER_Vqoq13pVdobF24_buu7Q3q4Zcaddpq8lsYVpBb_QuLXwPYaLlsCQ6gJTaKyxCF_RouczHIBoXoDhKpmhpsfLU4rnhRn6V9CtmDF0W39dZHoXYvCqUkT47SGNPP4DcYDeJlDQ.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/ZoPosRckLfxBXRN6l-YBNDwcvJixJa06QtFxh6aGTXdFg33uWJ30xyLtwqavo6OyMtzEPj8hKxZF2lOzGelQuGAAgATOV6w2cJKVv0RJEzPh44oKz2Zf8QbEFb_STDr8vXq-sWurKuVt_buitMtQLrQ6Q61Nyc0H5yY5x6kF2iWflft3RyXCmYxQqfUNJ3JdbeUhntq2DpN-qfCMajuEJnwSrBnmMrYnAdd985ec7GwMrZ0UKqevp-Zand_5aPAEkgLYUDaLjTjL1iltF3ac-K8aiGES3t_T04Bb2dXLRZX-eZZ5EaeoOS89WY7oFY97qjus-fAovCo--DnFK8qvDQ.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/oZCRp8gsqqIK2iaMzCbwG8BBQ0s4gKq9S1PbM7gKBsgg7zEEPVcZKO1Zkax6pqaXkQ4H_Y8LK3e87KwW3UdLtPAtoBpAUmRJv7D6gZEfKTJb9zAHt7PMzAEb_ln5gR3LoaxBBC-JVlElQFePtgtN6X7IiBwmdvEn59O5AUg2CIg_j8OuiyA8muAbGKTTSusH_o1daLOoMuayBSOpjhuBbbtcZZISLgbXq19WIUn7DQd5Zaz4Teja6By9_OH15oAcTYIiOL91PpKKw0Fpn6a4FIX_uzrVVvF7i70TwrKj8LTQr2Yso2Aifj7XBTPXIF6zjwzsPocKvsXjA8-lkUuuew.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/Wh_rsKH_pCsZKb4J8bwQYMlYNhGfOI-7Ewp_f_NhUZQ5rKPu9HD88nNQmmDkCoN9fyIHzl09u3cW6riWgjs6C7EqlZedGcPq3hNeZKTaN4AkarPjLMClp-g-7fhCfi5W-qbXwyI72Mx6nzh0ppIl-3cp4greRbV3en2ijAYEzGIC5s9NdHWubCbZX6Y9G85BobgxaRJXQBgkla1o4oN1-kJNoQFhqEOgImMGTgJ3uxi5ZVUFnxsPtsy2bnGKY_GekRvcbRmQK4ESSW7sOgMUPTKVSeObBtfHJ0ouJVTO496QyvffnlyXYw_3ysWiiMYnhTJl1BLKbu3zfLYFoYovWw.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/GtzBboEgpn4MX-5hk2LbMCQOt5ZQtSsjgZKtjxmRM77So8U8i3zNCZRc26PBFydXNLF4AU6l1RBsj16oJG6kPP1sOWFEsX-KEj3Ane3oXzg4wRyCCtYleC9hdxalUdybR85NmaOEe_gHlSFDkPFD8A1cV9IjY29G1X902SdBtpkGHlmvixOtdsnfx472-hhcTNfln1aRPZemQxrbYmnetGJzo07xsMPCg3FpyHE_NaGVibNb07CYiTP7YoUQGpM0wXk2H_q0kF7ao0RtHRLu6AhkHMUGro9kBcrpQ1S4I0_PzlN1d-mogJ7bVpUhgOZbn87ygJa64_iEYJGeb7qoKw.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/GuAV5XIsGph_bq8ntmEcTbIrkEtqqU2uL-zF7Ia5SR5m0_ipAlKFRdAoVpdRNokz-dSxtJKUfihHePb3Ks4D4B8ZtQddeGpfXogInbc8IHaaTLQSDZWZfYRpGzh8jLw8XHe6ZXbNniyfcUQgMMAJe8o1BE_5BTBWOfI5wBqCbseU3uvHzx0h1xzmH_Rl0Lex-89X_I43vzK91ImEK-zcekwq6ujb4xo-CGDXeJ79wlNQPVFJ96sQmAaeti9g0RoW68sY86vYZOnAQMGL9XK_YXB5uYauk5z2jlhvhaDnOhz30X_QzoRhE57nUebR76AfVLk9aPlMiWuhE1Xs4PJnHg.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/rJ0G-d9eCdzHwbUVr8qLDel26UhnMxuYCvSMzWgy40T2_ojauwbqsFCQ5vF-Rd74xOCk9_bG51SGH6SH2EggbZqOxNKphbgN3B0oNT3AWjZ74FT7LMJnJqrKHtyjpD5T33yT7ZIGqPeodfQcFw1wi58i_6aXq2UA-OWWtZ37UinuaT9yvSR4ZWarl8uSPnniTzlpOF-7ntjZM6f8sNXYGIDe_tuzdvalyd7iHlupySElTEvjl194avFOxgMijrsRIPgYzafmLmDz7BVZ2FryFQWwIecLcKiQIPj4XP-k62qnEnCwZxL_yxnq_KjS3g_hB9q6GQrRnG830rIKW4-GnA.jpg" /></p>
-<tg-emoji emoji-id="5359619818150436536"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8C90.png')"><b>🌐</b></i></tg-emoji> <a href="https://vk.com/wall-54814053_81836" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Федеральная антимонопольная служба (ФАС России)</a><br/><br/>ФАС подвела итоги контрольной деятельности в сфере закупок<br/><br/>Служба выдала 10385 предписаний об устранении нарушений.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938E.png')"><b>📎</b></i> Сколько плановых и внеплановых проверок провело ведомство?<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938E.png')"><b>📎</b></i> О чем говорит снижение их числа?<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938E.png')"><b>📎</b></i> И сколько жалоб поступило в службу за 9 месяцев 2026 года?<br/><br/>Ответы собрали для вас в карточках.]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/fas_time/13296</guid>
-      <pubDate>Fri, 06 Nov 2026 11:12:17 +0000</pubDate>
+Ответы в карточках.</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/ay2aXzky_761u1PbXWK6EoP1B2K0QkImlPcOQZQl_xsIHRf7sWsSvapChqWeVv91M1rX-NovO0zJ8_DLiKGWYwpXQzPLyGetE4sJkFZIUr-qD3VrupTjXYVbBsa7cGZC-V15dPA8V_Je0pI9sgAoFw6sQR-yVt7M6NLyjSFabAKJkxkVNkNFWohVBiJdCMx3nsdaHwBQvnWITqkDbcXdBMN32-Dl-Fg9h1WO3daQhcOGEVznFOy59duQPKJGWYIe1ZwKYoHppvApG55bkuUas9Y6UOpCrnvEhxcC2e4KZUAq8S7ZpvVk6Kz0EqW7nrQUJ3dQZEgnI4AGaMIHVjuTyg.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/gywnOJXvcseFZnMDwCMEk17GFl5cMh70yl1sC5Wmd98wmkI1P0Z0yRNIfXnaCIkoNRLUZ6GwfHrltnT7lz0mNBAaK7YpT_SsQY4ZdBU_GI4GgHP89TsQ6frJzcMaIjrTu8rNTpkYcSMReCAp6s4Iw8sEcMd0O9jwOzawed1opEW1HjqyWu1UbVSJRxdpa63pSyqt_t5248o2rtcjfxvwcRyIz2cFqol64T3y_eSLvel5rBUfEpkW_npSOaWrHtiNokFlhBa-Vgu98ptXZk4_36bGiS9mgbS-t9tSNTrzgjOuNMnf0hSf9vLK09YVtkOsP4CSEO5eI1y3_dvoPbVn3g.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/XjElmuKdODd1eSmDXVw-j4To0qL5qZVXllCrT4fWdoDDMunr3SmM94jFEY2RYO5V56EPnm90gtVB7fn1CDff21k7J11IXEXvCpP8uZfwD4-IuyIB6hk6aZuvKRE1ANoOHfBSZKWFhaYAjwOHvlwZePdU4LogsC-gz1d3EV_oPJaB0Q4OK0oanI1nfu4515UHHt32c1h7x2D-tgl6YB7XJvOCcOt_IG8NAbfGfeLQFDiFfv4yzmKgItljN4wCPxU0nLc4IzwipxrO1hzbjyIH6J_koWKLLShwP6X2EVvpoG5aIX9XaJi0rYyv5P4Wy6tubjs-en-N6GGz3LzEwVRaBQ.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/aGOcrvA7WJQRu10C_21Q4nxfvjopL3SOkVRlA1WbdUICu8EODLznsYOhn-xYdlHLKjElgYj-AEn6jGzx5iEdGoft1rBCxgdm0dVawUBwitV0AqqJDAdFZtSdnBbNnx6U6nFp_5qGpXUkhKq9Q-an6-YKuKl-8EAGDdRpDXDK8tpYx0HRV5hgNpD0vTQptjYeQWenMgkrhEux4NjXi__cddNo4bTWQTHZNLtpeayWSM3S3r8IW6uqMPD5cB9fjkteT4jf1SejzqlpXwwGUcQFAGOVAthB1OHfpb3C6tzJAxkysa0dtTup5xi0TgYx3Y-vJNdnL27wFltKo8v6ANoQbw.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/jtAkJTZ7gtBRnuBvhxYVCTfeRhbnk3I7yZu9LSV4FPGXUIKpCk1Xs6OBorV3uf4tneemnkNzdCT4bGTd159MlMvR0ibLakIuDpGUFPHPvCZqEEMfmdeTNjZ-ZygE622uvisMwq_ljaizuzmztm2tOiOQg-Y5yMh7HgOCYXsWdQSAxC-meABZBWEphcZOxL5-_Uj9CbJC4jwIG8Hb1mFTdq8GxzwlZ3cXCygJuUfx42SeRK6H9zhUj64b9vtFsnEL_PqiE0bOCcdnwArJuYs22AtHqmQN51McgYp6OO3p3O6y0dADh6XrL0jTvuoq6p208YV5lu9MLdi-yceggYeTVg.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/RfQiTXj2oGOM2AilxJzKPrB-eJJXez5KTiyR5geDSPxpw1QIf0u69nYNKNn7B_5j9nvQLGsVxheZ_Epxjk-B9Hwi45ibT86WTw6DvgwvDyrdgrrDcvl1VZokd13U7sLEuN5qPfI3a-iFdTJz3TtImiDE4I1OKaa7Uyt7bEFOLL7-FReTolrtbwxHiGxEZpVOBU5WJSeOdvLVCpXaJks3anvKZ83uOkaV5Zzzajle6I5oY0dFSLsZvIz3qk-HwyxGc2ZU_yQ3RTM81UmAopjHnXes3JBFX4K5ePUESfmlHZIhL9oNblVeaOvnvYhGOUP7YzXz6olIEScGnM7rne1nWw.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/Hs4UHaXzzxL3HXZOAOk0W26o5T2xV9oFNtjY3Q003cFAXM9cxnQhNCEsAzkBpvK-YgOGhpC0qHhnRVlbFwoaPoo_Ta2hVB2K8YzTdZrnU-Xjb1hUF_SudfzdHowIMJ17yYP0b_matBuHktCaL-7dh79SzjSS0f2HTr3bWqWodVBRxpjHFXfduu79gdUvocCqWe5U7llEG3trnb3vMgFltIshKULeWwHT0nHWCl0PkRXuAeMF6pRgqHBJ_fHgfx6l1Uv5Nnnc0pysqJqkdo_BqyDyiqYwNCzLcYTHpyBmDj27pV1wwnjQUF6SUbfUtCpmMJ61Wxut-3x4Swn3gV_dCg.jpg" /></p>
+<tg-emoji emoji-id="5359619818150436536"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8C90.png')"><b>🌐</b></i></tg-emoji> <a href="https://vk.com/wall-54814053_81864" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Федеральная антимонопольная служба (ФАС России)</a><br/><br/>Служба продолжает проверять тарифы на обращение с ТКО<br/><br/>ФАС провела проверки в 22 регионах. В ряде субъектов ведомство выявило системные нарушения учета и экономического обоснования расходов на транспортирование ТКО.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938C.png')"><b>📌</b></i> О каких органах регулирования идет речь?<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938C.png')"><b>📌</b></i> Какие нарушения они допустили?<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938C.png')"><b>📌</b></i> И что сделала ФАС по результатам проверок?<br/><br/>Ответы в карточках.]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/fas_time/13307</guid>
+      <pubDate>Mon, 09 Nov 2026 12:05:49 +0000</pubDate>
     </item>
     <item>
-      <title>В 2026 году ФАС согласовала 32 торговые политики доминирующих компаний</title>
-      <link>https://telegram.me/fas_time/13295</link>
-      <description>В 2026 году ФАС согласовала 32 торговые политики доминирующих компаний
+      <title>ФАС проконтролирует тарифы на услуги по обслуживанию газового оборудования</title>
+      <link>https://telegram.me/fas_time/13306</link>
+      <description>ФАС проконтролирует тарифы на услуги по обслуживанию газового оборудования
 
 Новости ФАС RSS
 
-Принятие таких документов позволяет обеспечивать прозрачное ценообразование и единые правила работы для всех участников рынка
+ФАС России и представители региональных службы по тарифам (РСТ) на совещании обсудили вопросы, связанные с новым порядком расчета услуг по техническому обслуживанию, установке и замене внутридомового и внутриквартирного газового оборудования (ВДГО и ВКГО) 
 
-С начала текущего года служба согласовала торгово-сбытовые политики на рынках сырья для производства керамогранита, цемента, минеральных удобрений, нефтехимической продукции и угля.
+Ранее ФАС России получила полномочия по регулированию стоимости технического обслуживания внутридомового и внутриквартирного газового оборудования. С 1 марта 2026 года начали действовать утвержденные антимонопольным ведомством методические указания по расчету размера платы за техническое обслуживание ВДГО (ВКГО). Именно на их основе региональные тарифные органы утверждают единые стандартизированные тарифные ставки на техническое обслуживание, установку и замену газового оборудования.
 
-Принятые документы определяют, что компании не должны повышать цены на продукцию без экономического или технологического обоснования, а также устанавливают недискриминационные условия договоров для всех покупателей, недопустимость навязывания невыгодных или не относящихся к предмету договора условий и необоснованного снижения объемов поставок продукции.
+В соответствии с действующим порядком РСТ должны до 31 декабря текущего года утвердить такие тарифы на 2027 год.
 
-ФАС России напоминает, что утвержденная торгово-сбытовая политика защищает права не только потребителей и контрагентов, но и помогает предотвратить возможные нарушения антимонопольного законодательства на товарном рынке.
-
-Служба продолжит работу по стимулированию крупного бизнеса к утверждению торгово-сбытовых политик в рамках национального проекта «Эффективная и конкурентная экономика».</description>
-      <content:encoded><![CDATA[<a href="https://fas.gov.ru/news/34924" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">В 2026 году ФАС согласовала 32 торговые политики доминирующих компаний</a><br/><b>Новости ФАС RSS</b><br/><br/><i>Принятие таких документов позволяет обеспечивать прозрачное ценообразование и единые правила работы для всех участников рынка</i><br/><br/>С начала текущего года служба согласовала торгово-сбытовые политики на рынках сырья для производства керамогранита, цемента, минеральных удобрений, нефтехимической продукции и угля.<br/><br/>Принятые документы определяют, что компании не должны повышать цены на продукцию без экономического или технологического обоснования, а также устанавливают недискриминационные условия договоров для всех покупателей, недопустимость навязывания невыгодных или не относящихся к предмету договора условий и необоснованного снижения объемов поставок продукции.<br/><br/>ФАС России напоминает, что утвержденная торгово-сбытовая политика защищает права не только потребителей и контрагентов, но и помогает предотвратить возможные нарушения антимонопольного законодательства на товарном рынке.<br/><br/>Служба продолжит работу по стимулированию крупного бизнеса к утверждению торгово-сбытовых политик в рамках национального проекта «Эффективная и конкурентная экономика».]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/fas_time/13295</guid>
-      <pubDate>Fri, 06 Nov 2026 07:39:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>ФАС: конкуренция в закупках медицинского оборудования направлена на безопасность и доступность ме…</title>
-      <link>https://telegram.me/fas_time/13293</link>
-      <description>ФАС: конкуренция в закупках медицинского оборудования направлена на безопасность и доступность медпомощи
-
-Об этом сообщил заместитель руководителя ФАС России Антон Тесленко на форуме «Национальное здравоохранение - 2026»
-
-В рамках программы форума Антон Тесленко рассказал об основных направлениях работы ФАС России по обеспечению конкуренции в сфере закупок медицинского оборудования.
-
-В частности, он остановился на применении национального режима, контроле за достоверностью характеристик медицинских изделий при рассмотрении заявок участников закупок, а также вопросах обеспечения конкуренции при техническом обслуживании и ремонте медицинского оборудования.
-
-Отдельное внимание было уделено необходимости соблюдения баланса между требованиями безопасности медицинских изделий и недопущением необоснованных ограничений конкуренции. Важно, чтобы условия закупок и последующего обслуживания оборудования были объективно обоснованы и не создавали преимуществ отдельным участникам рынка.
-
-В продолжение работы по этим вопросам ФАС России и Росздравнадзор подписали совместное письмо, в котором изложены подходы к обеспечению конкуренции при техническом обслуживании и ремонте медицинских изделий. Документ направлен на формирование единых подходов к организации соответствующих закупок с учётом требований безопасности.
-
-Антон Тесленко подчеркнул, что конкуренция в сфере здравоохранения является инструментом обеспечения качества и доступности медицинской помощи. Она должна сохраняться на всех этапах жизненного цикла медицинского оборудования - от закупки до его обслуживания и ремонта.</description>
-      <content:encoded><![CDATA[<a href="https://fas.gov.ru/news/34923" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">ФАС: конкуренция в закупках медицинского оборудования направлена на безопасность и доступность медпомощи</a><br/><br/><i>Об этом сообщил заместитель руководителя ФАС России Антон Тесленко на форуме «Национальное здравоохранение - 2026»</i><br/><br/>В рамках программы форума Антон Тесленко рассказал об основных направлениях работы ФАС России по обеспечению конкуренции в сфере закупок медицинского оборудования.<br/><br/>В частности, он остановился на применении национального режима, контроле за достоверностью характеристик медицинских изделий при рассмотрении заявок участников закупок, а также вопросах обеспечения конкуренции при техническом обслуживании и ремонте медицинского оборудования.<br/><br/>Отдельное внимание было уделено необходимости соблюдения баланса между требованиями безопасности медицинских изделий и недопущением необоснованных ограничений конкуренции. Важно, чтобы условия закупок и последующего обслуживания оборудования были объективно обоснованы и не создавали преимуществ отдельным участникам рынка.<br/><br/>В продолжение работы по этим вопросам ФАС России и Росздравнадзор подписали совместное письмо, в котором изложены подходы к обеспечению конкуренции при техническом обслуживании и ремонте медицинских изделий. Документ направлен на формирование единых подходов к организации соответствующих закупок с учётом требований безопасности.<br/><br/>Антон Тесленко подчеркнул, что конкуренция в сфере здравоохранения является инструментом обеспечения качества и доступности медицинской помощи. Она должна сохраняться на всех этапах жизненного цикла медицинского оборудования - от закупки до его обслуживания и ремонта.]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/fas_time/13293</guid>
-      <pubDate>Thu, 05 Nov 2026 10:03:52 +0000</pubDate>
+В ходе совещания представители антимонопольной службы и РСТ обсудили различные вопросы, связанные с формированием таких тарифов.</description>
+      <content:encoded><![CDATA[<a href="https://fas.gov.ru/news/34927" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">ФАС проконтролирует тарифы на услуги по обслуживанию газового оборудования</a><br/><b>Новости ФАС RSS</b><br/><br/><i>ФАС России и представители региональных службы по тарифам (РСТ) на совещании обсудили вопросы, связанные с новым порядком расчета услуг по техническому обслуживанию, установке и замене внутридомового и внутриквартирного газового оборудования (ВДГО и ВКГО) </i><br/><br/>Ранее ФАС России получила полномочия по регулированию стоимости технического обслуживания внутридомового и внутриквартирного газового оборудования. С 1 марта 2026 года начали действовать утвержденные антимонопольным ведомством методические указания по расчету размера платы за техническое обслуживание ВДГО (ВКГО). Именно на их основе региональные тарифные органы утверждают единые стандартизированные тарифные ставки на техническое обслуживание, установку и замену газового оборудования.<br/><br/>В соответствии с действующим порядком РСТ должны до 31 декабря текущего года утвердить такие тарифы на 2027 год.<br/><br/>В ходе совещания представители антимонопольной службы и РСТ обсудили различные вопросы, связанные с формированием таких тарифов.]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/fas_time/13306</guid>
+      <pubDate>Mon, 09 Nov 2026 10:35:39 +0000</pubDate>
     </item>
     <item>
       <title>Пост — Новости ФАС России</title>
-      <link>https://telegram.me/fas_time/13292</link>
+      <link>https://telegram.me/fas_time/13305</link>
       <description>Пост — Новости ФАС России</description>
       <content:encoded><![CDATA[(нет текста)]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/fas_time/13292</guid>
-      <pubDate>Thu, 05 Nov 2026 09:19:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>ФАС за 9 месяцев рассмотрела более 33 тыс. жалоб в сфере госзакупок</title>
-      <link>https://telegram.me/fas_time/13290</link>
-      <description>ФАС за 9 месяцев рассмотрела более 33 тыс. жалоб в сфере госзакупок
-
-5 ноября. 
-INTERFAX.RU
- - Федеральная антимонопольная служба (ФАС) России за 9 месяцев 2026 года рассмотрела по существу 33,18 тыс. жалоб в сфере госзакупок (
-21,65 тыс. в I полугодии - ИФ
-), говорится в сообщении службы.
-
-Всего в отчетном периоде в ФАС поступило 39,7 тыс. жалоб, что на 4% больше аналогичного показателя 2025 года (26,2 тыс. жалоб по итогам шести месяцев). По результатам рассмотрения большей их части обоснованными было признано только 11,1 тыс. жалоб (7,3 тыс.).
-
-"Несмотря на увеличение общего числа жалоб, доля обоснованных жалоб сократилась на 6,3%, - говорится в сообщении службы. - Это свидетельствует о повышении уровня квалификации заказчиков, в том числе в части формирования документации о закупке".
-
-По результатам рассмотрения жалоб и проведения контрольных мероприятий (9,7 тыс. за 9 месяцев) ФАС выдала 10,3 тыс. предписаний об устранении выявленных нарушений. Кроме того, по фактам нарушений служба возбудила 19,5 тыс. административных дел (13 тыс. за I полугодие), по результатам рассмотрения которых было выдано 4,2 тыс. постановлений о назначении штрафов на общую сумму 62,8 млн рублей (36,4 млн рублей по итогам шести месяцев).
-
-Кроме того, за 9 месяцев текущего года ФАС приняла 11,65 тыс. (6,9 тыс. в I полугодии) решений о включении информации в реестр недобросовестных поставщиков (РНП - поставщики, включенные в этот реестр, не могут принимать участие в госзакупках и закупках госкомпаний). В большинстве случаев (85,5%) основной причиной включения информации о поставщике в РНП остается расторжение контракта.
-
-Как сообщалось, в 2025 году ФАС рассмотрела по существу 41,8 тыс. жалоб от участников закупок (всего в службу поступило 51,5 тыс. жалоб против 39,2 тыс. жалоб в 2024 году). Также в прошлом году служба провела 15,6 тыс. проверок, в ходе которых изучила 30,7 тыс. закупочных процедур.
-
-По результатам рассмотрения жалоб и проведения проверок ФАС выдала в 2025 году 14,3 тыс. предписаний об устранении выявленных нарушений (11,2 тыс. предписаний годом ранее). В целом по фактам нарушений в области госзакупок ФАС возбудила в 2025 году 31,7 тыс. административных дел, по результатам рассмотрения которых было выдано 22 тыс. постановлений о назначении наказания в виде предупреждения и 7 тыс. постановлений о наложении штрафов на общую сумму 141,9 млн рублей.</description>
-      <content:encoded><![CDATA[<b>ФАС за 9 месяцев рассмотрела более 33 тыс. жалоб в сфере госзакупок</b><br/><br/>5 ноября. <a href="https://www.interfax.ru/business/1127112" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">INTERFAX.RU</a> - Федеральная антимонопольная служба (ФАС) России за 9 месяцев 2026 года рассмотрела по существу 33,18 тыс. жалоб в сфере госзакупок (<i>21,65 тыс. в I полугодии - ИФ</i>), говорится в сообщении службы.<br/><br/>Всего в отчетном периоде в ФАС поступило 39,7 тыс. жалоб, что на 4% больше аналогичного показателя 2025 года (26,2 тыс. жалоб по итогам шести месяцев). По результатам рассмотрения большей их части обоснованными было признано только 11,1 тыс. жалоб (7,3 тыс.).<br/><br/>"Несмотря на увеличение общего числа жалоб, доля обоснованных жалоб сократилась на 6,3%, - говорится в сообщении службы. - Это свидетельствует о повышении уровня квалификации заказчиков, в том числе в части формирования документации о закупке".<br/><br/>По результатам рассмотрения жалоб и проведения контрольных мероприятий (9,7 тыс. за 9 месяцев) ФАС выдала 10,3 тыс. предписаний об устранении выявленных нарушений. Кроме того, по фактам нарушений служба возбудила 19,5 тыс. административных дел (13 тыс. за I полугодие), по результатам рассмотрения которых было выдано 4,2 тыс. постановлений о назначении штрафов на общую сумму 62,8 млн рублей (36,4 млн рублей по итогам шести месяцев).<br/><br/>Кроме того, за 9 месяцев текущего года ФАС приняла 11,65 тыс. (6,9 тыс. в I полугодии) решений о включении информации в реестр недобросовестных поставщиков (РНП - поставщики, включенные в этот реестр, не могут принимать участие в госзакупках и закупках госкомпаний). В большинстве случаев (85,5%) основной причиной включения информации о поставщике в РНП остается расторжение контракта.<br/><br/>Как сообщалось, в 2025 году ФАС рассмотрела по существу 41,8 тыс. жалоб от участников закупок (всего в службу поступило 51,5 тыс. жалоб против 39,2 тыс. жалоб в 2024 году). Также в прошлом году служба провела 15,6 тыс. проверок, в ходе которых изучила 30,7 тыс. закупочных процедур.<br/><br/>По результатам рассмотрения жалоб и проведения проверок ФАС выдала в 2025 году 14,3 тыс. предписаний об устранении выявленных нарушений (11,2 тыс. предписаний годом ранее). В целом по фактам нарушений в области госзакупок ФАС возбудила в 2025 году 31,7 тыс. административных дел, по результатам рассмотрения которых было выдано 22 тыс. постановлений о назначении наказания в виде предупреждения и 7 тыс. постановлений о наложении штрафов на общую сумму 141,9 млн рублей.]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/fas_time/13290</guid>
-      <pubDate>Thu, 05 Nov 2026 08:10:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Пост — Новости ФАС России</title>
-      <link>https://telegram.me/fas_time/13289</link>
-      <description>Пост — Новости ФАС России</description>
-      <content:encoded><![CDATA[(нет текста)]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/fas_time/13289</guid>
-      <pubDate>Thu, 05 Nov 2026 07:19:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>🌐</title>
-      <link>https://telegram.me/fas_time/13278</link>
-      <description>🌐
- 
-Федеральная антимонопольная служба (ФАС России)
-
-🇷🇺
- С Днем народного единства!
-
-Этот день напоминает нам о том, как важны взаимное уважение, поддержка и сплоченность ради общих целей.
-
-В нашей стране живут люди разных национальностей и культур. Но всех нас объединяют любовь к Родине и общее стремление сделать ее будущее лучше.
-
-ФАС России поздравляет вас с праздником! Желаем вам и вашим близким крепкого здоровья и благополучия.</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/PtnloHaqEYPaS_UrAjsgl64rkoUqNSPYCpXlaQB_2cLKOk9W3R4uAdUfvaWd3tWhvnesiHSbprtu69bS0vEfre1HPMUp4XB84ZTT0m2f6gz-CviuIQ95l6aIKFLrc_zf9-Iweswp3OWu4JbryO7qYBy6g9jumqcaJQ14arh2LXM-eOfdmQdwmHqBId830UDYzcyG_1bBwCHlbvTRSPKT-g2hgdR6QQC88SlWddnQBmR-dS6UUjUa_Eqt5H0fRf-IzHmuZX_xmP6VviZ6D4lkcvMQ2bzoGO1s7q3EQO-kRhuvtLt4n5-2hZVT8AlC_yeVIbzDiW3El4iaXfv1nbwqxQ.jpg" /></p>
-<tg-emoji emoji-id="5359619818150436536"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8C90.png')"><b>🌐</b></i></tg-emoji> <a href="https://vk.com/wall-54814053_81800" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Федеральная антимонопольная служба (ФАС России)</a><br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F87B7F09F87BA.png')"><b>🇷🇺</b></i> С Днем народного единства!<br/><br/>Этот день напоминает нам о том, как важны взаимное уважение, поддержка и сплоченность ради общих целей.<br/><br/>В нашей стране живут люди разных национальностей и культур. Но всех нас объединяют любовь к Родине и общее стремление сделать ее будущее лучше.<br/><br/>ФАС России поздравляет вас с праздником! Желаем вам и вашим близким крепкого здоровья и благополучия.]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/fas_time/13278</guid>
-      <pubDate>Wed, 04 Nov 2026 07:01:26 +0000</pubDate>
+      <guid isPermaLink="true">https://telegram.me/fas_time/13305</guid>
+      <pubDate>Sun, 08 Nov 2026 09:00:18 +0000</pubDate>
     </item>
     <item>
       <title>‌</title>
-      <link>https://telegram.me/fas_time/13277</link>
+      <link>https://telegram.me/fas_time/13304</link>
       <description>‌
-Дмитрий Бомбырь назначен на должность заместителя руководителя ФАС
+11–12 ноября пройдет ХI Международная научно-практическая конференция «Антимонопольная политика: наука, практика и образование»
 
 Новости ФАС RSS
 
-Председатель Правительства Российской Федерации Михаил Мишустин подписал соответствующее 
-распоряжение
- № 3188-р от 3 ноября 2026 года 
+Мероприятие состоится в формате модерируемых дискуссий с участием представителей ФАС России, регуляторов – членов ЕАЭС, БРИКС, стран-партнеров, судейского корпуса и ведущих экспертов в области антимонопольного регулирования 
 
-В Федеральной антимонопольной службе Дмитрий Бомбырь работает с 2019 года. Прошел путь от главного специалиста-эксперта правового отдела до начальника Управления контроля размещения государственного заказа ФАС России.
+Повестка конференции включает пленарное заседание «Конкуренция как основа экономического развития», партнерский диалог Россия – Индонезия, а также совместное заседание научно-методического совета образовательных организаций и кафедр конкурентного права и антимонопольного регулирования ФАС России и Комиссии по конкурентному праву и совершенствованию антимонопольного законодательства Ассоциации юристов России.
 
-В новой должности Дмитрий Бомбырь будет курировать Контрольно-финансовое управление и Управление контроля социальной сферы, торговли и непроизводственных услуг.</description>
-      <content:encoded><![CDATA[<a href="http://publication.pravo.gov.ru/document/0001202611030023" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">‌</a><a href="https://fas.gov.ru/news/34919" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Дмитрий Бомбырь назначен на должность заместителя руководителя ФАС</a><br/><b>Новости ФАС RSS</b><br/><br/><i>Председатель Правительства Российской Федерации Михаил Мишустин подписал соответствующее </i><a href="http://publication.pravo.gov.ru/document/0001202611030023" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><i>распоряжение</i></a><i> № 3188-р от 3 ноября 2026 года </i><br/><br/>В Федеральной антимонопольной службе Дмитрий Бомбырь работает с 2019 года. Прошел путь от главного специалиста-эксперта правового отдела до начальника Управления контроля размещения государственного заказа ФАС России.<br/><br/>В новой должности Дмитрий Бомбырь будет курировать Контрольно-финансовое управление и Управление контроля социальной сферы, торговли и непроизводственных услуг.]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/fas_time/13277</guid>
-      <pubDate>Tue, 03 Nov 2026 17:42:14 +0000</pubDate>
+Кроме того, пройдут заседание Рабочей группы БРИКС по исследованию проблем конкуренции на фармацевтических рынках и встреча экспертов антимонопольных органов государств-членов ШОС по вопросам выявления и пресечения картелей.
+
+Организаторы – ФАС России, НИУ «Высшая школа экономики» и Международный центр конкурентного права и политики БРИКС.
+
+Зарегистрироваться на конференцию можно на 
+сайте
+.</description>
+      <content:encoded><![CDATA[<a href="https://competitionforum.ru/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">‌</a><a href="https://fas.gov.ru/news/34925" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">11–12 ноября пройдет ХI Международная научно-практическая конференция «Антимонопольная политика: наука, практика и образование»</a><br/><b>Новости ФАС RSS</b><br/><br/><i>Мероприятие состоится в формате модерируемых дискуссий с участием представителей ФАС России, регуляторов – членов ЕАЭС, БРИКС, стран-партнеров, судейского корпуса и ведущих экспертов в области антимонопольного регулирования </i><br/><br/>Повестка конференции включает пленарное заседание «Конкуренция как основа экономического развития», партнерский диалог Россия – Индонезия, а также совместное заседание научно-методического совета образовательных организаций и кафедр конкурентного права и антимонопольного регулирования ФАС России и Комиссии по конкурентному праву и совершенствованию антимонопольного законодательства Ассоциации юристов России.<br/><br/>Кроме того, пройдут заседание Рабочей группы БРИКС по исследованию проблем конкуренции на фармацевтических рынках и встреча экспертов антимонопольных органов государств-членов ШОС по вопросам выявления и пресечения картелей.<br/><br/>Организаторы – ФАС России, НИУ «Высшая школа экономики» и Международный центр конкурентного права и политики БРИКС.<br/><br/>Зарегистрироваться на конференцию можно на <a href="https://competitionforum.ru/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">сайте</a>.]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/fas_time/13304</guid>
+      <pubDate>Fri, 06 Nov 2026 15:50:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
