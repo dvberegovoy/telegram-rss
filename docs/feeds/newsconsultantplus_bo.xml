@@ -8,7 +8,179 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 10 Nov 2026 13:39:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 12:51:53 +0000</lastBuildDate>
+    <item>
+      <title>Казначейство напомнило, как отражать код вида дохода и взысканную сумму при выплатах физлицам</title>
+      <link>https://telegram.me/newsconsultantplus_bo/3131</link>
+      <description>Казначейство напомнило, как отражать код вида дохода и взысканную сумму при выплатах физлицам
+
+Когда физлицам через казначейские платежи перечисляют зарплату и другие доходы, нужно отражать код вида дохода, а также суммы, взысканные по исполнительным документам.
+
+Так, код указывают в специальном реквизите "Код вида дохода", если формируют:
+
+🔹
+ распоряжения о совершении казначейского платежа (перечисление или перечисление на карты "Мир");
+
+🔹
+ распоряжения о перечислении денег на карты "Мир" физлиц;
+
+🔹
+ заявки на кассовый расход (в т.ч. сводную или сокращенную).
+
+Если же речь идет о распоряжении финансового органа и платежном поручении, то код нужно указать в реквизите "Назначение платежа кодовое".
+
+Что касается суммы взыскания, то ее отражение также зависит от типа документа:
+
+🔹
+ в распоряжении о совершении казначейского платежа (перечисление) и заявке на кассовый расход (в т.ч. сводной или сокращенной) используют реквизит "Назначение платежа";
+
+🔹
+ в распоряжениях при перечислении на карты "Мир" – "Сумма, взысканная по исполнительному документу".
+
+Документ: 
+Письмо Казначейства России от 28.10.2026 N 07-04-05/01-35158
+
+Читать 
+новость
+ на сайте КонсультантПлюс
+
+Получить бесплатный пробный доступ к КонсультантПлюс
+
+Подписаться на канал в Максе</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/lVQwd1CAOfMasmmGMFlT1feBByrIxNKb2Ed_t-_RuLegCShvPesz2XZ_yGxFf0v-rb8A8CiMxUjR5Ty7BkrpzujRMIqPmoPdvgwDVIDORGGIMHFVBRE5Q3QF_l0F1CEnGQJQF1XrWuByJo5wlMQZcspVZaju_6eIYdOU-0HvYoW-7Y4PQ1bFSE1zB8qLu3-wL0U-tdOMusxwlSui_gQOw3-47Ufs1lMCB_DOuoMVWjCY0ri-qBSkTaD0q-uK3bNFST9TJ1fjKDyXzvA9FJbJKQ4cYoiejf_wmM5Ya36JnTxMh_GuvCERDPRZbswfGItIQ_U9IQX5rly5tMTaBsJ5DA.jpg" /></p>
+<b>Казначейство напомнило, как отражать код вида дохода и взысканную сумму при выплатах физлицам</b><br/><br/>Когда физлицам через казначейские платежи перечисляют зарплату и другие доходы, нужно отражать код вида дохода, а также суммы, взысканные по исполнительным документам.<br/><br/>Так, код указывают в специальном реквизите "Код вида дохода", если формируют:<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> распоряжения о совершении казначейского платежа (перечисление или перечисление на карты "Мир");<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> распоряжения о перечислении денег на карты "Мир" физлиц;<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> заявки на кассовый расход (в т.ч. сводную или сокращенную).<br/><br/>Если же речь идет о распоряжении финансового органа и платежном поручении, то код нужно указать в реквизите "Назначение платежа кодовое".<br/><br/>Что касается суммы взыскания, то ее отражение также зависит от типа документа:<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> в распоряжении о совершении казначейского платежа (перечисление) и заявке на кассовый расход (в т.ч. сводной или сокращенной) используют реквизит "Назначение платежа";<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> в распоряжениях при перечислении на карты "Мир" – "Сумма, взысканная по исполнительному документу".<br/><br/><i>Документ: </i><a href="https://login.consultant.ru/link/?req=doc&amp;amp;base=LAW&amp;amp;n=548576&amp;amp;dst=0&amp;amp;demo=1&amp;amp;tg_channel=consultantplus_bo&amp;amp;utm_source=socialnetwork" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><i>Письмо Казначейства России от 28.10.2026 N 07-04-05/01-35158</i></a><br/><br/>Читать <a href="http://www.consultant.ru/legalnews/33068/?tg_channel=consultantplus_bo" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">новость</a> на сайте КонсультантПлюс<br/><br/><a href="https://login.consultant.ru/demo-access/?utm_source=telegram" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Получить бесплатный пробный доступ к КонсультантПлюс</a><br/><br/><a href="https://max.ru/consultantplus_comp" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Подписаться на канал в Максе</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/newsconsultantplus_bo/3131</guid>
+      <pubDate>Wed, 11 Nov 2026 10:04:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Какое решение принял суд?</title>
+      <link>https://telegram.me/newsconsultantplus_bo/3129</link>
+      <description>Какое решение принял суд?
+
+Подробный ответ – сегодня.</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/Y7UHEqPmcrYeUPzHChHk24FcBt-lW_DROvQZbTvCBJWt6nbOqqOJpuJFbc1mhSGkYSgGUN8QfSqX5QPwAW1la7OaPkDk5xMFyMp2ydBScRUQ4Yi9VanBsg1RmfUwD0YBU9d3Gd92FC0oAXVmB2duRIR8791zvQxD1CNKLxPIP-sRNWxOhsZZN6mBqnqnHomqrMe6WkvqXhfpU4a5L5oR26ifb7CHM6IjR7IK7JH1r5JdoCmm5zjcmDU78hoW_DzTdB29H6Zpy-5hiYqL_JUJYO-wefUWKBOTrdCzXSbkzeqsN3Zwo3BfW6amJrj-ZtQvCLbXXecc1dPfNKkVeaFOtg.jpg" /></p>
+Какое решение принял суд?<br/>Подробный ответ – сегодня.]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/newsconsultantplus_bo/3129</guid>
+      <pubDate>Wed, 11 Nov 2026 07:01:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Пост — КонсультантПлюс для бюджетных организаций</title>
+      <link>https://telegram.me/newsconsultantplus_bo/3130</link>
+      <description>Пост — КонсультантПлюс для бюджетных организаций</description>
+      <content:encoded><![CDATA[(нет текста)]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/newsconsultantplus_bo/3130</guid>
+      <pubDate>Wed, 11 Nov 2026 07:01:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Приказ об увольнении по итогам испытания переиздали из-за больничного – суды не нашли нарушений</title>
+      <link>https://telegram.me/newsconsultantplus_bo/3128</link>
+      <description>Приказ об увольнении по итогам испытания переиздали из-за больничного – суды не нашли нарушений
+
+Работодатель признал специалиста не выдержавшим испытание и издал приказ об увольнении. Тот сообщил, что открыл больничный, поэтому документ пришлось отменить. Когда сотрудник выздоровел, его все же уволили. Он обратился в суд.
+
+Три инстанции сошлись во мнении: организация расторгла трудовой договор без нарушений. Когда издали приказ впервые, фактически трудовые отношения не прекратили (окончательный расчет не произвели, СТД-Р не выдали, трудовую книжку не вручили). Работодатель немедленно отменил его, когда узнал о нетрудоспособности сотрудника, тем самым устранил возможность нарушения его прав. Организация выполнила требование не увольнять работника на больничном.
+
+Отклонили также довод о предвзятости работодателя, который до увольнения предлагал расстаться по соглашению сторон. Он был вправе так поступить. Это не доказывает его недобросовестность.
+
+Отметим, суды уже поддерживали работодателей, которые из-за больничных переиздавали приказы об увольнении. Так поступали, в частности, 6-й и 7-й КСОЮ при сокращении.
+
+Документ: 
+Определение 2-го КСОЮ от 15.10.2026 N 88-29852/2026
+
+Читать 
+новость
+ на сайте КонсультантПлюс
+
+Получить бесплатный пробный доступ к КонсультантПлюс 
+
+Подписаться на канал в Максе</description>
+      <content:encoded><![CDATA[<b>Приказ об увольнении по итогам испытания переиздали из-за больничного – суды не нашли нарушений</b><br/><br/>Работодатель признал специалиста не выдержавшим испытание и издал приказ об увольнении. Тот сообщил, что открыл больничный, поэтому документ пришлось отменить. Когда сотрудник выздоровел, его все же уволили. Он обратился в суд.<br/><br/>Три инстанции сошлись во мнении: организация расторгла трудовой договор без нарушений. Когда издали приказ впервые, фактически трудовые отношения не прекратили (окончательный расчет не произвели, СТД-Р не выдали, трудовую книжку не вручили). Работодатель немедленно отменил его, когда узнал о нетрудоспособности сотрудника, тем самым устранил возможность нарушения его прав. Организация выполнила требование не увольнять работника на больничном.<br/><br/>Отклонили также довод о предвзятости работодателя, который до увольнения предлагал расстаться по соглашению сторон. Он был вправе так поступить. Это не доказывает его недобросовестность.<br/><br/>Отметим, суды уже поддерживали работодателей, которые из-за больничных переиздавали приказы об увольнении. Так поступали, в частности, 6-й и 7-й КСОЮ при сокращении.<br/><br/><i>Документ: </i><a href="https://login.consultant.ru/link/?req=doc&amp;amp;base=KSOJ002&amp;amp;n=229891&amp;amp;dst=100039&amp;amp;demo=1&amp;amp;tg_channel=consultantplus_bo&amp;amp;utm_source=socialnetwork" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><i>Определение 2-го КСОЮ от 15.10.2026 N 88-29852/2026</i></a><i><br/></i><br/>Читать <a href="http://www.consultant.ru/legalnews/33066/?tg_channel=consultantplus_bo" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">новость</a> на сайте КонсультантПлюс<br/><br/><a href="https://login.consultant.ru/demo-access/?utm_source=telegram" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Получить бесплатный пробный доступ к КонсультантПлюс </a><br/><br/><a href="https://max.ru/consultantplus_comp" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Подписаться на канал в Максе</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/newsconsultantplus_bo/3128</guid>
+      <pubDate>Wed, 11 Nov 2026 05:00:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Учет организации с обособленными подразделениями: ФНС обновила форму уведомления о выборе инспекции</title>
+      <link>https://telegram.me/newsconsultantplus_bo/3127</link>
+      <description>Учет организации с обособленными подразделениями: ФНС обновила форму уведомления о выборе инспекции
+
+Налоговики скорректировали уведомление о выборе инспекции для постановки российской организации на учет по месту нахождения одного из ее обособленных подразделений в одном муниципалитете или городе федерального значения. Теперь в нем можно не только выбрать инспекцию, но и отказаться от нее.
+
+При указании вида сообщения в поле проставляют цифру:
+
+🔹
+ 1 – при выборе налоговой;
+
+🔹
+ 2 – при отказе от ее выбора.
+
+Приказ вступает в силу 9 декабря 2026 года.
+
+Напомним, возможность направления организациями с подразделениями уведомления об отказе от выбранной налоговой предусмотрена НК РФ с 1 сентября 2026 года.
+
+Документ: Приказ ФНС России от 05.10.2026 N ЕД-1-14/795@
+
+Читать 
+новость
+ на сайте КонсультантПлюс
+
+Получить бесплатный пробный доступ к КонсультантПлюс 
+
+Подписаться на канал в Максе</description>
+      <content:encoded><![CDATA[<b>Учет организации с обособленными подразделениями: ФНС обновила форму уведомления о выборе инспекции</b><br/><br/>Налоговики скорректировали уведомление о выборе инспекции для постановки российской организации на учет по месту нахождения одного из ее обособленных подразделений в одном муниципалитете или городе федерального значения. Теперь в нем можно не только выбрать инспекцию, но и отказаться от нее.<br/><br/>При указании вида сообщения в поле проставляют цифру:<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> 1 – при выборе налоговой;<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> 2 – при отказе от ее выбора.<br/><br/>Приказ вступает в силу 9 декабря 2026 года.<br/><br/>Напомним, возможность направления организациями с подразделениями уведомления об отказе от выбранной налоговой предусмотрена НК РФ с 1 сентября 2026 года.<br/><br/><i>Документ: Приказ ФНС России от 05.10.2026 N ЕД-1-14/795@</i><br/><br/>Читать <a href="http://www.consultant.ru/legalnews/33064/?tg_channel=consultantplus_bo" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">новость</a> на сайте КонсультантПлюс<br/><br/><a href="https://login.consultant.ru/demo-access/?utm_source=telegram" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Получить бесплатный пробный доступ к КонсультантПлюс </a><br/><br/><a href="https://max.ru/consultantplus_comp" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Подписаться на канал в Максе</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/newsconsultantplus_bo/3127</guid>
+      <pubDate>Tue, 10 Nov 2026 15:31:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>КВР и КОСГУ на 2027 год: Минфин опубликовал таблицу соответствия кодов</title>
+      <link>https://telegram.me/newsconsultantplus_bo/3126</link>
+      <description>КВР и КОСГУ на 2027 год: Минфин опубликовал таблицу соответствия кодов
+
+Таблица увязок КВР и КОСГУ на 2027 год в основном не отличается от действующей. Добавили лишь увязки с новым КВР 325, который 
+ввели этим летом
+ для покупок по электронному сертификату. Его можно использовать с подстатьями 226, 261, 263 и статьей 340 КОСГУ.
+
+Отметим, недавно Минфин 
+обновил
+ таблицу увязок на 2026 год.
+
+Документ: Информация Минфина России
+
+Читать 
+новость
+ на сайте КонсультантПлюс
+
+Получить бесплатный пробный доступ к КонсультантПлюс 
+
+Подписаться на канал в Максе</description>
+      <content:encoded><![CDATA[<b>КВР и КОСГУ на 2027 год: Минфин опубликовал таблицу соответствия кодов</b><br/><br/>Таблица увязок КВР и КОСГУ на 2027 год в основном не отличается от действующей. Добавили лишь увязки с новым КВР 325, который <a href="http://www.consultant.ru/legalnews/32109/?tg_channel=consultantplus_bo" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">ввели этим летом</a> для покупок по электронному сертификату. Его можно использовать с подстатьями 226, 261, 263 и статьей 340 КОСГУ.<br/><br/>Отметим, недавно Минфин <a href="http://www.consultant.ru/legalnews/33048/?tg_channel=consultantplus_bo" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">обновил</a> таблицу увязок на 2026 год.<br/><br/><i>Документ: Информация Минфина России</i><br/><br/>Читать <a href="http://www.consultant.ru/legalnews/33063/?tg_channel=consultantplus_bo" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">новость</a> на сайте КонсультантПлюс<br/><br/><a href="https://login.consultant.ru/demo-access/?utm_source=telegram" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Получить бесплатный пробный доступ к КонсультантПлюс </a><br/><br/><a href="https://max.ru/consultantplus_comp" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Подписаться на канал в Максе</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/newsconsultantplus_bo/3126</guid>
+      <pubDate>Tue, 10 Nov 2026 15:02:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>🎥</title>
+      <link>https://telegram.me/newsconsultantplus_bo/3125</link>
+      <description>🎥
+ Смотрите в системе КонсультантПлюс новый видеосеминар для бухгалтеров 
+«НДС и налог на прибыль в 2026-2027 гг.»
+ 
+
+В четвертой части вебинара КонсультантПлюс, проведенного 15.10.2026, речь пойдет о НДС и налоге на прибыль. Лектор расскажет, что изменилось в правилах включения НДС в цену сделки и применения ставки 10%. В части налога на прибыль рассмотрит новый порядок его декларирования и нюансы налоговой реконструкции.
+
+Вебинар провела Марина Аркадьевна Климова, независимый консультант-практик по вопросам налогообложения, бухгалтерского учета и трудового права, кандидат экономических наук.
+
+Смотреть семинар
+ в КонсультантПлюс 
+⏩
+ 
+
+Получить бесплатный пробный доступ к системе КонсультантПлюс
+
+Подписаться на канал в Максе</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/ArnU23tFFxruH962ugYNiDiP6QdOfn8ihXawnaR4HJgwc5WOY1Vw4ClIrwwBiAtuSoyoU8kCcUtsEYy-31bDRT68YPwAu3eHklhvvXHhYZCjL71bvqKpowmL53604wzVt9xtm5ZTtkAC3vgrJTjqnU0d-R3jSQipk3VvwyX_JXTXFs069Gwy39WJJsxwgKEMVVBiArLKzkNRPu24WTjA2IOxmap5Yn4VJEeQmIbtpCTpEnu2uUcbtRMorE1lNLUCOP_UBLC0IddHxjrzNQptN49ZdQvzGeOSwik29WL0AjI0TbxfEqlGZfN84TkHDS-tqMpMxDyZa8bED_rb4ILOEw.jpg" /></p>
+<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8EA5.png')"><b>🎥</b></i> Смотрите в системе КонсультантПлюс новый видеосеминар для бухгалтеров <a href="https://video.consultant.ru/?select=6112&amp;amp;utm_source=vc&amp;amp;utm_medium=share&amp;amp;utm_campaign=6112&amp;amp;share" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">«НДС и налог на прибыль в 2026-2027 гг.»</a> <br/><br/>В четвертой части вебинара КонсультантПлюс, проведенного 15.10.2026, речь пойдет о НДС и налоге на прибыль. Лектор расскажет, что изменилось в правилах включения НДС в цену сделки и применения ставки 10%. В части налога на прибыль рассмотрит новый порядок его декларирования и нюансы налоговой реконструкции.<br/><br/>Вебинар провела Марина Аркадьевна Климова, независимый консультант-практик по вопросам налогообложения, бухгалтерского учета и трудового права, кандидат экономических наук.<br/><br/><a href="https://video.consultant.ru/?select=6112&amp;amp;utm_source=vc&amp;amp;utm_medium=share&amp;amp;utm_campaign=6112&amp;amp;share" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Смотреть семинар</a> в КонсультантПлюс <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E28FA9.png')"><b>⏩</b></i> <br/><br/><a href="https://login.consultant.ru/demo-access/?utm_source=telegram" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Получить бесплатный пробный доступ к системе КонсультантПлюс</a><br/><br/><a href="https://max.ru/consultantplus_comp" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Подписаться на канал в Максе</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/newsconsultantplus_bo/3125</guid>
+      <pubDate>Tue, 10 Nov 2026 14:45:04 +0000</pubDate>
+    </item>
     <item>
       <title>Важные ведомственные акты, разъяснения и проекты для бюджетных организаций за 2 – 8 ноября</title>
       <link>https://telegram.me/newsconsultantplus_bo/3124</link>
@@ -23,7 +195,7 @@
 Получить бесплатный пробный доступ к КонсультантПлюс 
 
 Подписаться на канал в Максе</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/gN2y8E2EXn9c5COBz2wbqKH52H1U78uVRRRdYV_RG2fkTrg_gB5YV7RMEq-8GOqZfp38EM1m6AL9VtDSSRX8btEAvVXRYuQ8cXpt33jUkSbKAOf6mdjucS0DcwRM9-8aSf4uDjdKHDUNC9ypBk0OJx1iFyo82RvZ7cRl-0DQSx_iuPAejCTEItp_JxaxgWxTlYObFf89laB8qpXqHrV0s4QRSAttbcWyByk_QLXIzC58ePqhap71JdGuIkFvRrv6qOrtOcDQezMCeI6xBuSgFE0kc2_TDNS_Ta-q9vjGXImbhD0gkGhD414Mi5La_YaTWg29az5SNM-86s2zsVZfag.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/ZQqF4bGPadaAJKEIqJcLyedPoNPkhZDrc2vMnGcKo90BtXVEllNO3oRlCElBzhPHXPwPTx919ZeTlWAex34eLy2IPEeIEskSYEiG_eoO3BAua-Lx86Mfdl8Cyd7dWgoXcsLanmAcY2drWBqBx2sGki2aXBYlk0bCvbQTWxSVSzyDQHBH65tvSJhTcbsiGENWdiDpV5JmRZNFlHQ_mt3gMXqM4gduWYcE5iqn6_ftycUG56pfVA3uIc8E5O3g70_mZeeUO-qSyPZag0qV6PLMO7M6u87bvzO-rc4NJsLBGBpDJOwUhwJBJ_RuXBu6BUpE-_PdTCJymrO7R3PyfhqIHQ.jpg" /></p>
 <b>Важные ведомственные акты, разъяснения и проекты для бюджетных организаций за 2 – 8 ноября</b><br/><br/>Система КонсультантПлюс регулярно пополняется документами федеральных госорганов для подведомственных организаций. Так, на прошлой неделе Минпросвещения обновило правила, по которым работники сообщают работодателю о личной заинтересованности. Есть и другие новшества.<br/><br/>Читать <a href="http://www.consultant.ru/legalnews/33058/?tg_channel=consultantplus_bo" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">обзор</a> на сайте КонсультантПлюс<br/><br/><a href="https://login.consultant.ru/demo-access/?utm_source=telegram" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Получить бесплатный пробный доступ к КонсультантПлюс </a><br/><br/><a href="https://max.ru/consultantplus_comp" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Подписаться на канал в Максе</a>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/newsconsultantplus_bo/3124</guid>
       <pubDate>Tue, 10 Nov 2026 10:03:46 +0000</pubDate>
@@ -172,7 +344,7 @@
 Получить бесплатный пробный доступ к КонсультантПлюс
 
 Подписаться на канал в Максе</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/s6c2rIxOnGmf8d7-G6SvoT2B9K0JHouc0ZigZ0AmlXFO-_SkmFEkkCVg_vetj-PM6DcCQjmlmhIQFzG4T2ShHVX04kffMJZsVEgBtG9EwP3454hiKKKuzQzR6-4bgh2zlXbfPLhW3bgA-51bv7PO7sNuqXg2AcRe10LNHTKf0-jT0Y24QTxCoKaePqH2loCYcpb2XD4uxjjx488sBbEa0nbQCGGQH3SgRXGNTBrJG-zdHjk6PpsnVgnhjLgo8pKJa9H_gh-5ZYMvhR5lWV232wuJgRPArdDJkrkvK1t-GH_ZFF1I6IPt_IQFEDXaCGTx7YBNy9aHykZk2HC5D6RwrA.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/Ryyh2iZWH6Xa33a3oMJ8IJE-rv3_Gle0ZAFxqdLTMRzhoA-g6_eV9dBiQYv7QIPCiGbXxIoPrqBbMGaekodNAbuzoCnWyc5rWZUZjEw0vaGAhndsK63DRxk2bIYiK1Gak0lZW33VGs_M51A-JKM9_9faPsR0ROc4lcHeIy9JtAzkrv8ln5OliT4hY-Ruh0-MJo5gDaUy_AIgjIShH3TJwt-Oq9ClGXhY-jTaE5hrx61Cc-Pn8BBUhqAYbDrD5li-h2-uh0G_ZzFLjMYdAxoJW9zQ-BcUMROibo850j6oYZXwKW_WKOG93z-PSwANYZZIhADjy3mNtzYXK4KyRJ6Gyg.jpg" /></p>
 <b>Инвентаризация активов и обязательств учреждения в 2026 году: вспоминаем важные нюансы и документы</b><br/><br/>Когда провести и как организовать годовую инвентаризацию активов и обязательств? Какие описи использовать в работе с этого года? Как провести сверку с контрагентами? Ответы на эти и другие вопросы в <a href="http://www.consultant.ru/legalnews/33037/?tg_channel=consultantplus_bo" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">обзоре</a> на сайте КонсультантПлюс.<br/><br/><a href="https://login.consultant.ru/demo-access/?utm_source=telegram" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Получить бесплатный пробный доступ к КонсультантПлюс</a><br/><br/><a href="https://max.ru/consultantplus_comp" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Подписаться на канал в Максе</a>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/newsconsultantplus_bo/3118</guid>
       <pubDate>Mon, 09 Nov 2026 10:05:24 +0000</pubDate>
@@ -213,7 +385,7 @@
 .
 
 Подписаться на канал в Максе</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/bgU-Bj_DXe-YXepfEkAcQIUEVSo1SgoLbzthWQLSwsf9xsseKQUYwRk6_KNCqMPDbHXq4yBsoqWsppzePzAUDLOwLLGCShQeI1Qmrurcsm_WhnOs22OvNWnYyoWqyFL_KRFHFFz985sq0AmFADzx7DfBR0NUYjj1MSsPiPPRC6-tenL1shlYualTFeMWhD87iGBZgQMwQ67I8hRVdl9VU05rdcWUSYqrbJ7WWlmBswFNGvKXYvGa_JNdavjjtYpi-4dv9k-rU_y9HtYsJgK_0_ctwxkaSFE1YO0GN6p4JPg1W5Oih-ga2LL0nEgQtJ3R59J3Cz_LDhbfdqaZT739Tw.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/F5OngCZQ06A3sT4PYVRXTvxHInjweDWy4wKPmelC3YvdfKhsmcAwv7SO8dxM7R1b5xN4xdPxeT18lbnVGsGxIYUX4PCEPErkK6Df6AMBY-YXBIYZ_IS3N3iFAgN1mkvqQu5tLFxI9PiGjGmGb9uM_bYg0M5cE6CRo3bb8lLCh_jjrFyb2ZdYP82GyalQyGyDNr9eIIEs-JR8HPItkMZbQXZtlMKOZSvsTq7bvOpvfOXCHsuBJfH7bQzh5WaOXRXLFYyGGu1k6QdpNLXUWNYrBSdkpHl0uKX8iVt_OvuiLwU-y5CgI9u34iUtzVVmPN7ylSnp302u3yxecHcLcBOFIA.jpg" /></p>
 <b>Обновилось мобильное приложение КонсультантПлюс</b><br/><br/>В новой версии приложение синхронизируется с профилем в системе КонсультантПлюс. На главном экране стало больше полезной информации. Чтобы всё заработало, привяжите свой онлайн-комплект КонсультантПлюс к приложению.<br/> <br/>Что нового:<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94BD.png')"><b>🔽</b></i> <b>Профиль теперь и в приложении.</b> Если приложение привязано к вашему комплекту, после обновления в нём будет тот же профиль, что и в системе: юрист, бухгалтерия и кадры, охрана труда и др.<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94BD.png')"><b>🔽</b></i> <b>Главная страница подстраивается под профиль. </b>Меняются новости, важные документы, видеосеминары, справочная информация, полезные ссылки и результаты поиска.<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94BD.png')"><b>🔽</b></i> <b>Профиль меняется автоматически. </b>Если сменить профиль в системе КонсультантПлюс, он поменяется и в приложении.<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94BD.png')"><b>🔽</b></i> <b>Блок «Полезные ссылки». </b>На главном экране появились напоминания о важных событиях и изменениях в законодательстве, обзоры, авторские материалы и свежие видеосеминары.<br/><br/>Скачать приложение можно в любом <a href="https://www.consultant.ru/mobile/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">магазине приложений</a>.<br/><br/><a href="https://max.ru/consultantplus_comp" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Подписаться на канал в Максе</a>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/newsconsultantplus_bo/3117</guid>
       <pubDate>Mon, 09 Nov 2026 07:45:16 +0000</pubDate>
