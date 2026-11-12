@@ -8,7 +8,45 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 11 Nov 2026 12:51:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 13:53:41 +0000</lastBuildDate>
+    <item>
+      <title>✍️</title>
+      <link>https://telegram.me/ep_uc/5843</link>
+      <description>✍️
+Let's Encrypt и постквантовые сертификаты
+
+Let's Encrypt 
+получил
+ более €1 млн от немецкого Sovereign Tech Agency на разработку сертификатов TLS на основе деревьев Меркла, которые должны снизить нагрузку для постквантовых сертификатов. Это крупнейшая единовременная инвестиция в постквантовую готовность проекта на сегодня.
+
+Сертификаты на основе дерева Меркла (MTC) добавляют постквантовую аутентификацию, не замедляя TLS: вместо раздувания рукопожатия до 10+ КБ они покрывают целую партию сертификатов одной подписью. 
+Chrome также делает ставку
+ на эту технологию.</description>
+      <content:encoded><![CDATA[<tg-emoji emoji-id="5470060791883374114"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><b>Let's Encrypt и постквантовые сертификаты</b><br/><br/>Let's Encrypt <a href="https://letsencrypt.org/2026/11/05/sta-pq-funding" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">получил</a> более €1 млн от немецкого Sovereign Tech Agency на разработку сертификатов TLS на основе деревьев Меркла, которые должны снизить нагрузку для постквантовых сертификатов. Это крупнейшая единовременная инвестиция в постквантовую готовность проекта на сегодня.<br/><br/>Сертификаты на основе дерева Меркла (MTC) добавляют постквантовую аутентификацию, не замедляя TLS: вместо раздувания рукопожатия до 10+ КБ они покрывают целую партию сертификатов одной подписью. <a href="https://telegram.me/ep_uc/4757" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Chrome также делает ставку</a> на эту технологию.]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5843</guid>
+      <pubDate>Thu, 12 Nov 2026 05:21:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>В начале ноября один из крупнейших центров сертификации в мире, японский GlobalSign</title>
+      <link>https://telegram.me/ep_uc/5842</link>
+      <description>В начале ноября один из крупнейших центров сертификации в мире, японский GlobalSign 
+уведомил
+ о плане провести новый массовый отзыв SSL/TLS-сертификатов у российских сайтов. 
+Эти сертификаты — цифровой «паспорт» сайта, он подтверждает его подлинность, гарантируя, что пользователь подключился именно к тому ресурсу, к которому хотел, а не к поддельному, и шифрует трафик между браузером и сервером, делая его недоступным для перехвата. Без действующего сертификата зарубежные браузеры отказываются открывать сайт или выводят предупреждение о небезопасном соединении.
+
+Сейчас речь идет об отзыве десятков сертификатов разных организаций, которые в том числе попали в последний санкционный список Евросоюза. Но с лета этого года было несколько волн отзыва сертификатов. 
+
+Помимо GlobalSign, сертификаты также отзывал греческий удостоверяющий центр HARICA, куда перешла часть российских организаций с ранее отозванными сертификатами. Всего зарубежные центры отозвали 11 тыс. сертификатов у 1,3 тыс. российских организаций.
+
+▪
+Канал РБК в 
+«
+Максе
+»</description>
+      <content:encoded><![CDATA[В начале ноября один из крупнейших центров сертификации в мире, японский GlobalSign <a href="https://www.rbc.ru/technology_and_media/12/11/2026/6af4af81a0636aecebf9422d?utm_source=telegram&amp;amp;utm_medium=messenger&amp;amp;utm_campaign=rbc_news&amp;amp;utm_content=6af4af81a0636aecebf9422d" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b>уведомил</b></a><b> о плане провести новый массовый отзыв SSL/TLS-сертификатов у российских сайтов. </b>Эти сертификаты — цифровой «паспорт» сайта, он подтверждает его подлинность, гарантируя, что пользователь подключился именно к тому ресурсу, к которому хотел, а не к поддельному, и шифрует трафик между браузером и сервером, делая его недоступным для перехвата. Без действующего сертификата зарубежные браузеры отказываются открывать сайт или выводят предупреждение о небезопасном соединении.<br/><br/>Сейчас речь идет об отзыве десятков сертификатов разных организаций, которые в том числе попали в последний санкционный список Евросоюза. Но с лета этого года было несколько волн отзыва сертификатов. <br/><br/>Помимо GlobalSign, сертификаты также отзывал греческий удостоверяющий центр HARICA, куда перешла часть российских организаций с ранее отозванными сертификатами. Всего зарубежные центры отозвали 11 тыс. сертификатов у 1,3 тыс. российских организаций.<br/><br/><tg-emoji emoji-id="5474343003126524692"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E296AA.png')"><b>▪</b></i></tg-emoji>Канал РБК в <b>«</b><a href="https://max.ru/rbc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b>Максе</b></a><b>»</b>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5842</guid>
+      <pubDate>Thu, 12 Nov 2026 05:06:53 +0000</pubDate>
+    </item>
     <item>
       <title>✍️</title>
       <link>https://telegram.me/ep_uc/5839</link>
@@ -49,7 +87,7 @@ https://www.securitylab.ru/news/579807.php</description>
 
 ✍️
 "Об ЭП и УЦ"</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/dGNX2F2K3nZFO_bIKD2pcxW577aJOIyPQpdpfOCWaUyBTyfLP9hg9zmgrKCKNkN4r3GknJsV7S-09X6VcBgyBFWoApnNYYQxKfYmP8QM3OBybJfUndd0b8v6ieSTKYEXCBKF9Le0iQzAPafAkGgiz2DQIahLUnJ_oQ5iY1IIseb6kQoP1hTrTDrIQZzmqa_kwHmwSnw8eO371e9UdYzm_FW_05aqlTIs4GJR32mDYZxL9f0p9qLl3t3eazb4YZGj-Y9Z-ZMPEjbmo58wgRvcohOZIyFrSGj5jzDsh60WvVRVJLk1SvJOySTuftUAnyEPr_KLqGPqnhlP8Zcl9uMdJA.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/SpbN5_AU9O5u_Czq3q7mZ_RqJsqXsEyOKoEgiFJKdhNewlQWsRNXvuJvr_UjB6-0R9V7b5PcSlrRWZSv5HTiQnVoZF37d5wjOvBBcPhMorsbMzI4fCAoGIvJ1YT8R1l4nj56V_wvvqTs2m4pnCzRKEBPAa1QLv4cIbw-Lhm-03nGIDh9TwzHGV0hVgy2QE3tCvoou9rS8mHLRQuHfK1kFrWLBOOpoTtuDjf9dXEFKsKRUxLeQTt36TXpm3IIwPoyDELzNSIuzsJM58gKDInq_1X7_CkFM0CYxsRZBfgRGoyfAWkHutPir-aqFY-tpp0lJLO6blBGVi8U1sP5XffHzQ.jpg" /></p>
 <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938A.png')"><b>📊</b></i> <b>Топ-10 аккредитованных удостоверяющих центров за десять месяцев 2026 года<br/></b><br/>Общий рост выданных сертификатов на 2,8 млн. по сравнению с аналогичным периодом <a href="https://telegram.me/ep_uc/4241" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">прошлого года</a>.<br/><br/>Одно изменение в топ-10 по сравнению с <a href="https://telegram.me/ep_uc/5686" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">прошлым месяцем</a>, теперь Т-Банк на 10 позиции.<br/><br/>Изменения ещё произойдут, они будут связаны с прекращением аккредитации <a href="https://telegram.me/ep_uc/5830" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">УЦ Модум</a> и повторением весенней ситуации с <a href="https://telegram.me/ep_uc/4643" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Атлас Карт</a>, что в очередной раз создаст <a href="https://telegram.me/ep_uc/4638?single" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">правоприменительную коллизию</a>, когда на бумаге аккредитации нет, а сертификаты проверки проходят. Какая-то "Обратная сторона российского PKI" получается.<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5838</guid>
       <pubDate>Wed, 11 Nov 2026 05:20:48 +0000</pubDate>
@@ -59,7 +97,7 @@ https://www.securitylab.ru/news/579807.php</description>
       <link>https://telegram.me/ep_uc/5836</link>
       <description>✍️
 Первый проект НПА, связанный с Национальным УЦ   Во исполнение пункта 9 плана-графика (есть всё-таки план-график!) подготовки нормативных правовых актов, необходимых для реализации норм Федерального закона от 26 июня 2026 г. № 210-ФЗ «О внесении изменений…</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/T-4qo-aJ8GtIssu0k6JNp07mPOIVYVYWTDLcTIpTj0ZKiyVXAUpWXDXPZP6FckVpMtX-L8wOJC5aL6iNvHKqWuMSa_R1SeP0sHHfOs4s1BqdG-_ik4jBKapgYWz6Ei8zzlEqcG3OyyTSzgVLjis6ISVz0ALhaVoLHBd4H2DXhreYUhYocRj_WfAk7kyO9X7LZb0nJP--6rO8RorpSJJvgNRGuTcQg2GR2MwWuQ3Zg_if-fF-2N73eFyaJ8Z-hZ-cmcnMPFu_8MoRdFT1SYKoQzG86d_OOkxjWOvpIW3JgIgZPyxW-zlxWHJIW2Mm6Z1PbSzwcuLaYV3sClocmqapow.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/FWPDYQzc60IMS22AQPTf3S1nFf6U6pedUiRwv3z968Udy9BuntUNFsf1Z_eGgCfBniRxE5VTyMHKfiubof3Qo3RZrrGLSJrHEoH51WhZEntesziBFZgNpo98g1K-m0y_Zm7vQPNO1E8-uEFoNCT8iJIo-CfZP2GAo451_Une49H9oNVLBAnFth4zM6Y5d7nO4wMVG--xepi7NXGfq_LfBFfSVFkod7REu5U82hL14zl-jDceXX90pf3icddA2ADA0HSSQHsARzMrtBTVNQ4dbwe07K74vL3Vhj8e6NoCq-vPCgFYtLkeJZesGBvVzwkbTjI8x-5Bt-w9eoVbrnzChQ.jpg" /></p>
 <tg-emoji emoji-id="5470060791883374114"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji>Первый проект НПА, связанный с Национальным УЦ   Во исполнение пункта 9 плана-графика (есть всё-таки план-график!) подготовки нормативных правовых актов, необходимых для реализации норм Федерального закона от 26 июня 2026 г. № 210-ФЗ «О внесении изменений…]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5836</guid>
       <pubDate>Tue, 10 Nov 2026 04:48:35 +0000</pubDate>
@@ -68,58 +106,9 @@ https://www.securitylab.ru/news/579807.php</description>
       <title>🖼 Фото — Об ЭП и УЦ</title>
       <link>https://telegram.me/ep_uc/5835</link>
       <description>🖼 Фото — Об ЭП и УЦ</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/L1bS_S5LhPVsSTtfpZ0EtxG8BN9ecFe9VmPuQaOhCwvgQClHDXgocfIYqGPLxzqpoxzXwu1H0u3cSizG0lJHUPeoEcKLgk7MHmBkYzk6G7mOfbBo9CS8KdtZbPTSNzmgT-wsi07JPZvyg0dBEoTVmb9ldIUmoCTwoEFeuxsxen4lb8-8ykdNrAKYCNPtQ_I60ixZmVAXR-2BGvpZgCipRw2K8LCZsQKB-Z-X5ozzIgO12AAcOdrUMWPwICwi27AucVoIun-fV0SZY2-LkngHye6kldteW6c1Z0c8yt1kIzAwO_hvmD-vA-U5r9ptnV9O6e4qd9EEQjE-3OMKuI0-LA.jpg" /></p>]]></content:encoded>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/hNtohu2zCUll7LEew5ibv-UFRMGn1uwvxUEvc6lYRPzu8CwCAhAGCZx1ZVIb2h0asEEg40N3Igw6stcaluDFE5deb5HFVBsu7ZMvZKhApKdkSmcRX3Vp61euhSBbIBtoAhQRH13Kmudwg5tq4QgGV4QV0tH5F5ubdUK3JE6dB5VaNUzZLZyk6loie09oPGfsQuNidfNzz3z9bj0DBhczavF75IzqN3nEYUOoOUy5qLeuGP01MHHDlcbOUoTifl28-Z2dJ8CDTuAzcUxXQ1fSXUHq2S4eS6AWpGGg8rv-nJ9zHBG-R-tVwtTz-INEmaoM4Y3sHPvc5dzQH3WQV_HUWg.jpg" /></p>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5835</guid>
       <pubDate>Mon, 09 Nov 2026 19:34:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Пост — Об ЭП и УЦ</title>
-      <link>https://telegram.me/ep_uc/5834</link>
-      <description>Пост — Об ЭП и УЦ</description>
-      <content:encoded><![CDATA[(нет текста)]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5834</guid>
-      <pubDate>Mon, 09 Nov 2026 17:01:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>✍️</title>
-      <link>https://telegram.me/ep_uc/5832</link>
-      <description>✍️
-Исторический пост - как проверка Счётной палаты выявила проблемы в деятельности УЦ
-
-В 2017 году Счётная палата вскрыла схему, при которой пенсионные накопления граждан переводились в НПФ с использованием электронных подписей, квалифицированные сертификаты которых были выданы в нарушение 63-ФЗ.
-
-Проверка процедур подачи заявлений о переходе в электронной форме за 2012–2016 годы выявила:
-
-🔹
-заявления от имени умерших людей - 46 случаев в Кемеровской области
-
-🔹
- квалифицированные сертификаты, выданные лицам младше 14 лет
-
-🔹
-757 жалоб граждан на неправомерный перевод накоплений
-
-🔹
-риски в деятельности удостоверяющих центров: сертификаты выдавались без надлежащей проверки личности.
-
-Итогом стало решение Коллегии Счётной палаты от 8 июня 2017 г. № 36К (1181) и представление председателю ПФР. Через 20 дней, с 28 июня 2017 года, ПФР приостановил приём электронных заявлений о переводе накоплений.
-
-Сам 
-отчет Счетной палаты
-, в котором 
-аудиторы выявили
- о серьезных недостатках механизма смены пенсионного фонда, привел, в том числе спустя 3 года, к изменению законодательства в сфере электронной подписи.
-
-Приостановка была временной мерой, осенью 2017 года приём электронных заявлений возобновили, но уже с усиленной идентификацией.
-
-Проверка Счётной палаты показала, что электронная подпись без идентификации получателя сертификата превращается в 
-инструмент мошенничества.
-
-✍️
-Об ЭП и УЦ</description>
-      <content:encoded><![CDATA[<tg-emoji emoji-id="5470060791883374114"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><b>Исторический пост - как проверка Счётной палаты выявила проблемы в деятельности УЦ</b><br/><br/>В 2017 году Счётная палата вскрыла схему, при которой пенсионные накопления граждан переводились в НПФ с использованием электронных подписей, квалифицированные сертификаты которых были выданы в нарушение 63-ФЗ.<br/><br/>Проверка процедур подачи заявлений о переходе в электронной форме за 2012–2016 годы выявила:<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>заявления от имени умерших людей - 46 случаев в Кемеровской области<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> квалифицированные сертификаты, выданные лицам младше 14 лет<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>757 жалоб граждан на неправомерный перевод накоплений<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>риски в деятельности удостоверяющих центров: сертификаты выдавались без надлежащей проверки личности.<br/><br/>Итогом стало решение Коллегии Счётной палаты от 8 июня 2017 г. № 36К (1181) и представление председателю ПФР. Через 20 дней, с 28 июня 2017 года, ПФР приостановил приём электронных заявлений о переводе накоплений.<br/><br/>Сам <a href="https://ach.gov.ru/upload/iblock/122/122bc9b3a4e9557b5138a58b2d443098.pdf" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">отчет Счетной палаты</a>, в котором <a href="https://portal.audit.gov.ru/#/audit-event/detalization/event-list/event-violation-list?violationFilter=%257B%2522EventId%2522%253A%255B62119109%255D%257D" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">аудиторы выявили</a> о серьезных недостатках механизма смены пенсионного фонда, привел, в том числе спустя 3 года, к изменению законодательства в сфере электронной подписи.<br/><br/>Приостановка была временной мерой, осенью 2017 года приём электронных заявлений возобновили, но уже с усиленной идентификацией.<br/><br/>Проверка Счётной палаты показала, что электронная подпись без идентификации получателя сертификата превращается в <a href="https://telegram.me/ep_uc/4500" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">инструмент мошенничества.</a><br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Об ЭП и УЦ</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5832</guid>
-      <pubDate>Sun, 08 Nov 2026 16:55:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
