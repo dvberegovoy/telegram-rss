@@ -8,7 +8,69 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 12 Nov 2026 13:53:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 13:17:24 +0000</lastBuildDate>
+    <item>
+      <title>Международные удостоверяющие центры отказались подтвердить безопасность 1,3 тыс. российских сайтов</title>
+      <link>https://telegram.me/ep_uc/5847</link>
+      <description>Международные удостоверяющие центры отказались подтвердить безопасность 1,3 тыс. российских сайтов
+
+https://www.tadviser.ru/a/241359
+
+—————————— 
+
+TAdviser в 
+MAX
+ и 
+ВК</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/KCZdLMILGNhusFl_CTQgoIna-o2f6UY0moW0qGkw3DEUvBP1yKUCdYl7WyIPwMVj6ohqso6qAkg-yZ9kTZUtUHFPeAKBEMvi-hjYJIRUk0nLHrTa2AF1V1yAS8ahEJCo_JM6EQv8L9RPerG5_-1LOFnJHHjrJeOjtSlyR0nlUgXw-6RvvG3QEK6pM-WE0hjjX4YE0ObuPEWaXlR2fHribMA2TXcZYDlrHyzHNVH4O8ZxMlH-K73MctiS3TS1CvXvFrEwwudbIRp4RyPYjm4gtRFsA8yu_BzKbGWRv7pLsDyWs9msNSqMZdCwSWBCXsfloeJXHkuVIkrFNsY999eTjQ.jpg" /></p>
+Международные удостоверяющие центры отказались подтвердить безопасность 1,3 тыс. российских сайтов<br/><a href="https://www.tadviser.ru/a/241359" rel="noopener" target="_blank">https://www.tadviser.ru/a/241359</a><br/><br/>—————————— <br/>TAdviser в <a href="https://max.ru/tadviser" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><u>MAX</u></a> и <a href="https://vk.com/tadviser" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><u>ВК</u></a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5847</guid>
+      <pubDate>Fri, 13 Nov 2026 10:55:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>✍️</title>
+      <link>https://telegram.me/ep_uc/5846</link>
+      <description>✍️
+ 
+Минцифры повторно пытается внести изменения в формат электронной подписи
+
+Первый проект был размещен в 
+конце января
+, но он так и остался на этапе общественного обсуждения. Новый проект размещён по 
+ссылке
+.
+
+Из сводного отчёта:
+
+🔹
+Действующий приказ № 472 содержит устаревшие требования к формату электронной подписи, в то время как организации-лицензиаты фактически работают в соответствии с требованиями, закрепляемыми проектом приказа
+
+🔹
+В настоящее время участник документооборота зачастую не обеспечивает чтение атрибута метки доверенного времени, что может препятствовать подтверждению юридической силы подписи после истечения срока сертификата в спорных ситуациях. 
+
+🔹
+Новое обязательное требование: обеспечение обработки и чтения атрибута метки доверенного времени всеми средствами электронной подписи в случае, если данный атрибут присутствует
+
+🔹
+Создание метки доверенного времени при формировании электронной подписи остается на усмотрение участника документооборота.
+
+🔹
+В Минцифры России поступают обращения граждан о невозможности подтверждения в рамках судебных разбирательств правомерности электронной подписи ввиду невозможности со стороны участника документооборота обработать данный атрибут.
+
+472 приказ 
+остаётся нерабочим
+ на протяжении всего своего срока действия, и проблема не в устаревших требованиях, а в грубых ошибках его атрибутов.
+
+Опубликованный проект в текущей редакции не может быть принят, он содержит как синтаксические ошибки (п. 5.3, 5.5.1) и противоречия в OID (п. 5.6.4,  5.4.1, 7.2), неописанные обязательные структуры, ссылки на устаревшие требования. Проект требует переработки с привлечением профильных специалистов (ТК26 не должен остаться в стороне), а также проверки со стороны разработчиков СКЗИ. 
+
+Обсуждение продлится до 26.11.2026.
+
+🚀
+Об ЭП и УЦ</description>
+      <content:encoded><![CDATA[<tg-emoji emoji-id="5470060791883374114"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji> <b>Минцифры повторно пытается внести изменения в формат электронной подписи</b><br/><br/>Первый проект был размещен в <a href="https://telegram.me/ep_uc/4554" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">конце января</a>, но он так и остался на этапе общественного обсуждения. Новый проект размещён по <a href="https://regulation.gov.ru/projects/172693/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">ссылке</a>.<br/><br/>Из сводного отчёта:<br/><blockquote><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>Действующий приказ № 472 содержит устаревшие требования к формату электронной подписи, в то время как организации-лицензиаты фактически работают в соответствии с требованиями, закрепляемыми проектом приказа<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>В настоящее время участник документооборота зачастую не обеспечивает чтение атрибута метки доверенного времени, что может препятствовать подтверждению юридической силы подписи после истечения срока сертификата в спорных ситуациях. <br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>Новое обязательное требование: обеспечение обработки и чтения атрибута метки доверенного времени всеми средствами электронной подписи в случае, если данный атрибут присутствует<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>Создание метки доверенного времени при формировании электронной подписи остается на усмотрение участника документооборота.<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>В Минцифры России поступают обращения граждан о невозможности подтверждения в рамках судебных разбирательств правомерности электронной подписи ввиду невозможности со стороны участника документооборота обработать данный атрибут.</blockquote><br/><br/>472 приказ <a href="https://telegram.me/ep_uc/5555" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">остаётся нерабочим</a> на протяжении всего своего срока действия, и проблема не в устаревших требованиях, а в грубых ошибках его атрибутов.<br/><br/>Опубликованный проект в текущей редакции не может быть принят, он содержит как синтаксические ошибки (п. 5.3, 5.5.1) и противоречия в OID (п. 5.6.4,  5.4.1, 7.2), неописанные обязательные структуры, ссылки на устаревшие требования. Проект требует переработки с привлечением профильных специалистов (ТК26 не должен остаться в стороне), а также проверки со стороны разработчиков СКЗИ. <br/><br/>Обсуждение продлится до 26.11.2026.<br/><br/><tg-emoji emoji-id="5866355487255039002"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9A80.png')"><b>🚀</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Об ЭП и УЦ</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5846</guid>
+      <pubDate>Fri, 13 Nov 2026 05:28:43 +0000</pubDate>
+    </item>
     <item>
       <title>✍️</title>
       <link>https://telegram.me/ep_uc/5843</link>
@@ -87,28 +149,10 @@ https://www.securitylab.ru/news/579807.php</description>
 
 ✍️
 "Об ЭП и УЦ"</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/SpbN5_AU9O5u_Czq3q7mZ_RqJsqXsEyOKoEgiFJKdhNewlQWsRNXvuJvr_UjB6-0R9V7b5PcSlrRWZSv5HTiQnVoZF37d5wjOvBBcPhMorsbMzI4fCAoGIvJ1YT8R1l4nj56V_wvvqTs2m4pnCzRKEBPAa1QLv4cIbw-Lhm-03nGIDh9TwzHGV0hVgy2QE3tCvoou9rS8mHLRQuHfK1kFrWLBOOpoTtuDjf9dXEFKsKRUxLeQTt36TXpm3IIwPoyDELzNSIuzsJM58gKDInq_1X7_CkFM0CYxsRZBfgRGoyfAWkHutPir-aqFY-tpp0lJLO6blBGVi8U1sP5XffHzQ.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/jJKY00p7WnQl8JK-1WlrK2KXt7JaXtiXFgDbpOpvyE1NzSJN48-FvYDKKCQNyiD2iLZqlow3U30x6jDNVaxiwr_R5oqOw90yJFZIYDcSP1fJJntxPxXwcHycjGj2HYqVYVJ2vDFRMy-0uMJUZT_r-IYdx0zGL-qlMz_KFMl2si_lZ6VW3NyyOrqRfRvSxuC87W66cp7grVcRBktJgTW3ed1x2kYl6Jf79gh8rhpNR9uZggwbSf3RqVK-KjbCW1GwNZVCnZFBuFQweQ8iapvfLdPg7k5QB41cS1BVziG0a21TUqil5U0LQie0cqVgaMXGoxqdd8djjKckUkdH9mg31w.jpg" /></p>
 <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938A.png')"><b>📊</b></i> <b>Топ-10 аккредитованных удостоверяющих центров за десять месяцев 2026 года<br/></b><br/>Общий рост выданных сертификатов на 2,8 млн. по сравнению с аналогичным периодом <a href="https://telegram.me/ep_uc/4241" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">прошлого года</a>.<br/><br/>Одно изменение в топ-10 по сравнению с <a href="https://telegram.me/ep_uc/5686" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">прошлым месяцем</a>, теперь Т-Банк на 10 позиции.<br/><br/>Изменения ещё произойдут, они будут связаны с прекращением аккредитации <a href="https://telegram.me/ep_uc/5830" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">УЦ Модум</a> и повторением весенней ситуации с <a href="https://telegram.me/ep_uc/4643" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Атлас Карт</a>, что в очередной раз создаст <a href="https://telegram.me/ep_uc/4638?single" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">правоприменительную коллизию</a>, когда на бумаге аккредитации нет, а сертификаты проверки проходят. Какая-то "Обратная сторона российского PKI" получается.<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5838</guid>
       <pubDate>Wed, 11 Nov 2026 05:20:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>✍️</title>
-      <link>https://telegram.me/ep_uc/5836</link>
-      <description>✍️
-Первый проект НПА, связанный с Национальным УЦ   Во исполнение пункта 9 плана-графика (есть всё-таки план-график!) подготовки нормативных правовых актов, необходимых для реализации норм Федерального закона от 26 июня 2026 г. № 210-ФЗ «О внесении изменений…</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/FWPDYQzc60IMS22AQPTf3S1nFf6U6pedUiRwv3z968Udy9BuntUNFsf1Z_eGgCfBniRxE5VTyMHKfiubof3Qo3RZrrGLSJrHEoH51WhZEntesziBFZgNpo98g1K-m0y_Zm7vQPNO1E8-uEFoNCT8iJIo-CfZP2GAo451_Une49H9oNVLBAnFth4zM6Y5d7nO4wMVG--xepi7NXGfq_LfBFfSVFkod7REu5U82hL14zl-jDceXX90pf3icddA2ADA0HSSQHsARzMrtBTVNQ4dbwe07K74vL3Vhj8e6NoCq-vPCgFYtLkeJZesGBvVzwkbTjI8x-5Bt-w9eoVbrnzChQ.jpg" /></p>
-<tg-emoji emoji-id="5470060791883374114"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji>Первый проект НПА, связанный с Национальным УЦ   Во исполнение пункта 9 плана-графика (есть всё-таки план-график!) подготовки нормативных правовых актов, необходимых для реализации норм Федерального закона от 26 июня 2026 г. № 210-ФЗ «О внесении изменений…]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5836</guid>
-      <pubDate>Tue, 10 Nov 2026 04:48:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>🖼 Фото — Об ЭП и УЦ</title>
-      <link>https://telegram.me/ep_uc/5835</link>
-      <description>🖼 Фото — Об ЭП и УЦ</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/hNtohu2zCUll7LEew5ibv-UFRMGn1uwvxUEvc6lYRPzu8CwCAhAGCZx1ZVIb2h0asEEg40N3Igw6stcaluDFE5deb5HFVBsu7ZMvZKhApKdkSmcRX3Vp61euhSBbIBtoAhQRH13Kmudwg5tq4QgGV4QV0tH5F5ubdUK3JE6dB5VaNUzZLZyk6loie09oPGfsQuNidfNzz3z9bj0DBhczavF75IzqN3nEYUOoOUy5qLeuGP01MHHDlcbOUoTifl28-Z2dJ8CDTuAzcUxXQ1fSXUHq2S4eS6AWpGGg8rv-nJ9zHBG-R-tVwtTz-INEmaoM4Y3sHPvc5dzQH3WQV_HUWg.jpg" /></p>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5835</guid>
-      <pubDate>Mon, 09 Nov 2026 19:34:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
