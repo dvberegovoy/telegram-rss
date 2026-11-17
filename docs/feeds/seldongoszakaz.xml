@@ -8,7 +8,45 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 16 Nov 2026 13:52:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 14:44:20 +0000</lastBuildDate>
+    <item>
+      <title>📈</title>
+      <link>https://telegram.me/seldongoszakaz/1482</link>
+      <description>📈
+Почему одинаковые товары закупают по разным ценам?
+
+Два заказчика из одного региона закупают одинаковое оборудование. Один заключает контракт на 800 тысяч рублей, другой на 1,2 млн. Характеристики сопоставимы, условия поставки похожи. Откуда такая разница?
+
+Причина может быть в подходе к расчету НМЦК. Один заказчик изучает рынок и анализирует исполненные контракты, другой ограничивается несколькими коммерческими предложениями.
+
+🔎
+Что стоит проверить перед расчетом цены?
+
+💜
+По какой стоимости аналогичный товар закупали другие организации.
+
+💜
+Как менялись цены за последние месяцы.
+
+💜
+ Насколько характеристики и условия поставки сопоставимы.
+
+💜
+Есть ли достаточно актуальных данных для обоснования цены.
+
+Собирать такую информацию вручную долго. Особенно когда закупок много, а сроки подготовки документации ограничены.
+
+📊
+Seldon.Price
+ помогает анализировать рыночные цены и использовать данные о закупках при расчете НМЦК. Вместо разрозненных предложений вы получаете более полную картину рынка для подготовки обоснования.
+
+👉
+ 
+Подробнее о Seldon.Price</description>
+      <content:encoded><![CDATA[<tg-emoji emoji-id="5197503331215361533"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9388.png')"><b>📈</b></i></tg-emoji><b>Почему одинаковые товары закупают по разным ценам?</b><br/><br/>Два заказчика из одного региона закупают одинаковое оборудование. Один заключает контракт на 800 тысяч рублей, другой на 1,2 млн. Характеристики сопоставимы, условия поставки похожи. Откуда такая разница?<br/><br/>Причина может быть в подходе к расчету НМЦК. Один заказчик изучает рынок и анализирует исполненные контракты, другой ограничивается несколькими коммерческими предложениями.<br/><br/><tg-emoji emoji-id="5429571366384842791"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F948E.png')"><b>🔎</b></i></tg-emoji><b>Что стоит проверить перед расчетом цены?</b><br/><i><tg-emoji emoji-id="5330471270976864554"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F929C.png')"><b>💜</b></i></tg-emoji></i><i>По какой стоимости аналогичный товар закупали другие организации.<br/></i><i><tg-emoji emoji-id="5330471270976864554"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F929C.png')"><b>💜</b></i></tg-emoji></i><i>Как менялись цены за последние месяцы.<br/></i><i><tg-emoji emoji-id="5330471270976864554"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F929C.png')"><b>💜</b></i></tg-emoji></i><i> Насколько характеристики и условия поставки сопоставимы.<br/></i><i><tg-emoji emoji-id="5330471270976864554"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F929C.png')"><b>💜</b></i></tg-emoji></i><i>Есть ли достаточно актуальных данных для обоснования цены.</i><br/><br/>Собирать такую информацию вручную долго. Особенно когда закупок много, а сроки подготовки документации ограничены.<br/><br/><tg-emoji emoji-id="5431577498364158238"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938A.png')"><b>📊</b></i></tg-emoji><b>Seldon.Price</b> помогает анализировать рыночные цены и использовать данные о закупках при расчете НМЦК. Вместо разрозненных предложений вы получаете более полную картину рынка для подготовки обоснования.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"><b>👉</b></i> <a href="https://price.myseldon.com/ru/?utm_source=article&amp;amp;utm_medium=44&amp;amp;utm_campaign=tgz" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Подробнее о Seldon.Price</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/seldongoszakaz/1482</guid>
+      <pubDate>Tue, 17 Nov 2026 07:49:01 +0000</pubDate>
+    </item>
     <item>
       <title>👨‍💻</title>
       <link>https://telegram.me/seldongoszakaz/1481</link>

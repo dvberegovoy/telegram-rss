@@ -8,14 +8,107 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 16 Nov 2026 13:52:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 14:44:06 +0000</lastBuildDate>
+    <item>
+      <title>Ключи от сейфа не оставляют в замке. А токен от интернет-банка?</title>
+      <link>https://telegram.me/ep_uc/5866</link>
+      <description>Ключи от сейфа не оставляют в замке. А токен от интернет-банка?
+
+Сотрудник отошёл, а на компьютере осталось открыто ДБО и подключён токен. Даже короткое отсутствие оставляет рабочее место без контроля.
+
+Атака может начаться и раньше: с письма, замаскированного под сообщение банка, файла с бухгалтерским шаблоном или неожиданного запроса на удалённый доступ.
+
+В чек-листе «Как защитить доступ и платежи в ДБО» собрали пять практических правил, примеры подозрительных ситуаций и порядок действий, если что-то пошло не так.
+
+[Скачать чек-лист →]
+
+#реклама
+
+О рекламодателе</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/CyQrsSFQhagC9DxcdZD1HECGTl5c0ODilbr1il-hzI9fQciz9UMc68cCqndBjurXqD_vE3YIzD3XpZOImdKYk_ragBYVpj_1X1TrQ_z8jeoGuJWetcD4z9rL8K-zkJX3IK7E3esTLWSyLkMxcuJgi_6v75ErX-wqcvUPYGhHl29Z0I6K4c8rPFj3RACOWll-rQYI4bDjy_BqR5OXgndSBE4-F4O94UmMYwOYitgPCeOZnrqq78Cf1iVK6oc2BDNfY3g0qp_wR2y0dARASa9Wrkoq7-p-w0T18PmhHdGyiAZRv-IEZ4c7uvV7VkyL72zyUIp840oQrY1J5HgBH5rbTQ.jpg" /></p>
+<b>Ключи от сейфа не оставляют в замке. А токен от интернет-банка?</b><br/><br/>Сотрудник отошёл, а на компьютере осталось открыто ДБО и подключён токен. Даже короткое отсутствие оставляет рабочее место без контроля.<br/><br/>Атака может начаться и раньше: с письма, замаскированного под сообщение банка, файла с бухгалтерским шаблоном или неожиданного запроса на удалённый доступ.<br/><br/>В чек-листе «Как защитить доступ и платежи в ДБО» собрали пять практических правил, примеры подозрительных ситуаций и порядок действий, если что-то пошло не так.<br/><br/><a href="https://tglink.io/1c3a574ad232c0?erid=2W5zFGjMq62" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b>[Скачать чек-лист →]</b></a><br/><a href="?q=%23%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D0%B0">#реклама</a><br/><a href="https://telega.in/organizations/8e5f17e014fbe67bd2fbe4bdabd656" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">О рекламодателе</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5866</guid>
+      <pubDate>Tue, 17 Nov 2026 06:00:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>✍️</title>
+      <link>https://telegram.me/ep_uc/5865</link>
+      <description>✍️
+УНЭП Госключа - что могло пойти не так
+
+Подписание договоров с операторами связи - одна из 
+первых услуг
+, заявленная в рамках технологии Госключа четыре года назад, с 
+официального сайта Минцифры
+:
+
+Через «Госключ» можно получить сертификат как усиленной неквалифицированной электронной подписи (УНЭП), так и усиленной квалифицированной электронной подписи (УКЭП). 
+Первая потребуется для подписания договоров с операторами мобильной связи, заявлений на «Госуслугах»,
+ документов в рамках кадрового документооборота и в других случаях, предусмотренных законодательством или соглашением сторон.
+
+Услуга была востребована, в том числе 
+мошенниками
+, "войди на Госуслуги и подпиши договор в Госключе" - сообщают сайты всех операторов связи, но за простотой скрывались риски на которые Минцифры 
+обратило
+ внимание:
+
+В Минцифры “Ъ” объяснили, что по действующему законодательству eSIM может оформляться только с применением УКЭП, а возможность использовать неквалифицированную подпись для eSIM законом не предусмотрена.
+
+Получается, что все операторы связи так легко на протяжении четырех лет нарушают закон о связи? Удивляться не стоит, нарушали же все АУЦ на протяжении пяти лет 
+часть 3 статьи 18
+, потому что норма была безграмотно написана. Но если в 63-ФЗ ошибка была исправлена, но с операторами связи сложнее - им вообще никакие подписи не нужны. Например, свой пример - чем подтвердит Мегафон 
+подписание договора
+?
+
+Возможно на решение Минцифры повлияли не только случаи мошенничества, но и двукратный 
+рост выдачи
+ квалифицированных сертификатов Госключа (неквалифицированных сертификатов при этом все равно 
+выдаётся
+ в 5 раз больше, чем квал.).
+
+Получит ли дальнейшее распространение замена УНЭП - УКЭПом?
+
+P.S. 
+Электронный договор
+ купли-продажи автомобиля по-прежнему можно подписать 
+УНЭП
+.
+
+✍️
+"Об ЭП и УЦ"</description>
+      <content:encoded><![CDATA[<tg-emoji emoji-id="5470060791883374114"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><b>УНЭП Госключа - что могло пойти не так</b><br/><br/>Подписание договоров с операторами связи - одна из <a href="https://archive.pki-forum.ru/files/files/0_stol_Meluzov.pdf" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">первых услуг</a>, заявленная в рамках технологии Госключа четыре года назад, с <a href="https://digital.gov.ru/news-media/s-gosklyuchom-v-smartfone" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">официального сайта Минцифры</a>:<br/><blockquote>Через «Госключ» можно получить сертификат как усиленной неквалифицированной электронной подписи (УНЭП), так и усиленной квалифицированной электронной подписи (УКЭП). <b>Первая потребуется для подписания договоров с операторами мобильной связи, заявлений на «Госуслугах»,</b> документов в рамках кадрового документооборота и в других случаях, предусмотренных законодательством или соглашением сторон.</blockquote><br/>Услуга была востребована, в том числе <a href="https://telegram.me/ep_uc/4844" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">мошенниками</a>, "войди на Госуслуги и подпиши договор в Госключе" - сообщают сайты всех операторов связи, но за простотой скрывались риски на которые Минцифры <a href="https://www.kommersant.ru/doc/9110023" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">обратило</a> внимание:<br/><blockquote>В Минцифры “Ъ” объяснили, что по действующему законодательству eSIM может оформляться только с применением УКЭП, а возможность использовать неквалифицированную подпись для eSIM законом не предусмотрена.</blockquote><br/>Получается, что все операторы связи так легко на протяжении четырех лет нарушают закон о связи? Удивляться не стоит, нарушали же все АУЦ на протяжении пяти лет <a href="https://telegram.me/ep_uc/3950" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">часть 3 статьи 18</a>, потому что норма была безграмотно написана. Но если в 63-ФЗ ошибка была исправлена, но с операторами связи сложнее - им вообще никакие подписи не нужны. Например, свой пример - чем подтвердит Мегафон <a href="https://telegram.me/ep_uc/4595?single" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">подписание договора</a>?<br/><br/>Возможно на решение Минцифры повлияли не только случаи мошенничества, но и двукратный <a href="https://telegram.me/ep_uc/5838" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">рост выдачи</a> квалифицированных сертификатов Госключа (неквалифицированных сертификатов при этом все равно <a href="https://pki-forum.ru/assets/files/materials/2026/session-2/klin.pdf" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">выдаётся</a> в 5 раз больше, чем квал.).<br/><br/>Получит ли дальнейшее распространение замена УНЭП - УКЭПом?<br/><br/>P.S. <a href="https://www.gosuslugi.ru/landing/goskey" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Электронный договор</a> купли-продажи автомобиля по-прежнему можно подписать <a href="https://telegram.me/ep_uc/974" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">УНЭП</a>.<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5865</guid>
+      <pubDate>Tue, 17 Nov 2026 05:38:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>От УНЭП к УКЭП: ужесточение оформления договоров на мобильную связь</title>
+      <link>https://telegram.me/ep_uc/5864</link>
+      <description>От УНЭП к УКЭП: ужесточение оформления договоров на мобильную связь
+
+Недавно с коллегами обсуждали нарушения, которые фиксируются при оформлении договоров на мобильную связь. В частности, мобильные операторы даже в офисах продаж нарушают не только ФЗ-126, но и ФЗ-63. И очень фривольно обращаются с электронными подписями.
+
+Без надлежащего оформления соглашений об использовании электронных подписей, менеджеры просят провести пальцем по экрану: и как будто договор уже заключен. Отнюдь. Это грубейшее нарушение, о котором коллеги по цеху уже писали. И не раз (
+вот
+ и 
+вот
+). Я и сам с этим столкнулся. И это требует отдельного разбора.
+
+Но чтобы хоть как-то тормознуть этот хаос, Минцифры решили все же обязать операторов использовать только УКЭП вместо УНЭП для ряда действий. Об этом сегодня пишет 
+Ъ
+ (а мы даем комментарий по этой теме для Ъ-FM). Например, Минцифры заявляет, что дистанционное заключение договора на eSIM уже требовало УКЭП. Но у нас мобильные операторы до последнее времени были неприкасаемыми. Пока им не стали задавать вопросы в части безопасности (можно догадаться кто).
+
+Так что придется мобильным операторам немного попотеть и привести свои продажи в соответствие с требованиями закона. Но, к сожалению, у них остаются другие способы для не совсем легальной продажи сим-карт. Уверен, что и туда со временем доберутся органы безопасности. Вот тогда будет вдвойне интересно посмотреть на динамику абонентских баз.</description>
+      <content:encoded><![CDATA[<b>От УНЭП к УКЭП: ужесточение оформления договоров на мобильную связь</b><br/><br/>Недавно с коллегами обсуждали нарушения, которые фиксируются при оформлении договоров на мобильную связь. В частности, мобильные операторы даже в офисах продаж нарушают не только ФЗ-126, но и ФЗ-63. И очень фривольно обращаются с электронными подписями.<br/><br/>Без надлежащего оформления соглашений об использовании электронных подписей, менеджеры просят провести пальцем по экрану: и как будто договор уже заключен. Отнюдь. Это грубейшее нарушение, о котором коллеги по цеху уже писали. И не раз (<a href="https://telegram.me/ep_uc/2951?single" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">вот</a> и <a href="https://telegram.me/c/1691316533/184440" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">вот</a>). Я и сам с этим столкнулся. И это требует отдельного разбора.<br/><br/>Но чтобы хоть как-то тормознуть этот хаос, Минцифры решили все же обязать операторов использовать только УКЭП вместо УНЭП для ряда действий. Об этом сегодня пишет <a href="https://www.kommersant.ru/doc/9110023" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Ъ</a> (а мы даем комментарий по этой теме для Ъ-FM). Например, Минцифры заявляет, что дистанционное заключение договора на eSIM уже требовало УКЭП. Но у нас мобильные операторы до последнее времени были неприкасаемыми. Пока им не стали задавать вопросы в части безопасности (можно догадаться кто).<br/><br/>Так что придется мобильным операторам немного попотеть и привести свои продажи в соответствие с требованиями закона. Но, к сожалению, у них остаются другие способы для не совсем легальной продажи сим-карт. Уверен, что и туда со временем доберутся органы безопасности. Вот тогда будет вдвойне интересно посмотреть на динамику абонентских баз.]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5864</guid>
+      <pubDate>Mon, 16 Nov 2026 17:38:17 +0000</pubDate>
+    </item>
     <item>
       <title>Пост — Об ЭП и УЦ</title>
-      <link>https://telegram.me/ep_uc/5861</link>
+      <link>https://telegram.me/ep_uc/5863</link>
       <description>Пост — Об ЭП и УЦ</description>
       <content:encoded><![CDATA[(нет текста)]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5861</guid>
-      <pubDate>Mon, 16 Nov 2026 11:26:23 +0000</pubDate>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5863</guid>
+      <pubDate>Mon, 16 Nov 2026 17:37:52 +0000</pubDate>
     </item>
     <item>
       <title>🇦🇿</title>
@@ -64,7 +157,7 @@ AzInTelecom прошел аудит WebTrust for CA - что это значит
 
 ✍️
 "Об ЭП и УЦ"</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/HbNqv269GMf_Vj0OgXOQ7TOasxVME4ma0rEO4Oox7R0rl13ZG0FwpXRzC2_KGVU0NtxK8VfjqJFPxchTpt5zz6TSU8BBY1Op-HIrJ2bfkk-kylwKLzHFhMjIO0RMPusUGojUaKZ5qmiPRN8RkXXSP2SLjZYK2FLvqZyOFznZRpJgg3O_01WjHi5vOyKtDN_DFsroW4qpF1W6CeX1Hg-CcnCXgL1l5KlCX7JF4nwS5jWhMZpj1-dxZvdS0KN-IFaSvB8bnQ6RtH1qXZlp-dgI9pvaveoVyb8pRFjoyUkUzEirZ1PwRXdvy780onb03YBwEDUWF7-CalXcuxVtnsNekQ.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/SGPouVnF4zORC7rhkxGLFCzeZWP96-rAvKUY_AinQBmD5qCWLeHA4hRIWZjZom3gc9M71FL2SxpAcD-edUmJrkJLVpl0-hh4FlyoWOllotZkTl9_6lRQt6t7s1Ys7aKfUjnCFZx4d-71YVz5Ifvb-vwn6IERPsvQsb4CtwFo2RkgQ13sBQTURBTF2ZjVxQdkNCnsDqYH8K6slZRBtvnhHCy4lN5QDfxHBm47kf9YcuAqGGWshlIet7oC2dRvYo8oVeWMS-7frs45zE1f3RnhbMudkefvJkE5kr-Gtjw_AL0P7ihXWVuIg2p7D7RWpqpEepPbsQXlwueflAduwJyu1w.jpg" /></p>
 <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F87A6F09F87BF.png')"><b>🇦🇿</b></i> <b>AzInTelecom прошел аудит WebTrust for CA - что это значит для рынка ЭП?</b><br/><br/>Азербайджанский AzInTelecom <a href="https://azintelecom.az/en/successes/webtrust-auditini-ugurla-tamamladiq" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">объявил</a> о успешном прохождении аудита WebTrust for Certification Authorities (CA). Отчёт датирован 21 октября 2026 года, аудитор - Deloitte &amp; Touche.<br/><br/>Согласно <a href="https://azintelecom.az/en/successes/webtrust-auditini-ugurla-tamamladiq" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">пресс-релизу</a> независимая оценка охватила три ключевых направления:<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>управление информационной безопасностью - как компания защищает свою инфраструктуру и данные.<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>управление жизненным циклом криптоключей - от генерации до уничтожения ключей корневых ЦС.<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>процессы операционного контроля - насколько эффективно работают внутренние процедуры и разделение обязанностей.<br/><br/>Как подчёркивает AzInTelecom, аккредитация WebTrust:<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>укрепляет доверие госучреждений, бизнеса и частных пользователей к их инфраструктуре электронной подписи (продукт SİMA İmza).<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>подтверждает, что УЦ соответствует строгим международным критериям.<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>способствует развитию экосистемы доверенного цифрового пространства в Азербайджане.<br/><br/>В корневых хранилищах браузеров сертификата УЦ AzInTelecom нет. В публичной базе CCADB (Common CA Database) и в Bugzilla Mozilla заявок от AzInTelecom также не найдено, сертификат безопасности их собственного сайта выдан Sectigo, а не их собственным корнем - классический признак того, что публичное доверие к их PKI пока не запущено. Их продукт SİMA İmza работает на внутреннем рынке: госуслуги, налоговая, банки Азербайджана.<br/><br/>Прохождение <a href="https://www.cpacanada.ca/webtrustseal?sealid=12139" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">аудита WebTrust</a> - не автоматическое включение в браузеры. Подача и рассмотрение заявки в Mozilla или Google является отдельным процессом, который может занять годы. Без аудита заявку даже не станут рассматривать, но с ней ещё не значит, что рассмотрят положительно. <br/><br/>Тем не менее, для внутреннего рынка Азербайджана это большое достижение - инфраструктура PKI страны соответствует мировым стандартам.<br/><br/>Вопрос к подписчикам: последует ли после аудита заявка на вхождение в мировое пространство доверия?<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5860</guid>
       <pubDate>Mon, 16 Nov 2026 05:20:30 +0000</pubDate>
@@ -81,19 +174,11 @@ AzInTelecom прошел аудит WebTrust for CA - что это значит
  идентификации готовит 
 приказ о формате электронной подписи
 ? Не очень удачно готовит, публикуя сырой и очередной нерабочий документ.</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/aQ_qhuVoxbvWKaUmcbmr4av4DSEYnNhyrq4TTTV2QdgzvzkJ-Bkl9Smb7oQ6sqTzV6vlkmGiWSHBO3x4fn_TocO52xtUcP3C3J9_67ZYmaENQQ35FGgllA2EPAX8EZa0LT_tZ8HLQeg6XCk2E9Q_kwehNA6I0NV1aZR80eQTxI5StKYRfl20RRNItv4V-kofhnJai31vu22dJQE1_y1pemBsHLJiitaWzgc5uS2nCEF2bb4mNVs7No-uX04b65bzJDA5v37qmcRooHfsDaULA3p-07wdJg32eXsBR0vi7GDuCSC-loZqioNmsvCWC3bbMHu9E9TPTJedHhV520MmEA.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/Ttiid_H_zPPaCKLa6uE7HpPETTWC23D5mz1Wzbt6blxn6zk5YAQmR3fJk6r04l7FCvsVi2H1pfmHQq_FH1mAINrt4pogPF-NjvwQ3dbXwef6ekLIcZ1i-vYbku_NqhFJ6r_HfFRxOonOQqtPrM_4ozy1bjQPH5184P5sT_tlugLRQE89rhB5DB8AeON45n96LHSbga4Nbsrnvdd_hNbx108M3EQHdz5A6GzmNaxISiSfWaFT4bKHcX2Kvl0wfT1onTMbsfQYdwc_G_C_IeXuXOw2dStBGdf5IcH5ccDBAQI0X6d8cbYl4uBF00bk2eA5vv-LnWtH8bI4d0nMI-aedg.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/XvuFTskNH8vxo_MFiE6exaJTsIkLs-oJuamyJPCB-OBigdlnScqLHnzGitnKb6IPsxZHhCfsV0Iqfz05doIthIJHUBXjevtbT5HPG37e2EogbHZPqvswqeUIx2c5VYfnXtnd7e4bY7K9NflHRYEAjzqmvdPqnDgH1t5S7705tAkyVNqH3D7EqXLYxZa7aIm5aFYujkrQsibYhnouubGoYBc0MDnKEXQ-oRD9TSCvAw2cC0AgIjyMiP_m1jnaUU2c3ciO5K1ZP0F5qnE2sjthhvweqjOu6P_5CJVjUUd1W6-xSJRJOHH3jTG7yKjPAl4zGc6Ozuq2coQxVs8ddLwrlQ.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/qJTPqnW7ZYtfznqp9kPP4qhaxxXGyhAjm6fBR9t7esVoCRArycqi0Ugp5EhSsSVSKUNFQn6lIg_M9DKRFKcSSzvBTX4KH79Si70sFAAJ1aOvU9sjyK1Ki9lP1khLrwAIOHGAgN8c2iKA75UGWSYwjkChVhMfS7egUDTKxHS--Cn6hf7AIMtsdiyRaLj8hCx4ZSyvHxvFxqXuBug3XSi5vc_AYCpUpPwS3otsW983t4RsX7JUlCCpqbM7Ifdk9fAwV9Pn31Ox7_Jss0G_Ns4nYEi490PAF6gdod61aul_rPhX8OSsxGS5DvNvig3tpz3NulV4SBiKtdLCH2YMJzot5A.jpg" /></p>
 <div class="tgme_widget_message_text js-message_text" dir="auto">Какой департамент в Минцифры и заместитель министра отвечают за <a href="https://digital.gov.ru/activity/czifrovizacziya-gosudarstva/czifrovaya-transformacziya/czifrovye-platformy-i-resheniya-dlya-gosorganov/informaczionnaya-sistema-golovnogo-udostoveryayushhego-czentra" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">сферу</a> электронной подписи? Неожиданный вопрос. Только ответа нет на него. <br/><br/>Почему отдел развития технологий <b>биометрической</b> идентификации готовит <a href="https://telegram.me/ep_uc/5846" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">приказ о формате электронной подписи</a>? Не очень удачно готовит, публикуя сырой и очередной нерабочий документ.</div>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5858</guid>
       <pubDate>Sun, 15 Nov 2026 14:47:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Пост — Об ЭП и УЦ</title>
-      <link>https://telegram.me/ep_uc/5857</link>
-      <description>Пост — Об ЭП и УЦ</description>
-      <content:encoded><![CDATA[(нет текста)]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5857</guid>
-      <pubDate>Sun, 15 Nov 2026 11:04:52 +0000</pubDate>
     </item>
     <item>
       <title>🇹🇷</title>
@@ -132,45 +217,6 @@ AzInTelecom прошел аудит WebTrust for CA - что это значит
       <content:encoded><![CDATA[<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F87B9F09F87B7.png')"><b>🇹🇷</b></i><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F87AAF09F87BA.png')"><b>🇪🇺</b></i> <b>Международные новости:Турция и ЕС запускают процесс взаимного признания электронных подписей</b><br/><br/>Минтранс Турции <a href="https://mobile.aa.com.tr/tr/gundem/turkiye-ile-ab-arasinda-e-imzalarin-karsilikli-taninmasina-yonelik-surec-basladi/4123966" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">сообщил</a>, что 9 ноября в Кишинёве между Турцией и Еврокомиссией подписан обмен нотами о намерениях по взаимному признанию электронных подписей и электронных печатей.<br/><br/>Турецкие квалифицированные ЭП и печати смогут признаваться в странах ЕС, что упростит трансграничные операции: госзакупки, страхование, сопровождение сделок, а турецкие компании получат более широкий доступ к цифровым торговым системам ЕС.<br/><br/>Запланировано несколько этапов:<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>создаётся Национальная рабочая группа с участием профильных ведомств Турции.<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>начинаются техпереговоры с Еврокомиссией, первая встреча уже в ноябре.<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> определение рамок взаимного признания, методики и технических направлений.<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>Еврокомиссия готова поддержать процесс финансово, в т.ч. через EU4Digital III.<br/><br/>Тема взаимного признания поднималась на Диалоге высокого уровня по торговле в Брюсселе 13 октября, теперь перешла в практическую плоскость. Трансграничное доверие к турецким eIDAS-совместимым решениям - уже не теория, а рабочая тема несмотря на <a href="https://telegram.me/ep_uc/5195" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">прошлогодний кризис доверия</a> турецкого PKI.<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5856</guid>
       <pubDate>Sat, 14 Nov 2026 19:00:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>❌</title>
-      <link>https://telegram.me/ep_uc/5854</link>
-      <description>❌
-Уязвимости в GoSign, Dokobit и других системах ЭП
-
-Компания Critical Security 
-нашла серьёзную
- дыру в безопасности систем проверки электронной подписи, используемых в странах Балтии (хоть что-то там в безопасности).
-
-Уязвимость покусилась на один из базовых принципов кибербеза - целостность.К подписанному PDF можно добавить неподписанную страницу и система всё равно покажет действительную подпись.
-
-Для эксплуатации не нужны ни доступ к данным, ни к закрытому ключу, ни согласие владельца. Достаточно копии уже подписанного документа.
-
-Затронули:
-
-🔹
-GoSign и Dokobit (сервисы подписания)
-
-🔹
-eParakstītājs 3.0 (Латвия)
-
-🔹
-SiVa и DigiDoc4 (Эстония)
-
-🔹
-также системы Португалии и других стран
-
-Сервисы подписания сообщили, что уязвимость устранена в ночь на 10 ноября. Dokobit называет это особенностью стандарта PDF, а не своей уязвимостью.
-
-А вы предусмотрели это в модели угроз?
-
-🚀
-Об ЭП и УЦ</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/elLBrngB63C60y7vPTkfDwMeAFHW_fFp3KYw1t3Cd2cwZLFAbc5O_3VqUdTw5-56gZudixjyTzmQw9VVajTm8CwvNlcn95NdkpufyeyPZ4Xw5orqPHYogl3O86VYAcF9q9NrTVIacQbIIrWLeT1YFW6GxmpbkMDYdcIQFxKg8Xbaor9SEtPxDBACFlaorYF_Bl-ezy2gFezAeysy2MMVVHNKjcUceM5wlJiazQyzYO3xckIeRhf35HUykgyH62LaJYUzN35idX_UQuTKCfbuRisEMrscXP32jyJkjBGzqpJi4Q0jp2PJ40cgYRKbVDdwWwu0C-B7rw5xYixGo2TCaw.jpg" /></p>
-<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29D8C.png')"><b>❌</b></i><b>Уязвимости в GoSign, Dokobit и других системах ЭП</b><br/><br/>Компания Critical Security <a href="https://www.delfi.lt/mokslas/technologijos/gosign-dokobit-ir-kitose-el-paraso-sistemose-buvo-aptiktos-dideles-saugumo-spragos-120332968" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">нашла серьёзную</a> дыру в безопасности систем проверки электронной подписи, используемых в странах Балтии (хоть что-то там в безопасности).<br/><br/>Уязвимость покусилась на один из базовых принципов кибербеза - целостность.К подписанному PDF можно добавить неподписанную страницу и система всё равно покажет действительную подпись.<br/><br/>Для эксплуатации не нужны ни доступ к данным, ни к закрытому ключу, ни согласие владельца. Достаточно копии уже подписанного документа.<br/><br/>Затронули:<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>GoSign и Dokobit (сервисы подписания)<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>eParakstītājs 3.0 (Латвия)<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>SiVa и DigiDoc4 (Эстония)<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>также системы Португалии и других стран<br/><br/>Сервисы подписания сообщили, что уязвимость устранена в ночь на 10 ноября. Dokobit называет это особенностью стандарта PDF, а не своей уязвимостью.<br/><br/>А вы предусмотрели это в модели угроз?<br/><br/><tg-emoji emoji-id="5866355487255039002"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9A80.png')"><b>🚀</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Об ЭП и УЦ</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5854</guid>
-      <pubDate>Fri, 13 Nov 2026 20:25:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
