@@ -8,7 +8,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 17 Nov 2026 14:44:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 14:24:23 +0000</lastBuildDate>
+    <item>
+      <title>Подаём заявку на запрос котировок</title>
+      <link>https://telegram.me/zakupkivideo/4977</link>
+      <description>Подаём заявку на запрос котировок
+
+https://www.youtube.com/watch?v=TrXQ0TFumCU</description>
+      <content:encoded><![CDATA[<b>Подаём заявку на запрос котировок</b><br/><a href="https://www.youtube.com/watch?v=TrXQ0TFumCU" rel="noopener" target="_blank">https://www.youtube.com/watch?v=TrXQ0TFumCU</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/zakupkivideo/4977</guid>
+      <pubDate>Wed, 18 Nov 2026 09:23:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Пост — zakupki Video</title>
+      <link>https://telegram.me/zakupkivideo/4976</link>
+      <description>Пост — zakupki Video</description>
+      <content:encoded><![CDATA[(нет текста)]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/zakupkivideo/4976</guid>
+      <pubDate>Wed, 18 Nov 2026 07:45:59 +0000</pubDate>
+    </item>
     <item>
       <title>Смена статуса контракта</title>
       <link>https://telegram.me/zakupkivideo/4975</link>
