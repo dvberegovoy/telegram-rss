@@ -8,7 +8,62 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 18 Nov 2026 14:23:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 14:34:34 +0000</lastBuildDate>
+    <item>
+      <title>📄</title>
+      <link>https://telegram.me/ep_uc/5880</link>
+      <description>📄
+ 
+Минцифры обновляет свои приказы по электронной подписи
+
+Для общественного обсуждения 
+опубликован проект приказа Минцифры
+, который приводит подзаконные акты в соответствие с изменениями 315-ФЗ. Вступление в силу - 1 сентября 2027 года.
+
+🔹
+ МЧД - появятся реквизиты для международных организаций и подразделений иностранных юрлиц
+
+🔹
+ Реестры квалифицированных сертификатов - новая структура из 18 разделов по категориям владельцев и статусам сертификатов
+
+🔹
+ Идентификация заявителей приводится в соответствие со ст. 18 Закона № 63-ФЗ, включая ЕСИА и единую биометрическую систему
+
+🔹
+ Адрес - поле "место" заменяется на "адрес в пределах места нахождения"
+
+🔹
+ Банкротство - УЦ ФНС освобождается от проверки достоверности адреса юрлица-банкрота
+
+🔹
+ Прекращение сертификата - можно будет подписать заявление НЭП Госключа, но с обязательной идентификацией через ЕБС
+
+Изменения затрагивают 43 аккредитованных удостоверяющих центра, 288,6 тыс. доверителей и 1,48 млн. МЧД (данные почему-то за 2024 г.)
+
+🗓
+ Обсуждение продлится до 04.12.2026
+
+✍️
+"Об ЭП и УЦ"</description>
+      <content:encoded><![CDATA[<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9384.png')"><b>📄</b></i> <b>Минцифры обновляет свои приказы по электронной подписи</b><br/><br/>Для общественного обсуждения <a href="https://regulation.gov.ru/projects/172859/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">опубликован проект приказа Минцифры</a>, который приводит подзаконные акты в соответствие с изменениями 315-ФЗ. Вступление в силу - 1 сентября 2027 года.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> МЧД - появятся реквизиты для международных организаций и подразделений иностранных юрлиц<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> Реестры квалифицированных сертификатов - новая структура из 18 разделов по категориям владельцев и статусам сертификатов<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> Идентификация заявителей приводится в соответствие со ст. 18 Закона № 63-ФЗ, включая ЕСИА и единую биометрическую систему<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> Адрес - поле "место" заменяется на "адрес в пределах места нахождения"<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> Банкротство - УЦ ФНС освобождается от проверки достоверности адреса юрлица-банкрота<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i> Прекращение сертификата - можно будет подписать заявление НЭП Госключа, но с обязательной идентификацией через ЕБС<br/><br/>Изменения затрагивают 43 аккредитованных удостоверяющих центра, 288,6 тыс. доверителей и 1,48 млн. МЧД (данные почему-то за 2024 г.)<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9793.png')"><b>🗓</b></i> Обсуждение продлится до 04.12.2026<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5880</guid>
+      <pubDate>Thu, 19 Nov 2026 10:52:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>✍️</title>
+      <link>https://telegram.me/ep_uc/5874</link>
+      <description>✍️
+Инцидент с ключами УЦ eMudhra - большой разбор от телеграм-канала "Об ЭП и УЦ"  По официальным заявлениям eMudhra все ключи генерировались с использованием HSM, сертифицированных по FIPS 140-2 Level 3. Однако конкретная модель HSM и процедура проверки стойкости…</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/Btiz0gwJQ7wjA0OgPCWXrWnrdvfdMetDl7CsOrXGhG54JawWPJ295dYWhmoM33oaGiX-DUYadD5APwghoDp-SNqG9n9wUzAun8XpwlZWm-Q31-RpESRqxdX-Hxevj3mYfBkGIQT_8BhI1Q3rGU2ccA6v6qGVCHdkB-DDpOZS50XqLR71rJhkleE9FkEnlCwsTUO0lE_OJRTOz2Uy9DDvZEoeOHynYMhmB1r7SZpe4eMgBkg6-sdLzqixfPQjmaecZSlgk-ZAs9aUxH1NyPJv7mwDNxyHteOgORJvgK3kFH1zT5vVi0kxIY15hDshcxzMsSdz7lZ5b4GOLLqKrgmQag.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/bSdak2jXDinAe_4Ponh4wFABQiYBBq7h4SlpoNmGcCpDSJWQR56LaUlEdeoiyfPukf3H37eqGvr88hNNAjYqh3BPQS8llC77UBCN2kU7qvwFEsiZaFBaIVEcrtU2BNezBlRi6CzmxLmeF-W1dLpR-xkIBJohkD3Ci3F9heMFQec0zh_GsYfDsYRCeVNvwq8_RCwb9pxHKVHOD9ZJRNaz_Qfi1qysD6hclL7rFe8Y4owT4dGHxci14sYj2AwL-8VzItxtQ4IN7dEwk6c3brjIHvqASXS5w_kgYMPnjq48gAxvpgKu0VhdQk_MEI3AsJKSmTI1XcwreyPq4bXNL4R-sA.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/Ry5KAAaJjY9eg7nfAlSkjrtIWjVzAUZwLT0BB_SSKq2FhGIVJpUrC_tBJbXtt29GLEVA1ZRPEeTFSQLLotMJQVIGHvCU5XDDy-SwWNjkwf4onj9CBXPKJIHbMxz2u5H5VqpN97DOpYt0Mu5L17iHrwXPj_g1lArWTGdU4fA_L-OgebDuMEhrBvabtXOEJMahugKZrm9yDcmx93N5vBtt3CfHg-Jj8gqCOx-RSjMYxc48VSdvYon1A0Dzcgsky0Tpr7uZGxZ6KPhrpi0k2J8WnJkZKrD9TAONH2EQ4Q1mVDVGsLeF3uGCGVVsCxVYCCYoW3Z1PZ8dBK-vVotO40_ntA.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/kpmAJw3L7ON_54IFrdpIPetj-wAbANUHy7fWoQzN04id7pSSiLW6YFX1HRoJI0HIEUai8khIbjS7EWzzpT99UMeouWVUFlmKCzhXW1nkJ4pbcMIp16HicZBIMDHRrZz3_feETHPL8LDsIJhVBujD-w-gmsuF8fSb1ZhHe4b8RgF2dW4ADNWGMGpNFFoHB8p6C-n8NlqAhC6CLJGvZvY_jXc51lw05iS2EdlCAYj5siwiHjx7KLCHS2xgMST3NtPksARDGYbYAGB7zTRzyz7iuiEOUy7XPOCnQ9Yqk5M1JDR80RggL5eIbFBJPwV--R5g4J452SoyYu87kK2prqEoaA.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/Ttc6sUx0vy_-7bcBSnmGBVwOyjZCHkXX5P62Ff_JbQYe6mtFsMPH_su4T-0cG0le0KaKMRi2gIMi7Tytxsd2Pa8Lt1cIhItMXpm3bptzSxggg25nNFbv7yXl5d_EQ6rh7OHqQvpLSI8olWRCUoRvfeomEEP6DyadCMr9MUOeOuscOHTZDYEad0ipF6Vg6cK_ATU2CfvqbQPV1T6wxfK32fI1cwJcKsaSkuSeEImAABtm8qxHPjgDHCjcJt_wCamZRd0luQqCDBYyGzsULXvDNFPVrrKpOd2O50gBDF2K-MPEQpj9JdGbTa-JaCCOzHM_iaSZnMRf7qYWfkf5s9yyeQ.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/GdPTXC7Z7k4RZUmJhjX_jeHPs4mXzcVjZYh9rdCIrScUeNugXjOgxcZUmM8-zkW9Ig_aHZ6jrfsKFqrro5KQY-BdkWZmfCPxSsh2CPyFTrAoLqSA_Zo4ZXCaQb80poPlDgvhLvGDFZn5dpNDkOqynCEmkZnMUwNtFjs6xEQmiTQQe5zVcYS9r0n2iWymbaz3FfohcbQKsZKNs6oaAH0Ugj4y2ty6346RktF_XXVfqubJo6SGNAnB9X9KKkVYkm9Pprn2xCRyOAbl6hAemitSnvhSktPe_zMGFloffXCSh5hKiJ3eFN8aGN7j7lZr2ESZ17CoUbjULn5jHR1fejwbsw.jpg" /></p>
+<tg-emoji emoji-id="5470060791883374114"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji>Инцидент с ключами УЦ eMudhra - большой разбор от телеграм-канала "Об ЭП и УЦ"  По официальным заявлениям eMudhra все ключи генерировались с использованием HSM, сертифицированных по FIPS 140-2 Level 3. Однако конкретная модель HSM и процедура проверки стойкости…]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5874</guid>
+      <pubDate>Thu, 19 Nov 2026 05:35:50 +0000</pubDate>
+    </item>
     <item>
       <title>🔐</title>
       <link>https://telegram.me/ep_uc/5871</link>
@@ -193,84 +248,6 @@ P.S.
       <content:encoded><![CDATA[<b>От УНЭП к УКЭП: ужесточение оформления договоров на мобильную связь</b><br/><br/>Недавно с коллегами обсуждали нарушения, которые фиксируются при оформлении договоров на мобильную связь. В частности, мобильные операторы даже в офисах продаж нарушают не только ФЗ-126, но и ФЗ-63. И очень фривольно обращаются с электронными подписями.<br/><br/>Без надлежащего оформления соглашений об использовании электронных подписей, менеджеры просят провести пальцем по экрану: и как будто договор уже заключен. Отнюдь. Это грубейшее нарушение, о котором коллеги по цеху уже писали. И не раз (<a href="https://telegram.me/ep_uc/2951?single" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">вот</a> и <a href="https://telegram.me/c/1691316533/184440" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">вот</a>). Я и сам с этим столкнулся. И это требует отдельного разбора.<br/><br/>Но чтобы хоть как-то тормознуть этот хаос, Минцифры решили все же обязать операторов использовать только УКЭП вместо УНЭП для ряда действий. Об этом сегодня пишет <a href="https://www.kommersant.ru/doc/9110023" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Ъ</a> (а мы даем комментарий по этой теме для Ъ-FM). Например, Минцифры заявляет, что дистанционное заключение договора на eSIM уже требовало УКЭП. Но у нас мобильные операторы до последнее времени были неприкасаемыми. Пока им не стали задавать вопросы в части безопасности (можно догадаться кто).<br/><br/>Так что придется мобильным операторам немного попотеть и привести свои продажи в соответствие с требованиями закона. Но, к сожалению, у них остаются другие способы для не совсем легальной продажи сим-карт. Уверен, что и туда со временем доберутся органы безопасности. Вот тогда будет вдвойне интересно посмотреть на динамику абонентских баз.]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5864</guid>
       <pubDate>Mon, 16 Nov 2026 17:38:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Пост — Об ЭП и УЦ</title>
-      <link>https://telegram.me/ep_uc/5863</link>
-      <description>Пост — Об ЭП и УЦ</description>
-      <content:encoded><![CDATA[(нет текста)]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5863</guid>
-      <pubDate>Mon, 16 Nov 2026 17:37:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>🇦🇿</title>
-      <link>https://telegram.me/ep_uc/5860</link>
-      <description>🇦🇿
- 
-AzInTelecom прошел аудит WebTrust for CA - что это значит для рынка ЭП?
-
-Азербайджанский AzInTelecom 
-объявил
- о успешном прохождении аудита WebTrust for Certification Authorities (CA). Отчёт датирован 21 октября 2026 года, аудитор - Deloitte &amp; Touche.
-
-Согласно 
-пресс-релизу
- независимая оценка охватила три ключевых направления:
-
-🔹
-управление информационной безопасностью - как компания защищает свою инфраструктуру и данные.
-
-🔹
-управление жизненным циклом криптоключей - от генерации до уничтожения ключей корневых ЦС.
-
-🔹
-процессы операционного контроля - насколько эффективно работают внутренние процедуры и разделение обязанностей.
-
-Как подчёркивает AzInTelecom, аккредитация WebTrust:
-
-🔹
-укрепляет доверие госучреждений, бизнеса и частных пользователей к их инфраструктуре электронной подписи (продукт SİMA İmza).
-
-🔹
-подтверждает, что УЦ соответствует строгим международным критериям.
-
-🔹
-способствует развитию экосистемы доверенного цифрового пространства в Азербайджане.
-
-В корневых хранилищах браузеров сертификата УЦ AzInTelecom нет. В публичной базе CCADB (Common CA Database) и в Bugzilla Mozilla заявок от AzInTelecom также не найдено, сертификат безопасности их собственного сайта выдан Sectigo, а не их собственным корнем - классический признак того, что публичное доверие к их PKI пока не запущено. Их продукт SİMA İmza работает на внутреннем рынке: госуслуги, налоговая, банки Азербайджана.
-
-Прохождение 
-аудита WebTrust
- - не автоматическое включение в браузеры. Подача и рассмотрение заявки в Mozilla или Google является отдельным процессом, который может занять годы. Без аудита заявку даже не станут рассматривать, но с ней ещё не значит, что рассмотрят положительно. 
-
-Тем не менее, для внутреннего рынка Азербайджана это большое достижение - инфраструктура PKI страны соответствует мировым стандартам.
-
-Вопрос к подписчикам: последует ли после аудита заявка на вхождение в мировое пространство доверия?
-
-✍️
-"Об ЭП и УЦ"</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/mNIx8X27WZAqLwXmfqGdohcwD2buQhnVPVKTXFrbKYo_s1zoc-asnA3195qGatDhv2l8e0i-rWjz3RV-bnrjcS2bx_MGTxQ5eCziPMPojCZC4TOqvkwaXkJIpheBczWsANnBF_bd2uxl6nZNg0lDNQ6kL0CDrDEZCdo515ts2fY4-lrTJr7Bq-c5l12-5isUQz-07hjRN_q5XdA40qdSqRwW5WTJ2I3pAtFEOYsxkVLn5sFKfsD1uHgqN7Sij1MJIYg2TJEWt36-xzoK-nOP51s0Q43-upy9NPGoqoExrrOev0Z_5NkiT7K6YScCQ9kJ2LDIeLRZf9JGWm-zPa0Opg.jpg" /></p>
-<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F87A6F09F87BF.png')"><b>🇦🇿</b></i> <b>AzInTelecom прошел аудит WebTrust for CA - что это значит для рынка ЭП?</b><br/><br/>Азербайджанский AzInTelecom <a href="https://azintelecom.az/en/successes/webtrust-auditini-ugurla-tamamladiq" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">объявил</a> о успешном прохождении аудита WebTrust for Certification Authorities (CA). Отчёт датирован 21 октября 2026 года, аудитор - Deloitte &amp; Touche.<br/><br/>Согласно <a href="https://azintelecom.az/en/successes/webtrust-auditini-ugurla-tamamladiq" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">пресс-релизу</a> независимая оценка охватила три ключевых направления:<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>управление информационной безопасностью - как компания защищает свою инфраструктуру и данные.<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>управление жизненным циклом криптоключей - от генерации до уничтожения ключей корневых ЦС.<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>процессы операционного контроля - насколько эффективно работают внутренние процедуры и разделение обязанностей.<br/><br/>Как подчёркивает AzInTelecom, аккредитация WebTrust:<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>укрепляет доверие госучреждений, бизнеса и частных пользователей к их инфраструктуре электронной подписи (продукт SİMA İmza).<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>подтверждает, что УЦ соответствует строгим международным критериям.<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')"><b>🔹</b></i>способствует развитию экосистемы доверенного цифрового пространства в Азербайджане.<br/><br/>В корневых хранилищах браузеров сертификата УЦ AzInTelecom нет. В публичной базе CCADB (Common CA Database) и в Bugzilla Mozilla заявок от AzInTelecom также не найдено, сертификат безопасности их собственного сайта выдан Sectigo, а не их собственным корнем - классический признак того, что публичное доверие к их PKI пока не запущено. Их продукт SİMA İmza работает на внутреннем рынке: госуслуги, налоговая, банки Азербайджана.<br/><br/>Прохождение <a href="https://www.cpacanada.ca/webtrustseal?sealid=12139" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">аудита WebTrust</a> - не автоматическое включение в браузеры. Подача и рассмотрение заявки в Mozilla или Google является отдельным процессом, который может занять годы. Без аудита заявку даже не станут рассматривать, но с ней ещё не значит, что рассмотрят положительно. <br/><br/>Тем не менее, для внутреннего рынка Азербайджана это большое достижение - инфраструктура PKI страны соответствует мировым стандартам.<br/><br/>Вопрос к подписчикам: последует ли после аудита заявка на вхождение в мировое пространство доверия?<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5860</guid>
-      <pubDate>Mon, 16 Nov 2026 05:20:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Какой департамент в Минцифры и заместитель министра отвечают за</title>
-      <link>https://telegram.me/ep_uc/5858</link>
-      <description>Какой департамент в Минцифры и заместитель министра отвечают за 
-сферу
- электронной подписи? Неожиданный вопрос. Только ответа нет на него. 
-
-Почему отдел развития технологий 
-биометрической
- идентификации готовит 
-приказ о формате электронной подписи
-? Не очень удачно готовит, публикуя сырой и очередной нерабочий документ.</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/TgbdU_ueGfTJTSJhmiJ5pahd8NsDjuAr5czRAnh_pIoGROtI7-n09lpktBpQ_w50-u8zcM0nS6D52GwOcWF62ILzclOMAEfZDC3AnUh8vucyv3uD_VklkvD48tcQ49Euv5Z4y5rz3V1s-TiS2cQRgnCQDWZ4YUAft9dgdqlMIiwbk2zsf5gSQ50HBpgmFxBrZYEijYPZfJDLAytoLASToUEz24c_YIj7Cvz0EdyOJ6g6lqCORca_8mmyIHDtvy-aS0lAWkAKzWVHLdOsZQwhQtYt8w4cCJm8FxUnLQMtTEnibeRmK9rA8pxaN_3y3I9yTstgkQxLB7q2AjWE0ETqTQ.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/htGHT35D5R_HsYcUD-JP_nO7QzeNojJqhIgQzUMf0VxCkdsRyqbgXhAvYhx0Ln6k-2qlzEnUiiALUyAl5d5mIiCGF9Ks76Vc5PO8fCsouqYucAVMpBR6PJpiSZAXrRzuX_hZK6WBMnILAqh0yo-M48OspgThVh5mtVHp2vfrxBpwJ_eCLNZHPSnCzTjUoEpVENkhnOOQV0neKvEl_IM3qKjw4113NseDTMnuudqwXgOBkAnTzCzi-_N2rhxWol9XqC07Lhz7SHbSxYQT4okVFDVdU3-8z7EVln_E965SYtSnHx5RF9G2RgZR73luzS5K8gH6KY7pVPinERWvsVynkQ.jpg" /></p>
-<div class="tgme_widget_message_text js-message_text" dir="auto">Какой департамент в Минцифры и заместитель министра отвечают за <a href="https://digital.gov.ru/activity/czifrovizacziya-gosudarstva/czifrovaya-transformacziya/czifrovye-platformy-i-resheniya-dlya-gosorganov/informaczionnaya-sistema-golovnogo-udostoveryayushhego-czentra" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">сферу</a> электронной подписи? Неожиданный вопрос. Только ответа нет на него. <br/><br/>Почему отдел развития технологий <b>биометрической</b> идентификации готовит <a href="https://telegram.me/ep_uc/5846" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">приказ о формате электронной подписи</a>? Не очень удачно готовит, публикуя сырой и очередной нерабочий документ.</div>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5858</guid>
-      <pubDate>Sun, 15 Nov 2026 14:47:35 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,6 +8,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 18 Nov 2026 14:23:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 14:34:34 +0000</lastBuildDate>
+    <item>
+      <title>Судебная практика</title>
+      <link>https://telegram.me/bankrotnews/1853</link>
+      <description>Судебная практика
+
+ВС РФ указал на приоритет фактического места жительства должника при определении места рассмотрения дела о банкротстве.
+
+https://fedresurs.ru/news/d5045bc3-a017-4653-9ca8-4d8f660df919
+
+Можно читать новости в МАХ. 
+Подписывайтесь
+.</description>
+      <content:encoded><![CDATA[<b>Судебная практика</b><br/><br/>ВС РФ указал на приоритет фактического места жительства должника при определении места рассмотрения дела о банкротстве.<br/><br/><a href="https://fedresurs.ru/news/d5045bc3-a017-4653-9ca8-4d8f660df919" rel="noopener" target="_blank">https://fedresurs.ru/news/d5045bc3-a017-4653-9ca8-4d8f660df919</a><br/><br/>Можно читать новости в МАХ. <a href="https://max.ru/join/8DAydCjSfzTfliYHbCsRIMetKo5zTM9SE62ivcOCdXs" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Подписывайтесь</a>.]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/bankrotnews/1853</guid>
+      <pubDate>Thu, 19 Nov 2026 13:20:33 +0000</pubDate>
+    </item>
   </channel>
 </rss>
