@@ -8,7 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 19 Nov 2026 14:35:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 14:13:59 +0000</lastBuildDate>
+    <item>
+      <title>Документы о приемке по договорам с МСП будут оформляться в электронной форме</title>
+      <link>https://telegram.me/garant_goszakupki/1119</link>
+      <description>Документы о приемке по договорам с МСП будут оформляться в электронной форме
+
+https://www.garant.ru/news/2308026/
+
+Это станет обязательным при проведении закупок по 223-ФЗ, извещения по которым размещены с 1 апреля 2029 года.</description>
+      <content:encoded><![CDATA[Документы о приемке по договорам с МСП будут оформляться в электронной форме<br/><a href="https://www.garant.ru/news/2308026/" rel="noopener" target="_blank">https://www.garant.ru/news/2308026/</a><br/><br/>Это станет обязательным при проведении закупок по 223-ФЗ, извещения по которым размещены с 1 апреля 2029 года.]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/garant_goszakupki/1119</guid>
+      <pubDate>Thu, 19 Nov 2026 19:38:27 +0000</pubDate>
+    </item>
     <item>
       <title>Заказчикам рекомендовано централизовать государственные и муниципальные закупки</title>
       <link>https://telegram.me/garant_goszakupki/1118</link>
@@ -44,18 +56,6 @@ https://www.garant.ru/news/2306384/
       <content:encoded><![CDATA[Положение о регулировании цен на продукцию по гособоронзаказу скорректировали<br/><a href="https://www.garant.ru/news/2306384/" rel="noopener" target="_blank">https://www.garant.ru/news/2306384/</a><br/><br/>Изменения касаются порядка представления документов о цене, продления некоторых сроков и т. д.]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/garant_goszakupki/1116</guid>
       <pubDate>Wed, 18 Nov 2026 13:54:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Минфин России уточнил подход к улучшению характеристик товара в сфере госзакупок</title>
-      <link>https://telegram.me/garant_goszakupki/1115</link>
-      <description>Минфин России уточнил подход к улучшению характеристик товара в сфере госзакупок
-
-https://www.garant.ru/news/2304458/
-
-При замене заказчик самостоятельно принимает решение о соответствии этому критерию.</description>
-      <content:encoded><![CDATA[Минфин России уточнил подход к улучшению характеристик товара в сфере госзакупок<br/><a href="https://www.garant.ru/news/2304458/" rel="noopener" target="_blank">https://www.garant.ru/news/2304458/</a><br/><br/>При замене заказчик самостоятельно принимает решение о соответствии этому критерию.]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/garant_goszakupki/1115</guid>
-      <pubDate>Mon, 16 Nov 2026 17:29:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
