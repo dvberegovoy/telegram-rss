@@ -8,21 +8,59 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 20 Nov 2026 14:13:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 16:17:34 +0000</lastBuildDate>
     <item>
-      <title>🔄</title>
-      <link>https://telegram.me/tenderplan/1531</link>
-      <description>🔄
+      <title>👨‍💻</title>
+      <link>https://telegram.me/tenderplan/1532</link>
+      <description>👨‍💻
  
-ИКЗ – зачем он нужен и в чем польза для поставщика
+Электронная приемка по 223-ФЗ: что изменится для МСП с 2027 года
 
-Идентификационный код закупки – не просто набор цифр в извещении. Это один из полезных инструментов для мониторинга закупок.
+Правительство утвердило 
+Постановление №1524.
+ В документе отражен порядок электронной приемки по договорам с субъектами МСП в рамках 223-ФЗ.
 
-Если поставщику требуется отслеживать много закупок, работать с похожими поставками для одного заказчика или проверять планы-графики – ИКЗ помогает точно идентифицировать закупку на любом этапе.
+Что изменится
 
-➡️
-Что такое ИКЗ, как он формируется и как поставщику с ним работать – рассказали 
-в статье.
+1️⃣
+Договор — только в электронной форме. Договор по результатам конкурентной закупки, участниками которой являются только субъекты МСП, будет заключаться с использованием программно-аппаратных средств электронной площадки в единых форматах электронных документов для обмена данными с ЕИС. Оператор будет размещать подписанный договор в ЕИС не позднее одного часа с момента заключения.
+
+2️⃣
+Приемка — через ЕИС.
+ 
+Документ о приемке будет оформляться в электронной форме через ЕИС при одновременном соблюдении условий:
+
+🔻
+договор заключен с субъектом МСП по итогам конкурентной закупки только среди МСП;
+
+🔻
+цена договора (или максимальное значение цены) — 500 тыс. руб. и выше;
+
+🔻
+договор подлежит включению в реестр договоров;
+
+🔻
+поставщик зарегистрирован в ЕИС и включен в ЕРУЗ.
+
+3️⃣
+Оформление — в форме УПД. Электронный документ о приемке будет оформляться в виде электронного универсального передаточного документа и подписываться усиленной квалифицированной электронной подписью обеих сторон. Взимать с поставщика плату за оформление документа или подключение к информационной системе заказчика запрещено.
+
+Когда заработает
+
+🔻
+С 1 октября 2027 года — поправки вступят в силу.
+
+🔻
+С 1 апреля 2029 года — новшества будут применяться к закупкам, извещения о которых разместят в ЕИС с этой даты.
+
+🔻
+По 30 июня 2030 года включительно — поставщик будет вправе не формировать проект электронного документа о приемке в ЕИС. В этом случае порядок электронной приемки применяться не будет.
+
+Что это значит для поставщиков
+
+Электронная приемка через ЕИС уберет бумажный документооборот и снизит риск споров о дате приемки, она будет привязана к подписанию в системе. Право не применять новый порядок до середины 2030 года даст поставщикам время на переход.
+
+#новости_тендеров
  
 
 ☺
@@ -32,37 +70,9 @@ VК
  |
  
 MAX</description>
-      <content:encoded><![CDATA[<tg-emoji emoji-id="5219990697645450956"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9484.png')"><b>🔄</b></i></tg-emoji> <b>ИКЗ – зачем он нужен и в чем польза для поставщика</b><br/><br/>Идентификационный код закупки – не просто набор цифр в извещении. Это один из полезных инструментов для мониторинга закупок.<br/><br/>Если поставщику требуется отслеживать много закупок, работать с похожими поставками для одного заказчика или проверять планы-графики – ИКЗ помогает точно идентифицировать закупку на любом этапе.<br/><br/><tg-emoji emoji-id="5260450573768990626"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29EA1.png')"><b>➡️</b></i></tg-emoji>Что такое ИКЗ, как он формируется и как поставщику с ним работать – рассказали <a href="https://tenderplan.ru/blog/identifikacionnyi-kod-zakupki/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">в статье.</a> <br/><br/><tg-emoji emoji-id="5357171364669187802"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E298BA.png')"><b>☺</b></i></tg-emoji><a href="https://telegram.me/tenderplan" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"> Telegram</a> | <a href="https://vk.com/tenderplan" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">VК</a> |<a href="https://max.ru/id7325121949_biz" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b> </b>MAX</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/tenderplan/1531</guid>
-      <pubDate>Fri, 20 Nov 2026 09:16:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>✨</title>
-      <link>https://telegram.me/tenderplan/1530</link>
-      <description>✨
- Новогодняя подготовка в самом разгаре: закупают подарки, гирлянды и, конечно, елки. Мы решили посмотреть, во сколько обходится главный символ праздника.
-
-Самая дорогая закупка обнаружилась в Красноярском крае. МАУ «Татышев-Парк» объявил 
-конкурс на изготовление, поставку, монтаж, обслуживание и демонтаж искусственной новогодней ели.
- НМЦД — почти 91,5 млн рублей. Формат — электронный конкурс, участвовать могут только субъекты МСП. 
-
-В ТЗ чувствуется масштаб: высота елки 30 метров, как 10-этажный дом. Мультимедийный шатер диаметром 60 метров. Елка должна быть вандалоустойчивой, как банкомат. Заказчик просит обеспечить ежедневное обслуживание и проверку облетевших веток.
-
-Порадуемся за жителей города — им достанется красивый новогодний фон для фотографий, а подрядчику — четыре года обслуживания и контроля. В общем, контракт обещает быть не только дорогим, но и хлопотным.
-
-#тендеры_удивляют
-
-☺
- Telegram
- | 
-VК
- |
- 
-MAX</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/DrW3ERXWgd9QGHwO3WDwhjnj8nUMrDutiYLLyCyG7MjyHZ4cMvOIZfy9ZT2Eanj_DOP8Xf_X4exDpl7xObpgVNQp6LPOsalWG5c1UGFLVmRa5xOQz5ihNIvr_DuSZXCDEi8KzKz4ggwzT1US7uoo2AZEhD-b9YQRcGXmX51zp8c32vSad6AVJskNmRhTtuDvTL9cbvNy5pS1NlngugG8JPX8sXcMaMFrKDnk9L4tws4kK0c_LQ7J4od3PtthVyzJ3w1z6nr02bOY96n10hV5N3Qp7W1dF3X9FyTXEs0lPPLbB_JKV1LTQ-XDC2vSE1QFCe-wQX1LLs_GGFmjwZnJcA.jpg" /></p>
-<tg-emoji emoji-id="5764850678312734684"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29CA8.png')"><b>✨</b></i></tg-emoji> Новогодняя подготовка в самом разгаре: закупают подарки, гирлянды и, конечно, елки. Мы решили посмотреть, во сколько обходится главный символ праздника.<br/><br/>Самая дорогая закупка обнаружилась в Красноярском крае. МАУ «Татышев-Парк» объявил <a href="https://tenderplan.ru/app?tender=6a4ba1753951804ff31af85b" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">конкурс на изготовление, поставку, монтаж, обслуживание и демонтаж искусственной новогодней ели.</a> НМЦД — почти 91,5 млн рублей. Формат — электронный конкурс, участвовать могут только субъекты МСП. <br/><br/>В ТЗ чувствуется масштаб: высота елки 30 метров, как 10-этажный дом. Мультимедийный шатер диаметром 60 метров. Елка должна быть вандалоустойчивой, как банкомат. Заказчик просит обеспечить ежедневное обслуживание и проверку облетевших веток.<br/><br/>Порадуемся за жителей города — им достанется красивый новогодний фон для фотографий, а подрядчику — четыре года обслуживания и контроля. В общем, контракт обещает быть не только дорогим, но и хлопотным.<br/><br/><a href="?q=%23%D1%82%D0%B5%D0%BD%D0%B4%D0%B5%D1%80%D1%8B_%D1%83%D0%B4%D0%B8%D0%B2%D0%BB%D1%8F%D1%8E%D1%82">#тендеры_удивляют</a><br/><br/><tg-emoji emoji-id="5357171364669187802"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E298BA.png')"><b>☺</b></i></tg-emoji><a href="https://telegram.me/tenderplan" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"> Telegram</a> | <a href="https://vk.com/tenderplan" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">VК</a> |<a href="https://max.ru/id7325121949_biz" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b> </b>MAX</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/tenderplan/1530</guid>
-      <pubDate>Wed, 18 Nov 2026 09:18:01 +0000</pubDate>
+      <content:encoded><![CDATA[<tg-emoji emoji-id="5316688029434264397"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F91A8E2808DF09F92BB.png')"><b>👨‍💻</b></i></tg-emoji> <b>Электронная приемка по 223-ФЗ: что изменится для МСП с 2027 года</b><br/><br/>Правительство утвердило <a href="http://publication.pravo.gov.ru/document/0001202611160032" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Постановление №1524.</a> В документе отражен порядок электронной приемки по договорам с субъектами МСП в рамках 223-ФЗ.<br/><br/><b>Что изменится</b><br/><tg-emoji emoji-id="5470062170567885943"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/31E283A3.png')"><b>1️⃣</b></i></tg-emoji>Договор — только в электронной форме. Договор по результатам конкурентной закупки, участниками которой являются только субъекты МСП, будет заключаться с использованием программно-аппаратных средств электронной площадки в единых форматах электронных документов для обмена данными с ЕИС. Оператор будет размещать подписанный договор в ЕИС не позднее одного часа с момента заключения.<br/><br/><tg-emoji emoji-id="5472130695537115398"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/32E283A3.png')"><b>2️⃣</b></i></tg-emoji>Приемка — через ЕИС.<b> </b>Документ о приемке будет оформляться в электронной форме через ЕИС при одновременном соблюдении условий:<br/><tg-emoji emoji-id="5472123780639769827"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')"><b>🔻</b></i></tg-emoji>договор заключен с субъектом МСП по итогам конкурентной закупки только среди МСП;<br/><tg-emoji emoji-id="5472123780639769827"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')"><b>🔻</b></i></tg-emoji>цена договора (или максимальное значение цены) — 500 тыс. руб. и выше;<br/><tg-emoji emoji-id="5472123780639769827"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')"><b>🔻</b></i></tg-emoji>договор подлежит включению в реестр договоров;<br/><tg-emoji emoji-id="5472123780639769827"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')"><b>🔻</b></i></tg-emoji>поставщик зарегистрирован в ЕИС и включен в ЕРУЗ.<br/><br/><tg-emoji emoji-id="5472368370437344455"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/33E283A3.png')"><b>3️⃣</b></i></tg-emoji>Оформление — в форме УПД. Электронный документ о приемке будет оформляться в виде электронного универсального передаточного документа и подписываться усиленной квалифицированной электронной подписью обеих сторон. Взимать с поставщика плату за оформление документа или подключение к информационной системе заказчика запрещено.<br/><br/><b>Когда заработает</b><br/><tg-emoji emoji-id="5472123780639769827"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')"><b>🔻</b></i></tg-emoji>С 1 октября 2027 года — поправки вступят в силу.<br/><tg-emoji emoji-id="5472123780639769827"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')"><b>🔻</b></i></tg-emoji>С 1 апреля 2029 года — новшества будут применяться к закупкам, извещения о которых разместят в ЕИС с этой даты.<br/><tg-emoji emoji-id="5472123780639769827"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')"><b>🔻</b></i></tg-emoji>По 30 июня 2030 года включительно — поставщик будет вправе не формировать проект электронного документа о приемке в ЕИС. В этом случае порядок электронной приемки применяться не будет.<br/><br/><b>Что это значит для поставщиков</b><br/>Электронная приемка через ЕИС уберет бумажный документооборот и снизит риск споров о дате приемки, она будет привязана к подписанию в системе. Право не применять новый порядок до середины 2030 года даст поставщикам время на переход.<br/><br/><a href="?q=%23%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_%D1%82%D0%B5%D0%BD%D0%B4%D0%B5%D1%80%D0%BE%D0%B2">#новости_тендеров</a> <br/><br/><tg-emoji emoji-id="5357171364669187802"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E298BA.png')"><b>☺</b></i></tg-emoji><a href="https://telegram.me/tenderplan" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"> Telegram</a> | <a href="https://vk.com/tenderplan" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">VК</a> |<a href="https://max.ru/id7325121949_biz" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b> </b>MAX</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/tenderplan/1532</guid>
+      <pubDate>Mon, 23 Nov 2026 09:16:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
