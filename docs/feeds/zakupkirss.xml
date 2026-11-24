@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 23 Nov 2026 16:17:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 16:04:01 +0000</lastBuildDate>
+    <item>
+      <title>Пост — Госзакупки RSS</title>
+      <link>https://telegram.me/zakupkirss/13761</link>
+      <description>Пост — Госзакупки RSS</description>
+      <content:encoded><![CDATA[(нет текста)]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/zakupkirss/13761</guid>
+      <pubDate>Tue, 24 Nov 2026 09:24:21 +0000</pubDate>
+    </item>
     <item>
       <title>Информация об обновлении версии программного обеспечения</title>
       <link>https://telegram.me/zakupkirss/13760</link>
@@ -46,18 +54,6 @@ http://zakupki.gov.ru/epz/main/public/news/news_preview.html?newsId=37059
       <content:encoded><![CDATA[<tg-emoji emoji-id="5359619818150436536"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8C90.png')"><b>🌐</b></i></tg-emoji> <a href="https://vk.com/wall-80408835_8154" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">ЭТП «Фабрикант»</a><br/><br/><b>В ГИСП будут включать больше сведений</b><br/><br/>Минпромторг скорректировал свой приказ от 19.04.2023 № 1450, касающийся предоставления в ГИСП сведений о субъектах деятельности в сфере промышленности.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9391.png')"><b>📑</b></i> В новой редакции изложена форма таких сведений.<br/><br/>Согласно поправкам, наряду с прочими сведениями, в ГИСП будет включаться информация о видах и доле вторичного сырья, использованного при производстве конкретных товаров (продукции), в процессе промышленной деятельности.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9385.png')"><b>📅</b></i> Изменения вступили в силу с 22 ноября 2026 года.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9384.png')"><b>📄</b></i> <a href="http://publication.pravo.gov.ru/document/0001202611110006" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Приказ Минпромторга России от 10.08.2026 № 4024</a>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/zakupkirss/13759</guid>
       <pubDate>Mon, 23 Nov 2026 09:17:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Информация об обновлении версии программного обеспечения</title>
-      <link>https://telegram.me/zakupkirss/13758</link>
-      <description>Информация об обновлении версии программного обеспечения
-
-http://zakupki.gov.ru/epz/main/public/news/news_preview.html?newsId=37058
-
-19 ноября 2026 года обновлено программное обеспечение ЕИС в части 44-ФЗ.</description>
-      <content:encoded><![CDATA[<b>Информация об обновлении версии программного обеспечения</b><br/><a href="http://zakupki.gov.ru/epz/main/public/news/news_preview.html?newsId=37058" rel="noopener" target="_blank">http://zakupki.gov.ru/epz/main/public/news/news_preview.html?newsId=37058</a><br/><br/>19 ноября 2026 года обновлено программное обеспечение ЕИС в части 44-ФЗ.]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/zakupkirss/13758</guid>
-      <pubDate>Fri, 20 Nov 2026 20:48:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
