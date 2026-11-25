@@ -8,7 +8,136 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 24 Nov 2026 16:03:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 15:53:19 +0000</lastBuildDate>
+    <item>
+      <title>Привет, друзья!</title>
+      <link>https://telegram.me/allzakupki/14663</link>
+      <description>Привет, друзья!
+
+16 ноября провели вебинар 
+«Поиск поставщиков»
+. Получилось очень круто: ребята параллельно искали производителей, собирали контакты, повторяли за мной.
+
+И тут возникла рабочая задача: поставщиков нашли, а подключить Яндекс Почту к ИИ для отправки запросов КП у части участников не получилось.
+
+Поэтому делюсь плагином для Яндекс Почты.
+ Архив прикрепляю — забирайте бесплатно. С его помощью можно читать письма, искать переписку и отправлять сообщения со своего адреса.
+
+Готовая версия сделана для 
+Kimi Work на компьютере
+.
+
+Пользуетесь ChatGPT или Claude?
+ Они тоже могут помочь адаптировать исходный код под свою среду. Прикрепите архив и напишите:
+
+«Адаптируй этот плагин для работы с тобой и помоги подключить мою Яндекс Почту».
+
+ИИ поможет переработать код и объяснит, как его запускать. Способ подключения зависит от приложения и доступных в нём инструментов.
+
+А для Kimi порядок такой:
+
+1. Скачайте и распакуйте архив.
+
+2. Откройте Kimi Work.
+ Через 
+/
+ выберите Plugin Builder, укажите папку 
+yandex-mail
+ из архива и напишите:
+
+«Установи плагин из этой папки и помоги подключить мою Яндекс Почту».
+
+После подготовки установите его в разделе «Плагины → Личные».
+
+3. В настройках Яндекс Почты
+ откройте «Почтовые программы». Включите доступ по IMAP и «Пароли приложений и OAuth-токены».
+
+4. Создайте отдельный
+ 
+пароль приложения
+ с типом «Почта». Для подключения понадобятся адрес ящика и этот пароль. Попросите ИИ помочь настроить ввод пароля локально на компьютере, без вставки в чат.
+
+5. Проверьте отправку:
+
+«Отправь мне на мой адрес тестовое письмо с темой “Проверка подключения”».
+
+Письмо пришло? Теперь можно переходить к закупке:
+
+«Подготовь запрос коммерческого предложения каждому из найденных производителей. Покажи мне текст и адресатов, после моего подтверждения отправь с моей почты».
+
+Вот к этому мы и шли на вебинаре: нашли производителя поближе к месту поставки, собрали контакты, отправили запрос КП. А удачный поиск сохранили для следующей закупки.
+
+Кто пропустил — можно купить запись с материалами и тремя промптами:
+
+👉
+ 
+«Поиск поставщиков» — запись и материалы</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/ldBY5uE4V6JfeqgGEEMbhLumjyGBu_BTVq6tbz2rWhZ1OimPcllWYCcwOdScgYVCXjqs2k4bbNc81Mtdj1Mzmw2tGHs2ARUkIwp6vti4vhPymPN13QOrC11Xbpb4Jo4l9Gq77FS4Frsw5Y3al7wLhw8qlWHfKgbC0x6bnZZrzV9I97Quucv8anDF8Ty6oMuTkPaPidaDBVZuoVDCFC0-UvGc6-K-29Ntydm9AoruyBzlZsrSEs4GnzYSP1mPTImsKVCYR7gQ9hNUwQIa-J-Qi0DD1dKWdP7T76uBgIhwTYE0N1mIR5-t2NE1fiz2NZ-NLf7baNyEsDrwwKRIiNFyDg.jpg" /></p>
+Привет, друзья!<br/>16 ноября провели вебинар <b>«Поиск поставщиков»</b>. Получилось очень круто: ребята параллельно искали производителей, собирали контакты, повторяли за мной.<br/>И тут возникла рабочая задача: поставщиков нашли, а подключить Яндекс Почту к ИИ для отправки запросов КП у части участников не получилось.<br/><b>Поэтому делюсь плагином для Яндекс Почты.</b> Архив прикрепляю — забирайте бесплатно. С его помощью можно читать письма, искать переписку и отправлять сообщения со своего адреса.<br/>Готовая версия сделана для <b>Kimi Work на компьютере</b>.<br/><b>Пользуетесь ChatGPT или Claude?</b> Они тоже могут помочь адаптировать исходный код под свою среду. Прикрепите архив и напишите:<br/>«Адаптируй этот плагин для работы с тобой и помоги подключить мою Яндекс Почту».<br/>ИИ поможет переработать код и объяснит, как его запускать. Способ подключения зависит от приложения и доступных в нём инструментов.<br/>А для Kimi порядок такой:<br/><b>1. Скачайте и распакуйте архив.</b><br/><b>2. Откройте Kimi Work.</b> Через <code>/</code> выберите Plugin Builder, укажите папку <code>yandex-mail</code> из архива и напишите:<br/>«Установи плагин из этой папки и помоги подключить мою Яндекс Почту».<br/>После подготовки установите его в разделе «Плагины → Личные».<br/><b>3. В настройках Яндекс Почты</b> откройте «Почтовые программы». Включите доступ по IMAP и «Пароли приложений и OAuth-токены».<br/><b>4. Создайте отдельный</b> <a href="https://id.yandex.ru/security/app-passwords" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b>пароль приложения</b></a> с типом «Почта». Для подключения понадобятся адрес ящика и этот пароль. Попросите ИИ помочь настроить ввод пароля локально на компьютере, без вставки в чат.<br/><b>5. Проверьте отправку:</b><br/>«Отправь мне на мой адрес тестовое письмо с темой “Проверка подключения”».<br/>Письмо пришло? Теперь можно переходить к закупке:<br/>«Подготовь запрос коммерческого предложения каждому из найденных производителей. Покажи мне текст и адресатов, после моего подтверждения отправь с моей почты».<br/>Вот к этому мы и шли на вебинаре: нашли производителя поближе к месту поставки, собрали контакты, отправили запрос КП. А удачный поиск сохранили для следующей закупки.<br/><b>Кто пропустил — можно купить запись с материалами и тремя промптами:</b><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"><b>👉</b></i> <a href="https://gc.cifrazakup.ru/postavshiki" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">«Поиск поставщиков» — запись и материалы</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/allzakupki/14663</guid>
+      <pubDate>Wed, 25 Nov 2026 08:53:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>У заказчика отсутствуют основания для заключения соглашения об увеличении цены контракта в связи…</title>
+      <link>https://telegram.me/allzakupki/14662</link>
+      <description>У заказчика отсутствуют основания для заключения соглашения об увеличении цены контракта в связи существенным увеличением стоимости строительных ресурсов, если для этого не установлены лимиты бюджетных обязательств. Изменение существенных условий контракта должно производиться в пределах лимитов бюджетных обязательств.
+
+Документ
+: 
+Определение Верховного суда РФ № 304-ЭС26-13915 от 20.11.2026 по делу № А03-21469/2023</description>
+      <content:encoded><![CDATA[У заказчика отсутствуют основания для заключения соглашения об увеличении цены контракта в связи существенным увеличением стоимости строительных ресурсов, если для этого не установлены лимиты бюджетных обязательств. Изменение существенных условий контракта должно производиться в пределах лимитов бюджетных обязательств.<br/><b>Документ</b>: <a href="https://ras.arbitr.ru/Document/Pdf/e5572f77-91c4-4229-964e-c85763eccfb5/4dc8cd32-c66d-4f85-99c9-bf351649c7c2/%D0%9003-21469-2023__20261120.pdf?isAddStamp=True" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><u>Определение Верховного суда РФ № 304-ЭС26-13915 от 20.11.2026 по делу № А03-21469/2023</u></a><br/>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/allzakupki/14662</guid>
+      <pubDate>Wed, 25 Nov 2026 06:51:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Контракты на устройство уличного освещения на сумму до 600 т.р. каждый, имеющие направленность на…</title>
+      <link>https://telegram.me/allzakupki/14661</link>
+      <description>Контракты на устройство уличного освещения на сумму до 600 т.р. каждый, имеющие направленность на достижение единой цели, сторонами ко которым являются одни и те же лица (имеющие обоюдный интерес), представляющие собой искусственно раздробленную единую сделку, оформленную самостоятельными контрактами для обхода ограничений, предусмотренных Законом №44-ФЗ, и уклонения от торгов, подлежат признанию недействительными (ничтожными) с применением  последствия их недействительности по иску прокурора.
+
+Документ
+: 
+Определение Верховного суда РФ № 304-ЭС26-13474 от 17.11.2026 по делу № А70-23965/2025</description>
+      <content:encoded><![CDATA[Контракты на устройство уличного освещения на сумму до 600 т.р. каждый, имеющие направленность на достижение единой цели, сторонами ко которым являются одни и те же лица (имеющие обоюдный интерес), представляющие собой искусственно раздробленную единую сделку, оформленную самостоятельными контрактами для обхода ограничений, предусмотренных Законом №44-ФЗ, и уклонения от торгов, подлежат признанию недействительными (ничтожными) с применением  последствия их недействительности по иску прокурора.<br/><b>Документ</b>: <a href="https://ras.arbitr.ru/Document/Pdf/43393e44-64bb-413a-a89e-fca92ef43d84/aa8fc951-7010-4857-9816-b23111dbc8be/%D0%9070-23965-2025__20261117.pdf?isAddStamp=True" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><u>Определение Верховного суда РФ № 304-ЭС26-13474 от 17.11.2026 по делу № А70-23965/2025</u></a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/allzakupki/14661</guid>
+      <pubDate>Wed, 25 Nov 2026 06:51:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Минфин РФ разъяснил особенности применениянациональных стандартов для целей оценки заявок на учас…</title>
+      <link>https://telegram.me/allzakupki/14660</link>
+      <description>Минфин РФ разъяснил особенности применениянациональных стандартов для целей оценки заявок на участие в конкурсах на выполнение работ в сфере строительства, ремонта и содержания дорог, текущего ремонта зданий, сооружений по показателю оценки деловой репутации
+. Постановлением Правительства РФ от 29 сентября 2026 г. № 
+1255
+1
+ внесены изменения в постановление Правительства РФ от 31 декабря 2021 г. № 
+2604
+2
+, предусматривающие введение возможности заказчиков применять следующие национальные 
+стандарты
+3
+ для целей оценки заявок на участие в конкурсах на выполнение работ в сфере строительства, ремонта и содержания дорог, текущего ремонта зданий, сооружений по показателю оценки деловой репутации:
+
+- ГОСТ Р 71198-2026 (индекс деловой репутации субъектов предпринимательской деятельности (ЭКГ-рейтинг), 
+
+- ГОСТ Р 66.1.01-2023 (оценка деловой репутации лиц, осуществляющих архитектурно-строительное проектирование), 
+
+- ГОСТ Р 66.1.02-2023 (оценка деловой репутации лиц, осуществляющих инженерные изыскания), 
+
+- ГОСТ Р 66.1.03-2023 (оценка деловой репутации лиц, осуществляющих строительство, реконструкцию, капитальный ремонт объектов капитального строительства), 
+
+- ГОСТ Р 66.1.04-2023 (оценка деловой репутации застройщиков), 
+
+- ГОСТ Р 66.1.05-2023 (оценка деловой репутации субподрядчиков).
+
+ВАЖНО
+: во избежание повторения ситуации, приведшей к претензиям, связанным с соблюдением Российской Федерацией международных обязательств, Правительством РФ дано поручение о недопущении установления преференций по региональному признаку при осуществлении закупок (пункт 9 протокола совещания у Заместителя Председателя Правительства Российской Федерации А.Л. Оверчука от 1 сентября 2020 г. № АО-П2-12пр). Также отмечено, что национальному стандарту, касающемуся ЭКГ-рейтинга и указанному в письме Минтруда России от 24 сентября 2026 г. № 14-1/10/В-16285, согласно положениям приказа Росстандарта от 13 мая 2026 г. № 474-ст "Об утверждении национального стандарта Российской Федерации" присвоен номер ГОСТ Р 71198-2026 (а не ГОСТ Р 66.0.01-2017).
+
+Документ
+: 
+Письмо Минфина России от 28 октября 2026 г. № 24-01-07/94891</description>
+      <content:encoded><![CDATA[<b>Минфин РФ разъяснил особенности применениянациональных стандартов для целей оценки заявок на участие в конкурсах на выполнение работ в сфере строительства, ремонта и содержания дорог, текущего ремонта зданий, сооружений по показателю оценки деловой репутации</b>. Постановлением Правительства РФ от 29 сентября 2026 г. № <a href="https://www.garant.ru/products/ipo/prime/doc/415184231/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">1255</a><a href="https://www.garant.ru/products/ipo/prime/doc/415184231/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><u>1</u></a> внесены изменения в постановление Правительства РФ от 31 декабря 2021 г. № <a href="https://www.garant.ru/products/ipo/prime/doc/415184231/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">2604</a><a href="https://www.garant.ru/products/ipo/prime/doc/415184231/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><u>2</u></a>, предусматривающие введение возможности заказчиков применять следующие национальные <a href="https://www.garant.ru/products/ipo/prime/doc/415184231/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">стандарты</a><a href="https://www.garant.ru/products/ipo/prime/doc/415184231/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><u>3</u></a> для целей оценки заявок на участие в конкурсах на выполнение работ в сфере строительства, ремонта и содержания дорог, текущего ремонта зданий, сооружений по показателю оценки деловой репутации:<br/>- ГОСТ Р 71198-2026 (индекс деловой репутации субъектов предпринимательской деятельности (ЭКГ-рейтинг), <br/>- ГОСТ Р 66.1.01-2023 (оценка деловой репутации лиц, осуществляющих архитектурно-строительное проектирование), <br/>- ГОСТ Р 66.1.02-2023 (оценка деловой репутации лиц, осуществляющих инженерные изыскания), <br/>- ГОСТ Р 66.1.03-2023 (оценка деловой репутации лиц, осуществляющих строительство, реконструкцию, капитальный ремонт объектов капитального строительства), <br/>- ГОСТ Р 66.1.04-2023 (оценка деловой репутации застройщиков), <br/>- ГОСТ Р 66.1.05-2023 (оценка деловой репутации субподрядчиков).<br/><b>ВАЖНО</b>: во избежание повторения ситуации, приведшей к претензиям, связанным с соблюдением Российской Федерацией международных обязательств, Правительством РФ дано поручение о недопущении установления преференций по региональному признаку при осуществлении закупок (пункт 9 протокола совещания у Заместителя Председателя Правительства Российской Федерации А.Л. Оверчука от 1 сентября 2020 г. № АО-П2-12пр). Также отмечено, что национальному стандарту, касающемуся ЭКГ-рейтинга и указанному в письме Минтруда России от 24 сентября 2026 г. № 14-1/10/В-16285, согласно положениям приказа Росстандарта от 13 мая 2026 г. № 474-ст "Об утверждении национального стандарта Российской Федерации" присвоен номер ГОСТ Р 71198-2026 (а не ГОСТ Р 66.0.01-2017).<br/><b>Документ</b>: <a href="https://www.garant.ru/products/ipo/prime/doc/415184231/" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><u>Письмо Минфина России от 28 октября 2026 г. № 24-01-07/94891</u></a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/allzakupki/14660</guid>
+      <pubDate>Wed, 25 Nov 2026 06:51:22 +0000</pubDate>
+    </item>
     <item>
       <title>Включение заказчиком в Техническое задание на поставку оборудования (товара) уникального артикула…</title>
       <link>https://telegram.me/allzakupki/14659</link>
@@ -77,8 +206,8 @@ https://regulation.gov.ru/projects/173073
       <title>https://www.cnconf.ru/articles/2026-11-24_konets_epohi_ii-eksperimentov_kak</title>
       <link>https://telegram.me/allzakupki/14655</link>
       <description>https://www.cnconf.ru/articles/2026-11-24_konets_epohi_ii-eksperimentov_kak</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/ie2MJFxSAo8CXZ1vM-u68bF-ndgq_mfltZjLAvqMcZUUR4acGSM-SuNbzA3JvitqpjUZimC723t3LWFt3KlZYwnxHjIsxE_0KVMt5Oe_x7mIXZMAxLatOnM-PsfBMgXTltWvGJYXnv59J7EJ_B5YGy9q5EyzEJwFjkd0OjN_EoQwLI1PwM8cxWIG_stw7LOT0F-H-ADGIHj9gGyuE082nLw3ruh0hXIJaQ49XzphkOqgfjjRylmeOOkkbIEzkxO7oUAmMk4Vm59boe848_QzXWdWaD5CyfC8NcJ3sJa_SPRPFMDtzPryYnIUhCThlw493LGGO4RYtVka9bL9R_YQSA.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/dxhuPdJs-NbeDIx9IronE5os-niycpcOropXhNSD5CGXAoEDK__JJWkFHIKF4S4B--Yv8t0RA-qJrldzGhHrr3RGnSQVunWQKAcZu_MNFgcR00JSbYXq8xAfzcXtofcpUriMNeA8RgtxlbCKYSI6txxOkmqUmGRI8AisszCy5WtaYyA8E-NLoTUqq5EzBwFjSE68otjWURUFgFeVP_Pu_UxRv0jYFG6hZTt9SPyDmuSdxEA-5iZWB6enIiZGCDATEQO912Jw7B9uzFHuZAmj8I0vAveAs7fsCFHwPD6UcR7GRADkDEk_mr4SIZr8etfvsjndWCbyFimcfXaIizYYsg.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/Wng8VCBN51HUBSYG01gQiEwtPZSX_QRWc6SHYHX7VhkXKTY7C-hew3xxTykSfsKyQSTMk6PKxwkUiwzMqnDeNUlpc0FuuqRiUcT1m-Psnhni3xiN19j7gei6o5ZphnZxWbiTxFnDpNlQ0qs6qi1329y37lGQa4JdahUo9-OCru_OdO0Cqk9qXcXMA4wCkolVId7L0CsPciQ8g8qtPGGanmY0nzzxdnX3c0MdhOkol85mkevdlFFSl_-FZxPFH6fC6VshjffuKe6QZJ0nswZvY-2iF8Lbmas2RxVgOjng83Yjcygpq5AzYO_HlSFlitzYiZ-WYAWTeWOmB6VsWjumgQ.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/cnCm8VmMn-hvD93i3A4lvCpx3K12X4OedRlANy_YJbFBWv3ibzVY8m35krB5NpeE_-ikBooS0pjR5IQ9Bo7OyaDaZNKHvd7WMlFJ6BsNfA1Sja4nReQHLjMwCGVWZhsmP3VTYazJ2BApGdwyp6d-x3uUrvMmi39uoG46N_qS_S2rZDxvbcaPuIT0rYxmuxFM1C1ogZcQWa5vK-ter12iG1mVJ2rCV6r2OZpUyXJEa3y_1LPsPYT9sdnu7ktAJyxgaH0IQ0HcUkHLy9GuzrZeqqGj88KOooYPXwYxAVv9_Bst3_2Gt6PlRDWql8P8lga-FUwsGgdun2dDAxWcNtdc7Q.jpg" /></p>
 <div class="tgme_widget_message_text js-message_text" dir="auto"><a href="https://www.cnconf.ru/articles/2026-11-24_konets_epohi_ii-eksperimentov_kak" rel="noopener" target="_blank">https://www.cnconf.ru/articles/2026-11-24_konets_epohi_ii-eksperimentov_kak</a></div>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/allzakupki/14655</guid>
       <pubDate>Tue, 24 Nov 2026 13:45:52 +0000</pubDate>
@@ -195,8 +324,8 @@ https://regulation.gov.ru/projects/173073
 Также у нас есть закрытый канал и сегодня живой вебинар по ИИ
 
 https://cifrazakup.ru</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/uKkajtBRTW6A3tOCiYinvqhRykoqqkOMZnOFv54D6qos_XFfK3h1ZmuKVvN8gfINGxNghOsK8rxYwX_7xWy_Yc6Xcd5irpKlbGN77l5CxOGPYwwu1G_9M9UnKhcEuYoYn7nx23ny2ztUESOLkMK8rswf5iqLzh13EMpUzWqv_XPGZYQlTTk8GYW0TglbVt27JN2YCQCAziVhwsuvsGGKeOJXTLdxGRKiBNbqXphRdqTehQ_0dWJ5NOIzl7ST-HRZqGVV1wHXv9x11C9NG7wkh0a091Wyb_gn4VAabRNhtL6GYZ2vaOzEFW6Wj6ZP0SXUcDBth5r3GgvHImqyeQCXRw.jpg" /></p>
-<p><img src="https://cdn4.telesco.pe/file/eZu2lxfz_FYPAFM4TnzyGDwEzHg5o8ib7Iyh8rbuapNMhUGjMhU-xwSy-CWNvELqMdg-pQmQ87qL4P-PXVkvgLqcmHGxfAN1wZUF6ypcatGxH5GS3fWDFpBgUYGBkKJIl_CihYo8V55GfD7JJyz6e-dsufTy3-wRiw4B1FMGkcxI0omQRC1_uOruoY6lWHvPfiTLGw_YcvJnmJXRK6l544Ht4PEWwUv6FSFfssLbv5JnbueutRY0OSswJSGFuUMhpvu4Kju80ahIhr2mWNONdghFCGKjaGQkIW1mnmqBlwXgQxltAIuaNJATA2UOX8QNP7KizsWmyNNeuxrlGMNkng.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/UeOERuzBSmE7bWeuly72G1jgmje5AkyAriQRuKD8Pd6OyAW7vLf4KKlEqCDE_OBcs0BS7UKXxrprAxvcI7Mj_5PfA2WyiqgtCSC4UTtx-W_FxxGtcHboy4UJrgC248CCA4kqmhF-IO_a32abCcIyxacmaUceTekC0QPj0kxOYwSNLUvlkR9j8dOP-NY_gjIrg_uwaaLqc8DJt7vJAW1Dz7G4T_tLWW8Eg61fZ-FbebPg0iAcYyfScoq8cEZRuOl_5HAWgpgg_TpDeXR_X3POoNP7J8Z-ZWzYBeZ0czEZ3_VwIqzO6l-Fm11tE0BxV2ejsSxrqDzgDMvXFoYmj-gpRw.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/ajapDoPw2mHDfBAV6TXu6QGTPSP28czehk3QUOxaQZmUtVlkjjl6IhNfdTxc_VGXN6AE8Rmc7ehveZkCLIHB1q0rQCKMLel_SCNde6nfS9nC_eIQRcCN4gyHVPqUIqopPg2d0k5X1sXKWyWsfDUKGcq9yt_U41kQtkxkNB3DhkvijYUXupRSiDug0NFt3hwzYDQKZTKKIciOM49E0YgjoTa9oe6thlz3ZfCXiL3m2ubLkt_k5gOL1jaBv_VMVBWxkT0XVFViuzmoqcoGy2DNYd8cik3e22maaqyW9Oj_2b3dZ68OSQkcYrD5hUNZWrucYOiFveguEpeZDlQXU9wcQg.jpg" /></p>
 <div class="tgme_widget_message_text js-message_text" dir="auto">Добавила журнал для всех учеников школы <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA5B0.png')"><b>🥰</b></i><br/>Также у нас есть закрытый канал и сегодня живой вебинар по ИИ<br/><br/><a href="https://cifrazakup.ru/" rel="noopener" target="_blank">https://cifrazakup.ru</a></div>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/allzakupki/14650</guid>
       <pubDate>Mon, 23 Nov 2026 05:39:56 +0000</pubDate>

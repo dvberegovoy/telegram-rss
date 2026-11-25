@@ -8,7 +8,338 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 24 Nov 2026 16:03:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 15:53:06 +0000</lastBuildDate>
+    <item>
+      <title>ℹ️</title>
+      <link>https://telegram.me/egisz_info/7573</link>
+      <description>ℹ️
+ Проблемы в работе компонента Своды подсистемы СИП  (пром, 25.11.2026)  Уважаемые пользователи!  На данный момент наблюдаются проблемы в работе промышленной среды компонента:  "Система мониторинга иммунизации населения против гриппа в рамках национального…</description>
+      <content:encoded><![CDATA[<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E284B9.png')"><b>ℹ️</b></i> Проблемы в работе компонента Своды подсистемы СИП  (пром, 25.11.2026)  Уважаемые пользователи!  На данный момент наблюдаются проблемы в работе промышленной среды компонента:  "Система мониторинга иммунизации населения против гриппа в рамках национального…]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/egisz_info/7573</guid>
+      <pubDate>Wed, 25 Nov 2026 14:03:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>ℹ️</title>
+      <link>https://telegram.me/egisz_info/7572</link>
+      <description>ℹ️
+ Проблемы в работе компонента "Единая система идентификации, аутентификации и авторизации"  (25.11.2026)  Уважаемые пользователи!  На данный момент наблюдаются проблемы в работе промышленной среды компонента "Единая система идентификации, аутентификации…</description>
+      <content:encoded><![CDATA[<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E284B9.png')"><b>ℹ️</b></i> Проблемы в работе компонента "Единая система идентификации, аутентификации и авторизации"  (25.11.2026)  Уважаемые пользователи!  На данный момент наблюдаются проблемы в работе промышленной среды компонента "Единая система идентификации, аутентификации…]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/egisz_info/7572</guid>
+      <pubDate>Wed, 25 Nov 2026 14:01:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>ℹ️</title>
+      <link>https://telegram.me/egisz_info/7571</link>
+      <description>ℹ️
+ Проблемы в работе компонента КУ ФЭР  (25.11.2026)  Уважаемые пользователи!  На данный момент наблюдаются проблемы в работе промышленной среды компонента:  "Концентратор услуг ФЭР" подсистемы "Федеральная электронная регистратура".  Время обнаружения: 25/11/26…</description>
+      <content:encoded><![CDATA[<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E284B9.png')"><b>ℹ️</b></i> Проблемы в работе компонента КУ ФЭР  (25.11.2026)  Уважаемые пользователи!  На данный момент наблюдаются проблемы в работе промышленной среды компонента:  "Концентратор услуг ФЭР" подсистемы "Федеральная электронная регистратура".  Время обнаружения: 25/11/26…]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/egisz_info/7571</guid>
+      <pubDate>Wed, 25 Nov 2026 13:40:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>ℹ️</title>
+      <link>https://telegram.me/egisz_info/7570</link>
+      <description>ℹ️
+ 
+Проблемы в работе компонента "Единая система идентификации, аутентификации и авторизации"  (25.11.2026)
+
+Уважаемые пользователи!
+
+На данный момент наблюдаются проблемы в работе промышленной среды компонента "Единая система идентификации, аутентификации и авторизации" в связи с чем возможны проблемы с доступом в подсистемах и компонентах ЕГИСЗ:
+
+- Все компоненты подсистемы «Федеральная интегрированная электронная медицинская карта» (ИЭМК);
+
+- Все компоненты подсистемы «Федеральная электронная регистратура» (ФЭР);
+
+- Все компоненты «Подсистемы ведения специализированных регистров пациентов по отдельным нозологиям и категориям граждан, мониторинга организации оказания высокотехнологичной медицинской помощи и санаторно-курортного лечения» (НР);
+
+- Интеграционные подсистемы
+
+- Подсистема автоматизированного сбора информации о показателях системы здравоохранения из различных источников и предоставления отчетности (СИП);
+
+- Федеральный регистр медицинских работников (ФРМР);
+
+- Федеральный реестр медицинских организаций (ФРМО);
+
+- Федеральный реестр нормативно-справочной информации в сфере здравоохранения (ФНСИ);
+
+- Федеральный реестр электронных медицинских документов (РЭМД);
+
+- Геоинформационная подсистема;
+
+- Информационно-аналитическая подсистема мониторинга и контроля в сфере закупок лекарственных препаратов для обеспечения государственных и муниципальных нужд (ИАС ЛП).
+
+Время обнаружения: 16:22
+
+Работы по восстановлению работоспособности уже ведутся.
+
+Приносим извинения за доставленные неудобства.
+
+25 ноября 2026 г. 16:28
+
+Центр технической поддержки ЕГИСЗ
+
+👉
+ Мы в Telegram 
+👈
+
+👉
+ Мы в MAX 
+👈
+
+🎉
+  Материалы вернулись 
+🎉</description>
+      <content:encoded><![CDATA[<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E284B9.png')"><b>ℹ️</b></i> <b>Проблемы в работе компонента "Единая система идентификации, аутентификации и авторизации"  (25.11.2026)</b><br/><br/>Уважаемые пользователи!<br/><br/>На данный момент наблюдаются проблемы в работе промышленной среды компонента "Единая система идентификации, аутентификации и авторизации" в связи с чем возможны проблемы с доступом в подсистемах и компонентах ЕГИСЗ:<br/><br/>- Все компоненты подсистемы «Федеральная интегрированная электронная медицинская карта» (ИЭМК);<br/><br/>- Все компоненты подсистемы «Федеральная электронная регистратура» (ФЭР);<br/><br/>- Все компоненты «Подсистемы ведения специализированных регистров пациентов по отдельным нозологиям и категориям граждан, мониторинга организации оказания высокотехнологичной медицинской помощи и санаторно-курортного лечения» (НР);<br/><br/>- Интеграционные подсистемы<br/><br/>- Подсистема автоматизированного сбора информации о показателях системы здравоохранения из различных источников и предоставления отчетности (СИП);<br/><br/>- Федеральный регистр медицинских работников (ФРМР);<br/><br/>- Федеральный реестр медицинских организаций (ФРМО);<br/><br/>- Федеральный реестр нормативно-справочной информации в сфере здравоохранения (ФНСИ);<br/><br/>- Федеральный реестр электронных медицинских документов (РЭМД);<br/><br/>- Геоинформационная подсистема;<br/><br/>- Информационно-аналитическая подсистема мониторинга и контроля в сфере закупок лекарственных препаратов для обеспечения государственных и муниципальных нужд (ИАС ЛП).<br/><br/>Время обнаружения: 16:22<br/><br/>Работы по восстановлению работоспособности уже ведутся.<br/><br/>Приносим извинения за доставленные неудобства.<br/><br/><i>25 ноября 2026 г. 16:28</i><br/><a href="https://portal.egisz.rosminzdrav.ru/support/expand/notification" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Центр технической поддержки ЕГИСЗ</a><br/><br/><a href="https://telegram.me/egisz_info" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"><b>👉</b></i> Мы в Telegram <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9188.png')"><b>👈</b></i></a><br/><a href="https://max.ru/channel_egisz_info" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"><b>👉</b></i> Мы в MAX <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9188.png')"><b>👈</b></i></a><br/><br/><a href="https://telegram.me/egisz_materials" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8E89.png')"><b>🎉</b></i>  Материалы вернулись <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8E89.png')"><b>🎉</b></i></a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/egisz_info/7570</guid>
+      <pubDate>Wed, 25 Nov 2026 13:30:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>ℹ️</title>
+      <link>https://telegram.me/egisz_info/7569</link>
+      <description>ℹ️
+ 
+Проблемы в работе компонента Своды подсистемы СИП  (пром, 25.11.2026)
+
+Уважаемые пользователи!
+
+На данный момент наблюдаются проблемы в работе промышленной среды компонента:
+
+"Система мониторинга иммунизации населения против гриппа в рамках национального календаря профилактических прививок и контроля заболеваемости гриппом и острыми респираторными вирусными инфекциями".
+
+Время обнаружения: 15:58
+
+Работы по восстановлению работоспособности уже ведутся.
+
+Приносим извинения за доставленные неудобства.
+
+25 ноября 2026 г. 16:05
+
+Центр технической поддержки ЕГИСЗ
+
+👉
+ Мы в Telegram 
+👈
+
+👉
+ Мы в MAX 
+👈
+
+🎉
+  Материалы вернулись 
+🎉</description>
+      <content:encoded><![CDATA[<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E284B9.png')"><b>ℹ️</b></i> <b>Проблемы в работе компонента Своды подсистемы СИП  (пром, 25.11.2026)</b><br/><br/>Уважаемые пользователи!<br/><br/>На данный момент наблюдаются проблемы в работе промышленной среды компонента:<br/><br/>"Система мониторинга иммунизации населения против гриппа в рамках национального календаря профилактических прививок и контроля заболеваемости гриппом и острыми респираторными вирусными инфекциями".<br/><br/>Время обнаружения: 15:58<br/><br/>Работы по восстановлению работоспособности уже ведутся.<br/><br/>Приносим извинения за доставленные неудобства.<br/><br/><i>25 ноября 2026 г. 16:05</i><br/><a href="https://portal.egisz.rosminzdrav.ru/support/expand/notification" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Центр технической поддержки ЕГИСЗ</a><br/><br/><a href="https://telegram.me/egisz_info" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"><b>👉</b></i> Мы в Telegram <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9188.png')"><b>👈</b></i></a><br/><a href="https://max.ru/channel_egisz_info" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"><b>👉</b></i> Мы в MAX <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9188.png')"><b>👈</b></i></a><br/><br/><a href="https://telegram.me/egisz_materials" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8E89.png')"><b>🎉</b></i>  Материалы вернулись <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8E89.png')"><b>🎉</b></i></a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/egisz_info/7569</guid>
+      <pubDate>Wed, 25 Nov 2026 13:18:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>ℹ️</title>
+      <link>https://telegram.me/egisz_info/7568</link>
+      <description>ℹ️
+ 
+Проблемы в работе компонента КУ ФЭР  (25.11.2026)
+
+Уважаемые пользователи!
+
+На данный момент наблюдаются проблемы в работе промышленной среды компонента:
+
+"Концентратор услуг ФЭР" подсистемы "Федеральная электронная регистратура".
+
+Время обнаружения: 25/11/26 16:08
+
+Работы по восстановлению работоспособности уже ведутся.
+
+Приносим извинения за доставленные неудобства.
+
+25 ноября 2026 г. 16:15
+
+Центр технической поддержки ЕГИСЗ
+
+👉
+ Мы в Telegram 
+👈
+
+👉
+ Мы в MAX 
+👈
+
+🎉
+  Материалы вернулись 
+🎉</description>
+      <content:encoded><![CDATA[<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E284B9.png')"><b>ℹ️</b></i> <b>Проблемы в работе компонента КУ ФЭР  (25.11.2026)</b><br/><br/>Уважаемые пользователи!<br/><br/>На данный момент наблюдаются проблемы в работе промышленной среды компонента:<br/><br/>"Концентратор услуг ФЭР" подсистемы "Федеральная электронная регистратура".<br/><br/>Время обнаружения: 25/11/26 16:08<br/><br/>Работы по восстановлению работоспособности уже ведутся.<br/><br/>Приносим извинения за доставленные неудобства.<br/><br/><i>25 ноября 2026 г. 16:15</i><br/><a href="https://portal.egisz.rosminzdrav.ru/support/expand/notification" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Центр технической поддержки ЕГИСЗ</a><br/><br/><a href="https://telegram.me/egisz_info" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"><b>👉</b></i> Мы в Telegram <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9188.png')"><b>👈</b></i></a><br/><a href="https://max.ru/channel_egisz_info" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"><b>👉</b></i> Мы в MAX <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9188.png')"><b>👈</b></i></a><br/><br/><a href="https://telegram.me/egisz_materials" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8E89.png')"><b>🎉</b></i>  Материалы вернулись <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8E89.png')"><b>🎉</b></i></a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/egisz_info/7568</guid>
+      <pubDate>Wed, 25 Nov 2026 13:16:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>ℹ️</title>
+      <link>https://telegram.me/egisz_info/7567</link>
+      <description>ℹ️
+ Проблемы в работе компонента КУ ФЭР  (пром, 24.11.2026)  Уважаемые пользователи! На данный момент наблюдаются проблемы в работе промышленной среды компонента: "Концентратор услуг ФЭР" подсистемы "Федеральная электронная регистратура". Время обнаружения:13:38…</description>
+      <content:encoded><![CDATA[<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E284B9.png')"><b>ℹ️</b></i> Проблемы в работе компонента КУ ФЭР  (пром, 24.11.2026)  Уважаемые пользователи! На данный момент наблюдаются проблемы в работе промышленной среды компонента: "Концентратор услуг ФЭР" подсистемы "Федеральная электронная регистратура". Время обнаружения:13:38…]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/egisz_info/7567</guid>
+      <pubDate>Wed, 25 Nov 2026 11:10:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>ℹ️</title>
+      <link>https://telegram.me/egisz_info/7566</link>
+      <description>ℹ️
+ Проблемы в работе компонента КУ ФЭР  (пром, 24.11.2026)  Уважаемые пользователи! Работоспособность промышленной среды компонента: "Концентратор услуг ФЭР" подсистемы "Федеральная электронная регистратура" восстановлена. Дата и время решения: 25/11/26 00:23:56…</description>
+      <content:encoded><![CDATA[<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E284B9.png')"><b>ℹ️</b></i> Проблемы в работе компонента КУ ФЭР  (пром, 24.11.2026)  Уважаемые пользователи! Работоспособность промышленной среды компонента: "Концентратор услуг ФЭР" подсистемы "Федеральная электронная регистратура" восстановлена. Дата и время решения: 25/11/26 00:23:56…]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/egisz_info/7566</guid>
+      <pubDate>Wed, 25 Nov 2026 11:09:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Пост — ЕГИСЗ. Новости СТП</title>
+      <link>https://telegram.me/egisz_info/7565</link>
+      <description>Пост — ЕГИСЗ. Новости СТП</description>
+      <content:encoded><![CDATA[(нет текста)]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/egisz_info/7565</guid>
+      <pubDate>Wed, 25 Nov 2026 08:34:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>ℹ️</title>
+      <link>https://telegram.me/egisz_info/7564</link>
+      <description>ℹ️
+ 
+Плановые работы ФНР Пром (ОЦОД) 25/11/26
+
+Уважаемые пользователи!
+
+В связи с проведением технологических работ на продуктивной среде 25.10.2026 г. с 21:00 до 23:59 по МСК возможны ограничения в функционировании сервисов:
+
+Федерального регистр лиц, больных туберкулезом,
+
+Федерального регистра медицинских работников,
+
+Федерального реестра медицинских организаций,
+
+Федерального регистра 14 нозологий,
+
+Федерального регистра лиц, инфицированных вирусом иммунодефицита человека,
+
+Подсистемы мониторинга состояния здоровья детей, родившихся с экстремально низкой массой тела.
+
+Приносим свои извинения за доставленные неудобства.
+
+По всем возникшим вопросам обращайтесь в службу технической поддержки ЕГИСЗ по телефону 8-800-301-15-59 или по электронной почте egisz@stp-egisz.ru.
+
+Дата и время начала работ: 2026-10-25 21:00:00
+
+Дата и время завершения: 2026-10-25 23:59:00
+
+25 ноября 2026 г. 10:02
+
+Центр технической поддержки ЕГИСЗ
+
+👉
+ Мы в Telegram 
+👈
+
+👉
+ Мы в MAX 
+👈
+
+🎉
+  Материалы вернулись 
+🎉</description>
+      <content:encoded><![CDATA[<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E284B9.png')"><b>ℹ️</b></i> <b>Плановые работы ФНР Пром (ОЦОД) 25/11/26</b><br/><br/>Уважаемые пользователи!<br/><br/>В связи с проведением технологических работ на продуктивной среде 25.10.2026 г. с 21:00 до 23:59 по МСК возможны ограничения в функционировании сервисов:<br/><br/>Федерального регистр лиц, больных туберкулезом,<br/>Федерального регистра медицинских работников,<br/>Федерального реестра медицинских организаций,<br/>Федерального регистра 14 нозологий,<br/>Федерального регистра лиц, инфицированных вирусом иммунодефицита человека,<br/>Подсистемы мониторинга состояния здоровья детей, родившихся с экстремально низкой массой тела.<br/><br/>Приносим свои извинения за доставленные неудобства.<br/>По всем возникшим вопросам обращайтесь в службу технической поддержки ЕГИСЗ по телефону 8-800-301-15-59 или по электронной почте egisz@stp-egisz.ru.<br/><br/><i>Дата и время начала работ: 2026-10-25 21:00:00</i><br/><i>Дата и время завершения: 2026-10-25 23:59:00</i><br/><br/><i>25 ноября 2026 г. 10:02</i><br/><a href="https://portal.egisz.rosminzdrav.ru/support/expand/notification" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Центр технической поддержки ЕГИСЗ</a><br/><br/><a href="https://telegram.me/egisz_info" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"><b>👉</b></i> Мы в Telegram <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9188.png')"><b>👈</b></i></a><br/><a href="https://max.ru/channel_egisz_info" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"><b>👉</b></i> Мы в MAX <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9188.png')"><b>👈</b></i></a><br/><br/><a href="https://telegram.me/egisz_materials" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8E89.png')"><b>🎉</b></i>  Материалы вернулись <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8E89.png')"><b>🎉</b></i></a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/egisz_info/7564</guid>
+      <pubDate>Wed, 25 Nov 2026 07:03:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>ℹ️</title>
+      <link>https://telegram.me/egisz_info/7563</link>
+      <description>ℹ️
+ Проблемы в работе компонента КУ ФЭР  (пром, 24.11.2026)  Уважаемые пользователи! На данный момент наблюдаются проблемы в работе промышленной среды компонента: "Концентратор услуг ФЭР" подсистемы "Федеральная электронная регистратура". Время обнаружения:…</description>
+      <content:encoded><![CDATA[<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E284B9.png')"><b>ℹ️</b></i> Проблемы в работе компонента КУ ФЭР  (пром, 24.11.2026)  Уважаемые пользователи! На данный момент наблюдаются проблемы в работе промышленной среды компонента: "Концентратор услуг ФЭР" подсистемы "Федеральная электронная регистратура". Время обнаружения:…]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/egisz_info/7563</guid>
+      <pubDate>Tue, 24 Nov 2026 21:26:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>ℹ️</title>
+      <link>https://telegram.me/egisz_info/7562</link>
+      <description>ℹ️
+ Проблемы в работе компонента ПЖМ    (пром, 24.11.2026)  Уважаемые пользователи! На данный момент наблюдаются проблемы в работе промышленной среды компонента: "Платформа журналирования и мониторинга" подсистемы обеспечения отраслевого ситуационного центра…</description>
+      <content:encoded><![CDATA[<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E284B9.png')"><b>ℹ️</b></i> Проблемы в работе компонента ПЖМ    (пром, 24.11.2026)  Уважаемые пользователи! На данный момент наблюдаются проблемы в работе промышленной среды компонента: "Платформа журналирования и мониторинга" подсистемы обеспечения отраслевого ситуационного центра…]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/egisz_info/7562</guid>
+      <pubDate>Tue, 24 Nov 2026 21:24:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>ℹ️</title>
+      <link>https://telegram.me/egisz_info/7561</link>
+      <description>ℹ️
+ 
+Проблемы в работе компонента КУ ФЭР  (пром, 24.11.2026)
+
+Уважаемые пользователи!
+
+На данный момент наблюдаются проблемы в работе промышленной среды компонента:
+
+"Концентратор услуг ФЭР" подсистемы "Федеральная электронная регистратура".
+
+Время обнаружения: 24/11/26 23:43:00
+
+Работы по восстановлению работоспособности уже ведутся.
+
+Приносим извинения за доставленные неудобства.
+
+24 ноября 2026 г. 23:46
+
+Центр технической поддержки ЕГИСЗ
+
+👉
+ Мы в Telegram 
+👈
+
+👉
+ Мы в MAX 
+👈
+
+🎉
+  Материалы вернулись 
+🎉</description>
+      <content:encoded><![CDATA[<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E284B9.png')"><b>ℹ️</b></i> <b>Проблемы в работе компонента КУ ФЭР  (пром, 24.11.2026)</b><br/><br/>Уважаемые пользователи!<br/>На данный момент наблюдаются проблемы в работе промышленной среды компонента:<br/>"Концентратор услуг ФЭР" подсистемы "Федеральная электронная регистратура".<br/>Время обнаружения: 24/11/26 23:43:00<br/>Работы по восстановлению работоспособности уже ведутся.<br/>Приносим извинения за доставленные неудобства.<br/><br/><i>24 ноября 2026 г. 23:46</i><br/><a href="https://portal.egisz.rosminzdrav.ru/support/expand/notification" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Центр технической поддержки ЕГИСЗ</a><br/><br/><a href="https://telegram.me/egisz_info" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"><b>👉</b></i> Мы в Telegram <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9188.png')"><b>👈</b></i></a><br/><a href="https://max.ru/channel_egisz_info" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"><b>👉</b></i> Мы в MAX <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9188.png')"><b>👈</b></i></a><br/><br/><a href="https://telegram.me/egisz_materials" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8E89.png')"><b>🎉</b></i>  Материалы вернулись <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8E89.png')"><b>🎉</b></i></a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/egisz_info/7561</guid>
+      <pubDate>Tue, 24 Nov 2026 20:47:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>ℹ️</title>
+      <link>https://telegram.me/egisz_info/7560</link>
+      <description>ℹ️
+ 
+Проблемы в работе компонента ПЖМ    (пром, 24.11.2026)
+
+Уважаемые пользователи!
+
+На данный момент наблюдаются проблемы в работе промышленной среды компонента:
+
+"Платформа журналирования и мониторинга" подсистемы обеспечения отраслевого ситуационного центра в сфере здравоохранения.
+
+Время обнаружения: 24/11/26 23:33:00
+
+Работы по восстановлению работоспособности уже ведутся.
+
+Приносим извинения за доставленные неудобства.
+
+24 ноября 2026 г. 23:37
+
+Центр технической поддержки ЕГИСЗ
+
+👉
+ Мы в Telegram 
+👈
+
+👉
+ Мы в MAX 
+👈
+
+🎉
+  Материалы вернулись 
+🎉</description>
+      <content:encoded><![CDATA[<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E284B9.png')"><b>ℹ️</b></i> <b>Проблемы в работе компонента ПЖМ    (пром, 24.11.2026)</b><br/><br/>Уважаемые пользователи!<br/>На данный момент наблюдаются проблемы в работе промышленной среды компонента:<br/>"Платформа журналирования и мониторинга" подсистемы обеспечения отраслевого ситуационного центра в сфере здравоохранения.<br/>Время обнаружения: 24/11/26 23:33:00<br/>Работы по восстановлению работоспособности уже ведутся.<br/>Приносим извинения за доставленные неудобства.<br/><br/><i>24 ноября 2026 г. 23:37</i><br/><a href="https://portal.egisz.rosminzdrav.ru/support/expand/notification" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Центр технической поддержки ЕГИСЗ</a><br/><br/><a href="https://telegram.me/egisz_info" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"><b>👉</b></i> Мы в Telegram <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9188.png')"><b>👈</b></i></a><br/><a href="https://max.ru/channel_egisz_info" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"><b>👉</b></i> Мы в MAX <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9188.png')"><b>👈</b></i></a><br/><br/><a href="https://telegram.me/egisz_materials" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8E89.png')"><b>🎉</b></i>  Материалы вернулись <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8E89.png')"><b>🎉</b></i></a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/egisz_info/7560</guid>
+      <pubDate>Tue, 24 Nov 2026 20:38:05 +0000</pubDate>
+    </item>
     <item>
       <title>Пост — ЕГИСЗ. Новости СТП</title>
       <link>https://telegram.me/egisz_info/7559</link>
@@ -593,14 +924,6 @@ egisz@stp-egisz.ru
       <pubDate>Mon, 23 Nov 2026 11:48:05 +0000</pubDate>
     </item>
     <item>
-      <title>Пост — ЕГИСЗ. Новости СТП</title>
-      <link>https://telegram.me/egisz_info/7533</link>
-      <description>Пост — ЕГИСЗ. Новости СТП</description>
-      <content:encoded><![CDATA[(нет текста)]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/egisz_info/7533</guid>
-      <pubDate>Mon, 23 Nov 2026 10:40:50 +0000</pubDate>
-    </item>
-    <item>
       <title>ℹ️</title>
       <link>https://telegram.me/egisz_info/7532</link>
       <description>ℹ️
@@ -992,47 +1315,6 @@ egisz@stp-egisz.ru
       <content:encoded><![CDATA[<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E284B9.png')"><b>ℹ️</b></i> <b>Проблемы в работе компонента КУ ФЭР  (пром, 22.11.26)</b><br/><br/>Уважаемые пользователи!<br/><br/>На данный момент наблюдаются проблемы в работе промышленной среды компонента:<br/><br/>"Концентратор услуг ФЭР" подсистемы "Федеральная электронная регистратура".<br/><br/>Время обнаружения: 23:38<br/><br/>Работы по восстановлению работоспособности уже ведутся.<br/><br/>Приносим извинения за доставленные неудобства.<br/><br/><i>22 ноября 2026 г. 23:43</i><br/><a href="https://portal.egisz.rosminzdrav.ru/support/expand/notification" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Центр технической поддержки ЕГИСЗ</a><br/><br/><a href="https://telegram.me/egisz_info" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"><b>👉</b></i> Мы в Telegram <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9188.png')"><b>👈</b></i></a><br/><br/><a href="https://max.ru/channel_egisz_info" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"><b>👉</b></i> Мы в MAX <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9188.png')"><b>👈</b></i></a>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/egisz_info/7518</guid>
       <pubDate>Sun, 22 Nov 2026 20:43:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>ℹ️</title>
-      <link>https://telegram.me/egisz_info/7517</link>
-      <description>ℹ️
- Проблемы в работе Портала ЕГИСЗ  (21.11.2026)  Уважаемые пользователи! На данный момент наблюдаются проблемы в работе Портала оперативного взаимодействия участников ЕГИСЗ. Время обнаружения: 21/11/26 23:33:00 Работы по восстановлению работоспособности уже…</description>
-      <content:encoded><![CDATA[<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E284B9.png')"><b>ℹ️</b></i> Проблемы в работе Портала ЕГИСЗ  (21.11.2026)  Уважаемые пользователи! На данный момент наблюдаются проблемы в работе Портала оперативного взаимодействия участников ЕГИСЗ. Время обнаружения: 21/11/26 23:33:00 Работы по восстановлению работоспособности уже…]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/egisz_info/7517</guid>
-      <pubDate>Sat, 21 Nov 2026 20:55:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>ℹ️</title>
-      <link>https://telegram.me/egisz_info/7516</link>
-      <description>ℹ️
- 
-Проблемы в работе Портала ЕГИСЗ  (21.11.2026)
-
-Уважаемые пользователи!
-
-На данный момент наблюдаются проблемы в работе Портала оперативного взаимодействия участников ЕГИСЗ.
-
-Время обнаружения: 21/11/26 23:33:00
-
-Работы по восстановлению работоспособности уже ведутся.
-
-Приносим извинения за доставленные неудобства.
-
-21 ноября 2026 г. 23:36
-
-Центр технической поддержки ЕГИСЗ
-
-👉
- Мы в Telegram 
-👈
-
-👉
- Мы в MAX 
-👈</description>
-      <content:encoded><![CDATA[<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E284B9.png')"><b>ℹ️</b></i> <b>Проблемы в работе Портала ЕГИСЗ  (21.11.2026)</b><br/><br/>Уважаемые пользователи!<br/>На данный момент наблюдаются проблемы в работе Портала оперативного взаимодействия участников ЕГИСЗ.<br/>Время обнаружения: 21/11/26 23:33:00<br/>Работы по восстановлению работоспособности уже ведутся.<br/>Приносим извинения за доставленные неудобства.<br/><br/><i>21 ноября 2026 г. 23:36</i><br/><a href="https://portal.egisz.rosminzdrav.ru/support/expand/notification" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Центр технической поддержки ЕГИСЗ</a><br/><br/><a href="https://telegram.me/egisz_info" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"><b>👉</b></i> Мы в Telegram <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9188.png')"><b>👈</b></i></a><br/><br/><a href="https://max.ru/channel_egisz_info" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9189.png')"><b>👉</b></i> Мы в MAX <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9188.png')"><b>👈</b></i></a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/egisz_info/7516</guid>
-      <pubDate>Sat, 21 Nov 2026 20:46:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
