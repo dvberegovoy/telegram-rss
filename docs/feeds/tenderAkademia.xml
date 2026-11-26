@@ -8,7 +8,77 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 25 Nov 2026 15:54:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 15:32:26 +0000</lastBuildDate>
+    <item>
+      <title>Оригинальные расходные материалы в закупке — есть ли у заказчика право их требовать?</title>
+      <link>https://telegram.me/tenderAkademia/1712</link>
+      <description>Оригинальные расходные материалы в закупке — есть ли у заказчика право их требовать? 
+
+Ситуация, с которой сталкиваются очень многие: есть принтер, он на гарантии, и заказчик совершенно разумно хочет закупить к нему картриджи именно того производителя — чтобы не рисковать ни оборудованием, ни гарантийным обслуживанием. В техническом задании указывается товарный знак, всё выглядит логично, и вдруг приходит жалоба. 
+
+Статья 33 Закона № 44-ФЗ в общем случае запрещает ориентироваться в техническом задании на конкретного производителя, однако для запасных частей и расходных материалов к уже имеющемуся оборудованию исключение предусмотрено: если совместимость прямо закреплена в технической документации — инструкции по эксплуатации или паспорте изделия, — указание товарного знака без оговорки «или эквивалент» допустимо. Казалось бы, вот он, выход. Но именно здесь начинаются нюансы, которые эту логику нередко разрушают. 
+
+Дело в том, что производители, как правило, очень осторожны в формулировках. Типичная запись в гарантийных документах выглядит примерно так: гарантия не распространяется на неисправности, вызванные использованием неоригинальных расходных материалов. Заказчик читает это и думает — вот оно, основание. Между тем это не запрет на использование неоригинального, а лишь снятие ответственности производителя за конкретную поломку. Если оборудование выйдет из строя по иной причине, гарантия продолжит действовать, и контролирующие органы это различие видят очень хорошо. Чтобы ссылка на техническую документацию действительно работала, нужна другая формулировка — категоричная и однозначная: использование неоригинальных расходных материалов не допускается. Такое встречается, но производители не особо заинтересованы в подобной жёсткости. 
+
+Есть и ещё один момент, который на первый взгляд кажется мелочью, но на практике оборачивается настоящим спором. Слово «оригинальный» в российском законодательстве не определено, и это создаёт неожиданное пространство для манёвра. Российский производитель, который выпускает картриджи под собственным товарным знаком и называет это полным производственным циклом, вполне обоснованно скажет: мои картриджи тоже оригинальные — оригинальные картриджи моей марки, не восстановленные, не перезаправленные. И формально он будет прав. Именно поэтому, если заказчику нужна продукция конкретного производителя, правильнее писать в техническом задании не просто «оригинальные», а прямо указывать нужный товарный знак. 
+
+Если же технической документации с категоричным запретом нет, а вопрос совместимости всё равно важен, есть другой инструмент — перенести соответствующее требование в контракт. Когда поставщик по условиям контракта несёт ответственность за то, что расходные материалы совместимы с оборудованием заказчика и обеспечивают его нормальную работу, у заказчика появляется рычаг уже на этапе исполнения. Да, это работает не до, а после заключения контракта — но лучше иметь такой инструмент, чем не иметь никакого. 
+
+И последнее — про проверку характеристик, когда возникают сомнения в предложенном товаре. Первый порыв — зайти на сайт производителя и сверить данные. Делать этого не стоит: сайт не является официальным источником информации и доказательством ни для контролирующих органов, ни для суда. Правильный путь — официальный запрос производителю и ответ на фирменном бланке за подписью уполномоченного лица, а не письмо менеджера по продажам, пришедшее на электронную почту, — суд вправе спросить, какими полномочиями этот человек располагал.</description>
+      <content:encoded><![CDATA[<b>Оригинальные расходные материалы в закупке — есть ли у заказчика право их требовать? </b><br/><br/>Ситуация, с которой сталкиваются очень многие: есть принтер, он на гарантии, и заказчик совершенно разумно хочет закупить к нему картриджи именно того производителя — чтобы не рисковать ни оборудованием, ни гарантийным обслуживанием. В техническом задании указывается товарный знак, всё выглядит логично, и вдруг приходит жалоба. <br/><br/>Статья 33 Закона № 44-ФЗ в общем случае запрещает ориентироваться в техническом задании на конкретного производителя, однако для запасных частей и расходных материалов к уже имеющемуся оборудованию исключение предусмотрено: если совместимость прямо закреплена в технической документации — инструкции по эксплуатации или паспорте изделия, — указание товарного знака без оговорки «или эквивалент» допустимо. Казалось бы, вот он, выход. Но именно здесь начинаются нюансы, которые эту логику нередко разрушают. <br/><br/>Дело в том, что производители, как правило, очень осторожны в формулировках. Типичная запись в гарантийных документах выглядит примерно так: гарантия не распространяется на неисправности, вызванные использованием неоригинальных расходных материалов. Заказчик читает это и думает — вот оно, основание. Между тем это не запрет на использование неоригинального, а лишь снятие ответственности производителя за конкретную поломку. Если оборудование выйдет из строя по иной причине, гарантия продолжит действовать, и контролирующие органы это различие видят очень хорошо. Чтобы ссылка на техническую документацию действительно работала, нужна другая формулировка — категоричная и однозначная: использование неоригинальных расходных материалов не допускается. Такое встречается, но производители не особо заинтересованы в подобной жёсткости. <br/><br/>Есть и ещё один момент, который на первый взгляд кажется мелочью, но на практике оборачивается настоящим спором. Слово «оригинальный» в российском законодательстве не определено, и это создаёт неожиданное пространство для манёвра. Российский производитель, который выпускает картриджи под собственным товарным знаком и называет это полным производственным циклом, вполне обоснованно скажет: мои картриджи тоже оригинальные — оригинальные картриджи моей марки, не восстановленные, не перезаправленные. И формально он будет прав. Именно поэтому, если заказчику нужна продукция конкретного производителя, правильнее писать в техническом задании не просто «оригинальные», а прямо указывать нужный товарный знак. <br/><br/>Если же технической документации с категоричным запретом нет, а вопрос совместимости всё равно важен, есть другой инструмент — перенести соответствующее требование в контракт. Когда поставщик по условиям контракта несёт ответственность за то, что расходные материалы совместимы с оборудованием заказчика и обеспечивают его нормальную работу, у заказчика появляется рычаг уже на этапе исполнения. Да, это работает не до, а после заключения контракта — но лучше иметь такой инструмент, чем не иметь никакого. <br/><br/>И последнее — про проверку характеристик, когда возникают сомнения в предложенном товаре. Первый порыв — зайти на сайт производителя и сверить данные. Делать этого не стоит: сайт не является официальным источником информации и доказательством ни для контролирующих органов, ни для суда. Правильный путь — официальный запрос производителю и ответ на фирменном бланке за подписью уполномоченного лица, а не письмо менеджера по продажам, пришедшее на электронную почту, — суд вправе спросить, какими полномочиями этот человек располагал.]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/tenderAkademia/1712</guid>
+      <pubDate>Thu, 26 Nov 2026 11:48:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>✅</title>
+      <link>https://telegram.me/tenderAkademia/1704</link>
+      <description>✅
+Курс КМТ ( курс молодого ТЕНДЕРЩИКА) доступен всегда и не привязан к групповым запускам. 
+
+✅
+ Вы проходите его в индивидуальном формате. 
+
+✅
+Цель: что бы вы научились самостоятельно подготавливать и подавать заявки на электронных площадках.</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/ezGb0dSI3BNZH_PzChzKWfyCnob3Wzp2xNIgmZjZwbm96vqlhcy6hjIwDLEDCS4_q7p2TSltk6qteVQ6Qtz-23GhE8y9yUnIy0nhFaVVa4x2zmBw94awTJP0Ux2vRTaHZsd-GdyiknTqemysma4tZlAXREUv9oWXQeeK0pvGCN4t_iBApdQKhivNer-hgB9MTp5gdHpZfj3LM2GCxRZvchBhaCVPdz-bOUEdAAVASeHkbT8Ps7a3Hkubqck8gFoy7rhMcQSorZZU2DS4gYSV5UclUnAY2W9XaMjvx808riPNK_jdme8GMVGk1XMyELoq2rpSsh433E6u_9mZIAemCw.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/bh011wUaLYQT1ik8OcQySKrp0OMuFnYbApjIM8vT5WadTXiei_DjIJxriKbOsxsR_V1RLq2Ch5OiMxxMuGlunQCmUgYjKd5T-LYReF99YIEUYNQ1lvzHZYvSQxxjfSOyR4CULwR4zNzJLzyoM0N6oOfBY44128k-qtJ_Y2Lqv6wB7gAi3vjZIdzcenpOoYkxuu0OH_QQbGp1sXQ48yONOFTPTGOhrK1El_7BDsGOsyAauSNftvETN_wCjrxMwOANBAdlyCoJEMyJ6P4iHIlmFAapV-Gm_StoETa2927cyYOc12URhNoOn3GiRoiTyQA8fgfx8emGk-MH_0a3BudoPw.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/n93Xgf4X0384CV-A9EKtm_gOI8_WKIcHyDeWT7O-bxBwsxAtYLz7zGTiHEw5mfqD6pWrMrNstmZHB3ANlHW6uhWb-YlkIFHnwyGQL2rFK9e0IlYJUGB_kSbfCrdyhktOjyNzbs4o92Gs72L71mlAesK5Du9tusGrf2nP3p0tztm57w1VVgAJXWU4U2Eb4w5xtUWK9eA0jO4Q4P9MXUgRaQnxyziqjbJ3n2zYk5tqYE9DSFRGsWfI_K8XxlYswShhsOeMKlEELQSS_fJ_uVR6qPdqXQaRgXcMWW-Lmi5Uo16-RvDyakst0Nvmdee_Pi9alQbTSMu6niSSbpua_aB4RQ.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/CzVjNTQ6Ni2Zq7Xd8Mymh5M1MHtNk1pGQKMlUMkMnkqb3uBihesVXyZ6FfmgdTNx5mYL_vxUoXvH0iy1mNbVkGQ8bQS87BlNXAxnxPlzGu7DaXEPpVBmMitzcHFwK_gIercncU48c6hnc9HEZvgq0lpdw4FrZOKnvWtlGsgrNPMW8w93GTHde_rprxTPUAs--9d5S7iOsboAx6RZa9rKsWUmsnNdXsSYQ3BSI-bGHjt6blk020zvtFutOuH5YHr99s_AUV2ps-7JFJsdR5Cx7um7DOSYc7ubGC_BYLYRDWivwohh4qH1Bl_-n3hJhbrzHpzM_ul5EsybLwbHT_AXMQ.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/g3TFcPesfPVw2u9oZPZ-sdClJ_iRWrEoEzMLeNfrxDhJQZm1ke3BQB6GRVs4lK3Hym3aHVyO62hHoNkg3-LRHvJrcTjGw6tLD9cH6dS5SZksF8li-VUqEwGq5UhqhE1zBAFMa_RZExoK3bFOBiVLkZLYfeYmGDU8PcuhsJG5mOPFxN3c1zltL7h_HFAvzk93a8XFk5oAD1OSebIbZyxbkXcFKBImMAb6cCAk76eNviTKx4-iOIYFJiksNIWd8Aamt5X9eVPje1URMm9FHl8A7pnZIY5jJlyGTnPix6aChTIx7t3YnQpnlWZo0cjbcUUJgCKLu6x0uxUr9UHGvzh3iA.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/TziHxLDq9ZM8ywaFH6yg1tWaStWmS0qBGr72atQZNRmPIjEZiFgBllbjcBB975H98zyPbKHixmvki3Q0yG9QN_AnT9OH9sR4-KOr3nz6u8UJQa6OTDIwWTJep8CYfmY9oknC_1HpPqOMOu9Spd7BQfLs5PYtD7-vxNggQWNXhiJiT7YHwLJcEgWQk4meCwH-vBAL9-CDXjKLu8bStc_4Lk-RO2mPbant8-COPmu-hG5FANEAqi9bSW0msSNq4z4d7sJWeyxEJWsA2EO7cYa3g1RxJU9DkESTjoePQg_ObBgxpvhvYe3m-DKUFUepAfsq9JebR-UtW1zp1UAzssbvIg.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/rq-QXPEWpj8LnS_kyRlqjE09aGCCLvgqGxvqyjLdldr_RcGhsqM9BDddDSGDj43eaYdug-KX9NuL0vQjgVcgvxCA_DkEWNMAl9bsyhEXwDCSRUQmbwF0Q-5RGnkDioINpRiutHVC6wJKGOORnXJdir5x3KTGW-T-pmwo5LaUgYbwIFtSrrVwDDJ6SOMuNMWOP0rG8WbfF1UB4oBiWuBa4BGKazRM5kd2O7aDmhkzr1TdUmSjuZ3lz9yZmurod0u3RDs9j2wNeTZrBCwPmOtfoYh15KQyymNHw8GedYENioAIkWgOvP0vMoJIW7losCinXYzOiKxWrtXFI1oz5xfWgg.jpg" /></p>
+<p><img src="https://cdn4.telesco.pe/file/LNcGX2c_Px-SIJ1F8mLHO2LfxuboiJNbPrqpDPqAyHsgD7L8r7f-Sd71VNMqD7RQNusasKvxyKxrjywR0dYiICwOvvjKxJKPIw5pbsGNnQmRf_DkxxkvGeqY6H6L1VJLzFno0vTVnqSC38dZ8dIRKcfX4ocAelMn7yshnDmEEkpcbHZccWIe6aXJ5Vu_NVYJ7U_GbhWiD31I_qS0e_JJ97k8foh89T-T8rMubv4Ksi3MBmGK-_5BVljllqHFBhieZg8slIGNZDgBiSxbWBLav4zExoio-X75PWs0iC5Z-ZeSyW7pthnASMlgEvDU6wWyXFEbR-zaENW9KJ9nOZ24tA.jpg" /></p>
+<div class="tgme_widget_message_text js-message_text" dir="auto"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C85.png')"><b>✅</b></i>Курс КМТ ( курс молодого ТЕНДЕРЩИКА) доступен всегда и не привязан к групповым запускам. <br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C85.png')"><b>✅</b></i> Вы проходите его в индивидуальном формате. <br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C85.png')"><b>✅</b></i>Цель: что бы вы научились самостоятельно подготавливать и подавать заявки на электронных площадках.</div>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/tenderAkademia/1704</guid>
+      <pubDate>Wed, 25 Nov 2026 18:06:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Тендеры с нуля: с чего начать?</title>
+      <link>https://telegram.me/tenderAkademia/1703</link>
+      <description>Тендеры с нуля: с чего начать?
+
+В этом бесплатном вводном уроке разберём:
+
+— что такое госзакупки и как они работают;
+
+— кто может участвовать в тендерах;
+
+— какие есть способы заработка;
+
+— с чего начать новичку;
+
+— какие ошибки важно не допустить.
+
+Если вы давно присматриваетесь к тендерам, но не знаете, как сделать первый шаг - начните с этого урока.
+
+А если после просмотра захотите узнать больше - напишите Ксении Валерьевне 89163008534 или  
+@Minkina_gos
+ для обучения по курсу КМТ (курс молодого ТЕНДЕРЩИКА)</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/D_guYILGAtqdgg243mGdI0G9awwfjupANQk8HdQYnRg3deyv5zOZgjMLoV_OdbNzRt2zFKgSKyzp2e_i4xWyI2md7SXRe08CZ12q77zuGgjqLX9znEcDClX10B7vVAmZTO13zJD7lKKIm1jmc05iWS91p8GGgHgeEfhA8V9Jq400HgJS-C04Y8YvqQn9LmAW9yJhr91l4s3dKq4k6sH2JnP7pcKV9TkM_SH6S4-kmsfIxADfpYwRwjlDwyYFGIbDpjYwpz5XGoSNyCFK-5mdjXNYmoq-JXztEga7SpsbdoCg_eYx_Rfs1qqDV_pczetobRhsZHC5O3NOCfr--hqyYw" /></p>
+Тендеры с нуля: с чего начать?<br/><br/>В этом бесплатном вводном уроке разберём:<br/><br/>— что такое госзакупки и как они работают;<br/>— кто может участвовать в тендерах;<br/>— какие есть способы заработка;<br/>— с чего начать новичку;<br/>— какие ошибки важно не допустить.<br/><br/>Если вы давно присматриваетесь к тендерам, но не знаете, как сделать первый шаг - начните с этого урока.<br/><br/>А если после просмотра захотите узнать больше - напишите Ксении Валерьевне 89163008534 или  <a href="https://telegram.me/Minkina_gos" target="_blank">@Minkina_gos</a> для обучения по курсу КМТ (курс молодого ТЕНДЕРЩИКА)]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/tenderAkademia/1703</guid>
+      <pubDate>Wed, 25 Nov 2026 17:38:37 +0000</pubDate>
+    </item>
     <item>
       <title>Изменение сроков / видов работ.</title>
       <link>https://telegram.me/tenderAkademia/1700</link>
