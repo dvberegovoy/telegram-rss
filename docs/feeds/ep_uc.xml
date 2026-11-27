@@ -8,7 +8,85 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>telegram_rss.py</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 26 Nov 2026 15:31:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 15:24:45 +0000</lastBuildDate>
+    <item>
+      <title>📣</title>
+      <link>https://telegram.me/ep_uc/5908</link>
+      <description>📣
+Вам ехать или шашечки? 
+
+Ситуационный центр и несертифицированная криптография 
+
+Ситуационный центр электронного правительства рекомендует использовать несертифицированную криптографию - 
+так и пишет
+:
+
+Если у вас не устанавливается соединение с сайтами в домене *.
+gosuslugi.ru
+, использующими шифрование по ГОСТ TLS,
+
+обновите версию КриптоПро CSP до 5.0.13600 и выше.
+
+В новых версиях КриптоПро CSP корневой сертификат НУЦ уже добавлен в список доверенных.
+
+Одним из требований признания квалифицированной подписи является использование сертифицированной криптографии. Только не нужно говорить, что здесь сборка только TLS, а для подписания документов другая устанавливается? Указанная 
+сборка 5.0.13600
+ является промежуточной, тестовой, которая не предназначена для создания квалифицированной электронной подписи.
+
+Ранее наблюдалось
+, что более года подписание в инфраструктуре электронного правительства осуществлялось с использованием сертификата, ключ которого был сгенерирован 
+на несертифицированной сборке
+.
+
+Несертифицированная криптография
+ - один из больных вопросов нашей сферы, экспертный анализ говорит, что каждая вторая создаваемая "квалифицированная" подпись - использует несертифицированную криптографию, а значить действительность таких подписей можно оспорить. Сертифицированными сборками КриптоПро CSP на данный момент являются:
+
+✅
+ 5.0.11455 (устаревшая)
+
+✅
+ 5.0.12000 (R2)
+
+✅
+ 5.0.13000 (R3)
+
+✅
+ 5.0.13003 (R3)
+
+Создание ключей квалифицированной ЭП осуществляется только сертифицированными средствами электронной подписи, 
+даже ответ ФСБ России на этот счет имеется.
+
+✍️
+Об ЭП и УЦ</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/VtERhF-9jWS1NzMuuyA2G0XI5dIidYxd8z2AF0ARYWgrr3XDIodIjdvznCji4mp4ZzEQuT4SmaajIiPpvuswUA27C1PD4kdvEyw2nPdNkQssZBO-pbR_dOqrOgsimZmSTDqJct_bTjl3ik_W3_xSn7PK8vb00AuA93fCp71loeLWn82j-IUn2K88OmvOg_WfgezQNmpqwzM3al2r9fLcJTLstJJlWO4ARw2EL26Luk4CPFGkvvCfgUlDkitVzn-TUnIyyYS_XXkLg0ReugjOupHxXhrsPBEIIrFOu6dzqgAYqswNQ_YsptR0ybJSTSE1GWYT3X1aFcEwqLhaNyG-6Q.jpg" /></p>
+<tg-emoji emoji-id="5470094069289984325"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93A3.png')"><b>📣</b></i></tg-emoji><b>Вам ехать или шашечки? <br/>Ситуационный центр и несертифицированная криптография <br/></b><br/>Ситуационный центр электронного правительства рекомендует использовать несертифицированную криптографию - <a href="https://sc.digital.gov.ru/home" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">так и пишет</a>:<br/><blockquote>Если у вас не устанавливается соединение с сайтами в домене *.<a href="http://gosuslugi.ru/" rel="noopener" target="_blank">gosuslugi.ru</a>, использующими шифрование по ГОСТ TLS,<br/>обновите версию КриптоПро CSP до 5.0.13600 и выше.<br/>В новых версиях КриптоПро CSP корневой сертификат НУЦ уже добавлен в список доверенных.</blockquote><br/><br/>Одним из требований признания квалифицированной подписи является использование сертифицированной криптографии. Только не нужно говорить, что здесь сборка только TLS, а для подписания документов другая устанавливается? Указанная <a href="https://telegram.me/ep_uc/3881" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">сборка 5.0.13600</a> является промежуточной, тестовой, которая не предназначена для создания квалифицированной электронной подписи.<br/><br/><a href="https://telegram.me/ep_uc/3787" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Ранее наблюдалось</a>, что более года подписание в инфраструктуре электронного правительства осуществлялось с использованием сертификата, ключ которого был сгенерирован <a href="https://telegram.me/ep_uc/2746" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">на несертифицированной сборке</a>.<br/><br/><a href="https://telegram.me/ep_uc/3208?single" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Несертифицированная криптография</a> - один из больных вопросов нашей сферы, экспертный анализ говорит, что каждая вторая создаваемая "квалифицированная" подпись - использует несертифицированную криптографию, а значить действительность таких подписей можно оспорить. Сертифицированными сборками КриптоПро CSP на данный момент являются:<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C85.png')"><b>✅</b></i> 5.0.11455 (устаревшая)<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C85.png')"><b>✅</b></i> 5.0.12000 (R2)<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C85.png')"><b>✅</b></i> 5.0.13000 (R3)<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C85.png')"><b>✅</b></i> 5.0.13003 (R3)<br/><br/><b>Создание ключей квалифицированной ЭП осуществляется только сертифицированными средствами электронной подписи, </b><a href="https://telegram.me/ep_uc/2790" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b>даже ответ ФСБ России на этот счет имеется.</b></a><br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Об ЭП и УЦ</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5908</guid>
+      <pubDate>Fri, 27 Nov 2026 05:20:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>✍️</title>
+      <link>https://telegram.me/ep_uc/5907</link>
+      <description>✍️
+Вчерашний 
+отзыв
+ УЦ GlobalSign сертификата безопасности у сайта ИнфоТеКС и сегодняшний их переход на 
+сертификат
+ от Let's Encrypt, только подтверждает утверждение, что владелец 
+любого ресурса
+ до последнего будет 
+стараться оставаться
+ на сертификатах международных УЦ. Только отсутствие всех альтернатив вынуждает переходить на сертификаты НУЦ. Вот такие дела, Минцифры.
+
+TLS-сертификат
+ портала Госуслуг от GlobalSign истекает 12.12.2026.
+
+✍️
+"Об ЭП и УЦ"</description>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/AjlkKnyRrYUYQQGXwZ9oIIdHmI6-rXTUJQ5NCXotfrjmzdTFBuvoXQV7X5KgFUFi8hgYlRryM_Yfk6-qrzFJjiK-xLRxMti-L-3hVJCO3V47UKQeflDVM34xvCnYGILMlrDxKwrLwazBKIJRmLFQDi0KwC59FOwPmquy-nbSDehqjr_Qq06uj9vG6XeAZBLiO5cIfNEBm8H1Tx1SIDGEk-kr952Q-3BiF1liFJpBw0QYBrWNslHxDT2NhHzU_Bbiz5PxyawxzP8aj9wD1D2RIYVyccWTWdDfYYT71ymyprb2rZxv0trS43WePQ8XlXYOUyxv3YmdFeYFQdvB-FdSBQ.jpg" /></p>
+<tg-emoji emoji-id="5470060791883374114"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji>Вчерашний <a href="https://telegram.me/c/1691316533/242243" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">отзыв</a> УЦ GlobalSign сертификата безопасности у сайта ИнфоТеКС и сегодняшний их переход на <a href="https://certview.deem.ru/infotecs.ru" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">сертификат</a> от Let's Encrypt, только подтверждает утверждение, что владелец <a href="https://telegram.me/ep_uc/5396" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">любого ресурса</a> до последнего будет <a href="https://telegram.me/ep_uc/5704" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">стараться оставаться</a> на сертификатах международных УЦ. Только отсутствие всех альтернатив вынуждает переходить на сертификаты НУЦ. Вот такие дела, Минцифры.<br/><br/><a href="https://certview.deem.ru/gosuslugi.ru" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">TLS-сертификат</a> портала Госуслуг от GlobalSign истекает 12.12.2026.<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">"Об ЭП и УЦ"</a>]]></content:encoded>
+      <guid isPermaLink="true">https://telegram.me/ep_uc/5907</guid>
+      <pubDate>Fri, 27 Nov 2026 04:45:27 +0000</pubDate>
+    </item>
     <item>
       <title>😊</title>
       <link>https://telegram.me/ep_uc/5906</link>
@@ -58,7 +136,7 @@
 😊
 😊
 😊</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/XmYV1cji1oi3NCXiEa--02Zsi-DYLyOuoOahH4FmYl9CdfXzisb5Qrk4FUv6bYDpk043WR6xNXABPELpsF9AiG77poX6u2sN7UokaPOhctsaHyKkAOwOk25TFoOcZnpaR00wcBR-JYiyv6mTW1tNNP1aJnwYY80XJt2YlPPlNpjtd4HZ73nhp0X2RHZw-ivEilusvlEM9xRbkLzwQ7dXOE7wJoVqOak2ZvzPX3dGvnzo2B7YqQUa1xR57-hA-Qel0VuvVXNAJJYuXEJcRAztWyZ_UYgPs7Vy1npXDhAS9cwdx0gU-R6Zcg4PTCXWgZIZMNCaMRekamXdpPuTg3CItg.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/crb2ThOvy0fP1KCA6IwQvSLJCHTzTncG-oXKO-4vVDX3KJZD75d9h8nuVKeywzoEVimvlkoaw9fvs1duUZWLmSuFJKO0gPYnYApyZ2g5ERyf_ZPLcM6LbqsAYxnzoZrbLxgyElnxaX2PMQMm-UIO8OwoJGs1c8P-Sb0mUkXQhLwvt1yKNdUYrmiMRHvHFZ-K5s2OOWCi_OHIWpNR5GhIyDeEhemSmornTSRilhcEruB3M2vG4Xb5J6HbAAuCxQxUn7pHA-teQEmXGInTsUkL7YYh9q8fQJ-G8D0Gze95Bd31vUE4XsDOyXJ_9bZbrRgix7s7vyp8TOCZ6PbRVTKCWw.jpg" /></p>
 <tg-emoji emoji-id="5197317625419441931"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F988A.png')"><b>😊</b></i></tg-emoji><tg-emoji emoji-id="5197278738785547774"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F988A.png')"><b>😊</b></i></tg-emoji><tg-emoji emoji-id="5197212617764024291"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F988A.png')"><b>😊</b></i></tg-emoji><tg-emoji emoji-id="5197533838368089871"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F988A.png')"><b>😊</b></i></tg-emoji><tg-emoji emoji-id="5197378953257468833"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F988A.png')"><b>😊</b></i></tg-emoji><tg-emoji emoji-id="5197532292179867368"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F988A.png')"><b>😊</b></i></tg-emoji><tg-emoji emoji-id="5197547341745271133"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F988A.png')"><b>😊</b></i></tg-emoji><tg-emoji emoji-id="5197308318225312739"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F988A.png')"><b>😊</b></i></tg-emoji><br/><br/><b>Не ждите штрафов — переходите на ЭПД с выгодой от Точка Банк</b><br/><br/>Уже с марта 2027 года за перевозочные документы на бумаге начнут штрафовать. Мы поможем во всём разобраться и перейти на электронный документооборот без спешки.<br/><br/>Что дает Транспортный ЭДО от Точка Банк:<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9FA3.png')"><b>🟣</b></i> Заполняйте ЭТрН за пару минут — 80% полей внесут за вас<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9FA3.png')"><b>🟣</b></i> Подписывайте накладные со смартфона — даже в рейсе<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9FA3.png')"><b>🟣</b></i> Обменивайтесь документами с любыми контрагентами<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9FA3.png')"><b>🟣</b></i>Быстро проходите проверку ГИБДД на дороге с QR-кодом накладной<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9FA3.png')"><b>🟣</b></i>Эксперты-логисты на связи 24/7 и не оставят вас один на один с вопросами.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8E81.png')"><b>🎁</b></i> <b>Только в Чёрную пятницу —</b><a href="https://tochka.com/rko/tedo" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b> </b></a><a href="https://bank-tochka.ru/rko/tedo/?utm_source_tg&amp;amp;utm_medium=seeding&amp;amp;utm_campaign=edo-mchd&amp;amp;utm_term=ep_uc&amp;amp;utm_content=post" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><b><u>скидка 30% на любой тариф Транспортного ЭДО</u></b></a><br/><br/>Чтобы воспользоваться выгодой, откройте счёт до 30 ноября и подключите сервис.<br/><br/><tg-emoji emoji-id="5197317625419441931"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F988A.png')"><b>😊</b></i></tg-emoji><tg-emoji emoji-id="5197278738785547774"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F988A.png')"><b>😊</b></i></tg-emoji><tg-emoji emoji-id="5197212617764024291"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F988A.png')"><b>😊</b></i></tg-emoji><tg-emoji emoji-id="5197533838368089871"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F988A.png')"><b>😊</b></i></tg-emoji><tg-emoji emoji-id="5197378953257468833"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F988A.png')"><b>😊</b></i></tg-emoji><tg-emoji emoji-id="5197532292179867368"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F988A.png')"><b>😊</b></i></tg-emoji><tg-emoji emoji-id="5197547341745271133"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F988A.png')"><b>😊</b></i></tg-emoji><tg-emoji emoji-id="5197308318225312739"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F988A.png')"><b>😊</b></i></tg-emoji>]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5906</guid>
       <pubDate>Thu, 26 Nov 2026 13:45:45 +0000</pubDate>
@@ -185,7 +263,7 @@
 Реклама 
 
 erid:2SDnje8mKYG</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/nU9krjfrGVZg76a98Q6jMCLVJCkGpQfX6_8pO-265Uq4Fqrh-c5XZDA5ba8bW7PZO-mzSVw0bApVIfR7SX6gmleecJ3lZBYhJBKxOPx9I9aacKgQ4ZyR8ZkqCKLhjbioaBFVD-uxk-yekjZEuYin8gXiaEFizyEU6c3Gd3O2YB51nOxEj7xeha-Tyw8j87-Cl1QtX2I5NrXgsntQeKIA8mipwjwT7ZTy7TkkdDehprNVzcP4e5JZyGPwrD5JEzTsq5iMEdq12PsIrJAzXjRDbHlsIOuvXDrzChh6Rat-hwTu-6RFmWEaVM1jKjDiXUzsFVG7A-_rRUglGnE7b4g8kQ.jpg" /></p>
+      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/dcrm-o2Hxo1aglgBAltQEl92s5uaYx6NSM1jCSeGOxX5cj_PaNuqiPU5rTxpwC9G4dHcZbNe2JJeZkeu3Yj4Fb_p0hrpyCaK3iLwUceoQngZiYJkvKKTPny7I5xgI2u8HwioO325Uk6LPBW63ah9qLpGURUaWBjM45FlrCrRORsYWxFDIQbZKLrq1JM7x_DQDaW163SgxFH7zoiJUSHA9lj2nOqoHU2Rueybdcr1hpqlQnYeQdq_MIwwVyLj3eWZYiTM4sBNoLlFcRbKiQ783mosuQ1Cj-E4QOJfLAT8XRlqP8pcvDL1iis0IiaG3ll2ZT4EGZ5CGSouwTVOnE0v7g.jpg" /></p>
 Приглашаем вас узнать <a href="https://elma365.com/ru/webinars/roi-v-proektah-edo/?utm_source=tg&amp;amp;utm_medium=ep_uc&amp;amp;utm_campaign=web_11226" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><u>«Скрытые эффекты в расчёте ROI автоматизации документооборота»</u></a> на вебинаре компании ELMA<br/><br/><b>1 декабря в 11:00 мск</b><br/><br/>Сократить время согласования договора с 5 дней до 2 — хороший результат. Но сам по себе он ещё не говорит о том, сколько компания выиграла от автоматизации.<br/><br/>Чтобы оценить реальный эффект ЭДО, важно смотреть не только на скорость выполнения операций, но и на то, как изменения влияют на экономику бизнес-процессов.<br/><br/>На вебинаре Андрей Чепакин представит<b> рабочий фреймворк оценки эффектов автоматизации бизнес-процессов</b>, который поможет системно выявлять результаты изменений и связывать их с бизнес-показателями компании.<br/><br/><b>Обсудим:</b><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C85.png')"><b>✅</b></i>8 групп эффектов автоматизации, выходящих за рамки экономии времени;<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C85.png')"><b>✅</b></i> как выявлять и оценивать прямые и косвенные экономические эффекты;<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C85.png')"><b>✅</b></i> как определить ценность автоматизации на разных этапах договорного процесса на примере Contract Management.<br/><br/><a href="https://elma365.com/ru/webinars/roi-v-proektah-edo/?utm_source=tg&amp;amp;utm_medium=ep_uc&amp;amp;utm_campaign=web_11226" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><u>Зарегистрироваться на вебинар</u></a><a href="https://elma365.com/ru/webinars/roi-v-proektah-edo/?utm_source=tg&amp;amp;utm_medium=ep_uc&amp;amp;utm_campaign=web_11226" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank"><br/><br/></a><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9385.png')"><b>📅</b></i> Формат: онлайн<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E28FB1.png')"><b>⏱️</b></i> Продолжительность: 60 минут<br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8E99.png')"><b>🎙</b></i> Спикер: Андрей Чепакин<i> — вице-президент по стратегическим продажам и партнёрствам ELMA<br/><br/></i>До встречи в эфире!<br/><br/>Реклама <br/>erid:2SDnje8mKYG]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5901</guid>
       <pubDate>Wed, 25 Nov 2026 12:38:13 +0000</pubDate>
@@ -197,63 +275,6 @@ erid:2SDnje8mKYG</description>
       <content:encoded><![CDATA[(нет текста)]]></content:encoded>
       <guid isPermaLink="true">https://telegram.me/ep_uc/5900</guid>
       <pubDate>Wed, 25 Nov 2026 05:45:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>❌</title>
-      <link>https://telegram.me/ep_uc/5898</link>
-      <description>❌
-24 ноября - реестры аккредитованных УЦ снова неактуальны 
-
-Классическая ситуация для нашей сферы - вчера 
-истекла аккредитация
- УЦ Модум. Перечень аккредитованных удостоверяющих центров 
-на сайте Минцифры
- датирован 22.10.2026, информации о получении новой аккредитации в нём нет. Нужно ли говорить, что на 
-портале Головного УЦ
- и в TSL-перечне также нет никакой информации о новой аккредитации, либо об окончании прошлой. Оперативность актуализации реестров остаётся 
-больным вопросом
- нашей сферы, что делает невозможной автоматическую проверку КЭП, остаётся только ручник.
-
-✍️
-Об ЭП и УЦ</description>
-      <content:encoded><![CDATA[<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29D8C.png')"><b>❌</b></i><b>24 ноября - реестры аккредитованных УЦ снова неактуальны </b><br/><br/>Классическая ситуация для нашей сферы - вчера <a href="https://telegram.me/ep_uc/5830" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">истекла аккредитация</a> УЦ Модум. Перечень аккредитованных удостоверяющих центров <a href="https://adm.digital.gov.ru/app/uploads/2026/10/9fb199_perechen-akkreditovannyh-udostoveryayushhih-czentrov-na-22.10.2026.xlsx" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">на сайте Минцифры</a> датирован 22.10.2026, информации о получении новой аккредитации в нём нет. Нужно ли говорить, что на <a href="https://e-trust.gosuslugi.ru/registry/accreditation/1177746857045" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">портале Головного УЦ</a> и в TSL-перечне также нет никакой информации о новой аккредитации, либо об окончании прошлой. Оперативность актуализации реестров остаётся <a href="https://telegram.me/ep_uc/5637" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">больным вопросом</a> нашей сферы, что делает невозможной автоматическую проверку КЭП, остаётся только ручник.<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Об ЭП и УЦ</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5898</guid>
-      <pubDate>Tue, 24 Nov 2026 05:30:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>❤️</title>
-      <link>https://telegram.me/ep_uc/5897</link>
-      <description>❤️
-Стоимость сертификатов УЦ ФК определит Правительство
-
-В редакции 
-законопроекта для третьего чтения
- отсутствуют конкретные цифры стоимости сертификатов. Вместо фиксированных 3 000 и 2 000 рублей часть 2 статьи 52 содержит ссылку на отдельное решение Правительства: "случаи, порядок взимания и размер которой устанавливаются Правительством Российской Федерации". Это правильное решение, так как распоряжение Правительства можно менять гораздо чаще, чем федеральный закон.
-
-Круг плательщиков без изменений - в части 1 перечислены те же категории, о которых речь была 
-изначально
-: работники коммерческих организаций на казначейском сопровождении, работники гос. и мун.учреждений, унитарных предприятий, госкорпораций (кроме руководителей, действующих без доверенности).
-
-В третьем чтении 
-законопроект 619-9
- будет 
-рассмотрен сегодня
-.
-
-✍️
-Об ЭП и УЦ</description>
-      <content:encoded><![CDATA[<tg-emoji emoji-id="5377496026087198136"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29DA4.png')"><b>❤️</b></i></tg-emoji><b>Стоимость сертификатов УЦ ФК определит Правительство</b><br/><br/>В редакции <a href="https://sozd.duma.gov.ru/download/1f1e7430-c964-6e32-8914-5f1fc997872e" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">законопроекта для третьего чтения</a> отсутствуют конкретные цифры стоимости сертификатов. Вместо фиксированных 3 000 и 2 000 рублей часть 2 статьи 52 содержит ссылку на отдельное решение Правительства: "случаи, порядок взимания и размер которой устанавливаются Правительством Российской Федерации". Это правильное решение, так как распоряжение Правительства можно менять гораздо чаще, чем федеральный закон.<br/><br/>Круг плательщиков без изменений - в части 1 перечислены те же категории, о которых речь была <a href="https://telegram.me/ep_uc/5883" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">изначально</a>: работники коммерческих организаций на казначейском сопровождении, работники гос. и мун.учреждений, унитарных предприятий, госкорпораций (кроме руководителей, действующих без доверенности).<br/><br/>В третьем чтении <a href="https://sozd.duma.gov.ru/bill/619-9" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">законопроект 619-9</a> будет <a href="https://sozd.duma.gov.ru/download/1f1e760e-e332-6da2-a2b7-6f910a987f1e" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">рассмотрен сегодня</a>.<br/><br/><tg-emoji emoji-id="5454152477832134407"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8D.png')"><b>✍️</b></i></tg-emoji><a href="https://telegram.me/ep_uc" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Об ЭП и УЦ</a>]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5897</guid>
-      <pubDate>Tue, 24 Nov 2026 05:15:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Вице-премьер Григоренко Д.Ю. назначен председателем Правительственной комиссии, уполномоченной на…</title>
-      <link>https://telegram.me/ep_uc/5896</link>
-      <description>Вице-премьер Григоренко Д.Ю. назначен председателем Правительственной комиссии, уполномоченной на принятие решения об аккредитации удостоверяющих центров, изменения внесены распоряжением Правительства от 01.06.2024 № 1383-р. Ждём новые протоколы об аккредитации…</description>
-      <content:encoded><![CDATA[<p><img src="https://cdn4.telesco.pe/file/P26YpGA-MdzfoIZHkvge6SzHDipegmBbQCFCdU1RXawXAiYgnfWlQKCzwR0bxa2-cxU2i6WbAYT0acW89pY9Ij-ISrVpfbiubv9Ap3u0QtvZDyY2yisXMgjzRRGTBeLBogzGsPE9nGJHBWJbhmLqnvRUYcSsGaC-s4Lp_vuYUPW7zJ0L4L3KM22INdrjVCurtwGqHtD_oyke2rfMbQuVyLLl3Wsldg5YLgmZlAYgFz3fknLybRaEcwAESlneBLVQiWMsXEMqpkaraNhV6g2y1zbRvcYl46led7j2tLo6I4_AW9ZQciId6VrVf8o1TPsJTV5JGXrGiSTSToCXIYpPMA.jpg" /></p>
-Вице-премьер Григоренко Д.Ю. назначен председателем Правительственной комиссии, уполномоченной на принятие решения об аккредитации удостоверяющих центров, изменения внесены распоряжением Правительства от 01.06.2024 № 1383-р. Ждём новые протоколы об аккредитации…]]></content:encoded>
-      <guid isPermaLink="true">https://telegram.me/ep_uc/5896</guid>
-      <pubDate>Mon, 23 Nov 2026 20:05:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
